@@ -26,7 +26,6 @@ if __name__ == '__main__':
     count_lines = 0
 
     for file in os.listdir(locales_directory):
-        print(file)
         if '.json' in file and file not in EXCEPT_FILES:
             files.append(file)
 
