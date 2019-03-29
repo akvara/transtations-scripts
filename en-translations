@@ -1,558 +1,558 @@
-locale-en,DATE_FORMAT.NORMAL,MM/DD/YYYY
-locale-en,DATE_FORMAT.PILL,DD MMM
-locale-en,DATE_FORMAT.WEATHER,|MMMM D, dddd|
-locale-en,GLOBAL.SEND,Send
-locale-en,GLOBAL.SEND_DATA,Send Data
-locale-en,GLOBAL.FIELD_NAME,Field's name
-locale-en,GLOBAL.CHANGE_STYLE,Change Style
-locale-en,GLOBAL.OPACITY,Opacity
-locale-en,GLOBAL.VIEW_MODE,View Mode
-locale-en,GLOBAL.VECTOR,Vector
-locale-en,GLOBAL.RASTER,Raster
-locale-en,GLOBAL.REQUIRED_VALUE,Required value
-locale-en,GLOBAL.BOUNDARY_AREA,Boundary's Area
-locale-en,GLOBAL.TILLABLE_AREA,Tillable Area
-locale-en,GLOBAL.SHOW_LAYERS_LIST,Show layers list
-locale-en,GLOBAL.HIDE_LAYERS_LIST,Hide layers list
-locale-en,GLOBAL.SET_VALUE,Set value
-locale-en,GLOBAL.DEVICES,Devices
-locale-en,GLOBAL.SEARCH,Search
-locale-en,GLOBAL.FIELDS,fields
-locale-en,GLOBAL.FIELD,field
-locale-en,GLOBAL.FARM,farm
-locale-en,GLOBAL.FARMS,farms
-locale-en,GLOBAL.ZONE,Zone
-locale-en,GLOBAL.ZONES,Zones
-locale-en,GLOBAL.PRODUCT,Product
-locale-en,GLOBAL.PRODUCTS,Products
-locale-en,GLOBAL.GROWER,grower
-locale-en,GLOBAL.GROWERS,growers
-locale-en,GLOBAL.GUIDANCE,Guidance
-locale-en,GLOBAL.TASKS,tasks
-locale-en,GLOBAL.CROP,crop
-locale-en,GLOBAL.CROPS,crops
-locale-en,GLOBAL.VEHICLES,vehicles
-locale-en,GLOBAL.VEHICLE,vehicle
-locale-en,GLOBAL.UNIT,unit
-locale-en,GLOBAL.PRODUCT_TYPE,Product Type
-locale-en,GLOBAL.SHOWME,SHOW ME
-locale-en,GLOBAL.CANCEL,cancel
-locale-en,GLOBAL.EDIT,Edit
-locale-en,GLOBAL.DELETE,Delete
-locale-en,GLOBAL.DELETE_CONFIRMATION,Are you sure you want to delete
-locale-en,GLOBAL.SEND_TO,Send to
-locale-en,GLOBAL.MORE,More
-locale-en,GLOBAL.CLEAR_LIST,Clear List
-locale-en,GLOBAL.CREATED,Created at
-locale-en,GLOBAL.ALL,All
-locale-en,GLOBAL.YEAR,Year
-locale-en,GLOBAL.TYPE,Type
-locale-en,GLOBAL.ALARM,Alarm
-locale-en,GLOBAL.ALARMS,Alarms
-locale-en,GLOBAL.OPERATION,Operation
-locale-en,GLOBAL.NAME,name
-locale-en,GLOBAL.EG,E.g. Yew Valley farm
-locale-en,GLOBAL.COMPANY,company
-locale-en,GLOBAL.SUBCOMPANY,Subcompany
-locale-en,GLOBAL.FLEET,Fleet
-locale-en,GLOBAL.CONFIRM,Confirm
-locale-en,GLOBAL.CREATE,Create
-locale-en,GLOBAL.CLOSE,close
-locale-en,GLOBAL.SAVE,Save
-locale-en,GLOBAL.CREATED_S,Created
-locale-en,GLOBAL.VIEW_ON_MAP,View on map
-locale-en,GLOBAL.SETTINGS,Settings
-locale-en,GLOBAL.HELP,Get help
-locale-en,GLOBAL.LOGOUT,Logout
-locale-en,GLOBAL.TASK_ID,task {{id}}
-locale-en,GLOBAL.FARM_ID,farm {{id}}
-locale-en,GLOBAL.FIELD_ID,field {{id}}
-locale-en,GLOBAL.HOUR,hour
-locale-en,GLOBAL.HOURS,hours
-locale-en,GLOBAL.MINUTE,minute
-locale-en,GLOBAL.MINUTES,minutes
-locale-en,GLOBAL.VIEW_LAYERS,View layers
-locale-en,GLOBAL.AT,at
-locale-en,GLOBAL.ON,on
-locale-en,GLOBAL.OF,of
-locale-en,GLOBAL.COMPLETED,completed
-locale-en,UPLOAD.DND,Drag and drop files here!
-locale-en,UPLOAD.OR,or
-locale-en,UPLOAD.BROWSE,browse files
-locale-en,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
-locale-en,UPLOAD.UPLOADING,Uploading
-locale-en,UPLOAD.UPLOADING_DOT,Uploading...
-locale-en,UPLOAD.ERROR,Error
-locale-en,UPLOAD.ERROR_PLURAL,Errors
-locale-en,UPLOAD.ERROR_UPLOADING,Error uploading
-locale-en,UPLOAD.ERROR_IMPORTING,Error importing
-locale-en,UPLOAD.AN_ERROR_OCCURRED,An error occurred
-locale-en,UPLOAD.RETRY,Retry upload
-locale-en,UPLOAD.PROCESSING,Processing
-locale-en,UPLOAD.STATUS.PROCESSING.ONE,Processing {{count}} file
-locale-en,UPLOAD.STATUS.PROCESSING.MANY,Processing {{count}} files
-locale-en,UPLOAD.STATUS.UPLOADING.ONE,Uploading {{count}} file
-locale-en,UPLOAD.STATUS.UPLOADING.MANY,Uploading {{count}} files
-locale-en,UPLOAD.STATUS.COMPLETED.ONE,Uploaded {{count}} file
-locale-en,UPLOAD.STATUS.COMPLETED.MANY,Uploaded {{count}} files
-locale-en,UPLOAD.PROCESSING_TASK,Processing...
-locale-en,UPLOAD.GLOBAL_COMPLETED,Uploaded {{files}} file
-locale-en,UPLOAD.GLOBAL_COMPLETED_PLURAL,Uploaded {{files}} files
-locale-en,UPLOAD.COMPLETED,The file has been uploaded
-locale-en,UPLOAD.HAS_BEEN,has been imported in field 
-locale-en,UPLOAD.HAS_BEEN_FROM,{{taskName}} from {{fileName}} has been imported in field {{fieldName}}
-locale-en,UPLOAD.HAS_BEEN_ORPHAN,has been imported as orphan task
-locale-en,UPLOAD.UNKNOWN,Unknown file.
-locale-en,UPLOAD.START_NOTIFICATION,The uploaded task {{fileName}} is processing
-locale-en,UPLOAD.FINISH_NOTIFICATION,{{fileName}} has been imported
-locale-en,UPLOAD.GFF_UPDATE_NOTIFICATION,|Grower, Farm and Field data is being updated|
-locale-en,UPLOAD.UNEXPECTED_ERROR,An unexpected error occurred while processing your file
-locale-en,UPLOAD.WARNING_TO_CHECK,There is a warning message to check
-locale-en,UPLOAD.SEE_DETAILS,See details
-locale-en,UPLOAD.FILE,file
-locale-en,UPLOAD.FILE_PLURAL,files
-locale-en,UPLOAD.SUPPORTED_FORMATS,Supported formats:
-locale-en,UPLOAD.HAVING_PROBLEMS,Get help with my upload
-locale-en,UPLOAD.TOOLTIP_MESSAGE,|If you are uploading an ISOXML files, the entire contents of the TASKDATA folder should first be zipped. Be sure to include all XML, BIN and any other files which are in the TASKDATA folder. Then upload the ZIP file, rather than the individual files.|
-locale-en,UPLOAD.DISMISS,Dismiss
-locale-en,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> has been created in field <strong>{{fieldName}}</strong>
-locale-en,UPLOAD.FILE_IMPORTED,{{fileName}} has been imported
-locale-en,ERRORS.ERROR_FOUND.ZERO,
-locale-en,ERRORS.ERROR_FOUND.ONE,{{errorCount}} error found
-locale-en,ERRORS.ERROR_FOUND.MANY,{{errorCount}} error found
-locale-en,ERRORS.ERROR_VIEW.ZERO,
-locale-en,ERRORS.ERROR_VIEW.ONE,There is {{errorCount}} error. View it by pressing the following button
-locale-en,ERRORS.ERROR_VIEW.MANY,There are {{errorCount}} errors. View them pressing the following button
-locale-en,ERRORS.HTTP.PARSE,Unable to parse response from server
-locale-en,ERRORS.HTTP.FETCH,Unable to fetch {{object}} data
-locale-en,ERRORS.GROWERS.NEW,Unable to create a new grower
-locale-en,ERRORS.GROWERS.EDIT,Unable to edit grower with id {{id}}
-locale-en,ERRORS.GROWERS.DELETE,Unable to delete grower with id {{id}}
-locale-en,ERRORS.FARMS.NEW,Unable to create a new farm
-locale-en,ERRORS.FARMS.EDIT,Unable to edit farm with id {{id}}
-locale-en,ERRORS.FARMS.DELETE,Unable to delete farm with id {{id}}
-locale-en,ERRORS.CROPS.NEW,Unable to create a new crop
-locale-en,ERRORS.CROPS.EDIT,Unable to edit crop with id {{id}}
-locale-en,ERRORS.CROPS.DELETE,Unable to delete crop with id {{id}}
-locale-en,ERRORS.PRODUCTS.NEW,Unable to create a new product
-locale-en,ERRORS.PRODUCTS.EDIT,Unable to edit product with id {{id}}
-locale-en,ERRORS.PRODUCTS.DELETE,Unable to delete product with id {{id}}
-locale-en,ERRORS.TASKS.NEW,Unable to create a new task
-locale-en,ERRORS.TASKS.EDIT,Unable to edit task with id {{id}}
-locale-en,ERRORS.TASKS.DELETE,Unable to delete task with id {{id}}
-locale-en,ERRORS.PRESCRIPTIONS.NEW,Unable to create a new prescription
-locale-en,ERRORS.PRESCRIPTIONS.EDIT,Unable to edit prescription with id {{id}}
-locale-en,ERRORS.PRESCRIPTIONS.DELETE,Unable to delete prescription with id {{id}}
-locale-en,ERRORS.FIELDS.EDIT,Unable to edit field with id {{id}}
-locale-en,ERRORS.FIELDS.DELETE,Unable to delete field with id {{id}}
-locale-en,ERRORS.MZONE.CREATE,Unable to create management zone
-locale-en,ERRORS.MZONE.EDIT,Unable to edit management zone with id {{id}}
-locale-en,ERRORS.MZONE.DELETE,Unable to delete management zone with id {{id}}
-locale-en,ERRORS.VARIABLE.EDIT,Unable to edit variable with id {{id}}
-locale-en,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Invalid Data Headers
-locale-en,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Unable to parse input parameters from imported file.
-locale-en,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,File Source Not Found
-locale-en,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Invalid or inaccessible file path.
-locale-en,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Data Import Error
-locale-en,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,An unhandled exception error has occurred during file import.
-locale-en,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Activity Type Failure
-locale-en,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Unable to read operational data type from the imported file during upload.
-locale-en,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Shapefile .PRJ Projection Error
-locale-en,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Shapefile uploaded contains an unsupported projection file. Remove the .prj file from the .zip file contents.
-locale-en,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Could Not Read Import File
-locale-en,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,The file imported contains corrupt or unreadable files.
-locale-en,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT Transform Error
-locale-en,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,During file transformation to the ADAPT model an error occurred.
-locale-en,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Unable to Read Shapefile
-locale-en,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,No data was found in the shapefile uploaded.
-locale-en,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Unable to Read Shapefile
-locale-en,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,No numeric data was found in the shapefile uploaded.
-locale-en,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Unable to Read Shapefile
-locale-en,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,Shapefile uploaded is invalid. Include the .dbf .shp and .shx files within the uploaded .zip file.
-locale-en,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Error Writing to Storage
-locale-en,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,An error occurred while attempting to write imported data to the storage database.
-locale-en,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Data Compare Failed
-locale-en,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,An error occurred while attempting to load the existing data structure during import.
-locale-en,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Data Merge Failure
-locale-en,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,An error occurred while attempting to reconcile the imported data structure with existing data.
-locale-en,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Geo Match Failure
-locale-en,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Error matching field with existing field boundaries. The creation of the task has been skipped.
-locale-en,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Field Creation Failed
-locale-en,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Error while creating a new field. The creation of the task has been skipped.
-locale-en,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Field Creation Failed
-locale-en,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Error while creating a new field. The creation of the field has been skipped.
-locale-en,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Post Processing Storage Error
-locale-en,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,An error occurred while attempting to write imported data to the postgres storage database.
-locale-en,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,No Coverage Data Found
-locale-en,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,The file imported doesn't contain any coverage data.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,No Task Found
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,The file imported doesn't contain any task information.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Non-Numeric Column Removed
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,The file uploaded contained a non-numeric column within the data. This column has been removed and the data has been imported.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Date/Time Conflict Detected
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,The file uploaded contained multiple Date/Time columns. The first Date/Time column detected has been used.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Unable to Calculate Totals
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,The data has been processed but does not contain any totals nor could any be calculated.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Data Previously Imported
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Data has been skipped. It is a duplicate of a previously imported task.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Unmappable Task
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,The task file uploaded contains unmappable task references. These have been removed.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Missing Section/Width Data
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Missing Section/Width Data
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Missing Section/Width Data
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Missing Section/Width Data
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Data Model Warning
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,During file processing issues were detected in the device data model parents.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Missing Section/Width Data
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Data Cleansing Error
-locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,A value filter threshold was triggered and the data reverted to previous values.
-locale-en,ERRORS.IMPORTER.UNKNOWN.TITLE,Unknown error
-locale-en,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Unknown error ({{code}}).
-locale-en,ERRORS.IMPORTER.SUB_DESCRIPTION,It looks like you have some problems uploading your file
-locale-en,ERRORS.IMPORTER.BUTTON.ERROR,get help with my upload
-locale-en,ERRORS.IMPORTER.BUTTON.WARNING,get help with my upload
-locale-en,ERRORS.IMPORTER.WARNING_MESSAGE,Warning message
-locale-en,EMPTY_STATE.DEFAULT.TITLE,No data
-locale-en,EMPTY_STATE.TASKS.IMPORTED_TITLE,No tasks imported yet
-locale-en,EMPTY_STATE.TASKS.IMPORTED_TEXT,You can import a new task from the button below
-locale-en,EMPTY_STATE.TASKS.IMPORTED_CTA,import task
-locale-en,EMPTY_STATE.TASKS.FOUND_TITLE,No tasks found
-locale-en,EMPTY_STATE.TASKS.FOUND_TEXT,Try to modify filters
-locale-en,EMPTY_STATE.TASKS.NOT_SELECTED,NO TASKS IMPORTED YET
-locale-en,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,You can import a new task from the button on the top right
-locale-en,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,No prescription created yet
-locale-en,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,You can create a new prescription from the button below
-locale-en,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,new prescription
-locale-en,EMPTY_STATE.MGMZ.IMPORTED_TITLE,No management zone created yet
-locale-en,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,No guidance line created yet
-locale-en,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,No analysis created yet
-locale-en,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,You can create a new analysis from the button below
-locale-en,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,go to spotlight
-locale-en,EMPTY_STATE.FIELDS.CREATED_TITLE,No field created yet
-locale-en,EMPTY_STATE.FIELDS.CREATED_TXT,You can create a new field from the button below
-locale-en,EMPTY_STATE.FIELDS.FOUND_TITLE,No field found
-locale-en,EMPTY_STATE.FIELDS.FOUND_TXT,Try to change search and filters
-locale-en,EMPTY_STATE.FIELDS.NOT_SELECTED,NO FIELD SELECTED YET
-locale-en,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,You can select a field from the sidebar in the left to see all the associated tasks
-locale-en,EMPTY_STATE.VEHICLES.CREATED_TITLE,No vehicles created yet
-locale-en,EMPTY_STATE.VEHICLES.FOUND_TITLE,No vehicles found yet
-locale-en,EMPTY_STATE.VEHICLES.FOUND_TXT,Try to modify search and filters
-locale-en,FIELD_CARD.ACTIONS.EDIT,Edit field
-locale-en,FIELD_CARD.ACTIONS.DELETE,Delete
-locale-en,FIELD_CARD.INFO,Field's information
-locale-en,FIELD_CARD.GROWER,Grower
-locale-en,FIELD_CARD.FARM,Farm
-locale-en,FIELD_CARD.AREA,Total field area
-locale-en,FIELD_CARD.CROPS,Crops
-locale-en,FIELD_CARD.TILLABLE,Tillable area
-locale-en,FIELD_CARD.WEATHER,Weather
-locale-en,FIELD_CARD.LAST_TASKS,Last 3 tasks
-locale-en,FIELD_CARD.IMPORT_TASKS,Import task
-locale-en,FIELD_CARD.SUMMARY_TASKS,Tasks' summary
-locale-en,PRESCRIPTION.PRESCRIPTION,Prescription
-locale-en,PRESCRIPTION.SENT_TO_VEHICLE,The prescription has been sent to the vehicle
-locale-en,PRESCRIPTION.NOT_SENT_TO_VEHICLE,The prescription has not been sent to the vehicle
-locale-en,PRESCRIPTION.PRESCRIPTION_EMPTY,NO PRESCRIPTION CREATED YET
-locale-en,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,You can create a new prescription from the button on the top right
-locale-en,PRESCRIPTION.SELECT_DEVICE,Select a device
-locale-en,PRESCRIPTION.SELECT_DEVICE_EMPTY,No device selected
-locale-en,PRESCRIPTION.SELECT_DEVICE_DESC,Select one device from the list below.
-locale-en,PRESCRIPTION.APPLIED_DATE,Planned date
-locale-en,PRESCRIPTION.CREATION_DATE,Date of creation
-locale-en,PRESCRIPTION.TOTAL_AREA,Total Area
-locale-en,PRESCRIPTION.PRODUCT_QUANTITY,Estimated total
-locale-en,PRESCRIPTION.STATUS_PROCESSING,Creating Prescription File...
-locale-en,PRESCRIPTION.STATUS_PROCESSED,Prescription created
-locale-en,PRESCRIPTION.PLANNED_DATE,Planned Date
-locale-en,PRESCRIPTION.HIDE_ZONES,HIDE ZONES
-locale-en,PRESCRIPTION.SHOW_ZONES,SHOW ZONES
-locale-en,PRESCRIPTION.GROWERS_SELECT,All growers
-locale-en,PRESCRIPTION.FARMS_SELECT,All farms
-locale-en,PRESCRIPTION.GROWER_REQUIRED,Grower is required
-locale-en,PRESCRIPTION.FARM_REQUIRED,Farm name is required
-locale-en,PRESCRIPTION.FIELD_SELECT,All fields
-locale-en,PRESCRIPTION.FIELD_REQUIRED,Field is required.
-locale-en,PRESCRIPTION.NEW_PRESCRIPTIONS,New Prescription
-locale-en,PRESCRIPTION.PRESCRIPTION_CREATE,Create prescription
-locale-en,PRESCRIPTION.MGMT,MGMT zone
-locale-en,PRESCRIPTION.MANAGEMENT_ZONE,Management Zone
-locale-en,PRESCRIPTION.MANAGEMENT_NAME,Management zone name
-locale-en,PRESCRIPTION.MANAGEMENT_SELECT,Select management zone.
-locale-en,PRESCRIPTION.MANAGEMENT_SEARCH,Search management zone.
-locale-en,PRESCRIPTION.MANAGEMENT_REQUIRED,Management zone is required.
-locale-en,PRESCRIPTION.MANAGEMENT_CTA,SAVE MANAGEMENT ZONE
-locale-en,PRESCRIPTION.PRODUCT_SEARCH,Search product
-locale-en,PRESCRIPTION.PRODUCT_SELECT,Select product
-locale-en,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Product is required
-locale-en,PRESCRIPTION.PRODUCT_VALUE,Product's value
-locale-en,PRESCRIPTION.PRODUCT_VALUE_SELECT,Select product's value
-locale-en,PRESCRIPTION.PRODUCT_VALUE_INPUT,Insert product's value
-locale-en,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Product value is required
-locale-en,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Product value can't be negative
-locale-en,PRESCRIPTION.PRODUCT_NAME,Product name
-locale-en,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Product name is required
-locale-en,PRESCRIPTION.PRODUCT_NAME_INSERT,Insert product's name
-locale-en,PRESCRIPTION.UNIT_SELECT,Select unit
-locale-en,PRESCRIPTION.UNIT_SELECT_REQUIRED,Unit is required
-locale-en,PRESCRIPTION.MAP_NAME,Prescription map name
-locale-en,PRESCRIPTION.MAP_NAME_REQUIRED,Prescription map name is required
-locale-en,PRESCRIPTION.MAP_EDIT,Edit prescription map
-locale-en,PRESCRIPTION.MAP_EDIT_N,Edit prescription map name
-locale-en,PRESCRIPTION.MAP_SET_N,Set prescription map name
-locale-en,PRESCRIPTION.ZONE_NUMBER,Zones
-locale-en,PRESCRIPTION.SEND_TO,Send prescription
-locale-en,PRESCRIPTION.UNAVAILABLE,The prescription file is being generated and you will be notified once the operation is completed. Please retry later.
-locale-en,PRESCRIPTION.PROCESSED,The prescription file for {{prescriptionName}} is ready. You can now download it or send it to the machines.
-locale-en,PRESCRIPTION.PRESCRIPTION_MAP,Prescription Map
-locale-en,PRESCRIPTION.ANALYSIS,Analysis
-locale-en,PRESCRIPTION.UNKNOWN,Unknown
-locale-en,PRESCRIPTION.CREATED,The Prescription Map {{name}} has been created
-locale-en,SIDEBAR.USER_MANAGEMENT,users management
-locale-en,SIDEBAR.REPORT_ISSUE,report issue
-locale-en,SIDEBAR.SUBSCRIPTION_MANAGEMENT,subscription management
-locale-en,SIDEBAR.STORE,store
-locale-en,OVERVIEW_SIDEBAR.FIELDS_TAB,Fields
-locale-en,OVERVIEW_SIDEBAR.VEHICLES_TAB,Vehicles
-locale-en,PRIMARY_NAV.UPLOAD,upload
-locale-en,PRIMARY_NAV.LOGOUT,logout
-locale-en,SECONDARY_NAV.OVERVIEW,overview
-locale-en,SECONDARY_NAV.TASKS,tasks
-locale-en,SECONDARY_NAV.PRESCRIPTIONS,prescriptions
-locale-en,SECONDARY_NAV.MANAGE,manage
-locale-en,MANAGE_NAV.GROWERS,growers
-locale-en,MANAGE_NAV.FARMS,farms
-locale-en,MANAGE_NAV.FIELDS,fields
-locale-en,MANAGE_NAV.CROPS,crops
-locale-en,MANAGE_NAV.PRODUCTS,products
-locale-en,GFF.FIELD,field
-locale-en,GFF.FIELDS,fields
-locale-en,GFF.FARM,farm
-locale-en,GFF.FARMS,farms
-locale-en,GFF.GROWER,grower
-locale-en,GFF.GROWERS,growers
-locale-en,GFF.SEARCH_FIELD,Search field's name
-locale-en,GFF.GROWERS_SELECT,All growers
-locale-en,GFF.FARMS_SELECT,All farms
-locale-en,VEHICLES.VEHICLES,vehicles
-locale-en,VEHICLES.VEHICLE,vehicle
-locale-en,VEHICLES.SN,S/N
-locale-en,VEHICLES.BRAND,Brand
-locale-en,VEHICLES.TYPE,Type
-locale-en,VEHICLES.MODEL,Model
-locale-en,VEHICLES.STATUS,Status
-locale-en,VEHICLES.SPEED,Speed
-locale-en,VEHICLES.DISTANCE,Distance
-locale-en,VEHICLES.ENGINE_H,Engine Hours
-locale-en,VEHICLES.ENGINE_S,Engine Speed
-locale-en,VEHICLES.FUEL,Fuel Level
-locale-en,VEHICLES.FUELRATE,Fuel Rate
-locale-en,VEHICLES.GOTO_FORCE,Go to force
-locale-en,VEHICLES.MACHINE_INFO,Machine’s information
-locale-en,VEHICLES.SEARCH_VEHICLE,Search vehicle's name
-locale-en,FARM.NEW,new farm
-locale-en,FARM.NEW_CREATE,Create new farm
-locale-en,FARM.EDIT,Edit farm
-locale-en,FARM.FARMS,Farms
-locale-en,FIELD.NEW,New field
-locale-en,FIELD.UPDATE,Update field
-locale-en,FIELD.CREATE,Create field
-locale-en,FIELD.FIELDS,Fields
-locale-en,FIELD.SELECT_GROWER,Select grower
-locale-en,FIELD.REQUIRED_GROWER,Grower is required
-locale-en,FIELD.SEARCH_GROWER,Search grower
-locale-en,FIELD.NO_GROWER,No grower selected
-locale-en,FIELD.SELECT_FARM,Select farm
-locale-en,FIELD.REQUIRED_FARM,Farm is required
-locale-en,FIELD.SEARCH_FARM,Search farm
-locale-en,FIELD.SEARCH_FIELD,Search field
-locale-en,FIELD.NAME_FIELD,Field's name
-locale-en,FIELD.NAME_FIELD_REQUIRED,Field name is required
-locale-en,FIELD.FIELD_SELECT,Select field
-locale-en,FIELD.FIELD_REQUIRED,Field is required.
-locale-en,FIELD.BOUNDARY,Boundary's area
-locale-en,FIELD.TILLABLE,Tillable area
-locale-en,FIELD.INSERT_TILLABLE,Insert the tillable area
-locale-en,FIELD.TILLABLE_REQUIRED,Tillable area is required
-locale-en,FIELD.ZONE_VALUE,Insert zone's value
-locale-en,NEW_FIELD.TITLE,New field
-locale-en,NEW_FIELD.SELECT_GROWER,Select grower
-locale-en,NEW_FIELD.SELECT_FARM,Select farm
-locale-en,NEW_FIELD.GROWER_LABEL,Grower
-locale-en,NEW_FIELD.FARM_LABEL,Farm
-locale-en,NEW_FIELD.FIELD_LABEL,Field's name
-locale-en,NEW_FIELD.FARM_REQUIRED,Farm name is required
-locale-en,NEW_FIELD.FIELD_INPUT,Insert the field's name
-locale-en,NEW_FIELD.FIELD_INPUT_ERROR,Field name is required
-locale-en,NEW_FIELD.BOUNDARY_AREA,Boundary's area
-locale-en,NEW_FIELD.TILLABLE_AREA,Tillable area
-locale-en,NEW_FIELD.TILLABLE_AREA_REQUIRED,Tillable area is required
-locale-en,NEW_FIELD.CREATE_FIELD,create field
-locale-en,NEW_FIELD.SAVE_FIELD,save field
-locale-en,NEW_FIELD.ERROR.NEW,Unable to create new field.
-locale-en,NEW_FIELD.ERROR.EDIT,Unable to edit current field.
-locale-en,NEW_FIELD.ERROR.GENERIC,Unable to create a new field due to internal error
-locale-en,NEW_FIELD.ERROR_NEW,
-locale-en,NEW_FIELD.ERROR_EDIT,
-locale-en,NEW_FIELD.CANCEL,cancel
-locale-en,NEW_FIELD.NO_GROWER,No grower available
-locale-en,NEW_FIELD.NO_FARM,No farm available
-locale-en,NEW_FARM_MODAL.TITLE,New farm
-locale-en,NEW_FARM_MODAL.GROWER_LABEL,Grower
-locale-en,NEW_FARM_MODAL.NO_GROWER_SELECTED,No grower selected
-locale-en,NEW_FARM_MODAL.FARM_LABEL,Farm's name
-locale-en,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Farm name is required
-locale-en,NEW_FARM_MODAL.CREATE,create
-locale-en,NEW_FARM_MODAL.CLOSE,close
-locale-en,GROWER_MODAL.TITLE,New grower
-locale-en,GROWER_MODAL.GROWER_LABEL,Grower's name
-locale-en,GROWER_MODAL.GROWER_INPUT_REQUIRED,Grower name is required
-locale-en,GROWER_MODAL.CREATE,create
-locale-en,GROWER_MODAL.CLOSE,close
-locale-en,GROWER_MODAL.EG,E.g. Isaac Harmon
-locale-en,TASK.SHOW_LAYER,SHOW AVAILABLE LAYERS
-locale-en,TASK.HIDE_LAYER,HIDE AVAILABLE LAYER
-locale-en,TASK.SHOW_PREVIEW,Show Preview
-locale-en,TASK.NO_TYPE,No type selected.
-locale-en,TASK.NO_YEAR,No year selected.
-locale-en,TASK.SELECT_YEAR,Select a year.
-locale-en,TASK.SELECT_OP,Select a operation.
-locale-en,TASK.TASK_NOT_ASSOCIATED,Tasks not associated
-locale-en,TASK.IMPORT_TASKS,Import tasks
-locale-en,TASK.INSERT,Insert task name.
-locale-en,TASK.NAME,Task name.
-locale-en,TASK.EDIT,Edit task.
-locale-en,TASK.EDIT_INFO,Edit info
-locale-en,TASK.REQUIRED,Task name is required.
-locale-en,TASK.ACTUAL_RATE,Actual Rate
-locale-en,TASK.SENSOR_RDNG,Sensor RDNG
-locale-en,TASK.SENSOR_WDTH,Sensor Width
-locale-en,TASK.YIELD_MASS,Yield Mass
-locale-en,TASK.MOISTURE,Moisture
-locale-en,TASK.CELL_MASS,Cell Mass
-locale-en,TASK.CELL_AREA,Cell Area
-locale-en,TASK.YIELD_VOL,Yield Volume
-locale-en,TASK.UNADJ_CELL_M,Unadjasted Cell
-locale-en,TASK.NO_OPERATION,Nessuna operazione disponibile
-locale-en,TASK.TASK_TYPE_UNKNOWN,Task type unknown
-locale-en,TASK.TASK_TYPE,Task type
-locale-en,TASK.SELECT_TASK_TYPE,Select task type
-locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,This task type wasn’t recognized by the system.
-locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,|Please, change this task type to a known one in TAP.|
-locale-en,TASK.CHANGE_TASK_TYPE,change task type
-locale-en,TASK.TASK_DATE,Task date
-locale-en,TASK.TASK_LAYER_ISSUE,Task layer issue
-locale-en,TASK.TASK_LAYER_ISSUE_DESCRIPTION,This task layer has missing information. It's either not related to a known variable and/or the unit of measure is missing
-locale-en,TASK.EDIT_TASK_LAYER,Edit task layer
-locale-en,TASK.EDIT_TASK_LAYER_WARNING,You can’t operate with the layers until you relate the task type to a known one in TAP
-locale-en,TASK.EDIT_LAYER,Edit layer
-locale-en,TASK.LAYER_TYPE,Layer type
-locale-en,TASK.SELECT_A_LAYER_TYPE,Select a layer type
-locale-en,TASK.UNIT_OF_MEASUREMENT,Unit of measurement
-locale-en,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Select a unit of measurement
-locale-en,TASK.SELECT_A_LAYER_FIRST,You have to select a layer type first
-locale-en,TASK.LAYER_UPDATED,The layer {{layerName}} has been updated
-locale-en,TASK.TASK_UPDATED,The task {{taskName}} has been updated
-locale-en,TASK.UNKNOWN,unknown
-locale-en,CROP.INSERT_NAME,Insert crop name
-locale-en,CROP.NAME,Crop's name
-locale-en,CROP.REQUIRED,Crop name is required
-locale-en,CROP.SELECT,Select crop
-locale-en,CROP.CROP,Crop
-locale-en,CROP.SEARCH,Search crop
-locale-en,CROP.NEW,New crop
-locale-en,CROP.EDIT,Edit crop
-locale-en,CROP.CROPS,Crops
-locale-en,CROP.CROP_SPEC,Crop spec
-locale-en,THEMATIZATION.CLASSES,Classes
-locale-en,THEMATIZATION.COLOR_RAMP,Color Ramp
-locale-en,THEMATIZATION.GREY,Greys
-locale-en,THEMATIZATION.RED,Reds
-locale-en,THEMATIZATION.GREEN,Greens
-locale-en,THEMATIZATION.BLUE,Blues
-locale-en,THEMATIZATION.GYR,GrYeRe
-locale-en,THEMATIZATION.SPECTRAL,Spectral
-locale-en,THEMATIZATION.INVERTED,Inverted
-locale-en,THEMATIZATION.THRESHOLD,Threshold
-locale-en,THEMATIZATION.METHOD,Method
-locale-en,THEMATIZATION.METHOD_SELECT,Select a method
-locale-en,THEMATIZATION.METHOD_REQUIRED,Method is required
-locale-en,THEMATIZATION.EDIT,Edit thematization
-locale-en,THEMATIZATION.E_A,Equal Area
-locale-en,THEMATIZATION.E_I,Equal Interval
-locale-en,THEMATIZATION.N_B,Natural Breaks
-locale-en,GROWER.NEW,New grower
-locale-en,GROWER.EDIT,Edit grower
-locale-en,GROWER.GROWERS,Growers
-locale-en,PRODUCT.NEW,New product
-locale-en,PRODUCT.EDIT,Edit product
-locale-en,PRODUCT.EDIT_VALUE,Edit product value
-locale-en,PRODUCT.PRODUCTS,Products
-locale-en,DELETE_MODAL.PRE,Delete Prescription
-locale-en,DELETE_MODAL.QUESTION,Are you sure you want to delete
-locale-en,DELETE_MZ_MODAL.PRE,Exit from management zone create mode
-locale-en,DELETE_MZ_MODAL.QUESTION,Are you sure you want to quit the management zone create mode? You will lose all the unsaved changes.
-locale-en,DELETE_MZ_MODAL.CONFIRM,|YES, EXIT|
-locale-en,EDIT_PRESCRIPTION_MODAL.PRE,Exit from create prescription mode
-locale-en,EDIT_PRESCRIPTION_MODAL.QUESTION,|Are you sure you want to quit the prescription create mode? If you continue, you will lose all entered data.|
-locale-en,DELETE_TASK_MODAL.PRE,Delete Task
-locale-en,DELETE_TASK_MODAL.QUESTION,Are you sure you want to delete
-locale-en,ZONE.EDIT,Edit zone's name
-locale-en,ZONE.SET,Set management zone name
-locale-en,PDF.TITLE,pdf
-locale-en,MAP.EDIT_TOOLTIP_TEXT,Drag handle to modify the field
-locale-en,MAP.REMOVE_TOOLTIP_TEXT,Click on a field to remove it
-locale-en,MAP.POLYGON_TOOLTIP_START,Click on the map to start drawing the field.<br/>Draw inside the polygon to create a hole in the field
-locale-en,MAP.BUFFER_TOOLTIP.TEXT,Click and drag to expand or shrink the field
-locale-en,MAP.BUFFER_TOOLTIP.MEASURE,Radius
-locale-en,MAP.POLYGON_TOOLTIP.START,Click to start drawing
-locale-en,MAP.POLYGON_TOOLTIP.CONT,Click on the map to continue<br/>drawing the field
-locale-en,MAP.POLYGON_TOOLTIP.END,Click the first point to finish<br/>the creation of the field
-locale-en,MAP.POLYLINE.ERROR,<strong>Error:</strong> shape edges cannot cross!
-locale-en,MAP.POLYLINE.TOOLTIP.START,Click to start drawing line.
-locale-en,MAP.POLYLINE.TOOLTIP.CONT,Click to continue drawing line.
-locale-en,MAP.POLYLINE.TOOLTIP.END,Click last point to finish line.
-locale-en,MAP.PLUGINS.ZOOM.OUT,Zoom Out
-locale-en,MAP.PLUGINS.ZOOM.IN,Zoom In
-locale-en,MAP.PLUGINS.SEARCH.PLACEHOLDER,Search location
-locale-en,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Location not found
-locale-en,MAP.PLUGINS.UPLOAD.TEXT,import shape file
-locale-en,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Drop a shape file ...
-locale-en,MAP.PLUGINS.WEATHER.TEMPERATURE,temperature
-locale-en,MAP.PLUGINS.WEATHER.DEW_POINT,dew point
-locale-en,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,relative humidity
-locale-en,MAP.PLUGINS.WEATHER.WIND_SPEED,wind speed
-locale-en,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,feels like temp
-locale-en,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,No data to show
-locale-en,MAP.PLUGINS.LEGEND.MIN_LABEL,Min: {{data}}
-locale-en,MAP.PLUGINS.LEGEND.MAX_LABEL,Max: {{data}}
-locale-en,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellite
-locale-en,MAP.PLUGINS.LAYER_SWITCH.STREET,street
-locale-en,OPERATIONS.YIELD,Yield
-locale-en,OPERATIONS.AS_APPLIED,As applied
-locale-en,OPERATIONS.SOIL_SAMPLE,Soil sample
-locale-en,OPERATIONS.OTHER,Other
-locale-en,STATISTICS.SPREAD_TIME,Spread Time
-locale-en,STATISTICS.PRODUCT_TOTAL,Estimated total
-locale-en,STATISTICS.PRODUCT_SPREAD_TIME,Prod. Spread Time
-locale-en,STATISTICS.PRODUCT_AREA,Product Area
-locale-en,STATISTICS.SENSOR_TYPE,Sensor Type
-locale-en,STATISTICS.TOTAL_AREA,Total Area
-locale-en,STATISTICS.TOTAL_MASS,Total Mass
-locale-en,STATISTICS.UN_ADJ_TTL_M,Unadjusted TTL
-locale-en,STATISTICS.SENSOR_WDTH,Sensor Width
-locale-en,PROFILE.FEEDBACK,Send a feedback
-locale-en,PROFILE.HELP,Help & support
-locale-en,VARIABLE.ACTUAL_RATE,Actual Rate
-locale-en,VARIABLE.SENSOR_RDNG,Sensor RDNG
-locale-en,VARIABLE.SENSOR_WDTH,Sensor Width
-locale-en,VARIABLE.YIELD_MASS,Yield Mass
-locale-en,VARIABLE.MOISTURE,Moisture
-locale-en,VARIABLE.CELL_MASS,Cell Mass
-locale-en,VARIABLE.CELL_AREA,Cell Area
-locale-en,VARIABLE.YIELD_VOL,Yield Volume
-locale-en,VARIABLE.UNADJ_CELL_M,Unadjasted Cell
+DATE_FORMAT.NORMAL,MM/DD/YYYY,,,
+DATE_FORMAT.PILL,DD MMM,,,
+DATE_FORMAT.WEATHER,|MMMM D, dddd|,,
+GLOBAL.SEND,Send,,,
+GLOBAL.SEND_DATA,Send Data,,,
+GLOBAL.FIELD_NAME,Field's name,,,
+GLOBAL.CHANGE_STYLE,Change Style,,,
+GLOBAL.OPACITY,Opacity,,,
+GLOBAL.VIEW_MODE,View Mode,,,
+GLOBAL.VECTOR,Vector,,,
+GLOBAL.RASTER,Raster,,,
+GLOBAL.REQUIRED_VALUE,Required value,,,
+GLOBAL.BOUNDARY_AREA,Boundary's Area,,,
+GLOBAL.TILLABLE_AREA,Tillable Area,,,
+GLOBAL.SHOW_LAYERS_LIST,Show layers list,,,
+GLOBAL.HIDE_LAYERS_LIST,Hide layers list,,,
+GLOBAL.SET_VALUE,Set value,,,
+GLOBAL.DEVICES,Devices,,,
+GLOBAL.SEARCH,Search,,,
+GLOBAL.FIELDS,fields,,,
+GLOBAL.FIELD,field,,,
+GLOBAL.FARM,farm,,,
+GLOBAL.FARMS,farms,,,
+GLOBAL.ZONE,Zone,,,
+GLOBAL.ZONES,Zones,,,
+GLOBAL.PRODUCT,Product,,,
+GLOBAL.PRODUCTS,Products,,,
+GLOBAL.GROWER,grower,,,
+GLOBAL.GROWERS,growers,,,
+GLOBAL.GUIDANCE,Guidance,,,
+GLOBAL.TASKS,tasks,,,
+GLOBAL.CROP,crop,,,
+GLOBAL.CROPS,crops,,,
+GLOBAL.VEHICLES,vehicles,,,
+GLOBAL.VEHICLE,vehicle,,,
+GLOBAL.UNIT,unit,,,
+GLOBAL.PRODUCT_TYPE,Product Type,,,
+GLOBAL.SHOWME,SHOW ME,,,
+GLOBAL.CANCEL,cancel,,,
+GLOBAL.EDIT,Edit,,,
+GLOBAL.DELETE,Delete,,,
+GLOBAL.DELETE_CONFIRMATION,Are you sure you want to delete,,,
+GLOBAL.SEND_TO,Send to,,,
+GLOBAL.MORE,More,,,
+GLOBAL.CLEAR_LIST,Clear List,,,
+GLOBAL.CREATED,Created at,,,
+GLOBAL.ALL,All,,,
+GLOBAL.YEAR,Year,,,
+GLOBAL.TYPE,Type,,,
+GLOBAL.ALARM,Alarm,,,
+GLOBAL.ALARMS,Alarms,,,
+GLOBAL.OPERATION,Operation,,,
+GLOBAL.NAME,name,,,
+GLOBAL.EG,E.g. Yew Valley farm,,,
+GLOBAL.COMPANY,company,,,
+GLOBAL.SUBCOMPANY,Subcompany,,,
+GLOBAL.FLEET,Fleet,,,
+GLOBAL.CONFIRM,Confirm,,,
+GLOBAL.CREATE,Create,,,
+GLOBAL.CLOSE,close,,,
+GLOBAL.SAVE,Save,,,
+GLOBAL.CREATED_S,Created,,,
+GLOBAL.VIEW_ON_MAP,View on map,,,
+GLOBAL.SETTINGS,Settings,,,
+GLOBAL.HELP,Get help,,,
+GLOBAL.LOGOUT,Logout,,,
+GLOBAL.TASK_ID,task {{id}},,,
+GLOBAL.FARM_ID,farm {{id}},,,
+GLOBAL.FIELD_ID,field {{id}},,,
+GLOBAL.HOUR,hour,,,
+GLOBAL.HOURS,hours,,,
+GLOBAL.MINUTE,minute,,,
+GLOBAL.MINUTES,minutes,,,
+GLOBAL.VIEW_LAYERS,View layers,,,
+GLOBAL.AT,at,,,
+GLOBAL.ON,on,,,
+GLOBAL.OF,of,,,
+GLOBAL.COMPLETED,completed,,,
+UPLOAD.DND,Drag and drop files here!,,,
+UPLOAD.OR,or,,,
+UPLOAD.BROWSE,browse files,,,
+UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|,
+UPLOAD.UPLOADING,Uploading,,,
+UPLOAD.UPLOADING_DOT,Uploading...,,,
+UPLOAD.ERROR,Error,,,
+UPLOAD.ERROR_PLURAL,Errors,,,
+UPLOAD.ERROR_UPLOADING,Error uploading,,,
+UPLOAD.ERROR_IMPORTING,Error importing,,,
+UPLOAD.AN_ERROR_OCCURRED,An error occurred,,,
+UPLOAD.RETRY,Retry upload,,,
+UPLOAD.PROCESSING,Processing,,,
+UPLOAD.STATUS.PROCESSING.ONE,Processing {{count}} file,,,
+UPLOAD.STATUS.PROCESSING.MANY,Processing {{count}} files,,,
+UPLOAD.STATUS.UPLOADING.ONE,Uploading {{count}} file,,,
+UPLOAD.STATUS.UPLOADING.MANY,Uploading {{count}} files,,,
+UPLOAD.STATUS.COMPLETED.ONE,Uploaded {{count}} file,,,
+UPLOAD.STATUS.COMPLETED.MANY,Uploaded {{count}} files,,,
+UPLOAD.PROCESSING_TASK,Processing...,,,
+UPLOAD.GLOBAL_COMPLETED,Uploaded {{files}} file,,,
+UPLOAD.GLOBAL_COMPLETED_PLURAL,Uploaded {{files}} files,,,
+UPLOAD.COMPLETED,The file has been uploaded,,,
+UPLOAD.HAS_BEEN,has been imported in field ,,,
+UPLOAD.HAS_BEEN_FROM,{{taskName}} from {{fileName}} has been imported in field {{fieldName}},,,
+UPLOAD.HAS_BEEN_ORPHAN,has been imported as orphan task,,,
+UPLOAD.UNKNOWN,Unknown file.,,,
+UPLOAD.START_NOTIFICATION,The uploaded task {{fileName}} is processing,,,
+UPLOAD.FINISH_NOTIFICATION,{{fileName}} has been imported,,,
+UPLOAD.GFF_UPDATE_NOTIFICATION,|Grower, Farm and Field data is being updated|,,
+UPLOAD.UNEXPECTED_ERROR,An unexpected error occurred while processing your file,,,
+UPLOAD.WARNING_TO_CHECK,There is a warning message to check,,,
+UPLOAD.SEE_DETAILS,See details,,,
+UPLOAD.FILE,file,,,
+UPLOAD.FILE_PLURAL,files,,,
+UPLOAD.SUPPORTED_FORMATS,Supported formats:,,,
+UPLOAD.HAVING_PROBLEMS,Get help with my upload,,,
+UPLOAD.TOOLTIP_MESSAGE,|If you are uploading an ISOXML files, the entire contents of the TASKDATA folder should first be zipped. Be sure to include all XML, BIN and any other files which are in the TASKDATA folder. Then upload the ZIP file, rather than the individual files.|
+UPLOAD.DISMISS,Dismiss,,,
+UPLOAD.UPLOADED_TASK_DETAIL,"<a href=""{{fieldLink}}"">{{taskName}}</a> has been created in field <strong>{{fieldName}}</strong>",,,
+UPLOAD.FILE_IMPORTED,{{fileName}} has been imported,,,
+ERRORS.ERROR_FOUND.ZERO,,,,
+ERRORS.ERROR_FOUND.ONE,{{errorCount}} error found,,,
+ERRORS.ERROR_FOUND.MANY,{{errorCount}} error found,,,
+ERRORS.ERROR_VIEW.ZERO,,,,
+ERRORS.ERROR_VIEW.ONE,There is {{errorCount}} error. View it by pressing the following button,,,
+ERRORS.ERROR_VIEW.MANY,There are {{errorCount}} errors. View them pressing the following button,,,
+ERRORS.HTTP.PARSE,Unable to parse response from server,,,
+ERRORS.HTTP.FETCH,Unable to fetch {{object}} data,,,
+ERRORS.GROWERS.NEW,Unable to create a new grower,,,
+ERRORS.GROWERS.EDIT,Unable to edit grower with id {{id}},,,
+ERRORS.GROWERS.DELETE,Unable to delete grower with id {{id}},,,
+ERRORS.FARMS.NEW,Unable to create a new farm,,,
+ERRORS.FARMS.EDIT,Unable to edit farm with id {{id}},,,
+ERRORS.FARMS.DELETE,Unable to delete farm with id {{id}},,,
+ERRORS.CROPS.NEW,Unable to create a new crop,,,
+ERRORS.CROPS.EDIT,Unable to edit crop with id {{id}},,,
+ERRORS.CROPS.DELETE,Unable to delete crop with id {{id}},,,
+ERRORS.PRODUCTS.NEW,Unable to create a new product,,,
+ERRORS.PRODUCTS.EDIT,Unable to edit product with id {{id}},,,
+ERRORS.PRODUCTS.DELETE,Unable to delete product with id {{id}},,,
+ERRORS.TASKS.NEW,Unable to create a new task,,,
+ERRORS.TASKS.EDIT,Unable to edit task with id {{id}},,,
+ERRORS.TASKS.DELETE,Unable to delete task with id {{id}},,,
+ERRORS.PRESCRIPTIONS.NEW,Unable to create a new prescription,,,
+ERRORS.PRESCRIPTIONS.EDIT,Unable to edit prescription with id {{id}},,,
+ERRORS.PRESCRIPTIONS.DELETE,Unable to delete prescription with id {{id}},,,
+ERRORS.FIELDS.EDIT,Unable to edit field with id {{id}},,,
+ERRORS.FIELDS.DELETE,Unable to delete field with id {{id}},,,
+ERRORS.MZONE.CREATE,Unable to create management zone,,,
+ERRORS.MZONE.EDIT,Unable to edit management zone with id {{id}},,,
+ERRORS.MZONE.DELETE,Unable to delete management zone with id {{id}},,,
+ERRORS.VARIABLE.EDIT,Unable to edit variable with id {{id}},,,
+ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Invalid Data Headers,,,
+ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Unable to parse input parameters from imported file.,,,
+ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,File Source Not Found,,,
+ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Invalid or inaccessible file path.,,,
+ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Data Import Error,,,
+ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,An unhandled exception error has occurred during file import.,,,
+ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Activity Type Failure,,,
+ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Unable to read operational data type from the imported file during upload.,,,
+ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Shapefile .PRJ Projection Error,,,
+ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Shapefile uploaded contains an unsupported projection file. Remove the .prj file from the .zip file contents.,,,
+ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Could Not Read Import File,,,
+ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,The file imported contains corrupt or unreadable files.,,,
+ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT Transform Error,,,
+ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,During file transformation to the ADAPT model an error occurred.,,,
+ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Unable to Read Shapefile,,,
+ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,No data was found in the shapefile uploaded.,,,
+ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Unable to Read Shapefile,,,
+ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,No numeric data was found in the shapefile uploaded.,,,
+ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Unable to Read Shapefile,,,
+ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,Shapefile uploaded is invalid. Include the .dbf .shp and .shx files within the uploaded .zip file.,,,
+ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Error Writing to Storage,,,
+ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,An error occurred while attempting to write imported data to the storage database.,,,
+ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Data Compare Failed,,,
+ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,An error occurred while attempting to load the existing data structure during import.,,,
+ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Data Merge Failure,,,
+ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,An error occurred while attempting to reconcile the imported data structure with existing data.,,,
+ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Geo Match Failure,,,
+ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Error matching field with existing field boundaries. The creation of the task has been skipped.,,,
+ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Field Creation Failed,,,
+ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Error while creating a new field. The creation of the task has been skipped.,,,
+ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Field Creation Failed,,,
+ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Error while creating a new field. The creation of the field has been skipped.,,,
+ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Post Processing Storage Error,,,
+ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,An error occurred while attempting to write imported data to the postgres storage database.,,,
+ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,No Coverage Data Found,,,
+ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,The file imported doesn't contain any coverage data.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,No Task Found,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,The file imported doesn't contain any task information.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Non-Numeric Column Removed,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,The file uploaded contained a non-numeric column within the data. This column has been removed and the data has been imported.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Date/Time Conflict Detected,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,The file uploaded contained multiple Date/Time columns. The first Date/Time column detected has been used.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Unable to Calculate Totals,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,The data has been processed but does not contain any totals nor could any be calculated.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Data Previously Imported,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Data has been skipped. It is a duplicate of a previously imported task.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Unmappable Task,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,The task file uploaded contains unmappable task references. These have been removed.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Missing Section/Width Data,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Missing Section/Width Data,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Missing Section/Width Data,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Missing Section/Width Data,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Data Model Warning,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,During file processing issues were detected in the device data model parents.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Missing Section/Width Data,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Data Cleansing Error,,,
+ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,A value filter threshold was triggered and the data reverted to previous values.,,,
+ERRORS.IMPORTER.UNKNOWN.TITLE,Unknown error,,,
+ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Unknown error ({{code}}).,,,
+ERRORS.IMPORTER.SUB_DESCRIPTION,It looks like you have some problems uploading your file,,,
+ERRORS.IMPORTER.BUTTON.ERROR,get help with my upload,,,
+ERRORS.IMPORTER.BUTTON.WARNING,get help with my upload,,,
+ERRORS.IMPORTER.WARNING_MESSAGE,Warning message,,,
+EMPTY_STATE.DEFAULT.TITLE,No data,,,
+EMPTY_STATE.TASKS.IMPORTED_TITLE,No tasks imported yet,,,
+EMPTY_STATE.TASKS.IMPORTED_TEXT,You can import a new task from the button below,,,
+EMPTY_STATE.TASKS.IMPORTED_CTA,import task,,,
+EMPTY_STATE.TASKS.FOUND_TITLE,No tasks found,,,
+EMPTY_STATE.TASKS.FOUND_TEXT,Try to modify filters,,,
+EMPTY_STATE.TASKS.NOT_SELECTED,NO TASKS IMPORTED YET,,,
+EMPTY_STATE.TASKS.NOT_SELECTED_TXT,You can import a new task from the button on the top right,,,
+EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,No prescription created yet,,,
+EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,You can create a new prescription from the button below,,,
+EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,new prescription,,,
+EMPTY_STATE.MGMZ.IMPORTED_TITLE,No management zone created yet,,,
+EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,No guidance line created yet,,,
+EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,No analysis created yet,,,
+EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,You can create a new analysis from the button below,,,
+EMPTY_STATE.ANALYSIS.IMPORTED_CTA,go to spotlight,,,
+EMPTY_STATE.FIELDS.CREATED_TITLE,No field created yet,,,
+EMPTY_STATE.FIELDS.CREATED_TXT,You can create a new field from the button below,,,
+EMPTY_STATE.FIELDS.FOUND_TITLE,No field found,,,
+EMPTY_STATE.FIELDS.FOUND_TXT,Try to change search and filters,,,
+EMPTY_STATE.FIELDS.NOT_SELECTED,NO FIELD SELECTED YET,,,
+EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,You can select a field from the sidebar in the left to see all the associated tasks,,,
+EMPTY_STATE.VEHICLES.CREATED_TITLE,No vehicles created yet,,,
+EMPTY_STATE.VEHICLES.FOUND_TITLE,No vehicles found yet,,,
+EMPTY_STATE.VEHICLES.FOUND_TXT,Try to modify search and filters,,,
+FIELD_CARD.ACTIONS.EDIT,Edit field,,,
+FIELD_CARD.ACTIONS.DELETE,Delete,,,
+FIELD_CARD.INFO,Field's information,,,
+FIELD_CARD.GROWER,Grower,,,
+FIELD_CARD.FARM,Farm,,,
+FIELD_CARD.AREA,Total field area,,,
+FIELD_CARD.CROPS,Crops,,,
+FIELD_CARD.TILLABLE,Tillable area,,,
+FIELD_CARD.WEATHER,Weather,,,
+FIELD_CARD.LAST_TASKS,Last 3 tasks,,,
+FIELD_CARD.IMPORT_TASKS,Import task,,,
+FIELD_CARD.SUMMARY_TASKS,Tasks' summary,,,
+PRESCRIPTION.PRESCRIPTION,Prescription,,,
+PRESCRIPTION.SENT_TO_VEHICLE,The prescription has been sent to the vehicle,,,
+PRESCRIPTION.NOT_SENT_TO_VEHICLE,The prescription has not been sent to the vehicle,,,
+PRESCRIPTION.PRESCRIPTION_EMPTY,NO PRESCRIPTION CREATED YET,,,
+PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,You can create a new prescription from the button on the top right,,,
+PRESCRIPTION.SELECT_DEVICE,Select a device,,,
+PRESCRIPTION.SELECT_DEVICE_EMPTY,No device selected,,,
+PRESCRIPTION.SELECT_DEVICE_DESC,Select one device from the list below.,,,
+PRESCRIPTION.APPLIED_DATE,Planned date,,,
+PRESCRIPTION.CREATION_DATE,Date of creation,,,
+PRESCRIPTION.TOTAL_AREA,Total Area,,,
+PRESCRIPTION.PRODUCT_QUANTITY,Estimated total,,,
+PRESCRIPTION.STATUS_PROCESSING,Creating Prescription File...,,,
+PRESCRIPTION.STATUS_PROCESSED,Prescription created,,,
+PRESCRIPTION.PLANNED_DATE,Planned Date,,,
+PRESCRIPTION.HIDE_ZONES,HIDE ZONES,,,
+PRESCRIPTION.SHOW_ZONES,SHOW ZONES,,,
+PRESCRIPTION.GROWERS_SELECT,All growers,,,
+PRESCRIPTION.FARMS_SELECT,All farms,,,
+PRESCRIPTION.GROWER_REQUIRED,Grower is required,,,
+PRESCRIPTION.FARM_REQUIRED,Farm name is required,,,
+PRESCRIPTION.FIELD_SELECT,All fields,,,
+PRESCRIPTION.FIELD_REQUIRED,Field is required.,,,
+PRESCRIPTION.NEW_PRESCRIPTIONS,New Prescription,,,
+PRESCRIPTION.PRESCRIPTION_CREATE,Create prescription,,,
+PRESCRIPTION.MGMT,MGMT zone,,,
+PRESCRIPTION.MANAGEMENT_ZONE,Management Zone,,,
+PRESCRIPTION.MANAGEMENT_NAME,Management zone name,,,
+PRESCRIPTION.MANAGEMENT_SELECT,Select management zone.,,,
+PRESCRIPTION.MANAGEMENT_SEARCH,Search management zone.,,,
+PRESCRIPTION.MANAGEMENT_REQUIRED,Management zone is required.,,,
+PRESCRIPTION.MANAGEMENT_CTA,SAVE MANAGEMENT ZONE,,,
+PRESCRIPTION.PRODUCT_SEARCH,Search product,,,
+PRESCRIPTION.PRODUCT_SELECT,Select product,,,
+PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Product is required,,,
+PRESCRIPTION.PRODUCT_VALUE,Product's value,,,
+PRESCRIPTION.PRODUCT_VALUE_SELECT,Select product's value,,,
+PRESCRIPTION.PRODUCT_VALUE_INPUT,Insert product's value,,,
+PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Product value is required,,,
+PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Product value can't be negative,,,
+PRESCRIPTION.PRODUCT_NAME,Product name,,,
+PRESCRIPTION.PRODUCT_NAME_REQUIRED,Product name is required,,,
+PRESCRIPTION.PRODUCT_NAME_INSERT,Insert product's name,,,
+PRESCRIPTION.UNIT_SELECT,Select unit,,,
+PRESCRIPTION.UNIT_SELECT_REQUIRED,Unit is required,,,
+PRESCRIPTION.MAP_NAME,Prescription map name,,,
+PRESCRIPTION.MAP_NAME_REQUIRED,Prescription map name is required,,,
+PRESCRIPTION.MAP_EDIT,Edit prescription map,,,
+PRESCRIPTION.MAP_EDIT_N,Edit prescription map name,,,
+PRESCRIPTION.MAP_SET_N,Set prescription map name,,,
+PRESCRIPTION.ZONE_NUMBER,Zones,,,
+PRESCRIPTION.SEND_TO,Send prescription,,,
+PRESCRIPTION.UNAVAILABLE,The prescription file is being generated and you will be notified once the operation is completed. Please retry later.,,,
+PRESCRIPTION.PROCESSED,The prescription file for {{prescriptionName}} is ready. You can now download it or send it to the machines.,,,
+PRESCRIPTION.PRESCRIPTION_MAP,Prescription Map,,,
+PRESCRIPTION.ANALYSIS,Analysis,,,
+PRESCRIPTION.UNKNOWN,Unknown,,,
+PRESCRIPTION.CREATED,The Prescription Map {{name}} has been created,,,
+SIDEBAR.USER_MANAGEMENT,users management,,,
+SIDEBAR.REPORT_ISSUE,report issue,,,
+SIDEBAR.SUBSCRIPTION_MANAGEMENT,subscription management,,,
+SIDEBAR.STORE,store,,,
+OVERVIEW_SIDEBAR.FIELDS_TAB,Fields,,,
+OVERVIEW_SIDEBAR.VEHICLES_TAB,Vehicles,,,
+PRIMARY_NAV.UPLOAD,upload,,,
+PRIMARY_NAV.LOGOUT,logout,,,
+SECONDARY_NAV.OVERVIEW,overview,,,
+SECONDARY_NAV.TASKS,tasks,,,
+SECONDARY_NAV.PRESCRIPTIONS,prescriptions,,,
+SECONDARY_NAV.MANAGE,manage,,,
+MANAGE_NAV.GROWERS,growers,,,
+MANAGE_NAV.FARMS,farms,,,
+MANAGE_NAV.FIELDS,fields,,,
+MANAGE_NAV.CROPS,crops,,,
+MANAGE_NAV.PRODUCTS,products,,,
+GFF.FIELD,field,,,
+GFF.FIELDS,fields,,,
+GFF.FARM,farm,,,
+GFF.FARMS,farms,,,
+GFF.GROWER,grower,,,
+GFF.GROWERS,growers,,,
+GFF.SEARCH_FIELD,Search field's name,,,
+GFF.GROWERS_SELECT,All growers,,,
+GFF.FARMS_SELECT,All farms,,,
+VEHICLES.VEHICLES,vehicles,,,
+VEHICLES.VEHICLE,vehicle,,,
+VEHICLES.SN,S/N,,,
+VEHICLES.BRAND,Brand,,,
+VEHICLES.TYPE,Type,,,
+VEHICLES.MODEL,Model,,,
+VEHICLES.STATUS,Status,,,
+VEHICLES.SPEED,Speed,,,
+VEHICLES.DISTANCE,Distance,,,
+VEHICLES.ENGINE_H,Engine Hours,,,
+VEHICLES.ENGINE_S,Engine Speed,,,
+VEHICLES.FUEL,Fuel Level,,,
+VEHICLES.FUELRATE,Fuel Rate,,,
+VEHICLES.GOTO_FORCE,Go to force,,,
+VEHICLES.MACHINE_INFO,Machine’s information,,,
+VEHICLES.SEARCH_VEHICLE,Search vehicle's name,,,
+FARM.NEW,new farm,,,
+FARM.NEW_CREATE,Create new farm,,,
+FARM.EDIT,Edit farm,,,
+FARM.FARMS,Farms,,,
+FIELD.NEW,New field,,,
+FIELD.UPDATE,Update field,,,
+FIELD.CREATE,Create field,,,
+FIELD.FIELDS,Fields,,,
+FIELD.SELECT_GROWER,Select grower,,,
+FIELD.REQUIRED_GROWER,Grower is required,,,
+FIELD.SEARCH_GROWER,Search grower,,,
+FIELD.NO_GROWER,No grower selected,,,
+FIELD.SELECT_FARM,Select farm,,,
+FIELD.REQUIRED_FARM,Farm is required,,,
+FIELD.SEARCH_FARM,Search farm,,,
+FIELD.SEARCH_FIELD,Search field,,,
+FIELD.NAME_FIELD,Field's name,,,
+FIELD.NAME_FIELD_REQUIRED,Field name is required,,,
+FIELD.FIELD_SELECT,Select field,,,
+FIELD.FIELD_REQUIRED,Field is required.,,,
+FIELD.BOUNDARY,Boundary's area,,,
+FIELD.TILLABLE,Tillable area,,,
+FIELD.INSERT_TILLABLE,Insert the tillable area,,,
+FIELD.TILLABLE_REQUIRED,Tillable area is required,,,
+FIELD.ZONE_VALUE,Insert zone's value,,,
+NEW_FIELD.TITLE,New field,,,
+NEW_FIELD.SELECT_GROWER,Select grower,,,
+NEW_FIELD.SELECT_FARM,Select farm,,,
+NEW_FIELD.GROWER_LABEL,Grower,,,
+NEW_FIELD.FARM_LABEL,Farm,,,
+NEW_FIELD.FIELD_LABEL,Field's name,,,
+NEW_FIELD.FARM_REQUIRED,Farm name is required,,,
+NEW_FIELD.FIELD_INPUT,Insert the field's name,,,
+NEW_FIELD.FIELD_INPUT_ERROR,Field name is required,,,
+NEW_FIELD.BOUNDARY_AREA,Boundary's area,,,
+NEW_FIELD.TILLABLE_AREA,Tillable area,,,
+NEW_FIELD.TILLABLE_AREA_REQUIRED,Tillable area is required,,,
+NEW_FIELD.CREATE_FIELD,create field,,,
+NEW_FIELD.SAVE_FIELD,save field,,,
+NEW_FIELD.ERROR.NEW,Unable to create new field.,,,
+NEW_FIELD.ERROR.EDIT,Unable to edit current field.,,,
+NEW_FIELD.ERROR.GENERIC,Unable to create a new field due to internal error,,,
+NEW_FIELD.ERROR_NEW,,,,
+NEW_FIELD.ERROR_EDIT,,,,
+NEW_FIELD.CANCEL,cancel,,,
+NEW_FIELD.NO_GROWER,No grower available,,,
+NEW_FIELD.NO_FARM,No farm available,,,
+NEW_FARM_MODAL.TITLE,New farm,,,
+NEW_FARM_MODAL.GROWER_LABEL,Grower,,,
+NEW_FARM_MODAL.NO_GROWER_SELECTED,No grower selected,,,
+NEW_FARM_MODAL.FARM_LABEL,Farm's name,,,
+NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Farm name is required,,,
+NEW_FARM_MODAL.CREATE,create,,,
+NEW_FARM_MODAL.CLOSE,close,,,
+GROWER_MODAL.TITLE,New grower,,,
+GROWER_MODAL.GROWER_LABEL,Grower's name,,,
+GROWER_MODAL.GROWER_INPUT_REQUIRED,Grower name is required,,,
+GROWER_MODAL.CREATE,create,,,
+GROWER_MODAL.CLOSE,close,,,
+GROWER_MODAL.EG,E.g. Isaac Harmon,,,
+TASK.SHOW_LAYER,SHOW AVAILABLE LAYERS,,,
+TASK.HIDE_LAYER,HIDE AVAILABLE LAYER,,,
+TASK.SHOW_PREVIEW,Show Preview,,,
+TASK.NO_TYPE,No type selected.,,,
+TASK.NO_YEAR,No year selected.,,,
+TASK.SELECT_YEAR,Select a year.,,,
+TASK.SELECT_OP,Select a operation.,,,
+TASK.TASK_NOT_ASSOCIATED,Tasks not associated,,,
+TASK.IMPORT_TASKS,Import tasks,,,
+TASK.INSERT,Insert task name.,,,
+TASK.NAME,Task name.,,,
+TASK.EDIT,Edit task.,,,
+TASK.EDIT_INFO,Edit info,,,
+TASK.REQUIRED,Task name is required.,,,
+TASK.ACTUAL_RATE,Actual Rate,,,
+TASK.SENSOR_RDNG,Sensor RDNG,,,
+TASK.SENSOR_WDTH,Sensor Width,,,
+TASK.YIELD_MASS,Yield Mass,,,
+TASK.MOISTURE,Moisture,,,
+TASK.CELL_MASS,Cell Mass,,,
+TASK.CELL_AREA,Cell Area,,,
+TASK.YIELD_VOL,Yield Volume,,,
+TASK.UNADJ_CELL_M,Unadjasted Cell,,,
+TASK.NO_OPERATION,Nessuna operazione disponibile,,,
+TASK.TASK_TYPE_UNKNOWN,Task type unknown,,,
+TASK.TASK_TYPE,Task type,,,
+TASK.SELECT_TASK_TYPE,Select task type,,,
+TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,This task type wasn’t recognized by the system.,,,
+TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,|Please, change this task type to a known one in TAP.|,,
+TASK.CHANGE_TASK_TYPE,change task type,,,
+TASK.TASK_DATE,Task date,,,
+TASK.TASK_LAYER_ISSUE,Task layer issue,,,
+TASK.TASK_LAYER_ISSUE_DESCRIPTION,This task layer has missing information. It's either not related to a known variable and/or the unit of measure is missing,,,
+TASK.EDIT_TASK_LAYER,Edit task layer,,,
+TASK.EDIT_TASK_LAYER_WARNING,You can’t operate with the layers until you relate the task type to a known one in TAP,,,
+TASK.EDIT_LAYER,Edit layer,,,
+TASK.LAYER_TYPE,Layer type,,,
+TASK.SELECT_A_LAYER_TYPE,Select a layer type,,,
+TASK.UNIT_OF_MEASUREMENT,Unit of measurement,,,
+TASK.SELECT_A_UNIT_OF_MEASUREMENT,Select a unit of measurement,,,
+TASK.SELECT_A_LAYER_FIRST,You have to select a layer type first,,,
+TASK.LAYER_UPDATED,The layer {{layerName}} has been updated,,,
+TASK.TASK_UPDATED,The task {{taskName}} has been updated,,,
+TASK.UNKNOWN,unknown,,,
+CROP.INSERT_NAME,Insert crop name,,,
+CROP.NAME,Crop's name,,,
+CROP.REQUIRED,Crop name is required,,,
+CROP.SELECT,Select crop,,,
+CROP.CROP,Crop,,,
+CROP.SEARCH,Search crop,,,
+CROP.NEW,New crop,,,
+CROP.EDIT,Edit crop,,,
+CROP.CROPS,Crops,,,
+CROP.CROP_SPEC,Crop spec,,,
+THEMATIZATION.CLASSES,Classes,,,
+THEMATIZATION.COLOR_RAMP,Color Ramp,,,
+THEMATIZATION.GREY,Greys,,,
+THEMATIZATION.RED,Reds,,,
+THEMATIZATION.GREEN,Greens,,,
+THEMATIZATION.BLUE,Blues,,,
+THEMATIZATION.GYR,GrYeRe,,,
+THEMATIZATION.SPECTRAL,Spectral,,,
+THEMATIZATION.INVERTED,Inverted,,,
+THEMATIZATION.THRESHOLD,Threshold,,,
+THEMATIZATION.METHOD,Method,,,
+THEMATIZATION.METHOD_SELECT,Select a method,,,
+THEMATIZATION.METHOD_REQUIRED,Method is required,,,
+THEMATIZATION.EDIT,Edit thematization,,,
+THEMATIZATION.E_A,Equal Area,,,
+THEMATIZATION.E_I,Equal Interval,,,
+THEMATIZATION.N_B,Natural Breaks,,,
+GROWER.NEW,New grower,,,
+GROWER.EDIT,Edit grower,,,
+GROWER.GROWERS,Growers,,,
+PRODUCT.NEW,New product,,,
+PRODUCT.EDIT,Edit product,,,
+PRODUCT.EDIT_VALUE,Edit product value,,,
+PRODUCT.PRODUCTS,Products,,,
+DELETE_MODAL.PRE,Delete Prescription,,,
+DELETE_MODAL.QUESTION,Are you sure you want to delete,,,
+DELETE_MZ_MODAL.PRE,Exit from management zone create mode,,,
+DELETE_MZ_MODAL.QUESTION,Are you sure you want to quit the management zone create mode? You will lose all the unsaved changes.,,,
+DELETE_MZ_MODAL.CONFIRM,|YES, EXIT|,,
+EDIT_PRESCRIPTION_MODAL.PRE,Exit from create prescription mode,,,
+EDIT_PRESCRIPTION_MODAL.QUESTION,|Are you sure you want to quit the prescription create mode? If you continue, you will lose all entered data.|,,
+DELETE_TASK_MODAL.PRE,Delete Task,,,
+DELETE_TASK_MODAL.QUESTION,Are you sure you want to delete,,,
+ZONE.EDIT,Edit zone's name,,,
+ZONE.SET,Set management zone name,,,
+PDF.TITLE,pdf,,,
+MAP.EDIT_TOOLTIP_TEXT,Drag handle to modify the field,,,
+MAP.REMOVE_TOOLTIP_TEXT,Click on a field to remove it,,,
+MAP.POLYGON_TOOLTIP_START,Click on the map to start drawing the field.<br/>Draw inside the polygon to create a hole in the field,,,
+MAP.BUFFER_TOOLTIP.TEXT,Click and drag to expand or shrink the field,,,
+MAP.BUFFER_TOOLTIP.MEASURE,Radius,,,
+MAP.POLYGON_TOOLTIP.START,Click to start drawing,,,
+MAP.POLYGON_TOOLTIP.CONT,Click on the map to continue<br/>drawing the field,,,
+MAP.POLYGON_TOOLTIP.END,Click the first point to finish<br/>the creation of the field,,,
+MAP.POLYLINE.ERROR,<strong>Error:</strong> shape edges cannot cross!,,,
+MAP.POLYLINE.TOOLTIP.START,Click to start drawing line.,,,
+MAP.POLYLINE.TOOLTIP.CONT,Click to continue drawing line.,,,
+MAP.POLYLINE.TOOLTIP.END,Click last point to finish line.,,,
+MAP.PLUGINS.ZOOM.OUT,Zoom Out,,,
+MAP.PLUGINS.ZOOM.IN,Zoom In,,,
+MAP.PLUGINS.SEARCH.PLACEHOLDER,Search location,,,
+MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Location not found,,,
+MAP.PLUGINS.UPLOAD.TEXT,import shape file,,,
+MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Drop a shape file ...,,,
+MAP.PLUGINS.WEATHER.TEMPERATURE,temperature,,,
+MAP.PLUGINS.WEATHER.DEW_POINT,dew point,,,
+MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,relative humidity,,,
+MAP.PLUGINS.WEATHER.WIND_SPEED,wind speed,,,
+MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,feels like temp,,,
+MAP.PLUGINS.LEGEND.ERROR_MESSAGE,No data to show,,,
+MAP.PLUGINS.LEGEND.MIN_LABEL,Min: {{data}},,,
+MAP.PLUGINS.LEGEND.MAX_LABEL,Max: {{data}},,,
+MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellite,,,
+MAP.PLUGINS.LAYER_SWITCH.STREET,street,,,
+OPERATIONS.YIELD,Yield,,,
+OPERATIONS.AS_APPLIED,As applied,,,
+OPERATIONS.SOIL_SAMPLE,Soil sample,,,
+OPERATIONS.OTHER,Other,,,
+STATISTICS.SPREAD_TIME,Spread Time,,,
+STATISTICS.PRODUCT_TOTAL,Estimated total,,,
+STATISTICS.PRODUCT_SPREAD_TIME,Prod. Spread Time,,,
+STATISTICS.PRODUCT_AREA,Product Area,,,
+STATISTICS.SENSOR_TYPE,Sensor Type,,,
+STATISTICS.TOTAL_AREA,Total Area,,,
+STATISTICS.TOTAL_MASS,Total Mass,,,
+STATISTICS.UN_ADJ_TTL_M,Unadjusted TTL,,,
+STATISTICS.SENSOR_WDTH,Sensor Width,,,
+PROFILE.FEEDBACK,Send a feedback,,,
+PROFILE.HELP,Help & support,,,
+VARIABLE.ACTUAL_RATE,Actual Rate,,,
+VARIABLE.SENSOR_RDNG,Sensor RDNG,,,
+VARIABLE.SENSOR_WDTH,Sensor Width,,,
+VARIABLE.YIELD_MASS,Yield Mass,,,
+VARIABLE.MOISTURE,Moisture,,,
+VARIABLE.CELL_MASS,Cell Mass,,,
+VARIABLE.CELL_AREA,Cell Area,,,
+VARIABLE.YIELD_VOL,Yield Volume,,,
+VARIABLE.UNADJ_CELL_M,Unadjasted Cell,,,
