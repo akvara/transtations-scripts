@@ -46,8 +46,9 @@ if __name__ == '__main__':
         spamreader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='|')
         for row in spamreader:
             if len(row) > 0:
-                file_name, key, ignore, mapped_key = row
-                mapping[file_name][key] = mapped_key
+                file_name, key, ignore, mapped_key, *comment = row
+                if mapped_key:
+                    mapping[file_name][key] = mapped_key
 
     '''
     Read files in directory
@@ -80,9 +81,7 @@ if __name__ == '__main__':
                 for key in en_translations:
                     mapped_key = mapping[file_name][key]
                     if mapped_key:
-                        print(mapped_key)
                         translated_string = translations[f'locale-{lang}'][mapped_key]
-                        print(translated_string)
                         file_content[key] = translated_string
                     else:
                         print (f'No translation key for {file_name}:{key}')
