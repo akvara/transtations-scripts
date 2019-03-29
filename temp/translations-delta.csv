@@ -1,0 +1,2451 @@
+locale-fr,DATE_FORMAT.NORMAL,MM/JJ/AAAA
+locale-fr,DATE_FORMAT.PILL,JJ MMM
+locale-fr,DATE_FORMAT.WEATHER,|MMMM J, jjjj|
+locale-fr,GLOBAL.AT,à
+locale-fr,GLOBAL.COMPLETED,terminé
+locale-fr,GLOBAL.HELP,Obtenir de l'aide
+locale-fr,GLOBAL.OF,sur
+locale-fr,GLOBAL.ON,le
+locale-fr,VARIABLE.ACTUAL_RATE,Quantité réelle
+locale-fr,VARIABLE.CELL_AREA,Surface de cellule
+locale-fr,VARIABLE.CELL_MASS,Masse récoltée par cellule
+locale-fr,VARIABLE.MOISTURE,Humidité
+locale-fr,VARIABLE.SENSOR_RDNG,Capteur RDNG
+locale-fr,VARIABLE.SENSOR_WDTH,Largeur de la zone du capteur
+locale-fr,VARIABLE.UNADJ_CELL_M,Cellule non ajustée
+locale-fr,VARIABLE.YIELD_MASS,Rendement des récoltes
+locale-fr,VARIABLE.YIELD_VOL,Volume récolté
+locale-fr,UPLOAD.AN_ERROR_OCCURRED,Une erreur s’est produite
+locale-fr,UPLOAD.DISMISS,Ignorer
+locale-fr,UPLOAD.ERROR_PLURAL,Erreurs
+locale-fr,UPLOAD.FILE,fichier
+locale-fr,UPLOAD.FILE_FORMATS,|ISOXML, fichier de forme, CN1|
+locale-fr,UPLOAD.FILE_IMPORTED,{{fileName}} a été importé
+locale-fr,UPLOAD.FILE_PLURAL,fichiers
+locale-fr,UPLOAD.GLOBAL_COMPLETED,Fichier {{files}} téléchargé
+locale-fr,UPLOAD.GLOBAL_COMPLETED_PLURAL,Fichiers {{files}} téléchargés
+locale-fr,UPLOAD.HAVING_PROBLEMS,Obtenir de l'aide avec mon téléchargement
+locale-fr,UPLOAD.SEE_DETAILS,Voir les détails
+locale-fr,UPLOAD.STATUS.COMPLETED.MANY,Fichiers {{count}} téléchargés
+locale-fr,UPLOAD.STATUS.COMPLETED.ONE,Fichier {{count}} téléchargé
+locale-fr,UPLOAD.STATUS.PROCESSING.MANY,Traitement des fichiers {{count}}
+locale-fr,UPLOAD.STATUS.PROCESSING.ONE,Traitement du fichier {{count}}
+locale-fr,UPLOAD.STATUS.UPLOADING.MANY,Téléchargement des fichiers {{count}} en cours
+locale-fr,UPLOAD.STATUS.UPLOADING.ONE,Téléchargement du fichier {{count}} en cours
+locale-fr,UPLOAD.SUPPORTED_FORMATS,Formats pris en charge :
+locale-fr,UPLOAD.TOOLTIP_MESSAGE,|Si vous téléchargez des fichiers ISOXML, tout le contenu du dossier TASKDATA doit d'abord être compressé. Assurez-vous d'inclure tous les fichiers XML, BIN et de tout autre format présents dans le dossier TASKDATA. Chargez ensuite le fichier ZIP, plutôt que les fichiers individuels.|
+locale-fr,UPLOAD.UNEXPECTED_ERROR,Une erreur inattendue s'est produite lors du traitement de votre fichier
+locale-fr,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> a été créé dans le champ <strong>{{fieldName}}</strong>
+locale-fr,UPLOAD.WARNING_TO_CHECK,Veuillez vérifier le message d'avertissement
+locale-fr,ERRORS.VARIABLE.EDIT,Impossible de modifier la variable avec l'identifiant {{id}}
+locale-fr,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Une erreur s'est produite lors de la transformation du fichier en modèle ADAPT.
+locale-fr,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,Erreur lors de la transformation ADAPT
+locale-fr,ERRORS.IMPORTER.BUTTON.ERROR,obtenir de l'aide avec mon téléchargement
+locale-fr,ERRORS.IMPORTER.BUTTON.WARNING,obtenir de l'aide avec mon téléchargement
+locale-fr,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Erreur lors de la création du nouveau champ. La création du champ a été ignorée.
+locale-fr,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Echec de la création du champ
+locale-fr,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Erreur lors de la création du nouveau champ. La création de la tâche a été ignorée.
+locale-fr,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Echec de la création du champ
+locale-fr,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Une erreur d'exception non gérée s'est produite lors de l'importation du fichier.
+locale-fr,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Erreur lors de l'importation des données
+locale-fr,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Une erreur s'est produite lors de la conciliation de la structure des données importées avec les données déjà enregistrées.
+locale-fr,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Echec de la fusion des données
+locale-fr,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,Aucune donnée trouvée dans le fichier de forme téléchargé.
+locale-fr,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Impossible de lire le fichier de forme
+locale-fr,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Une erreur s'est produite lors du chargement de la structure des données enregistrées au cours de l'importation.
+locale-fr,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Echec de la comparaison des données
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Le fichier importé ne contient aucune information sur les tâches.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Aucune tâche trouvée
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,Le fichier téléchargé contenait une colonne non numérique parmi les données. Cette colonne a été supprimée et les données ont été importées.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Colonne non numérique supprimée
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Le fichier téléchargé contenait plusieurs colonnes Date/Heure. La première colonne Date/Heure détectée a été utilisée.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Conflit de Date/Heure détecté
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Les données ont été traitées, mais elles ne contiennent aucun total ou aucun total ne peut être calculé.|
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Impossible de calculer les totaux
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Les données ont été ignorées. Il s'agit d'une copie d'une tâche précédemment importée.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Données précédemment importées
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,Le fichier de tâche téléchargé contient des références de tâche non mappables. Ces tâches ont été supprimées.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Tâche impossible à mapper
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Les informations de section/largeur n'ont pas été trouvées pendant le traitement du fichier. Les informations de section et de largeur ont été tirées d'une autre source.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Section/Largeur de données manquante
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Les informations de section/largeur n'ont pas été trouvées pendant le traitement du fichier. Les informations de section et de largeur ont été tirées d'une autre source.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Section/Largeur de données manquante
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Les informations de section/largeur n'ont pas été trouvées pendant le traitement du fichier. Les informations de section et de largeur ont été tirées d'une autre source.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Section/Largeur de données manquante
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Les informations de section/largeur n'ont pas été trouvées pendant le traitement du fichier. Les informations de section et de largeur ont été tirées d'une autre source.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Section/Largeur de données manquante
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Des problèmes de traitement des fichiers dans les modèles de données parents du dispositif ont été détectés pendant le traitement du fichier.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Avertissement relatif au modèle de données
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Les informations de section/largeur n'ont pas été trouvées pendant le traitement du fichier. Les informations de section et de largeur ont été tirées d'une autre source.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Section/Largeur de données manquante
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,Un seuil de filtre de valeur a été défini et les données ont été rétablies aux valeurs précédentes.
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Erreur lors du nettoyage des données
+locale-fr,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Le fichier importé contient des fichiers corrompus ou illisibles.
+locale-fr,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Impossible de lire le fichier d'importation
+locale-fr,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Impossible d'analyser les paramètres d'entrée du fichier importé.
+locale-fr,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,En-têtes de données non valides
+locale-fr,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Chemin de fichier non valide ou inaccessible.
+locale-fr,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Source du fichier introuvable
+locale-fr,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,Le fichier de forme téléchargé n'est pas valide. Inclure les fichiers .dbf .shp et .shx dans le fichier .zip téléchargé.
+locale-fr,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Impossible de lire le fichier de forme
+locale-fr,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Le fichier importé ne contient aucune donnée de couverture.
+locale-fr,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Aucune donnée de couverture trouvée
+locale-fr,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,Aucune donnée numérique trouvée dans le fichier de forme téléchargé.
+locale-fr,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Impossible de lire le fichier de forme
+locale-fr,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Impossible de lire le type de données opérationnelles du fichier importé lors du téléchargement.
+locale-fr,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Echec du type d'activité
+locale-fr,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Une erreur s'est produite lors de l'écriture des données importées dans la base de données de stockage.
+locale-fr,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Erreur survenue ultérieurement au traitement du stockage
+locale-fr,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Problème de correspondance du champ aux limites de champ en place. La création de la tâche a été ignorée.
+locale-fr,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Echec Geo Match
+locale-fr,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Une erreur s'est produite lors de l'écriture des données importées dans la base de données de stockage.
+locale-fr,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Erreur lors de l'écriture dans le stockage
+locale-fr,ERRORS.IMPORTER.SUB_DESCRIPTION,Il semble que le téléchargement de votre fichier rencontre des problèmes
+locale-fr,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Erreur inconnue ({{code}}).
+locale-fr,ERRORS.IMPORTER.UNKNOWN.TITLE,Erreur inconnue
+locale-fr,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Le fichier de forme téléchargé contient un fichier de projection non pris en charge. Supprimer le fichier .prj du contenu du fichier .zip.
+locale-fr,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Erreur lors de la projection du fichier de forme .prj
+locale-fr,ERRORS.IMPORTER.WARNING_MESSAGE,Message d'avertissement
+locale-fr,TASK.CHANGE_TASK_TYPE,modifier le type de tâche
+locale-fr,TASK.EDIT_LAYER,Modifier la couche
+locale-fr,TASK.EDIT_TASK_LAYER,Modifier la couche de tâche
+locale-fr,TASK.EDIT_TASK_LAYER_WARNING,Vous ne pouvez pas utiliser les couches tant que vous n'avez pas associé le type de tâche à un type reconnu dans TAP
+locale-fr,TASK.LAYER_TYPE,Type de couche
+locale-fr,TASK.LAYER_UPDATED,La couche {{layerName}} a été mise à jour
+locale-fr,TASK.SELECT_A_LAYER_FIRST,Vous devez d'abord sélectionner un type de couche
+locale-fr,TASK.SELECT_A_LAYER_TYPE,Sélectionner un type de couche
+locale-fr,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Sélectionner une unité de mesure
+locale-fr,TASK.SELECT_TASK_TYPE,Sélectionner un type de tâche
+locale-fr,TASK.TASK_DATE,Date de la tâche
+locale-fr,TASK.TASK_LAYER_ISSUE,Problème relatif à une couche de tâche
+locale-fr,TASK.TASK_LAYER_ISSUE_DESCRIPTION,Il manque des informations sur cette couche de tâche. Elle n'est pas liée à une variable connue ou bien l'unité de mesure n'est pas renseignée
+locale-fr,TASK.TASK_TYPE,Type de tâche
+locale-fr,TASK.TASK_TYPE_UNKNOWN,Type de tâche inconnu
+locale-fr,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Ce type de tâche n'a pas été reconnu par le système.
+locale-fr,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Veuillez remplacer ce type de tâche par un type reconnu dans TAP.
+locale-fr,TASK.TASK_UPDATED,La tâche {{taskName}} a été mise à jour
+locale-fr,TASK.UNIT_OF_MEASUREMENT,Unité de mesure
+locale-fr,TASK.UNKNOWN,inconnu
+locale-fr,PDF.TITLE,pdf
+locale-fr,OPERATIONS.OTHER,Autre
+locale-es,DATE_FORMAT.NORMAL,MM/DD/AAAA
+locale-es,DATE_FORMAT.PILL,DD MMM
+locale-es,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-es,GLOBAL.AT,a las
+locale-es,GLOBAL.COMPLETED,completado
+locale-es,GLOBAL.HELP,Obtener asistencia
+locale-es,GLOBAL.OF,de
+locale-es,GLOBAL.ON,el
+locale-es,VARIABLE.ACTUAL_RATE,Ratio real
+locale-es,VARIABLE.CELL_AREA,Área de celda
+locale-es,VARIABLE.CELL_MASS,Masa de celda
+locale-es,VARIABLE.MOISTURE,Humedad
+locale-es,VARIABLE.SENSOR_RDNG,Sensor RDNG
+locale-es,VARIABLE.SENSOR_WDTH,Anchura del sensor
+locale-es,VARIABLE.UNADJ_CELL_M,Celda sin ajustar
+locale-es,VARIABLE.YIELD_MASS,Masa de rendimiento
+locale-es,VARIABLE.YIELD_VOL,Volumen de rendimiento
+locale-es,UPLOAD.AN_ERROR_OCCURRED,Se ha producido un error
+locale-es,UPLOAD.DISMISS,Descartar
+locale-es,UPLOAD.ERROR_PLURAL,Errores
+locale-es,UPLOAD.FILE,archivo
+locale-es,UPLOAD.FILE_FORMATS,|ISOXML, archivo de formas, CN1|
+locale-es,UPLOAD.FILE_IMPORTED,{{fileName}} se ha importado
+locale-es,UPLOAD.FILE_PLURAL,archivos
+locale-es,UPLOAD.GLOBAL_COMPLETED,Se ha cargado {{files}} archivo
+locale-es,UPLOAD.GLOBAL_COMPLETED_PLURAL,Se han cargado {{files}} archivos
+locale-es,UPLOAD.HAVING_PROBLEMS,Obtener asistencia con mi carga
+locale-es,UPLOAD.SEE_DETAILS,Consultar detalles
+locale-es,UPLOAD.STATUS.COMPLETED.MANY,Se han cargado {{count}} archivos
+locale-es,UPLOAD.STATUS.COMPLETED.ONE,Se ha cargado {{count}} archivo
+locale-es,UPLOAD.STATUS.PROCESSING.MANY,Procesando {{count}} archivos
+locale-es,UPLOAD.STATUS.PROCESSING.ONE,Procesando {{count}} archivo
+locale-es,UPLOAD.STATUS.UPLOADING.MANY,Cargando {{count}} archivos
+locale-es,UPLOAD.STATUS.UPLOADING.ONE,Cargando {{count}} archivo
+locale-es,UPLOAD.SUPPORTED_FORMATS,Formatos admitidos:
+locale-es,UPLOAD.TOOLTIP_MESSAGE,|Si está cargando un archivo ISOXML, todo el contenido de la carpeta TASKDATA debe comprimirse primero. Asegúrese de incluir todos los archivos XML, BIN y de otro tipo que estén en la carpeta TASKDATA. A continuación, cargue el archivo ZIP, en lugar de los archivos individuales.|
+locale-es,UPLOAD.UNEXPECTED_ERROR,Se ha producido un error inesperado al procesar el archivo
+locale-es,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> se ha creado en el campo <strong>{{fieldName}}</strong>
+locale-es,UPLOAD.WARNING_TO_CHECK,Hay un mensaje de advertencia que comprobar
+locale-es,ERRORS.VARIABLE.EDIT,No se puede editar la variable con identificación {{id}}
+locale-es,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Se ha producido un error durante la transformación del archivo al modelo ADAPT.
+locale-es,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,Error de transformación a ADAPT
+locale-es,ERRORS.IMPORTER.BUTTON.ERROR,obtener asistencia con mi carga
+locale-es,ERRORS.IMPORTER.BUTTON.WARNING,obtener asistencia con mi carga
+locale-es,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Error al crear un nuevo campo. La creación del campo se ha omitido.
+locale-es,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Error al crear el campo
+locale-es,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Error al crear un nuevo campo. La creación de la tarea se ha omitido.
+locale-es,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Error al crear el campo
+locale-es,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Se ha producido un error de excepción no controlada durante la importación del archivo.
+locale-es,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Error de importación de datos
+locale-es,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Se ha producido un error al tratar de conciliar la estructura de los datos importados con los datos existentes.
+locale-es,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Error en la combinación de datos
+locale-es,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,No se han encontrado datos en el archivo de formas cargado.
+locale-es,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,No se ha podido leer el archivo de formas
+locale-es,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Se ha producido un error al intentar cargar la estructura de datos existente durante la importación.
+locale-es,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Error en la comparación de datos
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,El archivo importado no contiene información de tareas.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,No se han encontrado tareas
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,El archivo cargado contenía una columna no numérica en los datos. Esta columna se ha eliminado y los datos se han importado.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Columna no numérica eliminada
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,El archivo cargado contenía varias columnas de fecha/hora. La primera columna de fecha/hora detectada se ha utilizado.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Conflicto con fecha/hora detectado
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Los datos se han procesado, pero no contienen totales ni pudieron calcularse.|
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,No se pueden calcular los totales
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Los datos se han omitido. Es un duplicado de una tarea importada previamente.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Datos importados previamente
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,El archivo de tareas cargado contiene referencias de tareas que no se pueden asignar. Se han eliminado.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Tarea imposible de asignar
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Durante el procesamiento del archivo faltaba la información sobre la sección/anchura. Información de sección y anchura deducida de otra fuente.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Faltan los datos de sección/anchura
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Durante el procesamiento del archivo faltaba la información sobre la sección/anchura. Información de sección y anchura deducida de otra fuente.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Faltan los datos de sección/anchura
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Durante el procesamiento del archivo faltaba la información sobre la sección/anchura. Información de sección y anchura deducida de otra fuente.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Faltan los datos de sección/anchura
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Durante el procesamiento del archivo faltaba la información sobre la sección/anchura. Información de sección y anchura deducida de otra fuente.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Faltan los datos de sección/anchura
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Se han detectado incongruencias en el modelo de datos durante el proceso de importación.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Advertencia sobre el modelo de datos
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Durante el procesamiento del archivo faltaba la información sobre la sección/anchura. Información de sección y anchura deducida de otra fuente.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Faltan los datos de sección/anchura
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,Se ha activado un umbral de filtro de valores y se han revertido los datos a valores previos.
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Error de limpieza de datos
+locale-es,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,El archivo importado contiene archivos dañados o ilegibles.
+locale-es,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,No se ha podido leer el archivo importado
+locale-es,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,No se han podido analizar los parámetros de entrada del archivo importado.
+locale-es,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Encabezados de datos no válidos
+locale-es,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ruta de archivo no válida o inaccesible.
+locale-es,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Fuente del archivo no encontrada
+locale-es,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|El archivo de formas cargado no es válido. Incluya los archivos .dbf, .shp y .shx en el archivo .zip cargado.|
+locale-es,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,No se ha podido leer el archivo de formas
+locale-es,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,El archivo importado no contiene datos de cobertura.
+locale-es,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,No se han encontrado datos de cobertura
+locale-es,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,No se han encontrado datos numéricos en el archivo de formas cargado.
+locale-es,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,No se ha podido leer el archivo de formas
+locale-es,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,No es posible leer datos de tipo operativo del archivo importado durante la carga.
+locale-es,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Fallo de tipo de actividad
+locale-es,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Se ha producido un error al intentar escribir los datos importados a la base de datos de almacenamiento.
+locale-es,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Error de almacenamiento posterior al procesamiento
+locale-es,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Error al hacer coincidir el campo con los límites de campo existentes. La creación de la tarea se ha omitido.
+locale-es,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Error de Geo Match
+locale-es,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Se ha producido un error al intentar escribir los datos importados a la base de datos.
+locale-es,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Error al escribir en el almacenamiento
+locale-es,ERRORS.IMPORTER.SUB_DESCRIPTION,Parece que tiene problemas para cargar el archivo
+locale-es,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Error desconocido ({{code}}).
+locale-es,ERRORS.IMPORTER.UNKNOWN.TITLE,Error desconocido
+locale-es,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,El archivo de formas cargado contiene un archivo de proyección no admitido. Elimine el archivo .prj del contenido del archivo .zip.
+locale-es,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Error de proyección del archivo de formas .PRJ.
+locale-es,ERRORS.IMPORTER.WARNING_MESSAGE,Mensaje de advertencia
+locale-es,TASK.CHANGE_TASK_TYPE,cambiar tipo de tarea
+locale-es,TASK.EDIT_LAYER,Editar capa
+locale-es,TASK.EDIT_TASK_LAYER,Editar capa de tarea
+locale-es,TASK.EDIT_TASK_LAYER_WARNING,No puede utilizar las capas hasta que relacione el tipo de tarea con uno conocido en TAP
+locale-es,TASK.LAYER_TYPE,Tipo de capa
+locale-es,TASK.LAYER_UPDATED,La capa {{layerName}} se ha actualizado
+locale-es,TASK.SELECT_A_LAYER_FIRST,Primero debe seleccionar un tipo de capa
+locale-es,TASK.SELECT_A_LAYER_TYPE,Seleccionar un tipo de capa
+locale-es,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Seleccionar una unidad de medida
+locale-es,TASK.SELECT_TASK_TYPE,Seleccionar tipo de tarea
+locale-es,TASK.TASK_DATE,Fecha de la tarea
+locale-es,TASK.TASK_LAYER_ISSUE,Problema con la capa de la tarea
+locale-es,TASK.TASK_LAYER_ISSUE_DESCRIPTION,|Falta información en esta capa de la tarea O bien no está relacionada con una variable conocida, o bien falta la unidad de medida|
+locale-es,TASK.TASK_TYPE,Tipo de tarea
+locale-es,TASK.TASK_TYPE_UNKNOWN,Tipo de tarea desconocido
+locale-es,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,El sistema no ha reconocido este tipo de tarea.
+locale-es,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Cambie el tipo de esta tarea a uno conocido en TAP.
+locale-es,TASK.TASK_UPDATED,La tarea {{taskName}} se ha actualizado.
+locale-es,TASK.UNIT_OF_MEASUREMENT,Unidad de medida
+locale-es,TASK.UNKNOWN,desconocido
+locale-es,OPERATIONS.OTHER,Otros
+locale-da,DATE_FORMAT.NORMAL,MM/DD/ÅÅÅÅ
+locale-da,DATE_FORMAT.PILL,DD MMM
+locale-da,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-da,GLOBAL.SEND,Send
+locale-da,GLOBAL.SEND_DATA,Send data
+locale-da,GLOBAL.AT,kl.
+locale-da,GLOBAL.COMPLETED,gennemført
+locale-da,GLOBAL.HELP,Få hjælp
+locale-da,GLOBAL.OF,af
+locale-da,GLOBAL.ON,den
+locale-da,UPLOAD.AN_ERROR_OCCURRED,Der opstod en fejl
+locale-da,UPLOAD.DISMISS,Afvis
+locale-da,UPLOAD.ERROR_PLURAL,Fejl
+locale-da,UPLOAD.FILE,fil
+locale-da,UPLOAD.FILE_FORMATS,|ISOXML, shapefil, CN1|
+locale-da,UPLOAD.FILE_IMPORTED,{{fileName}} blev importeret
+locale-da,UPLOAD.FILE_PLURAL,filer
+locale-da,UPLOAD.GLOBAL_COMPLETED,Uploadede {{files}} fil
+locale-da,UPLOAD.GLOBAL_COMPLETED_PLURAL,Uploadede {{files}} filer
+locale-da,UPLOAD.HAVING_PROBLEMS,Få hjælp med min upload
+locale-da,UPLOAD.SEE_DETAILS,Se detaljer
+locale-da,UPLOAD.STATUS.COMPLETED.MANY,Uploadede {{count}} filer
+locale-da,UPLOAD.STATUS.COMPLETED.ONE,Uploadede {{count}} fil
+locale-da,UPLOAD.STATUS.PROCESSING.MANY,Behandler {{count}} filer
+locale-da,UPLOAD.STATUS.PROCESSING.ONE,Behandler {{count}} fil
+locale-da,UPLOAD.STATUS.UPLOADING.MANY,Uploader {{count}} filer
+locale-da,UPLOAD.STATUS.UPLOADING.ONE,Uploader {{count}} fil
+locale-da,UPLOAD.SUPPORTED_FORMATS,Understøttede formater:
+locale-da,UPLOAD.TOOLTIP_MESSAGE,|Hvis du uploader ISOXML-filer, skal alt indhold i TASKDATA-mappen først pakkes i en .zip-fil. Sørg for at medtage alle XML, BIN og andre filer, der er i TASKDATA-mappen. Upload derefter ZIP-filen i stedet for de enkelte filer.|
+locale-da,UPLOAD.UNEXPECTED_ERROR,Der opstod en uventet fejl under behandlingen af din fil
+locale-da,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> Er oprettet i feltet <strong>{{fieldName}}</strong>
+locale-da,UPLOAD.WARNING_TO_CHECK,|Der er en advarselsmeddelelse, der skal kontrolleres|
+locale-da,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Under filtransformation til ADAPT-model opstod der en fejl.
+locale-da,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT-transformeringsfejl
+locale-da,ERRORS.IMPORTER.BUTTON.ERROR,få hjælp med min upload
+locale-da,ERRORS.IMPORTER.BUTTON.WARNING,få hjælp med min upload
+locale-da,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Fejl ved oprettelse af ny mark. Oprettelsen af marken er sprunget over.
+locale-da,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Oprettelse af mark mislykkedes
+locale-da,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Fejl ved oprettelse af ny mark. Oprettelsen af opgaven er sprunget over.
+locale-da,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Oprettelse af mark mislykkedes
+locale-da,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Der opstod en uhåndteret undtagelsesfejl under filimport.
+locale-da,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Dataimportfejl
+locale-da,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Der opstod en fejl under forsøg på at forene den importerede datastruktur med eksisterende data.
+locale-da,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Fejl under datafletning
+locale-da,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,Der blev ikke fundet data i den uploadede shapefil.
+locale-da,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Kan ikke læse shapefil
+locale-da,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Der opstod en fejl under forsøg på at indlæse eksisterende datastruktur under import.
+locale-da,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Datasammenligning mislykkedes
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Den importerede fil indeholder ingen opgaveoplysninger.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Ingen opgave fundet
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,|Den uploadede fil indeholdt en ikke-numerisk kolonne i dataene. Denne kolonne er fjernet, og dataene er importeret.|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Ikke-numerisk kolonne fjernet
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Den uploadede fil indeholdt flere kolonner for dato/tid. Den første registrerede kolonne for dato/tid er brugt.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Dato/tid for registreret konflikt
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Dataene er behandlet, men indeholder ingen totaler, og de kunne heller ikke beregnes.|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Kunne ikke beregne totaler
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Data er afvist. Det er en kopi af en tidligere importeret opgave.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Tidligere importerede data
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,|Den uploadede opgavefil indeholder opgavereferencer, der ikke kan tilknyttes. Disse er blevet fjernet.|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,|Opgave, der ikke kan tilknyttes|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Manglende sektions-/breddedata
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Manglende sektions-/breddedata
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Manglende sektions-/breddedata
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Manglende sektions-/breddedata
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Under filbehandling blev der registreret problemer i enhedens overordnede datamodeller.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Datamodeladvarsel
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Manglende sektions-/breddedata
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,En tærskel for værdifilter blev udløst og dataene nulstillet til tidligere værdier.
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Datarensningsfejl
+locale-da,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Importfilen indeholder beskadigede eller ulæselige filer.
+locale-da,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Kunne ikke læse importfil
+locale-da,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Kunne ikke analysere inputparametre fra den importerede fil.
+locale-da,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Ugyldig datakontrol
+locale-da,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ugyldig eller utilgængelig filsti.
+locale-da,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Filens kilde ikke fundet
+locale-da,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|Uploadet shapefil er ugyldig. Inkluder .dbf, .shp og .shx-filerne i den uploadede .zip-fil.|
+locale-da,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Kan ikke læse shapefil
+locale-da,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Den importerede fil indeholder ingen dækningsdata.
+locale-da,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Ingen dækningsdata fundet
+locale-da,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,Der blev ikke fundet numeriske data i den uploadede shapefil.
+locale-da,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Kan ikke læse shapefil
+locale-da,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Kan ikke læse driftsdatatype fra den importerede fil under upload.
+locale-da,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Fejl af aktivitetstype
+locale-da,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Der opstod en fejl under forsøget på at skrive importerede data postgres-lagerdatabasen.
+locale-da,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Lagringsfejl ved efterbehandling
+locale-da,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Fejl ved tilpasning af mark med eksisterende markgrænser. Oprettelsen af opgaven er sprunget over.
+locale-da,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Geo tilpasningsfejl
+locale-da,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Der opstod en fejl under forsøget på at skrive importerede data lagerdatabasen.
+locale-da,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Fejl ved skrivning til lager
+locale-da,ERRORS.IMPORTER.SUB_DESCRIPTION,|Det lader til, at du har problemer med at uploade din fil|
+locale-da,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Ukendt fejl ({{code}}).
+locale-da,ERRORS.IMPORTER.UNKNOWN.TITLE,Ukendt fejl
+locale-da,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Uploadet shapefil indeholder en ikke-understøttet projektionsfil. Fjern .prj-filen fra .zip-filens indhold.
+locale-da,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Projektionsfejl shapefil .PRJ
+locale-da,ERRORS.IMPORTER.WARNING_MESSAGE,Advarselsmeddelelse
+locale-da,ERRORS.VARIABLE.EDIT,Kan ikke redigere variabel med id {{id}}
+locale-da,TASK.CHANGE_TASK_TYPE,skift opgavetype
+locale-da,TASK.EDIT_LAYER,Redigér lag
+locale-da,TASK.EDIT_TASK_LAYER,Redigér opgavelag
+locale-da,TASK.EDIT_TASK_LAYER_WARNING,|Du kan ikke arbejde med lag, før du knytter opgavetypen til en kendt én i TAP|
+locale-da,TASK.LAYER_TYPE,Lagtype
+locale-da,TASK.LAYER_UPDATED,Laget {{layerName}} er blevet opdateret
+locale-da,TASK.SELECT_A_LAYER_FIRST,Du skal først vælge en lagtype
+locale-da,TASK.SELECT_A_LAYER_TYPE,Vælg en lagtype
+locale-da,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Vælg en måleenhed
+locale-da,TASK.SELECT_TASK_TYPE,Vælg opgavetype
+locale-da,TASK.TASK_DATE,Opgavedato
+locale-da,TASK.TASK_LAYER_ISSUE,Problem med opgavelag
+locale-da,TASK.TASK_LAYER_ISSUE_DESCRIPTION,Dette opgavelag har manglende oplysninger. Det er enten ikke tilknyttet en kendt variabel og/eller måleenheden mangler
+locale-da,TASK.TASK_TYPE,Opgavetype
+locale-da,TASK.TASK_TYPE_UNKNOWN,Opgavetype ukendt
+locale-da,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Denne opgavetype blev ikke genkendt af systemet.
+locale-da,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Skift denne opgavetype til en kendt én i TAP.
+locale-da,TASK.TASK_UPDATED,Opgaven {{taskName}} blev opdateret
+locale-da,TASK.UNIT_OF_MEASUREMENT,Måleenhed
+locale-da,TASK.UNKNOWN,ukendt
+locale-da,PROFILE.FEEDBACK,Send feedback
+locale-da,VARIABLE.ACTUAL_RATE,Faktisk hastighed
+locale-da,VARIABLE.CELL_AREA,Celleareal
+locale-da,VARIABLE.CELL_MASS,Cellemasse
+locale-da,VARIABLE.MOISTURE,Fugtighed
+locale-da,VARIABLE.SENSOR_RDNG,Sensor RDNG
+locale-da,VARIABLE.SENSOR_WDTH,Sensorbredde
+locale-da,VARIABLE.UNADJ_CELL_M,Ikke justeret celle
+locale-da,VARIABLE.YIELD_MASS,Udbyttemasse
+locale-da,VARIABLE.YIELD_VOL,Udbyttevolumen
+locale-nl,DATE_FORMAT.NORMAL,MM/DD/JJJJ
+locale-nl,DATE_FORMAT.PILL,DD MMM
+locale-nl,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-nl,GLOBAL.AT,bij
+locale-nl,GLOBAL.COMPLETED,voltooid
+locale-nl,GLOBAL.HELP,Hulp krijgen
+locale-nl,GLOBAL.OF,van
+locale-nl,GLOBAL.ON,aan
+locale-nl,VARIABLE.ACTUAL_RATE,Ware snelheid
+locale-nl,VARIABLE.CELL_AREA,Celoppervlak
+locale-nl,VARIABLE.CELL_MASS,Celmassa
+locale-nl,VARIABLE.MOISTURE,Vocht
+locale-nl,VARIABLE.SENSOR_RDNG,RDNG-sensor
+locale-nl,VARIABLE.SENSOR_WDTH,Sensorbreedte
+locale-nl,VARIABLE.UNADJ_CELL_M,Onaangepaste cel
+locale-nl,VARIABLE.YIELD_MASS,Massa opbrengst
+locale-nl,VARIABLE.YIELD_VOL,Volume opbrengst
+locale-nl,UPLOAD.AN_ERROR_OCCURRED,Er is een fout opgetreden
+locale-nl,UPLOAD.DISMISS,Sluiten
+locale-nl,UPLOAD.ERROR_PLURAL,Fouten
+locale-nl,UPLOAD.FILE,bestand
+locale-nl,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
+locale-nl,UPLOAD.FILE_IMPORTED,{{fileName}} is geïmporteerd
+locale-nl,UPLOAD.FILE_PLURAL,bestanden
+locale-nl,UPLOAD.GLOBAL_COMPLETED,Geüpload {{files}} bestand
+locale-nl,UPLOAD.GLOBAL_COMPLETED_PLURAL,Geüploade {{files}} bestanden
+locale-nl,UPLOAD.HAVING_PROBLEMS,Hulp krijgen bij mijn upload
+locale-nl,UPLOAD.SEE_DETAILS,Zie details
+locale-nl,UPLOAD.STATUS.COMPLETED.MANY,Geüploade {{count}} bestanden
+locale-nl,UPLOAD.STATUS.COMPLETED.ONE,Geüpload {{count}} bestand
+locale-nl,UPLOAD.STATUS.PROCESSING.MANY,Verwerken van {{count}} bestanden
+locale-nl,UPLOAD.STATUS.PROCESSING.ONE,Verwerken van {{count}} bestand
+locale-nl,UPLOAD.STATUS.UPLOADING.MANY,Uploaden van {{count}} bestanden
+locale-nl,UPLOAD.STATUS.UPLOADING.ONE,Uploaden van {{count}} bestand
+locale-nl,UPLOAD.SUPPORTED_FORMATS,Ondersteunde formaten:
+locale-nl,UPLOAD.TOOLTIP_MESSAGE,|Als u een ISOXML-bestand uploadt, moet de volledige inhoud van de map TASKDATA eerst worden gezipt. Zorg ervoor dat u alle XML-, BIN- en andere bestanden die in de map TASKDATA staan opneemt. Upload vervolgens het ZIP-bestand, en niet de afzonderlijke bestanden.|
+locale-nl,UPLOAD.UNEXPECTED_ERROR,Er is een onverwachte fout opgetreden tijdens het verwerken van uw bestand
+locale-nl,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> Is aangemaakt in veld <strong>{{fieldName}}</strong>
+locale-nl,UPLOAD.WARNING_TO_CHECK,Er is een waarschuwingsbericht dat gecontroleerd moet worden
+locale-nl,ERRORS.VARIABLE.EDIT,Variabele met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Tijdens de bestandstransformatie naar het ADAPT-model is een fout opgetreden.
+locale-nl,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,Transformatiefout ADAPT
+locale-nl,ERRORS.IMPORTER.BUTTON.ERROR,hulp krijgen bij mijn upload
+locale-nl,ERRORS.IMPORTER.BUTTON.WARNING,hulp krijgen bij mijn upload
+locale-nl,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Fout bij het aanmaken van een nieuw veld. Het aanmaken van het veld is overgeslagen.
+locale-nl,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Aanmaken van veld mislukt
+locale-nl,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Fout bij het aanmaken van een nieuw veld. Het aanmaken van de taak is overgeslagen.
+locale-nl,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Aanmaken van veld mislukt
+locale-nl,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Er is een niet-verwerkte uitzonderingsfout opgetreden tijdens het importeren van bestanden.
+locale-nl,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Fout gegevensimport
+locale-nl,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Er is een fout opgetreden tijdens een poging de geïmporteerde gegevensstructuur met de bestaande gegevens te verenigen.
+locale-nl,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Storing bij samenvoegen gegevens
+locale-nl,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,Geen gegevens aangetroffen in de geüploade shapefile.
+locale-nl,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Niet mogelijk om shapefile te lezen
+locale-nl,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Er is een fout opgetreden tijdens een poging de bestaande gegevensstructuur te laden tijdens het importeren.
+locale-nl,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Vergelijken gegevens mislukt
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Het geïmporteerde bestand bevat geen taakinformatie.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Geen taken gevonden
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,Het geüploade bestand bevatte een niet-numerieke kolom in de gegevens. Deze kolom is verwijderd en de gegevens zijn geïmporteerd.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Niet-numerieke kolom verwijderd
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Het geüploade bestand bevatte meerdere datum-/tijdkolommen. De eerste gedetecteerde datum-/tijdkolom is gebruikt.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Conflict datum/tijd gedetecteerd
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,De gegevens zijn verwerkt maar bevatten geen totalen en er konden ook geen totalen worden berekend.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Niet mogelijk om totalen te berekenen
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Gegevens zijn overgeslagen. Het is een duplicaat van een eerder geïmporteerde taak.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Gegevens eerder geïmporteerd
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,Het geüploade taakbestand bevat niet-toewijsbare taakreferenties. Deze zijn verwijderd.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Niet-toewijsbare taak
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Tijdens de bestandsverwerking ontbrak sectie-/breedte-informatie. Sectie- en breedte-informatie afgeleid van een andere bron.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Ontbrekende sectie-/breedtegegevens
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Tijdens de bestandsverwerking ontbrak sectie-/breedte-informatie. Sectie- en breedte-informatie afgeleid van een andere bron.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Ontbrekende sectie-/breedtegegevens
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Tijdens de bestandsverwerking ontbrak sectie-/breedte-informatie. Sectie- en breedte-informatie afgeleid van een andere bron.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Ontbrekende sectie-/breedtegegevens
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Tijdens de bestandsverwerking ontbrak sectie-/breedte-informatie. Sectie- en breedte-informatie afgeleid van een andere bron.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Ontbrekende sectie-/breedtegegevens
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Tijdens de bestandsverwerking zijn problemen gedetecteerd met de gegevensmodelbronnen van het apparaat.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Waarschuwing gegevensmodel
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Tijdens de bestandsverwerking ontbrak sectie-/breedte-informatie. Sectie- en breedte-informatie afgeleid van een andere bron.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Ontbrekende sectie-/breedtegegevens
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,Er is een filterdrempel van de waarde geactiveerd en de gegevens zijn teruggezet naar de vorige waarden.
+locale-nl,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Fout gegevensreiniging
+locale-nl,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Het geïmporteerde bestand bevat beschadigde of onleesbare bestanden.
+locale-nl,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Niet mogelijk om importbestand te lezen
+locale-nl,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Niet mogelijk om invoerparameters uit geïmporteerd bestand te lezen.
+locale-nl,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Ongeldige gegevenstitels
+locale-nl,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ongeldig of ontoegankelijk bestandspad.
+locale-nl,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Bestandsbron niet gevonden
+locale-nl,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,Geüploade shapefile is ongeldig. Neem de .dbf- .shp- en .shx-bestanden op in het geüploade .zip-bestand.
+locale-nl,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Niet mogelijk om shapefile te lezen
+locale-nl,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Het geïmporteerde bestand bevat geen dekkingsgegevens.
+locale-nl,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Geen dekkingsgegevens gevonden
+locale-nl,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,Geen numerieke gegevens aangetroffen in de geüploade shapefile.
+locale-nl,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Niet mogelijk om shapefile te lezen
+locale-nl,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Niet mogelijk om operationeel gegevenstype te lezen uit het geïmporteerde bestand tijdens het uploaden.
+locale-nl,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Storing type activiteit
+locale-nl,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Er is een fout opgetreden tijdens een poging geïmporteerde gegevens naar de postgres opslagdatabase te schrijven.
+locale-nl,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Fout bij naverwerking opslag
+locale-nl,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Fout bij afstemmen veld op bestaande veldgrenzen. Het aanmaken van de taak is overgeslagen.
+locale-nl,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Storing Geo Match
+locale-nl,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Er is een fout opgetreden tijdens een poging geïmporteerde gegevens naar de opslagdatabase te schrijven.
+locale-nl,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Fout bij schrijven naar opslag
+locale-nl,ERRORS.IMPORTER.SUB_DESCRIPTION,Het lijkt erop dat u problemen ondervindt bij het uploaden van uw bestand
+locale-nl,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Onbekende fout ({{code}}).
+locale-nl,ERRORS.IMPORTER.UNKNOWN.TITLE,Onbekende fout
+locale-nl,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Geüploade shapefile bevat een niet-ondersteund projectiebestand. Verwijder het .prj-bestand uit de inhoud van het .zip-bestand.
+locale-nl,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Projectiefout shapefile .PRJ
+locale-nl,ERRORS.IMPORTER.WARNING_MESSAGE,Waarschuwingsbericht
+locale-nl,TASK.CHANGE_TASK_TYPE,type taak wijzigen
+locale-nl,TASK.EDIT_LAYER,Laag bewerken
+locale-nl,TASK.EDIT_TASK_LAYER,Taaklaag bewerken
+locale-nl,TASK.EDIT_TASK_LAYER_WARNING,U kunt niet werken met de lagen tot u het type taak relateert aan een bekend type in TAP
+locale-nl,TASK.LAYER_TYPE,Type laag
+locale-nl,TASK.LAYER_UPDATED,De laag {{layerName}} is bijgewerkt
+locale-nl,TASK.SELECT_A_LAYER_FIRST,U moet eerst een type laag selecteren
+locale-nl,TASK.SELECT_A_LAYER_TYPE,Selecteer een type laag
+locale-nl,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Selecteer een meeteenheid
+locale-nl,TASK.SELECT_TASK_TYPE,Selecteer het type taak
+locale-nl,TASK.TASK_DATE,Datum taak
+locale-nl,TASK.TASK_LAYER_ISSUE,Probleem met laag taak
+locale-nl,TASK.TASK_LAYER_ISSUE_DESCRIPTION,In deze laag van de taak ontbreekt informatie. De laag is niet gerelateerd aan een bekende variabele en/of de meeteenheid ontbreekt
+locale-nl,TASK.TASK_TYPE,Type taak
+locale-nl,TASK.TASK_TYPE_UNKNOWN,Type taak onbekend
+locale-nl,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Dit type taak is niet door het systeem herkend.
+locale-nl,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Wijzig dit type taak in een bekend type in TAP.
+locale-nl,TASK.TASK_UPDATED,Deze taak {{taskName}} is bijgewerkt
+locale-nl,TASK.UNIT_OF_MEASUREMENT,Meeteenheid
+locale-nl,TASK.UNKNOWN,onbekend
+locale-ja,DATE_FORMAT.NORMAL,MM/DD/YYYY
+locale-ja,DATE_FORMAT.PILL,DD MMM
+locale-ja,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-ja,GLOBAL.AT,で
+locale-ja,GLOBAL.COMPLETED,完了
+locale-ja,GLOBAL.HELP,ヘルプ
+locale-ja,GLOBAL.OF,の
+locale-ja,GLOBAL.ON,において
+locale-ja,VARIABLE.ACTUAL_RATE,実際の率
+locale-ja,VARIABLE.CELL_AREA,セル面積
+locale-ja,VARIABLE.CELL_MASS,セル質量
+locale-ja,VARIABLE.MOISTURE,湿気
+locale-ja,VARIABLE.SENSOR_RDNG,ｾﾝｻｰRDNG
+locale-ja,VARIABLE.SENSOR_WDTH,ｾﾝｻｰ幅
+locale-ja,VARIABLE.UNADJ_CELL_M,未調整セル
+locale-ja,VARIABLE.YIELD_MASS,収穫質量
+locale-ja,VARIABLE.YIELD_VOL,収穫量
+locale-ja,UPLOAD.AN_ERROR_OCCURRED,ｴﾗｰが発生
+locale-ja,UPLOAD.DISMISS,消す
+locale-ja,UPLOAD.ERROR_PLURAL,ｴﾗｰ
+locale-ja,UPLOAD.FILE,ﾌｧｲﾙ
+locale-ja,UPLOAD.FILE_FORMATS,ISOXML、ｼｪｲﾌﾟﾌｧｲﾙ、CN1
+locale-ja,UPLOAD.FILE_IMPORTED,{{fileName}}がｲﾝﾎﾟｰﾄされました
+locale-ja,UPLOAD.FILE_PLURAL,ﾌｧｲﾙ
+locale-ja,UPLOAD.GLOBAL_COMPLETED,{{files}}ﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞ済み
+locale-ja,UPLOAD.GLOBAL_COMPLETED_PLURAL,{{files}}ﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞ済み
+locale-ja,UPLOAD.HAVING_PROBLEMS,ｱｯﾌﾟﾛｰﾄﾞに関するﾍﾙﾌﾟ
+locale-ja,UPLOAD.SEE_DETAILS,詳細を見る
+locale-ja,UPLOAD.STATUS.COMPLETED.MANY,{{count}}ﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞ済み
+locale-ja,UPLOAD.STATUS.COMPLETED.ONE,{{count}}ﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞ済み
+locale-ja,UPLOAD.STATUS.PROCESSING.MANY,{{count}}ﾌｧｲﾙ処理中
+locale-ja,UPLOAD.STATUS.PROCESSING.ONE,{{count}}ﾌｧｲﾙ処理中
+locale-ja,UPLOAD.STATUS.UPLOADING.MANY,{{count}}ﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞ中
+locale-ja,UPLOAD.STATUS.UPLOADING.ONE,{{count}}ﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞ中
+locale-ja,UPLOAD.SUPPORTED_FORMATS,対応している形式:
+locale-ja,UPLOAD.TOOLTIP_MESSAGE,ISOXMLﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞする場合、TASKDATAﾌｫﾙﾀﾞｰの全内容を先に圧縮する必要があります。TASKDATAﾌｫﾙﾀﾞｰにあるすべてのXML、BIN、その他のﾌｧｲﾙを含めます。次に、個々のﾌｧｲﾙではなくZIPﾌｧｲﾙをｱｯﾌﾟﾛｰﾄﾞします。
+locale-ja,UPLOAD.UNEXPECTED_ERROR,ﾌｧｲﾙ処理中に予期せぬｴﾗｰが発生しました。
+locale-ja,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a>が圃場<strong>{{fieldName}}</strong>に作成されました
+locale-ja,UPLOAD.WARNING_TO_CHECK,確認を要する警告ｴﾗｰがあります
+locale-ja,ERRORS.VARIABLE.EDIT,ID {{id}}の変数を編集できません
+locale-ja,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,ADAPTﾓﾃﾞﾙへのﾌｧｲﾙの変換時にｴﾗｰが発生しました。
+locale-ja,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT変換ｴﾗｰ
+locale-ja,ERRORS.IMPORTER.BUTTON.ERROR,ｱｯﾌﾟﾛｰﾄﾞに関するﾍﾙﾌﾟ
+locale-ja,ERRORS.IMPORTER.BUTTON.WARNING,ｱｯﾌﾟﾛｰﾄﾞに関するﾍﾙﾌﾟ
+locale-ja,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,新規圃場作成時のｴﾗｰ。圃場の作成がｽｷｯﾌﾟされました。
+locale-ja,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,圃場作成の失敗
+locale-ja,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,新規圃場作成時のｴﾗｰ。ﾀｽｸの作成がｽｷｯﾌﾟされました。
+locale-ja,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,圃場作成の失敗
+locale-ja,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,ﾌｧｲﾙのｲﾝﾎﾟｰﾄ時に処理できない例外ｴﾗｰが発生しました。
+locale-ja,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,ﾃﾞｰﾀｲﾝﾎﾟｰﾄのｴﾗｰ
+locale-ja,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾃﾞｰﾀ構造を既存ﾃﾞｰﾀと照合しようとするときにｴﾗｰが発生しました。
+locale-ja,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,ﾃﾞｰﾀﾏｰｼﾞの失敗
+locale-ja,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みｼｪｲﾌﾟﾌｧｲﾙでﾃﾞｰﾀが見つかりませんでした。
+locale-ja,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,ｼｪｲﾌﾟﾌｧｲﾙを読み取れません
+locale-ja,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ時に既存ﾃﾞｰﾀ構造をﾛｰﾄﾞしようとしているときにｴﾗｰが発生しました。
+locale-ja,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,ﾃﾞｰﾀ比較の失敗
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾌｧｲﾙにﾀｽｸ情報が含まれていません。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,ﾀｽｸが見つかりません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みﾌｧｲﾙにはﾃﾞｰﾀ内の非数値列が含まれていました。列が削除され、ﾃﾞｰﾀがｲﾝﾎﾟｰﾄされました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,非数値列の削除
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みﾌｧｲﾙに複数の日付/時刻列が含まれていました。1番目の日付/時刻列が使用されていることが検出されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,日付/時刻の不整合を検出
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,ﾃﾞｰﾀは処理されましたが、合計は含まれておらず、計算はできませんでした。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,合計を計算できません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,ﾃﾞｰﾀがｽｷｯﾌﾟされました。以前にｲﾝﾎﾟｰﾄしたﾀｽｸの複製です。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,以前ｲﾝﾎﾟｰﾄしたﾃﾞｰﾀ
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みﾀｽｸﾌｧｲﾙにはﾏｯﾋﾟﾝｸﾞ不能ﾀｽｸ参照が含まれています。これらは削除されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,ﾏｯﾋﾟﾝｸﾞ不能ﾀｽｸ
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,ﾌｧｲﾙ処理中、ｾｸｼｮﾝ/幅情報が見つかりませんでした。ｾｸｼｮﾝと幅情報は別のｿｰｽから推論されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,ｾｸｼｮﾝ/幅ﾃﾞｰﾀが見つかりません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,ﾌｧｲﾙ処理中、ｾｸｼｮﾝ/幅情報が見つかりませんでした。ｾｸｼｮﾝと幅情報は別のｿｰｽから推論されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,ｾｸｼｮﾝ/幅ﾃﾞｰﾀが見つかりません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,ﾌｧｲﾙ処理中、ｾｸｼｮﾝ/幅情報が見つかりませんでした。ｾｸｼｮﾝと幅情報は別のｿｰｽから推論されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,ｾｸｼｮﾝ/幅ﾃﾞｰﾀが見つかりません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,ﾌｧｲﾙ処理中、ｾｸｼｮﾝ/幅情報が見つかりませんでした。ｾｸｼｮﾝと幅情報は別のｿｰｽから推論されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,ｾｸｼｮﾝ/幅ﾃﾞｰﾀが見つかりません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,ﾌｧｲﾙの処理中、ﾃﾞﾊﾞｲｽﾃﾞｰﾀﾓﾃﾞﾙの親で問題が検出されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,ﾃﾞｰﾀﾓﾃﾞﾙ警告
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,ﾌｧｲﾙ処理中、ｾｸｼｮﾝ/幅情報が見つかりませんでした。ｾｸｼｮﾝと幅情報は別のｿｰｽから推論されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,ｾｸｼｮﾝ/幅ﾃﾞｰﾀが見つかりません
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,値ﾌｨﾙﾀｰしきい値が起動され、ﾃﾞｰﾀは以前の値に戻されました。
+locale-ja,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,ﾃﾞｰﾀｸﾚﾝｼﾞﾝｸﾞｴﾗｰ
+locale-ja,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾌｧｲﾙには破損または読み取り不能なﾌｧｲﾙが含まれています。
+locale-ja,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,ｲﾝﾎﾟｰﾄﾌｧｲﾙを読み取れませんでした
+locale-ja,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾌｧｲﾙから入力ﾊﾟﾗﾒｰﾀｰを解析できません。
+locale-ja,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,無効なﾃﾞｰﾀﾍｯﾀﾞｰ
+locale-ja,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,無効またはｱｸｾｽ不能なﾌｧｲﾙﾊﾟｽ。
+locale-ja,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,ﾌｧｲﾙｿｰｽが見つかりません
+locale-ja,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みｼｪｲﾌﾟﾌｧｲﾙが無効です。ｱｯﾌﾟﾛｰﾄﾞ済み.zipﾌｧｲﾙに.dbf、.shp、.shxﾌｧｲﾙを含めます。
+locale-ja,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,ｼｪｲﾌﾟﾌｧｲﾙを読み取れません
+locale-ja,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾌｧｲﾙにｶﾊﾞﾚｯｼﾞﾃﾞｰﾀが含まれていません。
+locale-ja,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,ｶﾊﾞﾚｯｼﾞﾃﾞｰﾀが見つかりません
+locale-ja,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みｼｪｲﾌﾟﾌｧｲﾙで数値ﾃﾞｰﾀが見つかりませんでした。
+locale-ja,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,ｼｪｲﾌﾟﾌｧｲﾙを読み取れません
+locale-ja,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ時にｲﾝﾎﾟｰﾄ済みﾌｧｲﾙから作業ﾃﾞｰﾀﾀｲﾌﾟを読み取れません。
+locale-ja,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,ｱｸﾃｨﾋﾞﾃｨﾀｲﾌﾟの失敗
+locale-ja,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾃﾞｰﾀをPostgresｽﾄﾚｰｼﾞﾃﾞｰﾀﾍﾞｰｽに書き込もうとしているときにｴﾗｰが発生しました。
+locale-ja,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,後処理ｽﾄﾚｰｼﾞｴﾗｰ
+locale-ja,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,圃場と既存圃場境界との一致ｴﾗｰ。ﾀｽｸの作成がｽｷｯﾌﾟされました。
+locale-ja,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Geo一致の失敗
+locale-ja,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,ｲﾝﾎﾟｰﾄ済みﾃﾞｰﾀをｽﾄﾚｰｼﾞﾃﾞｰﾀﾍﾞｰｽに書き込もうとしているときにｴﾗｰが発生しました。
+locale-ja,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,ｽﾄﾚｰｼﾞへの書き込みｴﾗｰ
+locale-ja,ERRORS.IMPORTER.SUB_DESCRIPTION,ﾌｧｲﾙのｱｯﾌﾟﾛｰﾄﾞに問題があるようです
+locale-ja,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,不明なｴﾗｰ({{code}})。
+locale-ja,ERRORS.IMPORTER.UNKNOWN.TITLE,不明なｴﾗｰ
+locale-ja,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,ｱｯﾌﾟﾛｰﾄﾞ済みｼｪｲﾌﾟﾌｧｲﾙには未対応のﾌﾟﾛｼﾞｪｸｼｮﾝﾌｧｲﾙが含まれています。.zipﾌｧｲﾙの内容から.prjﾌｧｲﾙを削除します。
+locale-ja,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,ｼｪｲﾌﾟﾌｧｲﾙ.PRJﾌﾟﾛｼﾞｪｸｼｮﾝｴﾗｰ
+locale-ja,ERRORS.IMPORTER.WARNING_MESSAGE,警告ﾒｯｾｰｼﾞ
+locale-ja,PRESCRIPTION.PRESCRIPTION,調合
+locale-ja,TASK.CHANGE_TASK_TYPE,ﾀｽｸﾀｲﾌﾟの変更
+locale-ja,TASK.EDIT_LAYER,ﾚｲﾔｰの編集
+locale-ja,TASK.EDIT_TASK_LAYER,ﾀｽｸﾚｲﾔｰの編集
+locale-ja,TASK.EDIT_TASK_LAYER_WARNING,ﾀｽｸﾀｲﾌﾟをTAPの既知のﾀｽｸﾀｲﾌﾟに関連付けるまでﾚｲﾔｰは操作できません
+locale-ja,TASK.LAYER_TYPE,ﾚｲﾔｰﾀｲﾌﾟ
+locale-ja,TASK.LAYER_UPDATED,ﾚｲﾔｰ{{layerName}}が更新されました
+locale-ja,TASK.SELECT_A_LAYER_FIRST,まずﾚｲﾔｰﾀｲﾌﾟを選択する必要があります
+locale-ja,TASK.SELECT_A_LAYER_TYPE,ﾚｲﾔｰﾀｲﾌﾟの選択
+locale-ja,TASK.SELECT_A_UNIT_OF_MEASUREMENT,測定単位の選択
+locale-ja,TASK.SELECT_TASK_TYPE,ﾀｽｸﾀｲﾌﾟの選択
+locale-ja,TASK.TASK_DATE,ﾀｽｸの日付
+locale-ja,TASK.TASK_LAYER_ISSUE,ﾀｽｸﾚｲﾔｰの問題
+locale-ja,TASK.TASK_LAYER_ISSUE_DESCRIPTION,このﾀｽｸﾚｲﾔｰの情報が見つかりません。既知の変数に関連付けられておらず、および/または測定単位が見つかりません
+locale-ja,TASK.TASK_TYPE,ﾀｽｸﾀｲﾌﾟ
+locale-ja,TASK.TASK_TYPE_UNKNOWN,ﾀｽｸﾀｲﾌﾟが不明
+locale-ja,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,このﾀｽｸﾀｲﾌﾟはｼｽﾃﾑで認識されていません。
+locale-ja,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,このﾀｽｸﾀｲﾌﾟを、TAPの既知のﾀｽｸﾀｲﾌﾟに変更してください。
+locale-ja,TASK.TASK_UPDATED,ﾀｽｸ{{taskName}}が更新されました
+locale-ja,TASK.UNIT_OF_MEASUREMENT,測定単位
+locale-ja,TASK.UNKNOWN,不明
+locale-ja,PDF.TITLE,pdf
+locale-ja,OPERATIONS.OTHER,その他
+locale-pt,DATE_FORMAT.NORMAL,MM/DD/AAAA
+locale-pt,DATE_FORMAT.PILL,DD MMM
+locale-pt,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-pt,GLOBAL.SEND,Enviar
+locale-pt,GLOBAL.SEND_DATA,Enviar dados
+locale-pt,GLOBAL.FIELD_NAME,Nome do campo
+locale-pt,GLOBAL.CHANGE_STYLE,Alterar estilo
+locale-pt,GLOBAL.OPACITY,Opacidade
+locale-pt,GLOBAL.VIEW_MODE,Modo de visualização
+locale-pt,GLOBAL.VECTOR,Vetor
+locale-pt,GLOBAL.RASTER,Quadrícula
+locale-pt,GLOBAL.REQUIRED_VALUE,Valor necessário
+locale-pt,GLOBAL.BOUNDARY_AREA,Área de fronteira
+locale-pt,GLOBAL.TILLABLE_AREA,Área cultivável
+locale-pt,GLOBAL.SHOW_LAYERS_LIST,Mostrar lista de camadas
+locale-pt,GLOBAL.HIDE_LAYERS_LIST,Ocultar lista de camadas
+locale-pt,GLOBAL.SET_VALUE,Definir valor
+locale-pt,GLOBAL.DEVICES,Dispositivos
+locale-pt,GLOBAL.SEARCH,Pesquisar
+locale-pt,GLOBAL.FIELDS,campos
+locale-pt,GLOBAL.FIELD,campo
+locale-pt,GLOBAL.FARM,quinta
+locale-pt,GLOBAL.FARMS,quintas
+locale-pt,GLOBAL.ZONE,Zona
+locale-pt,GLOBAL.ZONES,Zonas
+locale-pt,GLOBAL.PRODUCT,Produto
+locale-pt,GLOBAL.PRODUCTS,Produtos
+locale-pt,GLOBAL.GROWER,cultivador
+locale-pt,GLOBAL.GROWERS,cultivadores
+locale-pt,GLOBAL.GUIDANCE,Orientação
+locale-pt,GLOBAL.TASKS,tarefas
+locale-pt,GLOBAL.CROP,cultura
+locale-pt,GLOBAL.CROPS,culturas
+locale-pt,GLOBAL.VEHICLES,veículos
+locale-pt,GLOBAL.VEHICLE,veículo
+locale-pt,GLOBAL.UNIT,unidade
+locale-pt,GLOBAL.PRODUCT_TYPE,Tipo produto
+locale-pt,GLOBAL.SHOWME,MOSTRAR
+locale-pt,GLOBAL.CANCEL,cancelar
+locale-pt,GLOBAL.EDIT,Editar
+locale-pt,GLOBAL.DELETE,Eliminar
+locale-pt,GLOBAL.DELETE_CONFIRMATION,Tem a certeza de que pretende eliminar
+locale-pt,GLOBAL.SEND_TO,Enviar para
+locale-pt,GLOBAL.MORE,Mais
+locale-pt,GLOBAL.CLEAR_LIST,Limpar lista
+locale-pt,GLOBAL.CREATED,Criado em
+locale-pt,GLOBAL.ALL,Todos
+locale-pt,GLOBAL.YEAR,Ano
+locale-pt,GLOBAL.TYPE,Tipo
+locale-pt,GLOBAL.ALARM,Alarme
+locale-pt,GLOBAL.ALARMS,Alarmes
+locale-pt,GLOBAL.OPERATION,Operação
+locale-pt,GLOBAL.NAME,nome
+locale-pt,GLOBAL.EG,Por exemplo: Quinta da Gafaria
+locale-pt,GLOBAL.COMPANY,empresa
+locale-pt,GLOBAL.SUBCOMPANY,Subsidiária
+locale-pt,GLOBAL.FLEET,Frota
+locale-pt,GLOBAL.CONFIRM,Confirmar
+locale-pt,GLOBAL.CREATE,Criar
+locale-pt,GLOBAL.CLOSE,fechar
+locale-pt,GLOBAL.SAVE,Guardar
+locale-pt,GLOBAL.CREATED_S,Criado
+locale-pt,GLOBAL.VIEW_ON_MAP,Ver no mapa
+locale-pt,GLOBAL.SETTINGS,Definições
+locale-pt,GLOBAL.HELP,Obter ajuda
+locale-pt,GLOBAL.LOGOUT,Terminar sessão
+locale-pt,GLOBAL.TASK_ID,tarefa {{id}}
+locale-pt,GLOBAL.FARM_ID,quinta {{id}}
+locale-pt,GLOBAL.FIELD_ID,campo {{id}}
+locale-pt,GLOBAL.HOUR,hora
+locale-pt,GLOBAL.HOURS,horas
+locale-pt,GLOBAL.MINUTE,minuto
+locale-pt,GLOBAL.MINUTES,minutos
+locale-pt,GLOBAL.VIEW_LAYERS,Ver camadas
+locale-pt,GLOBAL.AT,às
+locale-pt,GLOBAL.ON,em
+locale-pt,GLOBAL.OF,de
+locale-pt,GLOBAL.COMPLETED,concluído
+locale-pt,UPLOAD.DND,Arrastar e largar ficheiros para aqui!
+locale-pt,UPLOAD.OR,ou
+locale-pt,UPLOAD.BROWSE,pesquisar ficheiros
+locale-pt,UPLOAD.FILE_FORMATS,|ISOXML, ficheiro de formas, CN1|
+locale-pt,UPLOAD.UPLOADING,A carregar
+locale-pt,UPLOAD.UPLOADING_DOT,A carregar...
+locale-pt,UPLOAD.ERROR,Erro
+locale-pt,UPLOAD.ERROR_PLURAL,Erros
+locale-pt,UPLOAD.ERROR_UPLOADING,Erro ao carregar
+locale-pt,UPLOAD.ERROR_IMPORTING,Erro ao importar
+locale-pt,UPLOAD.AN_ERROR_OCCURRED,Ocorreu um erro
+locale-pt,UPLOAD.RETRY,Tentar carregamento novamente
+locale-pt,UPLOAD.PROCESSING,A processar
+locale-pt,UPLOAD.STATUS.PROCESSING.ONE,A processar {{count}} ficheiro
+locale-pt,UPLOAD.STATUS.PROCESSING.MANY,A processar {{count}} ficheiros
+locale-pt,UPLOAD.STATUS.UPLOADING.ONE,A carregar {{count}} ficheiro
+locale-pt,UPLOAD.STATUS.UPLOADING.MANY,A carregar {{count}} ficheiros
+locale-pt,UPLOAD.STATUS.COMPLETED.ONE,{{count}} ficheiro carregado
+locale-pt,UPLOAD.STATUS.COMPLETED.MANY,{{count}} ficheiros carregados
+locale-pt,UPLOAD.PROCESSING_TASK,A processar...
+locale-pt,UPLOAD.GLOBAL_COMPLETED,{{files}} ficheiro carregado
+locale-pt,UPLOAD.GLOBAL_COMPLETED_PLURAL,{{files}} ficheiros carregados
+locale-pt,UPLOAD.COMPLETED,O ficheiro foi carregado
+locale-pt,UPLOAD.HAS_BEEN,foi importado no campo 
+locale-pt,UPLOAD.HAS_BEEN_FROM,{{taskName}} de {{fileName}} foi importado no campo {{fieldName}}
+locale-pt,UPLOAD.HAS_BEEN_ORPHAN,foi importado no campo como tarefa órfã
+locale-pt,UPLOAD.UNKNOWN,Ficheiro desconhecido.
+locale-pt,UPLOAD.START_NOTIFICATION,A tarefa carregada {{fileName}} está em processamento
+locale-pt,UPLOAD.FINISH_NOTIFICATION,{{fileName}} foi importado
+locale-pt,UPLOAD.GFF_UPDATE_NOTIFICATION,|Os dados de cultivador, quinta e campo estão a ser atualizados|
+locale-pt,UPLOAD.UNEXPECTED_ERROR,Ocorreu um erro inesperado durante o processamento do seu ficheiro
+locale-pt,UPLOAD.WARNING_TO_CHECK,Existe uma mensagem de aviso para verificar
+locale-pt,UPLOAD.SEE_DETAILS,Ver detalhes
+locale-pt,UPLOAD.FILE,ficheiro
+locale-pt,UPLOAD.FILE_PLURAL,ficheiros
+locale-pt,UPLOAD.SUPPORTED_FORMATS,Formatos suportados:
+locale-pt,UPLOAD.HAVING_PROBLEMS,Obter ajuda com o meu carregamento
+locale-pt,UPLOAD.TOOLTIP_MESSAGE,|Se estiver a carregar um ficheiro ISOXML, a totalidade do conteúdo da pasta TASKDATA tem primeiro de ser compactada. Certifique-se de que inclui todos os ficheiros XML, BIN e quaisquer outros ficheiros que estejam na pasta TASKDATA. Em seguida, carregue o ficheiro ZIP em vez dos ficheiros individuais.|
+locale-pt,UPLOAD.DISMISS,Fechar
+locale-pt,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> foi criado no campo <strong>{{fieldName}}</strong>
+locale-pt,UPLOAD.FILE_IMPORTED,{{fileName}} foi importado
+locale-pt,ERRORS.ERROR_FOUND.ZERO,
+locale-pt,ERRORS.ERROR_FOUND.ONE,{{errorCount}} erro encontrado
+locale-pt,ERRORS.ERROR_FOUND.MANY,{{errorCount}} erro encontrado
+locale-pt,ERRORS.ERROR_VIEW.ZERO,
+locale-pt,ERRORS.ERROR_VIEW.ONE,Existe {{errorCount}} erro. Visualize-o premindo o seguinte botão
+locale-pt,ERRORS.ERROR_VIEW.MANY,Existem {{errorCount}} erros. Visualize-os premindo o seguinte botão
+locale-pt,ERRORS.HTTP.PARSE,Não foi possível analisar a resposta do servidor
+locale-pt,ERRORS.HTTP.FETCH,Não foi possível obter dados de {{object}}
+locale-pt,ERRORS.GROWERS.NEW,Não foi possível criar um novo cultivador
+locale-pt,ERRORS.GROWERS.EDIT,Não foi possível editar o cultivador com a ID {{id}}
+locale-pt,ERRORS.GROWERS.DELETE,Não foi possível eliminar o cultivador com a ID {{id}}
+locale-pt,ERRORS.FARMS.NEW,Não foi possível criar uma nova quinta
+locale-pt,ERRORS.FARMS.EDIT,Não foi possível editar a quinta com a ID {{id}}
+locale-pt,ERRORS.FARMS.DELETE,Não foi possível eliminar a quinta com a ID {{id}}
+locale-pt,ERRORS.CROPS.NEW,Não foi possível criar uma nova colheita
+locale-pt,ERRORS.CROPS.EDIT,Não foi possível editar a colheita com a ID {{id}}
+locale-pt,ERRORS.CROPS.DELETE,Não foi possível eliminar a colheita com a ID {{id}}
+locale-pt,ERRORS.PRODUCTS.NEW,Não foi possível criar um novo produto
+locale-pt,ERRORS.PRODUCTS.EDIT,Não foi possível editar o produto com a ID {{id}}
+locale-pt,ERRORS.PRODUCTS.DELETE,Não foi possível eliminar o produto com a ID {{id}}
+locale-pt,ERRORS.TASKS.NEW,Não foi possível criar uma nova tarefa
+locale-pt,ERRORS.TASKS.EDIT,Não foi possível editar a tarefa com a ID {{id}}
+locale-pt,ERRORS.TASKS.DELETE,Não foi possível eliminar a tarefa com a ID {{id}}
+locale-pt,ERRORS.PRESCRIPTIONS.NEW,Não foi possível criar uma nova prescrição
+locale-pt,ERRORS.PRESCRIPTIONS.EDIT,Não foi possível editar a prescrição com a ID {{id}}
+locale-pt,ERRORS.PRESCRIPTIONS.DELETE,Não foi possível eliminar a prescrição com a ID {{id}}
+locale-pt,ERRORS.FIELDS.EDIT,Não foi possível editar o campo com a ID {{id}}
+locale-pt,ERRORS.FIELDS.DELETE,Não foi possível eliminar o campo com a ID {{id}}
+locale-pt,ERRORS.MZONE.CREATE,Não foi possível criar a zona de gestão
+locale-pt,ERRORS.MZONE.EDIT,Não foi possível editar a zona de gestão com a ID {{id}}
+locale-pt,ERRORS.MZONE.DELETE,Não foi possível eliminar a zona de gestão com a ID {{id}}
+locale-pt,ERRORS.VARIABLE.EDIT,Não foi possível editar a variável com a ID {{id}}
+locale-pt,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Cabeçalhos de dados inválidos
+locale-pt,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Não é possível analisar os parâmetros de entrada do ficheiro importado.
+locale-pt,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Ficheiro de origem não encontrado
+locale-pt,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Caminho de ficheiro inválido ou inacessível.
+locale-pt,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Erro de importação de dados
+locale-pt,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Ocorreu um erro de exceção não processado durante a importação do ficheiro.
+locale-pt,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Falha no tipo de atividade
+locale-pt,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Não foi possível ler o tipo de dados operacionais do ficheiro importado durante o carregamento.
+locale-pt,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Erro de projeção de ficheiro de formas .PRJ
+locale-pt,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,O ficheiro de formas carregado inclui um ficheiro de projeção não suportado. Remova o ficheiro .prj dos conteúdos do ficheiro .zip.
+locale-pt,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Não foi possível ler o ficheiro de importação
+locale-pt,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,O ficheiro importado inclui ficheiros corrompidos ou ilegíveis.
+locale-pt,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,Erro de transformação ADAPT
+locale-pt,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Ocorreu um erro durante a transformação de ficheiro do modelo ADAPT.
+locale-pt,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Não foi possível ler o ficheiro de formas
+locale-pt,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,Não foram encontrados dados no ficheiro de formas carregado.
+locale-pt,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Não foi possível ler o ficheiro de formas
+locale-pt,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,Não foram encontrados dados numéricos no ficheiro de formas carregado.
+locale-pt,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Não foi possível ler o ficheiro de formas
+locale-pt,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,O ficheiro de formas carregado é inválido. Incluir ficheiros .dbf .shp e .shx no ficheiro .zip file carregado.
+locale-pt,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Erro ao escrever no armazenamento
+locale-pt,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Ocorreu um erro ao tentar escrever dados importados na base de dados de armazenamento.
+locale-pt,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,A comparação de dados falhou
+locale-pt,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Ocorreu um erro ao tentar carregar a estrutura de dados existente durante a importação.
+locale-pt,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Falha ao intercalar dados
+locale-pt,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Ocorreu um erro ao tentar reconciliar a estrutura de dados importados com os dados existentes.
+locale-pt,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Falha de Geo Match
+locale-pt,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Erro ao fazer corresponder o campo com os limites de campo existentes. A criação da tarefa foi ignorada.
+locale-pt,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,A criação do ficheiro falhou
+locale-pt,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Erro ao criar um novo campo. A criação da tarefa foi ignorada.
+locale-pt,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,A criação do ficheiro falhou
+locale-pt,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Erro ao criar um novo campo. A criação do campo foi ignorada.
+locale-pt,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Erro de armazenamento de pós-processamento
+locale-pt,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Ocorreu um erro ao tentar escrever dados importados na base de dados de armazenamento.
+locale-pt,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Não foram encontrados dados de cobertura
+locale-pt,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,O ficheiro importado não contém quaisquer dados de cobertura.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Nenhuma tarefa encontrada
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,O ficheiro importado não contém quaisquer informações sobre a tarefa.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Coluna não numérica removida
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,O ficheiro carregado incluía uma coluna não numérica nos dados. Esta coluna foi removida e os dados foram importados.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Detetado conflito data/hora
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,O ficheiro carregado incluía diversas colunas de data/hora. Foi utilizada a primeira coluna data/hora detetada.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Não é possível calcular os totais
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Os dados foram processados, mas não incluem quaisquer totais nem foi possível calculá-los.|
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Dados importados previamente
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Os dados foram ignorados. É um duplicado de uma tarefa importada anteriormente.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,A tarefa não pode ser mapeada
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,O ficheiro de tarefa carregado inclui referências de tarefas que não podem ser mapeadas. Estas foram removidas.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Dados de secção/largura em falta
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Durante o processamento do ficheiro havia informação de secção/largura em falta. Informações de secção e largura inferidas de outra fonte.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Dados de secção/largura em falta
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Durante o processamento do ficheiro havia informação de secção/largura em falta. Informações de secção e largura inferidas de outra fonte.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Dados de secção/largura em falta
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Durante o processamento do ficheiro havia informação de secção/largura em falta. Informações de secção e largura inferidas de outra fonte.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Dados de secção/largura em falta
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Durante o processamento do ficheiro havia informação de secção/largura em falta. Informações de secção e largura inferidas de outra fonte.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Aviso de modelo de dados
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Durante o processamento do ficheiro foram detetados problemas nos elementos principais do modelo de dados do dispositivo.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Dados de secção/largura em falta
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Durante o processamento do ficheiro havia informação de secção/largura em falta. Informações de secção e largura inferidas de outra fonte.
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Erro de limpeza de dados
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,Foi acionado um limite de filtro de valor e os dados foram revertidos para valores anteriores.
+locale-pt,ERRORS.IMPORTER.UNKNOWN.TITLE,Erro desconhecido
+locale-pt,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Erro desconhecido ({{code}}).
+locale-pt,ERRORS.IMPORTER.SUB_DESCRIPTION,Parece que está com problemas ao carregar o seu ficheiro
+locale-pt,ERRORS.IMPORTER.BUTTON.ERROR,obter ajuda com o meu carregamento
+locale-pt,ERRORS.IMPORTER.BUTTON.WARNING,obter ajuda com o meu carregamento
+locale-pt,ERRORS.IMPORTER.WARNING_MESSAGE,Mensagem de aviso
+locale-pt,EMPTY_STATE.DEFAULT.TITLE,Sem dados
+locale-pt,EMPTY_STATE.TASKS.IMPORTED_TITLE,Ainda não foram importadas tarefas
+locale-pt,EMPTY_STATE.TASKS.IMPORTED_TEXT,Pode importar uma nova tarefa com o botão abaixo
+locale-pt,EMPTY_STATE.TASKS.IMPORTED_CTA,importar tarefa
+locale-pt,EMPTY_STATE.TASKS.FOUND_TITLE,Nenhuma tarefa encontrada
+locale-pt,EMPTY_STATE.TASKS.FOUND_TEXT,Experimente modificar os filtros
+locale-pt,EMPTY_STATE.TASKS.NOT_SELECTED,AINDA NÃO FORAM IMPORTADAS TAREFAS
+locale-pt,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Pode importar uma nova tarefa com o botão do canto superior direito
+locale-pt,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Ainda não foi criada uma prescrição
+locale-pt,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Pode criar uma nova prescrição com o botão abaixo
+locale-pt,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,nova prescrição
+locale-pt,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Ainda não foi criada uma zona de gestão
+locale-pt,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Ainda não foi criada uma linha de orientação
+locale-pt,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Ainda não foi criada uma análise
+locale-pt,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,Pode criar uma nova análise com o botão abaixo
+locale-pt,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,aceder a projetor
+locale-pt,EMPTY_STATE.FIELDS.CREATED_TITLE,Ainda não foi criado um campo
+locale-pt,EMPTY_STATE.FIELDS.CREATED_TXT,Pode criar um novo campo com o botão abaixo
+locale-pt,EMPTY_STATE.FIELDS.FOUND_TITLE,Nenhum campo encontrado
+locale-pt,EMPTY_STATE.FIELDS.FOUND_TXT,Tente alterar a pesquisa e os filtros
+locale-pt,EMPTY_STATE.FIELDS.NOT_SELECTED,AINDA NÃO FOI SELECIONADO UM CAMPO
+locale-pt,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,Pode selecionar um campo na barra lateral à esquerda para ver todas as tarefas associadas
+locale-pt,EMPTY_STATE.VEHICLES.CREATED_TITLE,Ainda não foram criados veículos
+locale-pt,EMPTY_STATE.VEHICLES.FOUND_TITLE,Ainda não foram encontrados veículos
+locale-pt,EMPTY_STATE.VEHICLES.FOUND_TXT,Tente modificar a pesquisa e os filtros
+locale-pt,FIELD_CARD.ACTIONS.EDIT,Editar campo
+locale-pt,FIELD_CARD.ACTIONS.DELETE,Eliminar
+locale-pt,FIELD_CARD.INFO,Informação do campo
+locale-pt,FIELD_CARD.GROWER,Cultivador
+locale-pt,FIELD_CARD.FARM,Quinta
+locale-pt,FIELD_CARD.AREA,Área total de campo
+locale-pt,FIELD_CARD.CROPS,Culturas
+locale-pt,FIELD_CARD.TILLABLE,Área cultivável
+locale-pt,FIELD_CARD.WEATHER,Condições meteorológicas
+locale-pt,FIELD_CARD.LAST_TASKS,Últimas 3 tarefas
+locale-pt,FIELD_CARD.IMPORT_TASKS,Importar tarefa
+locale-pt,FIELD_CARD.SUMMARY_TASKS,Resumo de tarefas
+locale-pt,PRESCRIPTION.PRESCRIPTION,Prescrição
+locale-pt,PRESCRIPTION.SENT_TO_VEHICLE,A prescrição foi enviada para o veículo
+locale-pt,PRESCRIPTION.NOT_SENT_TO_VEHICLE,A prescrição não foi enviada para o veículo
+locale-pt,PRESCRIPTION.PRESCRIPTION_EMPTY,AINDA NÃO FOI CRIADA UMA PRESCRIÇÃO
+locale-pt,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,Pode criar uma nova prescrição com o botão do canto superior direito
+locale-pt,PRESCRIPTION.SELECT_DEVICE,Selecionar um dispositivo
+locale-pt,PRESCRIPTION.SELECT_DEVICE_EMPTY,Nenhum dispositivo selecionado
+locale-pt,PRESCRIPTION.SELECT_DEVICE_DESC,Selecione um dispositivo a partir da lista abaixo.
+locale-pt,PRESCRIPTION.APPLIED_DATE,Data planeada
+locale-pt,PRESCRIPTION.CREATION_DATE,Data de criação
+locale-pt,PRESCRIPTION.TOTAL_AREA,Área total
+locale-pt,PRESCRIPTION.PRODUCT_QUANTITY,Total estimado
+locale-pt,PRESCRIPTION.STATUS_PROCESSING,A criar ficheiro de prescrição...
+locale-pt,PRESCRIPTION.STATUS_PROCESSED,Prescrição criada
+locale-pt,PRESCRIPTION.PLANNED_DATE,Data planeada
+locale-pt,PRESCRIPTION.HIDE_ZONES,OCULTAR ZONAS
+locale-pt,PRESCRIPTION.SHOW_ZONES,MOSTRAR ZONAS
+locale-pt,PRESCRIPTION.GROWERS_SELECT,Todos os cultivadores
+locale-pt,PRESCRIPTION.FARMS_SELECT,Todas as quintas
+locale-pt,PRESCRIPTION.GROWER_REQUIRED,Cultivador necessário
+locale-pt,PRESCRIPTION.FARM_REQUIRED,Nome da quinta necessário
+locale-pt,PRESCRIPTION.FIELD_SELECT,Todos os campos
+locale-pt,PRESCRIPTION.FIELD_REQUIRED,Campo necessário.
+locale-pt,PRESCRIPTION.NEW_PRESCRIPTIONS,Nova prescrição
+locale-pt,PRESCRIPTION.PRESCRIPTION_CREATE,Criar prescrição
+locale-pt,PRESCRIPTION.MGMT,Zona MGMT
+locale-pt,PRESCRIPTION.MANAGEMENT_ZONE,Zona de gestão
+locale-pt,PRESCRIPTION.MANAGEMENT_NAME,Nome da zona de gestão
+locale-pt,PRESCRIPTION.MANAGEMENT_SELECT,Selecione a zona de gestão.
+locale-pt,PRESCRIPTION.MANAGEMENT_SEARCH,Pesquise a zona de gestão.
+locale-pt,PRESCRIPTION.MANAGEMENT_REQUIRED,Zona de gestão necessária.
+locale-pt,PRESCRIPTION.MANAGEMENT_CTA,GUARDAR ZONA DE GESTÃO
+locale-pt,PRESCRIPTION.PRODUCT_SEARCH,Pesquisar produto
+locale-pt,PRESCRIPTION.PRODUCT_SELECT,Selecionar produto
+locale-pt,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Produto necessário
+locale-pt,PRESCRIPTION.PRODUCT_VALUE,Valor do produto
+locale-pt,PRESCRIPTION.PRODUCT_VALUE_SELECT,Selecionar valor do produto
+locale-pt,PRESCRIPTION.PRODUCT_VALUE_INPUT,Introduzir valor do produto
+locale-pt,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Valor do produto necessário
+locale-pt,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,O valor do produto não pode ser negativo
+locale-pt,PRESCRIPTION.PRODUCT_NAME,Nome do produto
+locale-pt,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Nome do produto necessário
+locale-pt,PRESCRIPTION.PRODUCT_NAME_INSERT,Introduzir nome do produto
+locale-pt,PRESCRIPTION.UNIT_SELECT,Selecionar unidade
+locale-pt,PRESCRIPTION.UNIT_SELECT_REQUIRED,Unidade necessária
+locale-pt,PRESCRIPTION.MAP_NAME,Nome do mapa de prescrições
+locale-pt,PRESCRIPTION.MAP_NAME_REQUIRED,Nome do mapa de prescrições necessário
+locale-pt,PRESCRIPTION.MAP_EDIT,Editar mapa de prescrições
+locale-pt,PRESCRIPTION.MAP_EDIT_N,Editar nome do mapa de prescrições
+locale-pt,PRESCRIPTION.MAP_SET_N,Definir nome do mapa de prescrições
+locale-pt,PRESCRIPTION.ZONE_NUMBER,Zonas
+locale-pt,PRESCRIPTION.SEND_TO,Enviar prescrição
+locale-pt,PRESCRIPTION.UNAVAILABLE,O ficheiro de prescrição está a ser gerado e será notificado assim que a operação estiver concluída. Tente novamente mais tarde.
+locale-pt,PRESCRIPTION.PROCESSED,O ficheiro de prescrição para {{prescriptionName}} está pronto. Pode agora transferi-lo ou enviá-lo para as máquinas.
+locale-pt,PRESCRIPTION.PRESCRIPTION_MAP,Mapa de prescrição
+locale-pt,PRESCRIPTION.ANALYSIS,Análise
+locale-pt,PRESCRIPTION.UNKNOWN,Desconhecido
+locale-pt,PRESCRIPTION.CREATED,O mapa de prescrição {{name}} foi criado
+locale-pt,SIDEBAR.USER_MANAGEMENT,gestão de utilizadores
+locale-pt,SIDEBAR.REPORT_ISSUE,comunicar problema
+locale-pt,SIDEBAR.SUBSCRIPTION_MANAGEMENT,gestão de subscrição
+locale-pt,SIDEBAR.STORE,guardar
+locale-pt,OVERVIEW_SIDEBAR.FIELDS_TAB,Campos
+locale-pt,OVERVIEW_SIDEBAR.VEHICLES_TAB,Veículos
+locale-pt,PRIMARY_NAV.UPLOAD,carregar
+locale-pt,PRIMARY_NAV.LOGOUT,terminar sessão
+locale-pt,SECONDARY_NAV.OVERVIEW,descrição geral
+locale-pt,SECONDARY_NAV.TASKS,tarefas
+locale-pt,SECONDARY_NAV.PRESCRIPTIONS,prescrições
+locale-pt,SECONDARY_NAV.MANAGE,gerir
+locale-pt,MANAGE_NAV.GROWERS,cultivadores
+locale-pt,MANAGE_NAV.FARMS,quintas
+locale-pt,MANAGE_NAV.FIELDS,campos
+locale-pt,MANAGE_NAV.CROPS,culturas
+locale-pt,MANAGE_NAV.PRODUCTS,produtos
+locale-pt,GFF.FIELD,campo
+locale-pt,GFF.FIELDS,campos
+locale-pt,GFF.FARM,quinta
+locale-pt,GFF.FARMS,quintas
+locale-pt,GFF.GROWER,cultivador
+locale-pt,GFF.GROWERS,cultivadores
+locale-pt,GFF.SEARCH_FIELD,Pesquisar nome do campo
+locale-pt,GFF.GROWERS_SELECT,Todos os cultivadores
+locale-pt,GFF.FARMS_SELECT,Todas as quintas
+locale-pt,VEHICLES.VEHICLES,veículos
+locale-pt,VEHICLES.VEHICLE,veículo
+locale-pt,VEHICLES.SN,N/S
+locale-pt,VEHICLES.BRAND,Marca
+locale-pt,VEHICLES.TYPE,Tipo
+locale-pt,VEHICLES.MODEL,Modelo
+locale-pt,VEHICLES.STATUS,Estado
+locale-pt,VEHICLES.SPEED,Velocidade
+locale-pt,VEHICLES.DISTANCE,Distância
+locale-pt,VEHICLES.ENGINE_H,Horas do motor
+locale-pt,VEHICLES.ENGINE_S,Velocidade do motor
+locale-pt,VEHICLES.FUEL,Nível de combustível
+locale-pt,VEHICLES.FUELRATE,Taxa de combustível
+locale-pt,VEHICLES.GOTO_FORCE,Aceder a Force
+locale-pt,VEHICLES.MACHINE_INFO,Informações da máquina
+locale-pt,VEHICLES.SEARCH_VEHICLE,Pesquisar nome do veículo
+locale-pt,FARM.NEW,nova quinta
+locale-pt,FARM.NEW_CREATE,Criar nova quinta
+locale-pt,FARM.EDIT,Editar quinta
+locale-pt,FARM.FARMS,Quintas
+locale-pt,FIELD.NEW,Novo campo
+locale-pt,FIELD.UPDATE,Atualizar campo
+locale-pt,FIELD.CREATE,Criar campo
+locale-pt,FIELD.FIELDS,Campos
+locale-pt,FIELD.SELECT_GROWER,Selecionar cultivador
+locale-pt,FIELD.REQUIRED_GROWER,Cultivador necessário
+locale-pt,FIELD.SEARCH_GROWER,Pesquisar cultivador
+locale-pt,FIELD.NO_GROWER,Nenhum cultivador selecionado
+locale-pt,FIELD.SELECT_FARM,Selecionar quinta
+locale-pt,FIELD.REQUIRED_FARM,Quinta necessária
+locale-pt,FIELD.SEARCH_FARM,Pesquisar quinta
+locale-pt,FIELD.SEARCH_FIELD,Pesquisar campo
+locale-pt,FIELD.NAME_FIELD,Nome do campo
+locale-pt,FIELD.NAME_FIELD_REQUIRED,Nome de campo necessário
+locale-pt,FIELD.FIELD_SELECT,Selecionar campo
+locale-pt,FIELD.FIELD_REQUIRED,Campo necessário.
+locale-pt,FIELD.BOUNDARY,Área de fronteira
+locale-pt,FIELD.TILLABLE,Área cultivável
+locale-pt,FIELD.INSERT_TILLABLE,Introduzir área cultivável
+locale-pt,FIELD.TILLABLE_REQUIRED,Área cultivável necessária
+locale-pt,FIELD.ZONE_VALUE,Introduzir valor de zona
+locale-pt,NEW_FIELD.TITLE,Novo campo
+locale-pt,NEW_FIELD.SELECT_GROWER,Selecionar cultivador
+locale-pt,NEW_FIELD.SELECT_FARM,Selecionar quinta
+locale-pt,NEW_FIELD.GROWER_LABEL,Cultivador
+locale-pt,NEW_FIELD.FARM_LABEL,Quinta
+locale-pt,NEW_FIELD.FIELD_LABEL,Nome do campo
+locale-pt,NEW_FIELD.FARM_REQUIRED,Nome da quinta necessário
+locale-pt,NEW_FIELD.FIELD_INPUT,Introduzir nome do campo
+locale-pt,NEW_FIELD.FIELD_INPUT_ERROR,Nome de campo necessário
+locale-pt,NEW_FIELD.BOUNDARY_AREA,Área de fronteira
+locale-pt,NEW_FIELD.TILLABLE_AREA,Área cultivável
+locale-pt,NEW_FIELD.TILLABLE_AREA_REQUIRED,Área cultivável necessária
+locale-pt,NEW_FIELD.CREATE_FIELD,criar campo
+locale-pt,NEW_FIELD.SAVE_FIELD,guardar campo
+locale-pt,NEW_FIELD.ERROR.NEW,Não foi possível criar novo campo.
+locale-pt,NEW_FIELD.ERROR.EDIT,Não possível editar o campo atual.
+locale-pt,NEW_FIELD.ERROR.GENERIC,Não foi possível criar um novo campo devido a um erro interno
+locale-pt,NEW_FIELD.ERROR_NEW,
+locale-pt,NEW_FIELD.ERROR_EDIT,
+locale-pt,NEW_FIELD.CANCEL,cancelar
+locale-pt,NEW_FIELD.NO_GROWER,Nenhum cultivador disponível
+locale-pt,NEW_FIELD.NO_FARM,Nenhuma quinta disponível
+locale-pt,NEW_FARM_MODAL.TITLE,Nova quinta
+locale-pt,NEW_FARM_MODAL.GROWER_LABEL,Cultivador
+locale-pt,NEW_FARM_MODAL.NO_GROWER_SELECTED,Nenhum cultivador selecionado
+locale-pt,NEW_FARM_MODAL.FARM_LABEL,Nome da quinta
+locale-pt,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Nome da quinta necessário
+locale-pt,NEW_FARM_MODAL.CREATE,criar
+locale-pt,NEW_FARM_MODAL.CLOSE,fechar
+locale-pt,GROWER_MODAL.TITLE,Novo cultivador
+locale-pt,GROWER_MODAL.GROWER_LABEL,Nome do cultivador
+locale-pt,GROWER_MODAL.GROWER_INPUT_REQUIRED,Nome de cultivador necessário
+locale-pt,GROWER_MODAL.CREATE,criar
+locale-pt,GROWER_MODAL.CLOSE,fechar
+locale-pt,GROWER_MODAL.EG,Por exemplo: João Silva
+locale-pt,TASK.SHOW_LAYER,MOSTRAR CAMADAS DISPONÍVEIS
+locale-pt,TASK.HIDE_LAYER,OCULTAR CAMADA DISPONÍVEL
+locale-pt,TASK.SHOW_PREVIEW,Mostrar pré-visualização
+locale-pt,TASK.NO_TYPE,Nenhum tipo selecionado.
+locale-pt,TASK.NO_YEAR,Nenhum ano selecionado.
+locale-pt,TASK.SELECT_YEAR,Selecione um ano.
+locale-pt,TASK.SELECT_OP,Selecione uma operação.
+locale-pt,TASK.TASK_NOT_ASSOCIATED,Tarefas não associadas
+locale-pt,TASK.IMPORT_TASKS,Importar tarefas
+locale-pt,TASK.INSERT,Introduza o nome da tarefa.
+locale-pt,TASK.NAME,Nome da tarefa.
+locale-pt,TASK.EDIT,Edite a tarefa.
+locale-pt,TASK.EDIT_INFO,Editar informação
+locale-pt,TASK.REQUIRED,Nome de tarefa necessário.
+locale-pt,TASK.ACTUAL_RATE,Taxa real
+locale-pt,TASK.SENSOR_RDNG,Sensor RDNG
+locale-pt,TASK.SENSOR_WDTH,Largura do sensor
+locale-pt,TASK.YIELD_MASS,Massa de produtividade
+locale-pt,TASK.MOISTURE,Humidade
+locale-pt,TASK.CELL_MASS,Massa de célula
+locale-pt,TASK.CELL_AREA,Área de célula
+locale-pt,TASK.YIELD_VOL,Volume de produtividade
+locale-pt,TASK.UNADJ_CELL_M,Célula não ajustada
+locale-pt,TASK.NO_OPERATION,Nenhuma operação disponível
+locale-pt,TASK.TASK_TYPE_UNKNOWN,Tipo de tarefa desconhecido
+locale-pt,TASK.TASK_TYPE,Tipo de tarefa
+locale-pt,TASK.SELECT_TASK_TYPE,Selecionar tipo de tarefa
+locale-pt,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Este tipo de tarefa não foi reconhecido pelo sistema.
+locale-pt,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Altere este tipo de tarefa para um conhecido em TAP.
+locale-pt,TASK.CHANGE_TASK_TYPE,alterar tipo de tarefa
+locale-pt,TASK.TASK_DATE,Data da tarefa
+locale-pt,TASK.TASK_LAYER_ISSUE,Problema com camada de tarefa
+locale-pt,TASK.TASK_LAYER_ISSUE_DESCRIPTION,Esta camada de tarefa tem informação em falta. Não está relacionada com uma variável conhecida e/ou a unidade de medida está em falta
+locale-pt,TASK.EDIT_TASK_LAYER,Editar camada de tarefa
+locale-pt,TASK.EDIT_TASK_LAYER_WARNING,Não pode utilizar as camadas enquanto não associar o tipo de tarefa a um conhecido em TAP
+locale-pt,TASK.EDIT_LAYER,Editar camada
+locale-pt,TASK.LAYER_TYPE,Tipo de camada
+locale-pt,TASK.SELECT_A_LAYER_TYPE,Selecionar um tipo de camada
+locale-pt,TASK.UNIT_OF_MEASUREMENT,Unidade de medida
+locale-pt,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Selecione uma unidade de medida
+locale-pt,TASK.SELECT_A_LAYER_FIRST,|Primeiro, tem de selecionar um tipo de camada|
+locale-pt,TASK.LAYER_UPDATED,A camada {{layerName}} foi atualizada
+locale-pt,TASK.TASK_UPDATED,A tarefa {{taskName}} foi atualizada
+locale-pt,TASK.UNKNOWN,desconhecido
+locale-pt,CROP.INSERT_NAME,Introduzir nome da cultura
+locale-pt,CROP.NAME,Nome da cultura
+locale-pt,CROP.REQUIRED,Nome de cultura necessário
+locale-pt,CROP.SELECT,Selecionar cultura
+locale-pt,CROP.CROP,Cultura
+locale-pt,CROP.SEARCH,Pesquisar cultura
+locale-pt,CROP.NEW,Nova cultura
+locale-pt,CROP.EDIT,Editar cultura
+locale-pt,CROP.CROPS,Culturas
+locale-pt,CROP.CROP_SPEC,Especificação da cultura
+locale-pt,THEMATIZATION.CLASSES,Classes
+locale-pt,THEMATIZATION.COLOR_RAMP,Gradação de cores
+locale-pt,THEMATIZATION.GREY,Cinzentos
+locale-pt,THEMATIZATION.RED,Vermelhos
+locale-pt,THEMATIZATION.GREEN,Verdes
+locale-pt,THEMATIZATION.BLUE,Azuis
+locale-pt,THEMATIZATION.GYR,VerdAmarVerm
+locale-pt,THEMATIZATION.SPECTRAL,Espectral
+locale-pt,THEMATIZATION.INVERTED,Invertida
+locale-pt,THEMATIZATION.THRESHOLD,Limite
+locale-pt,THEMATIZATION.METHOD,Método
+locale-pt,THEMATIZATION.METHOD_SELECT,Selecionar um método
+locale-pt,THEMATIZATION.METHOD_REQUIRED,Método necessário
+locale-pt,THEMATIZATION.EDIT,Editar temática
+locale-pt,THEMATIZATION.E_A,Área igual
+locale-pt,THEMATIZATION.E_I,Intervalo igual
+locale-pt,THEMATIZATION.N_B,Intervalos naturais
+locale-pt,GROWER.NEW,Novo cultivador
+locale-pt,GROWER.EDIT,Editar cultivador
+locale-pt,GROWER.GROWERS,Cultivadores
+locale-pt,PRODUCT.NEW,Novo produto
+locale-pt,PRODUCT.EDIT,Editar produto
+locale-pt,PRODUCT.EDIT_VALUE,Editar valor de produto
+locale-pt,PRODUCT.PRODUCTS,Produtos
+locale-pt,DELETE_MODAL.PRE,Eliminar prescrição
+locale-pt,DELETE_MODAL.QUESTION,Tem a certeza de que pretende eliminar
+locale-pt,DELETE_MZ_MODAL.PRE,Sair do modo de criação de zona de gestão
+locale-pt,DELETE_MZ_MODAL.QUESTION,Tem a certeza de que pretende sair do modo de criação de zona de gestão? Perderá todas as alterações não guardadas.
+locale-pt,DELETE_MZ_MODAL.CONFIRM,|SIM, SAIR|
+locale-pt,EDIT_PRESCRIPTION_MODAL.PRE,Sair do modo de criação de prescrição
+locale-pt,EDIT_PRESCRIPTION_MODAL.QUESTION,|Tem a certeza de que pretende sair do modo de criação de prescrição? Se continuar, perderá todos os dados introduzidos.|
+locale-pt,DELETE_TASK_MODAL.PRE,Eliminar tarefa
+locale-pt,DELETE_TASK_MODAL.QUESTION,Tem a certeza de que pretende eliminar
+locale-pt,ZONE.EDIT,Editar nome de zona
+locale-pt,ZONE.SET,Definir nome de zona de gestão
+locale-pt,PDF.TITLE,pdf
+locale-pt,MAP.EDIT_TOOLTIP_TEXT,Arrastar a alça para modificar o campo
+locale-pt,MAP.REMOVE_TOOLTIP_TEXT,Clique num campo para o remover
+locale-pt,MAP.POLYGON_TOOLTIP_START,Clique no mapa para começar a desenhar o campo.<br/>Desenhe dentro do polígono para criar uma depressão no campo
+locale-pt,MAP.BUFFER_TOOLTIP.TEXT,Clique e arraste para expandir ou encolher o campo
+locale-pt,MAP.BUFFER_TOOLTIP.MEASURE,Raio
+locale-pt,MAP.POLYGON_TOOLTIP.START,Clique para começar a desenhar
+locale-pt,MAP.POLYGON_TOOLTIP.CONT,Clique no mapa para continuar<br/>a desenhar o mapa
+locale-pt,MAP.POLYGON_TOOLTIP.END,Clique no primeiro ponto para terminar<br/>a criação do campo
+locale-pt,MAP.POLYLINE.ERROR,<strong>Erro:</strong> não é possível cruzar as arestas da forma!
+locale-pt,MAP.POLYLINE.TOOLTIP.START,Clique para começar a desenhar a linha.
+locale-pt,MAP.POLYLINE.TOOLTIP.CONT,Clique para continuar a desenhar a linha.
+locale-pt,MAP.POLYLINE.TOOLTIP.END,Clique no último ponto para terminar a linha.
+locale-pt,MAP.PLUGINS.ZOOM.OUT,Reduzir
+locale-pt,MAP.PLUGINS.ZOOM.IN,Ampliar
+locale-pt,MAP.PLUGINS.SEARCH.PLACEHOLDER,Pesquisar localização
+locale-pt,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Localização não encontrada
+locale-pt,MAP.PLUGINS.UPLOAD.TEXT,importar ficheiro de formato
+locale-pt,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Largar um ficheiro de forma...
+locale-pt,MAP.PLUGINS.WEATHER.TEMPERATURE,temperatura
+locale-pt,MAP.PLUGINS.WEATHER.DEW_POINT,ponto de orvalho
+locale-pt,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,humidade relativa
+locale-pt,MAP.PLUGINS.WEATHER.WIND_SPEED,velocidade do vento
+locale-pt,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,sensação de temperatura
+locale-pt,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Sem dados apresentados
+locale-pt,MAP.PLUGINS.LEGEND.MIN_LABEL,Mín.: {{data}}
+locale-pt,MAP.PLUGINS.LEGEND.MAX_LABEL,Máx.: {{data}}
+locale-pt,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satélite
+locale-pt,MAP.PLUGINS.LAYER_SWITCH.STREET,rua
+locale-pt,OPERATIONS.YIELD,Produtividade
+locale-pt,OPERATIONS.AS_APPLIED,Produto aplicado
+locale-pt,OPERATIONS.SOIL_SAMPLE,Amostra de solo
+locale-pt,OPERATIONS.OTHER,Outra
+locale-pt,STATISTICS.SPREAD_TIME,Tempo de dispersão
+locale-pt,STATISTICS.PRODUCT_TOTAL,Total estimado
+locale-pt,STATISTICS.PRODUCT_SPREAD_TIME,Tempo de dispersão prod.
+locale-pt,STATISTICS.PRODUCT_AREA,Área produto
+locale-pt,STATISTICS.SENSOR_TYPE,Tipo de sensor
+locale-pt,STATISTICS.TOTAL_AREA,Área total
+locale-pt,STATISTICS.TOTAL_MASS,Massa total
+locale-pt,STATISTICS.UN_ADJ_TTL_M,TTL não ajustado
+locale-pt,STATISTICS.SENSOR_WDTH,Largura do sensor
+locale-pt,PROFILE.FEEDBACK,Enviar feedback
+locale-pt,PROFILE.HELP,Ajuda e suporte
+locale-pt,VARIABLE.ACTUAL_RATE,Taxa real
+locale-pt,VARIABLE.SENSOR_RDNG,Sensor RDNG
+locale-pt,VARIABLE.SENSOR_WDTH,Largura do sensor
+locale-pt,VARIABLE.YIELD_MASS,Massa de produtividade
+locale-pt,VARIABLE.MOISTURE,Humidade
+locale-pt,VARIABLE.CELL_MASS,Massa de célula
+locale-pt,VARIABLE.CELL_AREA,Área de célula
+locale-pt,VARIABLE.YIELD_VOL,Volume de produtividade
+locale-pt,VARIABLE.UNADJ_CELL_M,Célula não ajustada
+locale-it,DATE_FORMAT.NORMAL,MM/GG/AAAA
+locale-it,DATE_FORMAT.PILL,GG MMM
+locale-it,DATE_FORMAT.WEATHER,|MMMM G, gggg|
+locale-it,GLOBAL.SEND,Invia
+locale-it,GLOBAL.SEND_DATA,Invia dati
+locale-it,GLOBAL.FIELD_NAME,Nome campo
+locale-it,GLOBAL.CHANGE_STYLE,Modifica stile
+locale-it,GLOBAL.OPACITY,Opacità
+locale-it,GLOBAL.VIEW_MODE,Modalità visualizzazione
+locale-it,GLOBAL.VECTOR,Vettore
+locale-it,GLOBAL.RASTER,Raster
+locale-it,GLOBAL.REQUIRED_VALUE,Valore richiesto
+locale-it,GLOBAL.BOUNDARY_AREA,Area confine
+locale-it,GLOBAL.TILLABLE_AREA,Area coltivabile
+locale-it,GLOBAL.SHOW_LAYERS_LIST,Mostra elenco livelli
+locale-it,GLOBAL.HIDE_LAYERS_LIST,Nascondi elenco livelli
+locale-it,GLOBAL.SET_VALUE,Imposta valore
+locale-it,GLOBAL.DEVICES,Dispositivi
+locale-it,GLOBAL.SEARCH,Cerca
+locale-it,GLOBAL.FIELDS,campi
+locale-it,GLOBAL.FIELD,campo
+locale-it,GLOBAL.FARM,azienda agricola
+locale-it,GLOBAL.FARMS,aziende agricole
+locale-it,GLOBAL.ZONE,Zona
+locale-it,GLOBAL.ZONES,Zone
+locale-it,GLOBAL.PRODUCT,Prodotto
+locale-it,GLOBAL.PRODUCTS,Prodotti
+locale-it,GLOBAL.GROWER,coltivatore
+locale-it,GLOBAL.GROWERS,coltivatori
+locale-it,GLOBAL.GUIDANCE,Guida
+locale-it,GLOBAL.TASKS,attività
+locale-it,GLOBAL.CROP,prodotto
+locale-it,GLOBAL.CROPS,prodotti
+locale-it,GLOBAL.VEHICLES,veicoli
+locale-it,GLOBAL.VEHICLE,veicolo
+locale-it,GLOBAL.UNIT,unità
+locale-it,GLOBAL.PRODUCT_TYPE,Tipo prodotto
+locale-it,GLOBAL.SHOWME,MOSTRAMI
+locale-it,GLOBAL.CANCEL,annulla
+locale-it,GLOBAL.EDIT,Modifica
+locale-it,GLOBAL.DELETE,Elimina
+locale-it,GLOBAL.DELETE_CONFIRMATION,Eliminare?
+locale-it,GLOBAL.SEND_TO,Invia a
+locale-it,GLOBAL.MORE,Altro
+locale-it,GLOBAL.CLEAR_LIST,Cancella elenco
+locale-it,GLOBAL.CREATED,Data di creazione
+locale-it,GLOBAL.ALL,Tutti
+locale-it,GLOBAL.YEAR,Anno
+locale-it,GLOBAL.TYPE,Tipo
+locale-it,GLOBAL.ALARM,Allarme
+locale-it,GLOBAL.ALARMS,Allarmi
+locale-it,GLOBAL.OPERATION,Operazione
+locale-it,GLOBAL.NAME,nome
+locale-it,GLOBAL.EG,Es.: Fattoria Valle Giulia
+locale-it,GLOBAL.COMPANY,azienda
+locale-it,GLOBAL.SUBCOMPANY,Affiliata
+locale-it,GLOBAL.FLEET,Flotta
+locale-it,GLOBAL.CONFIRM,Conferma
+locale-it,GLOBAL.CREATE,Crea
+locale-it,GLOBAL.CLOSE,chiudi
+locale-it,GLOBAL.SAVE,Salva
+locale-it,GLOBAL.CREATED_S,Creato
+locale-it,GLOBAL.VIEW_ON_MAP,Visualizza su mappa
+locale-it,GLOBAL.SETTINGS,Impostazioni
+locale-it,GLOBAL.HELP,Ulteriori informazioni
+locale-it,GLOBAL.LOGOUT,Disconnetti
+locale-it,GLOBAL.TASK_ID,attività {{id}}
+locale-it,GLOBAL.FARM_ID,azienda agricola {{id}}
+locale-it,GLOBAL.FIELD_ID,campo {{id}}
+locale-it,GLOBAL.HOUR,ora
+locale-it,GLOBAL.HOURS,ore
+locale-it,GLOBAL.MINUTE,minuto
+locale-it,GLOBAL.MINUTES,minuti
+locale-it,GLOBAL.VIEW_LAYERS,Visualizza livelli
+locale-it,GLOBAL.AT,alle ore
+locale-it,GLOBAL.ON,in data
+locale-it,GLOBAL.OF,di
+locale-it,GLOBAL.COMPLETED,completato
+locale-it,UPLOAD.DND,Trascina i file qui!
+locale-it,UPLOAD.OR,o
+locale-it,UPLOAD.BROWSE,sfoglia file
+locale-it,UPLOAD.FILE_FORMATS,|ISOXML, file di forma, CN1|
+locale-it,UPLOAD.UPLOADING,Caricamento in corso
+locale-it,UPLOAD.UPLOADING_DOT,Caricamento in corso...
+locale-it,UPLOAD.ERROR,Errore
+locale-it,UPLOAD.ERROR_PLURAL,Errori
+locale-it,UPLOAD.ERROR_UPLOADING,Errore di caricamento
+locale-it,UPLOAD.ERROR_IMPORTING,Errore di importazione
+locale-it,UPLOAD.AN_ERROR_OCCURRED,Si è verificato un errore
+locale-it,UPLOAD.RETRY,Ripeti caricamento
+locale-it,UPLOAD.PROCESSING,Elaborazione in corso
+locale-it,UPLOAD.STATUS.PROCESSING.ONE,Elaborazione di {{count}} file in corso
+locale-it,UPLOAD.STATUS.PROCESSING.MANY,Elaborazione di {{count}} file in corso
+locale-it,UPLOAD.STATUS.UPLOADING.ONE,Caricamento di {{count}} file in corso
+locale-it,UPLOAD.STATUS.UPLOADING.MANY,Caricamento di {{count}} file in corso
+locale-it,UPLOAD.STATUS.COMPLETED.ONE,{{count}} file caricato
+locale-it,UPLOAD.STATUS.COMPLETED.MANY,{{count}} file caricati
+locale-it,UPLOAD.PROCESSING_TASK,Elaborazione in corso...
+locale-it,UPLOAD.GLOBAL_COMPLETED,{{files}} file caricato
+locale-it,UPLOAD.GLOBAL_COMPLETED_PLURAL,{{files}} file caricati
+locale-it,UPLOAD.COMPLETED,Il file è stato caricato
+locale-it,UPLOAD.HAS_BEEN,è stato importato nel campo 
+locale-it,UPLOAD.HAS_BEEN_FROM,{{taskName}} da {{fileName}} è stato importato nel campo {{fieldName}}
+locale-it,UPLOAD.HAS_BEEN_ORPHAN,è stato importato come attività isolata
+locale-it,UPLOAD.UNKNOWN,File sconosciuto.
+locale-it,UPLOAD.START_NOTIFICATION,L'attività {{fileName}} è in corso di elaborazione
+locale-it,UPLOAD.FINISH_NOTIFICATION,{{fileName}} è stato importato
+locale-it,UPLOAD.GFF_UPDATE_NOTIFICATION,|Dati Coltivatore, Azienda agricola e Campo in corso di aggiornamento|
+locale-it,UPLOAD.UNEXPECTED_ERROR,Durante l'elaborazione del file si è verificato un errore imprevisto
+locale-it,UPLOAD.WARNING_TO_CHECK,C'è un messaggio di avvertimento da controllare
+locale-it,UPLOAD.SEE_DETAILS,Vedi dettagli
+locale-it,UPLOAD.FILE,file
+locale-it,UPLOAD.FILE_PLURAL,file
+locale-it,UPLOAD.SUPPORTED_FORMATS,Formati supportati:
+locale-it,UPLOAD.HAVING_PROBLEMS,Ulteriori informazioni sul caricamento
+locale-it,UPLOAD.TOOLTIP_MESSAGE,|Prima di caricare file ISOXML comprimere l'intero contenuto della cartella TASKDATA. Accertarsi di includere tutti i file XML, BIN e qualsiasi altro file presente nella cartella TASKDATA. Quindi, caricare il file ZIP e non i singoli file.|
+locale-it,UPLOAD.DISMISS,Ignora
+locale-it,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> è stato creato nel campo <strong>{{fieldName}}</strong>
+locale-it,UPLOAD.FILE_IMPORTED,{{fileName}} è stato importato
+locale-it,ERRORS.ERROR_FOUND.ZERO,
+locale-it,ERRORS.ERROR_FOUND.ONE,{{errorCount}} errore trovato
+locale-it,ERRORS.ERROR_FOUND.MANY,{{errorCount}} errori trovati
+locale-it,ERRORS.ERROR_VIEW.ZERO,
+locale-it,ERRORS.ERROR_VIEW.ONE,C'è {{errorCount}} errore. Visualizzarlo premendo il pulsante seguente
+locale-it,ERRORS.ERROR_VIEW.MANY,Ci sono {{errorCount}} errori. Visualizzarli premendo il pulsante seguente
+locale-it,ERRORS.HTTP.PARSE,Impossibile analizzare la risposta ricevuta dal server
+locale-it,ERRORS.HTTP.FETCH,Impossibile recuperare i dati {{object}}
+locale-it,ERRORS.GROWERS.NEW,Impossibile creare un nuovo coltivatore
+locale-it,ERRORS.GROWERS.EDIT,Impossibile modificare il coltivatore con id {{id}}
+locale-it,ERRORS.GROWERS.DELETE,Impossibile eliminare il coltivatore con id {{id}}
+locale-it,ERRORS.FARMS.NEW,Impossibile creare una nuova azienda agricola
+locale-it,ERRORS.FARMS.EDIT,Impossibile modificare l'azienda agricola con id {{id}}
+locale-it,ERRORS.FARMS.DELETE,Impossibile eliminare l'azienda agricola con id {{id}}
+locale-it,ERRORS.CROPS.NEW,Impossibile creare un nuovo prodotto
+locale-it,ERRORS.CROPS.EDIT,Impossibile modificare il prodotto con id {{id}}
+locale-it,ERRORS.CROPS.DELETE,Impossibile eliminare il prodotto con id {{id}}
+locale-it,ERRORS.PRODUCTS.NEW,Impossibile creare un nuovo prodotto
+locale-it,ERRORS.PRODUCTS.EDIT,Impossibile modificare il prodotto con id {{id}}
+locale-it,ERRORS.PRODUCTS.DELETE,Impossibile eliminare il prodotto con id {{id}}
+locale-it,ERRORS.TASKS.NEW,Impossibile creare una nuova attività
+locale-it,ERRORS.TASKS.EDIT,Impossibile modificare l'attività con id {{id}}
+locale-it,ERRORS.TASKS.DELETE,Impossibile eliminare l'attività con id {{id}}
+locale-it,ERRORS.PRESCRIPTIONS.NEW,Impossibile creare una nuova prescrizione
+locale-it,ERRORS.PRESCRIPTIONS.EDIT,Impossibile modificare la prescrizione con id {{id}}
+locale-it,ERRORS.PRESCRIPTIONS.DELETE,Impossibile eliminare la prescrizione con id {{id}}
+locale-it,ERRORS.FIELDS.EDIT,Impossibile modificare il campo con id {{id}}
+locale-it,ERRORS.FIELDS.DELETE,Impossibile eliminare il campo con id {{id}}
+locale-it,ERRORS.MZONE.CREATE,Impossibile creare una zona di gestione
+locale-it,ERRORS.MZONE.EDIT,Impossibile modificare la zona di gestione con id {{id}}
+locale-it,ERRORS.MZONE.DELETE,Impossibile eliminare la zona di gestione con id {{id}}
+locale-it,ERRORS.VARIABLE.EDIT,Impossibile modificare la variabile con id {{id}}
+locale-it,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Intestazioni dati non valide
+locale-it,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Impossibile analizzare i parametri di input dal file importato.
+locale-it,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,File sorgente non trovato
+locale-it,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Percorso file non valido o non accessibile.
+locale-it,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Errore di importazione dati
+locale-it,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Si è verificato un errore di eccezione non gestita durante l'importazione del file.
+locale-it,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Errore nel tipo di attività
+locale-it,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Impossibile leggere il tipo di dati operativi dal file importato durante il caricamento.
+locale-it,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Errore nel file di forma di proiezione .PRJ
+locale-it,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Il file di forma caricato contiene un file di proiezione non supportato. Eliminare il file .prj dal file .zip.
+locale-it,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Impossibile leggere il file di importazione
+locale-it,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Il file importato contiene file danneggiati o non leggibili.
+locale-it,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,Errore di trasformazione in ADAPT
+locale-it,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Errore durante la trasformazione del file nel modello ADAPT.
+locale-it,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Impossibile leggere il file di forma
+locale-it,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,Dati non trovati nel file di forma caricato.
+locale-it,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Impossibile leggere il file di forma
+locale-it,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,Dati numerici non trovati nel file di forma caricato.
+locale-it,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Impossibile leggere il file di forma
+locale-it,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|File di forma caricato non valido. Il file .zip caricato include file .dbf, .shp e .shx.|
+locale-it,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Errore di scrittura su archivio
+locale-it,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Si è verificato un errore durante il tentativo di scrivere i dati importati sul database di archiviazione.
+locale-it,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Confronto dati non riuscito
+locale-it,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Si è verificato un errore durante il tentativo di caricare la struttura dati esistente durante l'importazione.
+locale-it,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Unione dati non riuscita
+locale-it,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Si è verificato un errore durante il tentativo di riconciliare la struttura dati importata con i dati esistenti.
+locale-it,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Errore Geo Match
+locale-it,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Errore di corrispondenza tra il campo e i confini del campo esistente. La creazione dell'attività è stata ignorata.
+locale-it,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Creazione campo non riuscita
+locale-it,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Errore durante la creazione di un nuovo campo. La creazione dell'attività è stata ignorata.
+locale-it,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Creazione campo non riuscita
+locale-it,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Errore durante la creazione di un nuovo campo. La creazione del campo è stata ignorata.
+locale-it,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Errore di post-elaborazione su archivio
+locale-it,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Si è verificato un errore durante il tentativo di scrittura dei dati importati sul database di archiviazione.
+locale-it,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Dati di copertura non trovati
+locale-it,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Il file importato non contiene dati di copertura.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Nessuna attività trovata
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Il file importato non contiene informazioni sulle attività.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Colonna non numerica rimossa
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,Il file caricato conteneva una colonna non numerica nei dati. La colonna è stata rimossa e i dati sono stati importati.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Rilevato conflitto data/ora
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Il file caricato conteneva colonne Data/ora multiple. È stata utilizzata la prima colonna Data/ora.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Impossibile calcolare i totali
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,I dati sono stati elaborati ma non contengono totali e non possono essere calcolati.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Dati precedenti importati
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,I dati sono stati ignorati. Si tratta del duplicato di un'attività importata precedentemente.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Attività non mappabile
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,Il file di attività caricato contiene riferimenti ad attività non mappabili. È stato rimosso.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Dati su sezione/larghezza mancanti
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Informazioni sulla sezione/larghezza mancati durante l'elaborazione del file. Le informazioni sulla sezione e sulla larghezza sono state dedotte da un'altra fonte.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Dati su sezione/larghezza mancanti
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Informazioni sulla sezione/larghezza mancati durante l'elaborazione del file. Le informazioni sulla sezione e sulla larghezza sono state dedotte da un'altra fonte.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Dati su sezione/larghezza mancanti
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Informazioni sulla sezione/larghezza mancati durante l'elaborazione del file. Le informazioni sulla sezione e sulla larghezza sono state dedotte da un'altra fonte.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Dati su sezione/larghezza mancanti
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Informazioni sulla sezione/larghezza mancati durante l'elaborazione del file. Le informazioni sulla sezione e sulla larghezza sono state dedotte da un'altra fonte.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Avvertenza modello dati
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Sono state riscontrate alcune incongruenze nel modello dati durante il processo di importazione.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Dati su sezione/larghezza mancanti
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Informazioni sulla sezione/larghezza mancati durante l'elaborazione del file. Le informazioni sulla sezione e sulla larghezza sono state dedotte da un'altra fonte.
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Errore di pulizia dati
+locale-it,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,È stata attivata una soglia sul filtro valori e i dati sono stati ripristinati ai valori precedenti.
+locale-it,ERRORS.IMPORTER.UNKNOWN.TITLE,Errore sconosciuto
+locale-it,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Errore sconosciuto({{code}}).
+locale-it,ERRORS.IMPORTER.SUB_DESCRIPTION,Probabili problemi durante il caricamento del file
+locale-it,ERRORS.IMPORTER.BUTTON.ERROR,ulteriori informazioni sul caricamento
+locale-it,ERRORS.IMPORTER.BUTTON.WARNING,ulteriori informazioni sul caricamento
+locale-it,ERRORS.IMPORTER.WARNING_MESSAGE,Messaggio di avvertenza
+locale-it,EMPTY_STATE.DEFAULT.TITLE,Nessun dato
+locale-it,EMPTY_STATE.TASKS.IMPORTED_TITLE,Nessuna attività ancora importata
+locale-it,EMPTY_STATE.TASKS.IMPORTED_TEXT,Impossibile importare una nuova attività premendo il pulsante seguente
+locale-it,EMPTY_STATE.TASKS.IMPORTED_CTA,importa attività
+locale-it,EMPTY_STATE.TASKS.FOUND_TITLE,Nessuna attività trovata
+locale-it,EMPTY_STATE.TASKS.FOUND_TEXT,Provare a modificare i filtri
+locale-it,EMPTY_STATE.TASKS.NOT_SELECTED,NESSUNA ATTIVITÀ ANCORA IMPORTATA
+locale-it,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Impossibile importare una nuova attività premendo il pulsante in alto a destra
+locale-it,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Nessuna prescrizione ancora creata
+locale-it,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,È possibile creare una nuova prescrizione con il pulsante seguente
+locale-it,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,nuova prescrizione
+locale-it,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Nessuna zona di gestione ancora creata
+locale-it,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Nessuna linea guida ancora creata
+locale-it,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Nessuna analisi ancora creata
+locale-it,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,È possibile creare una nuova analisi con il pulsante seguente
+locale-it,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,vai a spotlight
+locale-it,EMPTY_STATE.FIELDS.CREATED_TITLE,Nessun campo ancora creato
+locale-it,EMPTY_STATE.FIELDS.CREATED_TXT,È possibile creare un nuovo campo con il pulsante seguente
+locale-it,EMPTY_STATE.FIELDS.FOUND_TITLE,Nessun campo trovato
+locale-it,EMPTY_STATE.FIELDS.FOUND_TXT,Tentare di modificare la ricerca e i filtri
+locale-it,EMPTY_STATE.FIELDS.NOT_SELECTED,NESSUN CAMPO ANCORA SELEZIONATO
+locale-it,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,È possibile selezionare un campo dalla barra laterale a sinistra per visualizzare tutte le attività associate
+locale-it,EMPTY_STATE.VEHICLES.CREATED_TITLE,Nessun veicolo ancora creato
+locale-it,EMPTY_STATE.VEHICLES.FOUND_TITLE,Nessun veicolo ancora trovato
+locale-it,EMPTY_STATE.VEHICLES.FOUND_TXT,Provare a modificare la ricerca e i filtri
+locale-it,FIELD_CARD.ACTIONS.EDIT,Modifica campo
+locale-it,FIELD_CARD.ACTIONS.DELETE,Elimina
+locale-it,FIELD_CARD.INFO,Info sul campo
+locale-it,FIELD_CARD.GROWER,Coltivatore
+locale-it,FIELD_CARD.FARM,Azienda agricola
+locale-it,FIELD_CARD.AREA,Area campo totale
+locale-it,FIELD_CARD.CROPS,Prodotti
+locale-it,FIELD_CARD.TILLABLE,Area coltivabile
+locale-it,FIELD_CARD.WEATHER,Condizioni meteo
+locale-it,FIELD_CARD.LAST_TASKS,Ultime 3 attività
+locale-it,FIELD_CARD.IMPORT_TASKS,Importa attività
+locale-it,FIELD_CARD.SUMMARY_TASKS,Riepilogo attività
+locale-it,PRESCRIPTION.PRESCRIPTION,Prescrizione
+locale-it,PRESCRIPTION.SENT_TO_VEHICLE,La prescrizione è stata inviata al veicolo
+locale-it,PRESCRIPTION.NOT_SENT_TO_VEHICLE,La prescrizione non è stata inviata al veicolo
+locale-it,PRESCRIPTION.PRESCRIPTION_EMPTY,NESSUNA PRESCRIZIONE ANCORA CREATA
+locale-it,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,È possibile creare una nuova prescrizione con il pulsante in alto a destra
+locale-it,PRESCRIPTION.SELECT_DEVICE,Seleziona un dispositivo
+locale-it,PRESCRIPTION.SELECT_DEVICE_EMPTY,Nessun dispositivo selezionato
+locale-it,PRESCRIPTION.SELECT_DEVICE_DESC,Selezionare un dispositivo dall'elenco seguente.
+locale-it,PRESCRIPTION.APPLIED_DATE,Data pianificata
+locale-it,PRESCRIPTION.CREATION_DATE,Data di creazione
+locale-it,PRESCRIPTION.TOTAL_AREA,Area totale
+locale-it,PRESCRIPTION.PRODUCT_QUANTITY,Totale stimato
+locale-it,PRESCRIPTION.STATUS_PROCESSING,Creazione file di prescrizione in corso...
+locale-it,PRESCRIPTION.STATUS_PROCESSED,Prescrizione creata
+locale-it,PRESCRIPTION.PLANNED_DATE,Data pianificata
+locale-it,PRESCRIPTION.HIDE_ZONES,NASCONDI ZONE
+locale-it,PRESCRIPTION.SHOW_ZONES,MOSTRA ZONE
+locale-it,PRESCRIPTION.GROWERS_SELECT,Tutti i coltivatori
+locale-it,PRESCRIPTION.FARMS_SELECT,Tutte le aziende agricole
+locale-it,PRESCRIPTION.GROWER_REQUIRED,Coltivatore obbligatorio
+locale-it,PRESCRIPTION.FARM_REQUIRED,Nome azienda agricola obbligatorio
+locale-it,PRESCRIPTION.FIELD_SELECT,Tutti i campi
+locale-it,PRESCRIPTION.FIELD_REQUIRED,Campo obbligatorio.
+locale-it,PRESCRIPTION.NEW_PRESCRIPTIONS,Nuova prescrizione
+locale-it,PRESCRIPTION.PRESCRIPTION_CREATE,Crea prescrizione
+locale-it,PRESCRIPTION.MGMT,Zona MGMT
+locale-it,PRESCRIPTION.MANAGEMENT_ZONE,Zona di gestione
+locale-it,PRESCRIPTION.MANAGEMENT_NAME,Nome zona di gestione
+locale-it,PRESCRIPTION.MANAGEMENT_SELECT,Seleziona zona di gestione.
+locale-it,PRESCRIPTION.MANAGEMENT_SEARCH,Cerca zona di gestione.
+locale-it,PRESCRIPTION.MANAGEMENT_REQUIRED,Zona di gestione obbligatoria.
+locale-it,PRESCRIPTION.MANAGEMENT_CTA,SALVA ZONA DI GESTIONE
+locale-it,PRESCRIPTION.PRODUCT_SEARCH,Cerca prodotto
+locale-it,PRESCRIPTION.PRODUCT_SELECT,Seleziona prodotto
+locale-it,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Prodotto obbligatorio
+locale-it,PRESCRIPTION.PRODUCT_VALUE,Valore prodotto
+locale-it,PRESCRIPTION.PRODUCT_VALUE_SELECT,Seleziona valore prodotto
+locale-it,PRESCRIPTION.PRODUCT_VALUE_INPUT,Immetti valore prodotto
+locale-it,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Valore prodotto obbligatorio
+locale-it,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Il valore prodotto non può essere negativo
+locale-it,PRESCRIPTION.PRODUCT_NAME,Nome prodotto
+locale-it,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Nome prodotto obbligatorio
+locale-it,PRESCRIPTION.PRODUCT_NAME_INSERT,Immetti nome prodotto
+locale-it,PRESCRIPTION.UNIT_SELECT,Seleziona unità
+locale-it,PRESCRIPTION.UNIT_SELECT_REQUIRED,Unità obbligatoria
+locale-it,PRESCRIPTION.MAP_NAME,Nome mappa di prescrizione
+locale-it,PRESCRIPTION.MAP_NAME_REQUIRED,Nome mappa di prescrizione obbligatorio
+locale-it,PRESCRIPTION.MAP_EDIT,Modifica mappa di prescrizione
+locale-it,PRESCRIPTION.MAP_EDIT_N,Modifica nome mappa di prescrizione
+locale-it,PRESCRIPTION.MAP_SET_N,Imposta nome mappa di prescrizione
+locale-it,PRESCRIPTION.ZONE_NUMBER,Zone
+locale-it,PRESCRIPTION.SEND_TO,Invia prescrizione
+locale-it,PRESCRIPTION.UNAVAILABLE,Il file di prescrizione è in fase di generazione e l'utente riceverà una notifica al completamento dell'operazione. Riprovare in seguito.
+locale-it,PRESCRIPTION.PROCESSED,Il file di prescrizione per {{prescriptionName}} è pronto. Ora è possibile scaricarlo o inviarlo alle macchine.
+locale-it,PRESCRIPTION.PRESCRIPTION_MAP,Mappa di prescrizione
+locale-it,PRESCRIPTION.ANALYSIS,Analisi
+locale-it,PRESCRIPTION.UNKNOWN,Sconosciuto
+locale-it,PRESCRIPTION.CREATED,La mappa di prescrizione {{name}} è stata creata
+locale-it,SIDEBAR.USER_MANAGEMENT,gestione utenti
+locale-it,SIDEBAR.REPORT_ISSUE,segnala un problema
+locale-it,SIDEBAR.SUBSCRIPTION_MANAGEMENT,gestione abbonamenti
+locale-it,SIDEBAR.STORE,memorizza
+locale-it,OVERVIEW_SIDEBAR.FIELDS_TAB,Campi
+locale-it,OVERVIEW_SIDEBAR.VEHICLES_TAB,Veicoli
+locale-it,PRIMARY_NAV.UPLOAD,carica
+locale-it,PRIMARY_NAV.LOGOUT,disconnetti
+locale-it,SECONDARY_NAV.OVERVIEW,panoramica
+locale-it,SECONDARY_NAV.TASKS,attività
+locale-it,SECONDARY_NAV.PRESCRIPTIONS,prescrizioni
+locale-it,SECONDARY_NAV.MANAGE,gestisci
+locale-it,MANAGE_NAV.GROWERS,coltivatori
+locale-it,MANAGE_NAV.FARMS,aziende agricole
+locale-it,MANAGE_NAV.FIELDS,campi
+locale-it,MANAGE_NAV.CROPS,prodotti
+locale-it,MANAGE_NAV.PRODUCTS,prodotti
+locale-it,GFF.FIELD,campo
+locale-it,GFF.FIELDS,campi
+locale-it,GFF.FARM,azienda agricola
+locale-it,GFF.FARMS,aziende agricole
+locale-it,GFF.GROWER,coltivatore
+locale-it,GFF.GROWERS,coltivatori
+locale-it,GFF.SEARCH_FIELD,Cerca nome campo
+locale-it,GFF.GROWERS_SELECT,Tutti i coltivatori
+locale-it,GFF.FARMS_SELECT,Tutte le aziende agricole
+locale-it,VEHICLES.VEHICLES,veicoli
+locale-it,VEHICLES.VEHICLE,veicolo
+locale-it,VEHICLES.SN,N/S
+locale-it,VEHICLES.BRAND,Marchio
+locale-it,VEHICLES.TYPE,Tipo
+locale-it,VEHICLES.MODEL,Modello
+locale-it,VEHICLES.STATUS,Stato
+locale-it,VEHICLES.SPEED,Velocità
+locale-it,VEHICLES.DISTANCE,Distanza
+locale-it,VEHICLES.ENGINE_H,Ore motore
+locale-it,VEHICLES.ENGINE_S,Regime motore
+locale-it,VEHICLES.FUEL,Livello carburante
+locale-it,VEHICLES.FUELRATE,Consumo carburante
+locale-it,VEHICLES.GOTO_FORCE,Vai a Force
+locale-it,VEHICLES.MACHINE_INFO,Informazioni macchina
+locale-it,VEHICLES.SEARCH_VEHICLE,Cerca nome veicolo
+locale-it,FARM.NEW,nuova azienda agricola
+locale-it,FARM.NEW_CREATE,Crea nuova azienda agricola
+locale-it,FARM.EDIT,Modifica azienda agricola
+locale-it,FARM.FARMS,Aziende agricole
+locale-it,FIELD.NEW,Nuovo campo
+locale-it,FIELD.UPDATE,Aggiorna campo
+locale-it,FIELD.CREATE,Crea campo
+locale-it,FIELD.FIELDS,Campi
+locale-it,FIELD.SELECT_GROWER,Seleziona coltivatore
+locale-it,FIELD.REQUIRED_GROWER,Coltivatore obbligatorio
+locale-it,FIELD.SEARCH_GROWER,Cerca coltivatore
+locale-it,FIELD.NO_GROWER,Nessun coltivatore selezionato
+locale-it,FIELD.SELECT_FARM,Seleziona azienda agricola
+locale-it,FIELD.REQUIRED_FARM,Azienda agricola obbligatoria
+locale-it,FIELD.SEARCH_FARM,Cerca azienda agricola
+locale-it,FIELD.SEARCH_FIELD,Cerca campo
+locale-it,FIELD.NAME_FIELD,Nome campo
+locale-it,FIELD.NAME_FIELD_REQUIRED,Nome campo obbligatorio
+locale-it,FIELD.FIELD_SELECT,Seleziona campo
+locale-it,FIELD.FIELD_REQUIRED,Campo obbligatorio.
+locale-it,FIELD.BOUNDARY,Area confine
+locale-it,FIELD.TILLABLE,Area coltivabile
+locale-it,FIELD.INSERT_TILLABLE,Inserisci area coltivabile
+locale-it,FIELD.TILLABLE_REQUIRED,Area coltivabile obbligatoria
+locale-it,FIELD.ZONE_VALUE,Inserisci valore zona
+locale-it,NEW_FIELD.TITLE,Nuovo campo
+locale-it,NEW_FIELD.SELECT_GROWER,Seleziona coltivatore
+locale-it,NEW_FIELD.SELECT_FARM,Seleziona azienda agricola
+locale-it,NEW_FIELD.GROWER_LABEL,Coltivatore
+locale-it,NEW_FIELD.FARM_LABEL,Azienda agricola
+locale-it,NEW_FIELD.FIELD_LABEL,Nome campo
+locale-it,NEW_FIELD.FARM_REQUIRED,Nome azienda agricola obbligatorio
+locale-it,NEW_FIELD.FIELD_INPUT,Immetti nome campo
+locale-it,NEW_FIELD.FIELD_INPUT_ERROR,Nome campo obbligatorio
+locale-it,NEW_FIELD.BOUNDARY_AREA,Area confine
+locale-it,NEW_FIELD.TILLABLE_AREA,Area coltivabile
+locale-it,NEW_FIELD.TILLABLE_AREA_REQUIRED,Area coltivabile obbligatoria
+locale-it,NEW_FIELD.CREATE_FIELD,crea campo
+locale-it,NEW_FIELD.SAVE_FIELD,salva campo
+locale-it,NEW_FIELD.ERROR.NEW,Impossibile creare un nuovo campo.
+locale-it,NEW_FIELD.ERROR.EDIT,Impossibile modificare il campo corrente.
+locale-it,NEW_FIELD.ERROR.GENERIC,Impossibile creare un nuovo campo a causa di un errore interno
+locale-it,NEW_FIELD.ERROR_NEW,
+locale-it,NEW_FIELD.ERROR_EDIT,
+locale-it,NEW_FIELD.CANCEL,annulla
+locale-it,NEW_FIELD.NO_GROWER,Nessun coltivatore disponibile
+locale-it,NEW_FIELD.NO_FARM,Nessuna azienda agricola disponibile
+locale-it,NEW_FARM_MODAL.TITLE,Nuova azienda agricola
+locale-it,NEW_FARM_MODAL.GROWER_LABEL,Coltivatore
+locale-it,NEW_FARM_MODAL.NO_GROWER_SELECTED,Nessun coltivatore selezionato
+locale-it,NEW_FARM_MODAL.FARM_LABEL,Nome azienda agricola
+locale-it,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Nome azienda agricola obbligatorio
+locale-it,NEW_FARM_MODAL.CREATE,crea
+locale-it,NEW_FARM_MODAL.CLOSE,chiudi
+locale-it,GROWER_MODAL.TITLE,Nuovo coltivatore
+locale-it,GROWER_MODAL.GROWER_LABEL,Nome coltivatore
+locale-it,GROWER_MODAL.GROWER_INPUT_REQUIRED,Nome coltivatore obbligatorio
+locale-it,GROWER_MODAL.CREATE,crea
+locale-it,GROWER_MODAL.CLOSE,chiudi
+locale-it,GROWER_MODAL.EG,Es.: Achille Rossi
+locale-it,TASK.SHOW_LAYER,MOSTRA LIVELLI DISPONIBILI
+locale-it,TASK.HIDE_LAYER,NASCONDI LIVELLI DISPONIBILI
+locale-it,TASK.SHOW_PREVIEW,Mostra anteprima
+locale-it,TASK.NO_TYPE,Nessun tipo selezionato.
+locale-it,TASK.NO_YEAR,Nessun anno selezionato.
+locale-it,TASK.SELECT_YEAR,Selezionare un anno.
+locale-it,TASK.SELECT_OP,Selezionare un'operazione.
+locale-it,TASK.TASK_NOT_ASSOCIATED,Attività non associate
+locale-it,TASK.IMPORT_TASKS,Importa attività
+locale-it,TASK.INSERT,Immetti nome attività.
+locale-it,TASK.NAME,Nome attività.
+locale-it,TASK.EDIT,Modifica attività.
+locale-it,TASK.EDIT_INFO,Modifica info
+locale-it,TASK.REQUIRED,Nome attività obbligatorio.
+locale-it,TASK.ACTUAL_RATE,Quantità effettiva
+locale-it,TASK.SENSOR_RDNG,Sensore RDNG
+locale-it,TASK.SENSOR_WDTH,Larghezza sensore
+locale-it,TASK.YIELD_MASS,Resa prodotto
+locale-it,TASK.MOISTURE,Umidità
+locale-it,TASK.CELL_MASS,Prodotto raccolto in ciascuna cella
+locale-it,TASK.CELL_AREA,Area cella
+locale-it,TASK.YIELD_VOL,Volume resa prodotto
+locale-it,TASK.UNADJ_CELL_M,Cella non regolata
+locale-it,TASK.NO_OPERATION,Nessuna operazione disponibile
+locale-it,TASK.TASK_TYPE_UNKNOWN,Tipo attività sconosciuto
+locale-it,TASK.TASK_TYPE,Tipo attività
+locale-it,TASK.SELECT_TASK_TYPE,Seleziona tipo attività
+locale-it,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Tipo di attività non riconosciuto dal sistema.
+locale-it,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Sostituire questo tipo di attività con uno noto in TAP.
+locale-it,TASK.CHANGE_TASK_TYPE,cambia tipo attività
+locale-it,TASK.TASK_DATE,Data attività
+locale-it,TASK.TASK_LAYER_ISSUE,Problema nel livello attività
+locale-it,TASK.TASK_LAYER_ISSUE_DESCRIPTION,Informazioni mancanti in questo livello di attività. Non sono associate a una variabile nota e/o unità di misura mancante
+locale-it,TASK.EDIT_TASK_LAYER,Modifica livello attività
+locale-it,TASK.EDIT_TASK_LAYER_WARNING,Impossibile operare sui livelli finché non si associa il tipo di attività con un tipo noto in TAP
+locale-it,TASK.EDIT_LAYER,Modifica livello
+locale-it,TASK.LAYER_TYPE,Tipo livello
+locale-it,TASK.SELECT_A_LAYER_TYPE,Seleziona un tipo di livello
+locale-it,TASK.UNIT_OF_MEASUREMENT,Unità di misura
+locale-it,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Selezionare un'unità di misura
+locale-it,TASK.SELECT_A_LAYER_FIRST,Selezionare prima un tipo di livello
+locale-it,TASK.LAYER_UPDATED,Il livello {{layerName}} è stato aggiornato
+locale-it,TASK.TASK_UPDATED,L'attività {{taskName}} è stata aggiornata
+locale-it,TASK.UNKNOWN,sconosciuto
+locale-it,CROP.INSERT_NAME,Immetti nome prodotto
+locale-it,CROP.NAME,Nome prodotto
+locale-it,CROP.REQUIRED,Nome prodotto obbligatorio
+locale-it,CROP.SELECT,Seleziona prodotto
+locale-it,CROP.CROP,Prodotto
+locale-it,CROP.SEARCH,Cerca prodotto
+locale-it,CROP.NEW,Nuovo prodotto
+locale-it,CROP.EDIT,Modifica prodotto
+locale-it,CROP.CROPS,Prodotti
+locale-it,CROP.CROP_SPEC,Specifiche prodotto
+locale-it,THEMATIZATION.CLASSES,Classi
+locale-it,THEMATIZATION.COLOR_RAMP,Sfumature di colori
+locale-it,THEMATIZATION.GREY,Grigi
+locale-it,THEMATIZATION.RED,Rossi
+locale-it,THEMATIZATION.GREEN,Verdi
+locale-it,THEMATIZATION.BLUE,Blu
+locale-it,THEMATIZATION.GYR,VerdeGialloRosso
+locale-it,THEMATIZATION.SPECTRAL,Spettrale
+locale-it,THEMATIZATION.INVERTED,Invertita
+locale-it,THEMATIZATION.THRESHOLD,Soglia
+locale-it,THEMATIZATION.METHOD,Metodo
+locale-it,THEMATIZATION.METHOD_SELECT,Selezionare un metodo
+locale-it,THEMATIZATION.METHOD_REQUIRED,Metodo obbligatorio
+locale-it,THEMATIZATION.EDIT,Modifica tematizzazione
+locale-it,THEMATIZATION.E_A,Area uguale
+locale-it,THEMATIZATION.E_I,Intervallo uguale
+locale-it,THEMATIZATION.N_B,Natural breaks
+locale-it,GROWER.NEW,Nuovo coltivatore
+locale-it,GROWER.EDIT,Modifica coltivatore
+locale-it,GROWER.GROWERS,Coltivatori
+locale-it,PRODUCT.NEW,Nuovo prodotto
+locale-it,PRODUCT.EDIT,Modifica prodotto
+locale-it,PRODUCT.EDIT_VALUE,Modifica valore prodotto
+locale-it,PRODUCT.PRODUCTS,Prodotti
+locale-it,DELETE_MODAL.PRE,Elimina prescrizione
+locale-it,DELETE_MODAL.QUESTION,Eliminare?
+locale-it,DELETE_MZ_MODAL.PRE,Uscire dalla modalità di creazione della zona di gestione
+locale-it,DELETE_MZ_MODAL.QUESTION,Uscire dalla modalità di creazione della zona di gestione? Tutte le modifiche non salvate andranno perse.
+locale-it,DELETE_MZ_MODAL.CONFIRM,|SÌ, USCIRE|
+locale-it,EDIT_PRESCRIPTION_MODAL.PRE,Esci da modalità crea prescrizione
+locale-it,EDIT_PRESCRIPTION_MODAL.QUESTION,Uscire dalla modalità crea prescrizione? Continuando tutti i dati immessi andranno persi.
+locale-it,DELETE_TASK_MODAL.PRE,Elimina attività
+locale-it,DELETE_TASK_MODAL.QUESTION,Eliminare?
+locale-it,ZONE.EDIT,Modifica nome zona
+locale-it,ZONE.SET,Imposta nome zona di gestione
+locale-it,PDF.TITLE,pdf
+locale-it,MAP.EDIT_TOOLTIP_TEXT,Trascinare il punto di controllo per modificare il campo
+locale-it,MAP.REMOVE_TOOLTIP_TEXT,Fare clic su un campo per rimuoverlo
+locale-it,MAP.POLYGON_TOOLTIP_START,Fare clic sulla mappa per iniziare a disegnare il campo.<br/>Disegnare all'interno del poligono per creare un buco nel campo
+locale-it,MAP.BUFFER_TOOLTIP.TEXT,Fare clic e trascinare per ingrandire o ridurre il campo
+locale-it,MAP.BUFFER_TOOLTIP.MEASURE,Raggio
+locale-it,MAP.POLYGON_TOOLTIP.START,Fare clic per iniziare a disegnare
+locale-it,MAP.POLYGON_TOOLTIP.CONT,Fare clic sulla mappa per continuare<br/>a disegnare il campo
+locale-it,MAP.POLYGON_TOOLTIP.END,Fare clic sul primo punto per completare<br/>la creazione del campo
+locale-it,MAP.POLYLINE.ERROR,<strong>Errore:</strong> i bordi della forma non si possono intersecare!
+locale-it,MAP.POLYLINE.TOOLTIP.START,Fare clic per iniziare a disegnare la linea.
+locale-it,MAP.POLYLINE.TOOLTIP.CONT,Fare clic per continuare a disegnare la linea.
+locale-it,MAP.POLYLINE.TOOLTIP.END,Fare clic sull'ultimo punto per completare la linea.
+locale-it,MAP.PLUGINS.ZOOM.OUT,Riduci
+locale-it,MAP.PLUGINS.ZOOM.IN,Ingrandisci
+locale-it,MAP.PLUGINS.SEARCH.PLACEHOLDER,Cerca posizione
+locale-it,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Posizione non trovata
+locale-it,MAP.PLUGINS.UPLOAD.TEXT,importa file forma
+locale-it,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Rilascia un file forma ...
+locale-it,MAP.PLUGINS.WEATHER.TEMPERATURE,temperatura
+locale-it,MAP.PLUGINS.WEATHER.DEW_POINT,punto di rugiada
+locale-it,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,umidità relativa
+locale-it,MAP.PLUGINS.WEATHER.WIND_SPEED,velocità vento
+locale-it,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,temp percepita
+locale-it,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Nessun dato da visualizzare
+locale-it,MAP.PLUGINS.LEGEND.MIN_LABEL,Min: {{data}}
+locale-it,MAP.PLUGINS.LEGEND.MAX_LABEL,Max: {{data}}
+locale-it,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellite
+locale-it,MAP.PLUGINS.LAYER_SWITCH.STREET,via
+locale-it,OPERATIONS.YIELD,Resa
+locale-it,OPERATIONS.AS_APPLIED,Prodotto applicato
+locale-it,OPERATIONS.SOIL_SAMPLE,Campione di terreno
+locale-it,OPERATIONS.OTHER,Altro
+locale-it,STATISTICS.SPREAD_TIME,Tempo di spanditura
+locale-it,STATISTICS.PRODUCT_TOTAL,Totale stimato
+locale-it,STATISTICS.PRODUCT_SPREAD_TIME,Tempo spanditura prodotto
+locale-it,STATISTICS.PRODUCT_AREA,Area prodotto
+locale-it,STATISTICS.SENSOR_TYPE,Tipo sensore
+locale-it,STATISTICS.TOTAL_AREA,Area totale
+locale-it,STATISTICS.TOTAL_MASS,Massa totale
+locale-it,STATISTICS.UN_ADJ_TTL_M,Totale non regolato
+locale-it,STATISTICS.SENSOR_WDTH,Larghezza sensore
+locale-it,PROFILE.FEEDBACK,Invia un commento
+locale-it,PROFILE.HELP,Guida e supporto
+locale-it,VARIABLE.ACTUAL_RATE,Quantità effettiva
+locale-it,VARIABLE.SENSOR_RDNG,Sensore RDNG
+locale-it,VARIABLE.SENSOR_WDTH,Larghezza sensore
+locale-it,VARIABLE.YIELD_MASS,Resa prodotto
+locale-it,VARIABLE.MOISTURE,Umidità
+locale-it,VARIABLE.CELL_MASS,Prodotto raccolto in ciascuna cella
+locale-it,VARIABLE.CELL_AREA,Area cella
+locale-it,VARIABLE.YIELD_VOL,Volume resa prodotto
+locale-it,VARIABLE.UNADJ_CELL_M,Cella non regolata
+locale-de,DATE_FORMAT.NORMAL,MM/TT/JJJJ
+locale-de,DATE_FORMAT.PILL,DD MMM
+locale-de,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-de,GLOBAL.AT,um
+locale-de,GLOBAL.COMPLETED,abgeschlossen
+locale-de,GLOBAL.HELP,Hilfe anfordern
+locale-de,GLOBAL.OF,von
+locale-de,GLOBAL.ON,EIN
+locale-de,VARIABLE.ACTUAL_RATE,Tatsächliche Menge
+locale-de,VARIABLE.CELL_AREA,Zellenbereich
+locale-de,VARIABLE.CELL_MASS,Zellenvolumen
+locale-de,VARIABLE.MOISTURE,Feuchte
+locale-de,VARIABLE.SENSOR_RDNG,Sensor RDNG
+locale-de,VARIABLE.SENSOR_WDTH,Sensorbreite
+locale-de,VARIABLE.UNADJ_CELL_M,Nicht angepasste Zelle
+locale-de,VARIABLE.YIELD_MASS,Ertragsmasse
+locale-de,VARIABLE.YIELD_VOL,Ertragsvolumen
+locale-de,UPLOAD.AN_ERROR_OCCURRED,Ein Fehler ist aufgetreten
+locale-de,UPLOAD.DISMISS,Schließen
+locale-de,UPLOAD.ERROR_PLURAL,Fehler
+locale-de,UPLOAD.FILE,Datei
+locale-de,UPLOAD.FILE_FORMATS,|ISOXML, Shape-Datei, CN1|
+locale-de,UPLOAD.FILE_IMPORTED,{{fileName}} wurde importiert
+locale-de,UPLOAD.FILE_PLURAL,Dateien
+locale-de,UPLOAD.GLOBAL_COMPLETED,Hochgeladene {{files}}-Datei
+locale-de,UPLOAD.GLOBAL_COMPLETED_PLURAL,Hochgeladene {{files}}-Dateien
+locale-de,UPLOAD.HAVING_PROBLEMS,Hilfe beim Hochladen
+locale-de,UPLOAD.SEE_DETAILS,Siehe Details
+locale-de,UPLOAD.STATUS.COMPLETED.MANY,Hochgeladene {{count}}-Dateien
+locale-de,UPLOAD.STATUS.COMPLETED.ONE,Hochgeladene {{count}}-Datei
+locale-de,UPLOAD.STATUS.PROCESSING.MANY,{{count}}-Dateien werden verarbeitet
+locale-de,UPLOAD.STATUS.PROCESSING.ONE,{{count}}-Datei wird verarbeitet
+locale-de,UPLOAD.STATUS.UPLOADING.MANY,{{count}}-Dateien werden hochgeladen
+locale-de,UPLOAD.STATUS.UPLOADING.ONE,{{count}}-Datei wird hochgeladen
+locale-de,UPLOAD.SUPPORTED_FORMATS,Unterstützte Formate:
+locale-de,UPLOAD.TOOLTIP_MESSAGE,|Wenn Sie ISOXML-Dateien hochladen, sollte der gesamte Inhalt des Ordners TASKDATA zunächst ZIP-komprimiert werden. Stellen Sie sicher, dass alle XML-, BIN- und sonstigen Dateien im Ordner TASKDATA enthalten sind. Laden Sie dann die ZIP-Datei statt der einzelnen Dateien hoch.|
+locale-de,UPLOAD.UNEXPECTED_ERROR,Bei der Verarbeitung Ihrer Datei ist ein unerwarteter Fehler aufgetreten
+locale-de,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> wurde im Feld <strong>{{fieldName}}</strong> erstellt
+locale-de,UPLOAD.WARNING_TO_CHECK,|Es ist eine Warnmeldung aufgetreten, die überprüft werden muss|
+locale-de,ERRORS.VARIABLE.EDIT,Variable mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Während der Dateiumwandlung in das ADAPT-Modell ist ein Fehler aufgetreten.
+locale-de,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT-Transformationsfehler
+locale-de,ERRORS.IMPORTER.BUTTON.ERROR,Hilfe beim Hochladen erhalten
+locale-de,ERRORS.IMPORTER.BUTTON.WARNING,Hilfe beim Hochladen erhalten
+locale-de,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Fehler beim Erstellen eines neuen Felds. Die Erstellung des Felds wurde übersprungen.
+locale-de,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Felderstellung fehlgeschlagen
+locale-de,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Fehler beim Erstellen eines neuen Felds. Die Erstellung der Aufgabe wurde übersprungen.
+locale-de,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Felderstellung fehlgeschlagen
+locale-de,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Während des Dateiimports ist ein unbehandelter Ausnahmefehler aufgetreten.
+locale-de,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Datenimportfehler
+locale-de,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,|Beim Versuch, die importierte Datenstruktur mit vorhandenen Daten abzustimmen, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Datenzusammenführungsfehler
+locale-de,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,In der hochgeladenen Shape-Datei wurden keine Daten gefunden.
+locale-de,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Shape-Datei kann nicht gelesen werden
+locale-de,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,|Beim Versuch, die vorhandene Datenstruktur während des Imports zu laden, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Datenvergleich fehlgeschlagen
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Die importierte Datei enthält keine Aufgabeninformationen.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Keine Aufgabe gefunden
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,|Die hochgeladene Datei enthielt eine nicht-numerische Spalte innerhalb der Daten. Diese Spalte wurde entfernt, und die Daten wurden importiert.|
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Nicht-numerische Spalte entfernt
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Die hochgeladene Datei enthielt mehrere Spalten für Datum/Uhrzeit. Die erste gefundene Spalte mit Datum/Uhrzeit wurde verwendet.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Datums-/Zeitkonflikt erkannt
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Die Daten wurden verarbeitet, enthalten jedoch keine Summen und können nicht berechnet werden.|
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Gesamtwerte können nicht berechnet werden
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Daten wurden übersprungen. Es handelt sich um ein Duplikat einer zuvor importierten Aufgabe.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Zuvor importierte Daten
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,Die hochgeladene Aufgabendatei enthält nicht zuordenbare Aufgabenreferenzen. Diese wurden entfernt.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Aufgabe kann nicht zugeordnet werden
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Während der Dateiverarbeitung fehlten Informationen zu Schnitt/Breite. Informationen zu Schnitt und Breite wurden aus einer anderen Quelle abgeleitet.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Fehlende Schnitt-/Breitendaten
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Während der Dateiverarbeitung fehlten Informationen zu Schnitt/Breite. Informationen zu Schnitt und Breite wurden aus einer anderen Quelle abgeleitet.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Fehlende Schnitt-/Breitendaten
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Während der Dateiverarbeitung fehlten Informationen zu Schnitt/Breite. Informationen zu Schnitt und Breite wurden aus einer anderen Quelle abgeleitet.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Fehlende Schnitt-/Breitendaten
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Während der Dateiverarbeitung fehlten Informationen zu Schnitt/Breite. Informationen zu Schnitt und Breite wurden aus einer anderen Quelle abgeleitet.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Fehlende Schnitt-/Breitendaten
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Während des Importvorgangs wurden im Datenmodell Inkongruenzen festgestellt.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Datenmodell-Warnung
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Während der Dateiverarbeitung fehlten Informationen zu Schnitt/Breite. Informationen zu Schnitt und Breite wurden aus einer anderen Quelle abgeleitet.
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Fehlende Schnitt-/Breitendaten
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,|Ein Schwellenwert für den Wertefilter wurde ausgelöst, und die Daten wurden auf die vorherigen Werte zurückgesetzt.|
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Datenbereinigungsfehler
+locale-de,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Die importierte Datei enthält beschädigte oder nicht lesbare Dateien.
+locale-de,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Importdatei konnte nicht gelesen werden
+locale-de,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Die Eingabeparameter aus der importierten Datei konnten nicht analysiert werden.
+locale-de,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Ungültige Datenköpfe
+locale-de,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ungültiger oder nicht zugänglicher Dateipfad.
+locale-de,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Dateiquelle nicht gefunden
+locale-de,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|Die hochgeladene Shape-Datei ist ungültig. Schließen Sie die DBF-, SHP- und SHX-Dateien in die hochgeladene ZIP-Datei ein.|
+locale-de,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Shape-Datei kann nicht gelesen werden
+locale-de,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Die importierte Datei enthält keine Abdeckungsdaten.
+locale-de,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Keine Abdeckungsdaten gefunden
+locale-de,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,In der hochgeladenen Shape-Datei wurden keine numerischen Daten gefunden.
+locale-de,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Shape-Datei kann nicht gelesen werden
+locale-de,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Betriebsdatentyp aus der importierten Datei kann während des Hochladens nicht gelesen werden.
+locale-de,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Fehler Aktivitätsart
+locale-de,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,|Beim Versuch, importierte Daten in die Speicherdatenbank zu schreiben, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Speicherfehler bei der Nachverarbeitung
+locale-de,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Fehler beim Zuordnen des Felds zu vorhandenen Feldgrenzen. Die Erstellung der Aufgabe wurde übersprungen.
+locale-de,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Fehler beim Geo-Match
+locale-de,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,|Beim Versuch, importierte Daten in die Speicherdatenbank zu schreiben, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Fehler beim Schreiben in den Speicher
+locale-de,ERRORS.IMPORTER.SUB_DESCRIPTION,|Es scheint, als ob beim Hochladen Ihrer Datei Probleme auftreten|
+locale-de,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Unbekannter Fehler ({{code}}).
+locale-de,ERRORS.IMPORTER.UNKNOWN.TITLE,Unbekannter Fehler
+locale-de,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Die hochgeladene Shape-Datei enthält eine nicht unterstützte Projektionsdatei. Entfernen Sie die PRJ-Datei aus dem Inhalt der ZIP-Datei.
+locale-de,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Projektionsfehler Shape-Datei .PRJ
+locale-de,ERRORS.IMPORTER.WARNING_MESSAGE,Warnmeldung
+locale-de,TASK.CHANGE_TASK_TYPE,Aufgabentyp ändern
+locale-de,TASK.EDIT_LAYER,Ebene bearbeiten
+locale-de,TASK.EDIT_TASK_LAYER,Aufgabenebene bearbeiten
+locale-de,TASK.EDIT_TASK_LAYER_WARNING,|Sie können mit den Ebenen erst arbeiten, wenn Sie den Aufgabentyp mit einem bekannten Aufgabentyp in TAP verknüpfen|
+locale-de,TASK.LAYER_TYPE,Ebenentyp
+locale-de,TASK.LAYER_UPDATED,Die Ebene {{layerName}} wurde aktualisiert
+locale-de,TASK.SELECT_A_LAYER_FIRST,Sie müssen zuerst einen Ebenentyp auswählen
+locale-de,TASK.SELECT_A_LAYER_TYPE,Wählen Sie einen Ebenentyp aus
+locale-de,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Wählen Sie eine Maßeinheit aus
+locale-de,TASK.SELECT_TASK_TYPE,Aufgabentyp auswählen
+locale-de,TASK.TASK_DATE,Aufgabendaten
+locale-de,TASK.TASK_LAYER_ISSUE,Problem mit der Aufgabenebene
+locale-de,TASK.TASK_LAYER_ISSUE_DESCRIPTION,Auf dieser Aufgabenebene fehlen Informationen. Sie steht entweder nicht in Zusammenhang mit einer bekannten Variablen und/oder die Maßeinheit fehlt
+locale-de,TASK.TASK_TYPE,Aufgabentyp
+locale-de,TASK.TASK_TYPE_UNKNOWN,Aufgabentyp unbekannt
+locale-de,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Dieser Aufgabentyp wurde vom System nicht erkannt.
+locale-de,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Ändern Sie diesen Aufgabentyp in TAP zu einem bekannten Aufgabentyp.
+locale-de,TASK.TASK_UPDATED,Die Aufgabe {{taskName}} wurde aktualisiert
+locale-de,TASK.UNIT_OF_MEASUREMENT,Maßeinheit
+locale-de,TASK.UNKNOWN,unbekannt
+locale-ru,DATE_FORMAT.NORMAL,ММ/ДД/ГГГГ
+locale-ru,DATE_FORMAT.PILL,ДД МММ
+locale-ru,DATE_FORMAT.WEATHER,|ММММ Д, дддд|
+locale-ru,GLOBAL.SEND,Отправить
+locale-ru,GLOBAL.SEND_DATA,Отправить данные
+locale-ru,GLOBAL.FIELD_NAME,Имя поля
+locale-ru,GLOBAL.CHANGE_STYLE,Изменить стиль
+locale-ru,GLOBAL.OPACITY,Непрозрачность
+locale-ru,GLOBAL.VIEW_MODE,Режим просмотра
+locale-ru,GLOBAL.VECTOR,Векторный
+locale-ru,GLOBAL.RASTER,Растровый
+locale-ru,GLOBAL.REQUIRED_VALUE,Требуемое значение
+locale-ru,GLOBAL.BOUNDARY_AREA,Область границы
+locale-ru,GLOBAL.TILLABLE_AREA,Обрабатываемая область
+locale-ru,GLOBAL.SHOW_LAYERS_LIST,Показать список уровней
+locale-ru,GLOBAL.HIDE_LAYERS_LIST,Скрыть список уровней
+locale-ru,GLOBAL.SET_VALUE,Задать значение
+locale-ru,GLOBAL.DEVICES,Устройства
+locale-ru,GLOBAL.SEARCH,Поиск
+locale-ru,GLOBAL.FIELDS,поля
+locale-ru,GLOBAL.FIELD,поле
+locale-ru,GLOBAL.FARM,ферма
+locale-ru,GLOBAL.FARMS,фермы
+locale-ru,GLOBAL.ZONE,Зона
+locale-ru,GLOBAL.ZONES,Зоны
+locale-ru,GLOBAL.PRODUCT,Продукт
+locale-ru,GLOBAL.PRODUCTS,Продукты
+locale-ru,GLOBAL.GROWER,фермер
+locale-ru,GLOBAL.GROWERS,фермеры
+locale-ru,GLOBAL.GUIDANCE,Навигация
+locale-ru,GLOBAL.TASKS,задачи
+locale-ru,GLOBAL.CROP,культура
+locale-ru,GLOBAL.CROPS,культуры
+locale-ru,GLOBAL.VEHICLES,машины
+locale-ru,GLOBAL.VEHICLE,машина
+locale-ru,GLOBAL.UNIT,блок
+locale-ru,GLOBAL.PRODUCT_TYPE,Тип продукта
+locale-ru,GLOBAL.SHOWME,ПОКАЗАТЬ
+locale-ru,GLOBAL.CANCEL,отмена
+locale-ru,GLOBAL.EDIT,Изменить
+locale-ru,GLOBAL.DELETE,Удалить
+locale-ru,GLOBAL.DELETE_CONFIRMATION,|Вы уверены, что хотите удалить|
+locale-ru,GLOBAL.SEND_TO,Отправить
+locale-ru,GLOBAL.MORE,Еще
+locale-ru,GLOBAL.CLEAR_LIST,Очистить список
+locale-ru,GLOBAL.CREATED,Время создания
+locale-ru,GLOBAL.ALL,Все
+locale-ru,GLOBAL.YEAR,Year
+locale-ru,GLOBAL.TYPE,Тип
+locale-ru,GLOBAL.ALARM,Сигнал тревоги
+locale-ru,GLOBAL.ALARMS,Сигналы тревоги
+locale-ru,GLOBAL.OPERATION,Операция
+locale-ru,GLOBAL.NAME,имя
+locale-ru,GLOBAL.EG,|Например, ферма "Yew Valley"|
+locale-ru,GLOBAL.COMPANY,компания
+locale-ru,GLOBAL.SUBCOMPANY,Дочерняя компания
+locale-ru,GLOBAL.FLEET,Парк
+locale-ru,GLOBAL.CONFIRM,Подтвердить
+locale-ru,GLOBAL.CREATE,Создать
+locale-ru,GLOBAL.CLOSE,закрыть
+locale-ru,GLOBAL.SAVE,Сохранить
+locale-ru,GLOBAL.CREATED_S,Создано
+locale-ru,GLOBAL.VIEW_ON_MAP,Просмотр на карте
+locale-ru,GLOBAL.SETTINGS,Настройки
+locale-ru,GLOBAL.HELP,Получить справку
+locale-ru,GLOBAL.LOGOUT,Выход из системы
+locale-ru,GLOBAL.TASK_ID,задача {{id}}
+locale-ru,GLOBAL.FARM_ID,ферма {{id}}
+locale-ru,GLOBAL.FIELD_ID,поле {{id}}
+locale-ru,GLOBAL.HOUR,час
+locale-ru,GLOBAL.HOURS,часы
+locale-ru,GLOBAL.MINUTE,минута
+locale-ru,GLOBAL.MINUTES,минуты
+locale-ru,GLOBAL.VIEW_LAYERS,Просмотр слоев
+locale-ru,GLOBAL.AT,в
+locale-ru,GLOBAL.ON,на дату
+locale-ru,GLOBAL.OF,из
+locale-ru,GLOBAL.COMPLETED,выполнено
+locale-ru,UPLOAD.DND,Перетащите файлы сюда!
+locale-ru,UPLOAD.OR,или
+locale-ru,UPLOAD.BROWSE,обзор файлов
+locale-ru,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
+locale-ru,UPLOAD.UPLOADING,Загрузка
+locale-ru,UPLOAD.UPLOADING_DOT,Выполняется загрузка...
+locale-ru,UPLOAD.ERROR,Ошибка
+locale-ru,UPLOAD.ERROR_PLURAL,Ошибки
+locale-ru,UPLOAD.ERROR_UPLOADING,Ошибка загрузки
+locale-ru,UPLOAD.ERROR_IMPORTING,Ошибка импорта
+locale-ru,UPLOAD.AN_ERROR_OCCURRED,Произошла ошибка
+locale-ru,UPLOAD.RETRY,Повторить загрузку
+locale-ru,UPLOAD.PROCESSING,Обработка
+locale-ru,UPLOAD.STATUS.PROCESSING.ONE,Обработка {{count}} файла
+locale-ru,UPLOAD.STATUS.PROCESSING.MANY,Обработка {{count}} файлов
+locale-ru,UPLOAD.STATUS.UPLOADING.ONE,Загрузка {{count}} файла
+locale-ru,UPLOAD.STATUS.UPLOADING.MANY,Загрузка {{count}} файлов
+locale-ru,UPLOAD.STATUS.COMPLETED.ONE,Загружен {{count}} файл
+locale-ru,UPLOAD.STATUS.COMPLETED.MANY,Загружено {{count}} файлов
+locale-ru,UPLOAD.PROCESSING_TASK,Обработка...
+locale-ru,UPLOAD.GLOBAL_COMPLETED,Загружен {{files}} файл
+locale-ru,UPLOAD.GLOBAL_COMPLETED_PLURAL,Загружено {{files}} файлов
+locale-ru,UPLOAD.COMPLETED,Файл загружен
+locale-ru,UPLOAD.HAS_BEEN,импортирован в поле 
+locale-ru,UPLOAD.HAS_BEEN_FROM,{{taskName}} из {{fileName}} импортирован в поле {{fieldName}}
+locale-ru,UPLOAD.HAS_BEEN_ORPHAN,импортирован как несвязанное задание
+locale-ru,UPLOAD.UNKNOWN,Неизвестный файл.
+locale-ru,UPLOAD.START_NOTIFICATION,Обрабатывается загруженная задача {{fileName}}
+locale-ru,UPLOAD.FINISH_NOTIFICATION,{{fileName}} был импортирован
+locale-ru,UPLOAD.GFF_UPDATE_NOTIFICATION,|Выполняется обновление данных фермера, фермы и поля|
+locale-ru,UPLOAD.UNEXPECTED_ERROR,При обработке вашего файла произошла непредвиденная ошибка
+locale-ru,UPLOAD.WARNING_TO_CHECK,Требуется проверить предупреждающее сообщение
+locale-ru,UPLOAD.SEE_DETAILS,См. подробную информацию
+locale-ru,UPLOAD.FILE,файл
+locale-ru,UPLOAD.FILE_PLURAL,файлы
+locale-ru,UPLOAD.SUPPORTED_FORMATS,Поддерживаемые форматы:
+locale-ru,UPLOAD.HAVING_PROBLEMS,Справка по загрузке
+locale-ru,UPLOAD.TOOLTIP_MESSAGE,|Если выполняется загрузка файлов ISOXML, все содержимое папки TASKDATA необходимо заархивировать. Обязательно включите все файлы XML, BIN и любые другие файлы, которые находится в папке TASKDATA. Затем загрузите ZIP-файл, а не отдельные файлы.|
+locale-ru,UPLOAD.DISMISS,Отклонить
+locale-ru,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> был создан в поле <strong>{{fieldName}}</strong>
+locale-ru,UPLOAD.FILE_IMPORTED,{{fileName}} был импортирован
+locale-ru,ERRORS.ERROR_FOUND.ZERO,
+locale-ru,ERRORS.ERROR_FOUND.ONE,{{errorCount}} ошибка обнаружена
+locale-ru,ERRORS.ERROR_FOUND.MANY,{{errorCount}} ошибка обнаружена
+locale-ru,ERRORS.ERROR_VIEW.ZERO,
+locale-ru,ERRORS.ERROR_VIEW.ONE,|Имеется {{errorCount}} ошибка. Просмотрите ее, нажав следующую кнопку|
+locale-ru,ERRORS.ERROR_VIEW.MANY,|Имеется {{errorCount}} ошибок. Просмотрите их, нажав следующую кнопку|
+locale-ru,ERRORS.HTTP.PARSE,Не удается проанализировать ответ от сервера
+locale-ru,ERRORS.HTTP.FETCH,Невозможно выполнить выборку данных {{object}}
+locale-ru,ERRORS.GROWERS.NEW,Невозможно создать нового фермера
+locale-ru,ERRORS.GROWERS.EDIT,Невозможно изменить фермера с идентификатором {{id}}
+locale-ru,ERRORS.GROWERS.DELETE,Невозможно удалить фермера с идентификатором {{id}}
+locale-ru,ERRORS.FARMS.NEW,Невозможно создать новую ферму
+locale-ru,ERRORS.FARMS.EDIT,Невозможно изменить ферму с идентификатором {{id}}
+locale-ru,ERRORS.FARMS.DELETE,Невозможно удалить ферму с идентификатором {{id}}
+locale-ru,ERRORS.CROPS.NEW,Невозможно создать новую культуру
+locale-ru,ERRORS.CROPS.EDIT,Невозможно изменить культуру с идентификатором {{id}}
+locale-ru,ERRORS.CROPS.DELETE,Невозможно удалить культуру с идентификатором {{id}}
+locale-ru,ERRORS.PRODUCTS.NEW,Невозможно создать новый продукт
+locale-ru,ERRORS.PRODUCTS.EDIT,Невозможно изменить продукт с идентификатором {{id}}
+locale-ru,ERRORS.PRODUCTS.DELETE,Невозможно удалить продукт с идентификатором {{id}}
+locale-ru,ERRORS.TASKS.NEW,Невозможно создать новую задачу
+locale-ru,ERRORS.TASKS.EDIT,Невозможно изменить задачу с идентификатором {{id}}
+locale-ru,ERRORS.TASKS.DELETE,Невозможно удалить задачу с идентификатором {{id}}
+locale-ru,ERRORS.PRESCRIPTIONS.NEW,Невозможно создать новое предписание
+locale-ru,ERRORS.PRESCRIPTIONS.EDIT,Невозможно изменить предписание с идентификатором {{id}}
+locale-ru,ERRORS.PRESCRIPTIONS.DELETE,Невозможно удалить предписание с идентификатором {{id}}
+locale-ru,ERRORS.FIELDS.EDIT,Невозможно изменить поле с идентификатором {{id}}
+locale-ru,ERRORS.FIELDS.DELETE,Невозможно удалить поле с идентификатором {{id}}
+locale-ru,ERRORS.MZONE.CREATE,Невозможно создать зону управления
+locale-ru,ERRORS.MZONE.EDIT,Невозможно изменить зону управления с идентификатором {{id}}
+locale-ru,ERRORS.MZONE.DELETE,Невозможно удалить зону управления с идентификатором {{id}}
+locale-ru,ERRORS.VARIABLE.EDIT,Невозможно изменить переменную с идентификатором {{id}}
+locale-ru,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Неправильные заголовки данных
+locale-ru,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Невозможно выполнить синтаксический анализ входных параметров из импортированного файла.
+locale-ru,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Источник файлов не найден
+locale-ru,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Неправильный или недопустимый или недоступный путь к файлу.
+locale-ru,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Ошибка импорта данных
+locale-ru,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Во время импорта файла произошла ошибка необрабатываемого исключения.
+locale-ru,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Ошибка типа действия
+locale-ru,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Невозможно прочитать тип рабочих данных из импортированного файла во время загрузки.
+locale-ru,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Ошибка проекции шейп-файла .PRJ
+locale-ru,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Загруженный шейп-файл содержит неподдерживаемый файл проекции. Удалите файл .prj из содержимого файла .zip.
+locale-ru,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Не удается считать файл импорта
+locale-ru,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Импортированный файл содержит поврежденные или нечитаемые файлы.
+locale-ru,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,Ошибка преобразования ADAPT
+locale-ru,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Произошла ошибка во время преобразования в модель ADAPT.
+locale-ru,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Невозможно считать шейп-файл
+locale-ru,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,В загруженном шейп-файле не обнаружены данные.
+locale-ru,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Невозможно считать шейп-файл
+locale-ru,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,В загруженном шейп-файле не обнаружены числовые данные.
+locale-ru,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Невозможно считать шейп-файл
+locale-ru,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,Загруженный шейп-файл неправильный. Включите файлы .dbf .shp и .shx в загруженный файл .zip.
+locale-ru,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Ошибка записи в хранилище
+locale-ru,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Произошла ошибка при попытке записи импортированных данных в базу данных хранилища.
+locale-ru,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Сбой сравнения данных
+locale-ru,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Произошла ошибка при попытке загрузить существующую структуру данных во время импорта.
+locale-ru,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Сбой слияния данных
+locale-ru,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,Произошла ошибка при попытке синхроинзировать структуру импортированных данных с существующими данными.
+locale-ru,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Сбой сопоставления с географическим положением
+locale-ru,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Ошибка сопоставления поля с существующими границами поля. Создание задачи было пропущено.
+locale-ru,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Сбой создания поля
+locale-ru,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Ошибка при создании нового поля. Создание задачи было пропущено.
+locale-ru,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Сбой создания поля
+locale-ru,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Ошибка при создании нового поля. Создание нового поля было пропущено.
+locale-ru,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Ошибка хранения после обработки
+locale-ru,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,Произошла ошибка при попытке записи импортированных данных в базу данных хранилища postgres.
+locale-ru,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Данные покрытия не найдены
+locale-ru,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,В импортированном файле не содержатся данные покрытия.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Задача не найдена
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Импортированный файл не содержит сведений о задаче.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Удален столбец нечисловых данных
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,|В данных загруженного файла содержится нечисловой столбец данных. Этот столбец был удален, а данные импортированы.|
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Обнаружен конфликт даты/времени
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,В загруженном файле содержится несколько столбцов даты/времени. Использован первый найденный столбец даты/времени.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Невозможно рассчитать итоговые суммы
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Данные обработаны, но не содержат итоговых сумм и они не могут быть рассчитаны.|
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Данные импортированы ранее
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Данные были пропущены. Это дублирование ранее импортированной задачи.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Некартируемая задача
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,Загруженный файл задачи содержит некартируемые ссылки на задачи. Они были удалены.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Отсутствуют данные секции/ширины
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Во время обработки файла отсутствовала информация о секции/ширине. Информация о сечении и ширине выведена из другого источника.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Отсутствуют данные секции/ширины
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Во время обработки файла отсутствовала информация о секции/ширине. Информация о сечении и ширине выведена из другого источника.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Отсутствуют данные секции/ширины
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,Во время обработки файла отсутствовала информация о секции/ширине. Информация о сечении и ширине выведена из другого источника.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Отсутствуют данные секции/ширины
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,Во время обработки файла отсутствовала информация о секции/ширине. Информация о сечении и ширине выведена из другого источника.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Предупреждение о модели данных
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Во время обработки файлов были обнаружены проблемы в родительских элементах модели данных устройства.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Отсутствуют данные секции/ширины
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Во время обработки файла отсутствовала информация о секции/ширине. Информация о сечении и ширине выведена из другого источника.
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Ошибка выверки данных
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,|Сработал порог фильтра значений, данные вернулись к предыдущим значениям.|
+locale-ru,ERRORS.IMPORTER.UNKNOWN.TITLE,Неизвестная ошибка
+locale-ru,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Неизвестная ошибка ({{code}}).
+locale-ru,ERRORS.IMPORTER.SUB_DESCRIPTION,|Возможно, возникла проблема при загрузке файла|
+locale-ru,ERRORS.IMPORTER.BUTTON.ERROR,получить помощь по загрузке
+locale-ru,ERRORS.IMPORTER.BUTTON.WARNING,получить помощь по загрузке
+locale-ru,ERRORS.IMPORTER.WARNING_MESSAGE,Предупреждающее сообщение
+locale-ru,EMPTY_STATE.DEFAULT.TITLE,Отсутствуют данные
+locale-ru,EMPTY_STATE.TASKS.IMPORTED_TITLE,Задачи еще не импортированы
+locale-ru,EMPTY_STATE.TASKS.IMPORTED_TEXT,Можно импортировать новую задачу при помощи кнопки ниже
+locale-ru,EMPTY_STATE.TASKS.IMPORTED_CTA,задача импорта
+locale-ru,EMPTY_STATE.TASKS.FOUND_TITLE,Задачи не обнаружены
+locale-ru,EMPTY_STATE.TASKS.FOUND_TEXT,Попытайтесь изменить фильтры
+locale-ru,EMPTY_STATE.TASKS.NOT_SELECTED,ЗАДАЧИ ЕЩЕ НЕ ИМПОРТИРОВАНЫ
+locale-ru,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Можно импортировать новую задачу при помощи кнопки в верхней правой части
+locale-ru,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Предписание еще не создано
+locale-ru,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Можно создать новое предписание при помощи кнопки ниже
+locale-ru,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,новое предписание
+locale-ru,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Зона управления еще не создана
+locale-ru,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Линия навигации еще не создана
+locale-ru,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Анализ еще не создан
+locale-ru,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,Можно создать новый анализ при помощи кнопки ниже
+locale-ru,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,перейти к ключевой точке
+locale-ru,EMPTY_STATE.FIELDS.CREATED_TITLE,Поле еще не создано
+locale-ru,EMPTY_STATE.FIELDS.CREATED_TXT,Можно создать новое поле при помощи кнопки ниже
+locale-ru,EMPTY_STATE.FIELDS.FOUND_TITLE,Поле не найдено
+locale-ru,EMPTY_STATE.FIELDS.FOUND_TXT,Попробуйте изменить параметры поиска и фильтров
+locale-ru,EMPTY_STATE.FIELDS.NOT_SELECTED,ПОЛЕ ЕЩЕ НЕ ВЫБРАНО
+locale-ru,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,Можно выбрать поле на боковой панели в левой части для просмотра всех связанных задач
+locale-ru,EMPTY_STATE.VEHICLES.CREATED_TITLE,Машины еще не созданы
+locale-ru,EMPTY_STATE.VEHICLES.FOUND_TITLE,Машины не найдены
+locale-ru,EMPTY_STATE.VEHICLES.FOUND_TXT,Попробуйте изменить параметры поиска и фильтров
+locale-ru,FIELD_CARD.ACTIONS.EDIT,Изменить поле
+locale-ru,FIELD_CARD.ACTIONS.DELETE,Удалить
+locale-ru,FIELD_CARD.INFO,Информация о поле
+locale-ru,FIELD_CARD.GROWER,Фермер
+locale-ru,FIELD_CARD.FARM,Ферма
+locale-ru,FIELD_CARD.AREA,Общая площадь поля
+locale-ru,FIELD_CARD.CROPS,Культуры
+locale-ru,FIELD_CARD.TILLABLE,Обрабатываемая площадь
+locale-ru,FIELD_CARD.WEATHER,Погода
+locale-ru,FIELD_CARD.LAST_TASKS,Последние 3 задачи
+locale-ru,FIELD_CARD.IMPORT_TASKS,Импортировать задачу
+locale-ru,FIELD_CARD.SUMMARY_TASKS,Сводные данные о задачах
+locale-ru,PRESCRIPTION.PRESCRIPTION,Предписание
+locale-ru,PRESCRIPTION.SENT_TO_VEHICLE,Предписание было отправлено на машину
+locale-ru,PRESCRIPTION.NOT_SENT_TO_VEHICLE,Предписание еще не было отправлено на машину
+locale-ru,PRESCRIPTION.PRESCRIPTION_EMPTY,ПРЕДПИСАНИЕ ЕЩЕ НЕ СОЗДАНО
+locale-ru,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,Можно создать новое предписание при помощи кнопки в верхней правой части
+locale-ru,PRESCRIPTION.SELECT_DEVICE,Выбрать устройство
+locale-ru,PRESCRIPTION.SELECT_DEVICE_EMPTY,Устройство не выбрано
+locale-ru,PRESCRIPTION.SELECT_DEVICE_DESC,Выберите одно устройство из списка ниже.
+locale-ru,PRESCRIPTION.APPLIED_DATE,Запланированная дата
+locale-ru,PRESCRIPTION.CREATION_DATE,Дата создания
+locale-ru,PRESCRIPTION.TOTAL_AREA,Общая площадь
+locale-ru,PRESCRIPTION.PRODUCT_QUANTITY,Рассчетная итоговая сумма
+locale-ru,PRESCRIPTION.STATUS_PROCESSING,Создание файла предписаний...
+locale-ru,PRESCRIPTION.STATUS_PROCESSED,Предписание создано
+locale-ru,PRESCRIPTION.PLANNED_DATE,Запланированная дата
+locale-ru,PRESCRIPTION.HIDE_ZONES,СКРЫТЬ ЗОНЫ
+locale-ru,PRESCRIPTION.SHOW_ZONES,ПОКАЗАТЬ ЗОНЫ
+locale-ru,PRESCRIPTION.GROWERS_SELECT,Все фермеры
+locale-ru,PRESCRIPTION.FARMS_SELECT,Все фермы
+locale-ru,PRESCRIPTION.GROWER_REQUIRED,Необходимо указать фермера
+locale-ru,PRESCRIPTION.FARM_REQUIRED,Необходимо указать название фермы
+locale-ru,PRESCRIPTION.FIELD_SELECT,Все поля
+locale-ru,PRESCRIPTION.FIELD_REQUIRED,Необходимо указать поле.
+locale-ru,PRESCRIPTION.NEW_PRESCRIPTIONS,Новое предписание
+locale-ru,PRESCRIPTION.PRESCRIPTION_CREATE,Создать предписание
+locale-ru,PRESCRIPTION.MGMT,Зона MGMT
+locale-ru,PRESCRIPTION.MANAGEMENT_ZONE,Зона управления
+locale-ru,PRESCRIPTION.MANAGEMENT_NAME,Название зоны управления
+locale-ru,PRESCRIPTION.MANAGEMENT_SELECT,Выбрать зону управления.
+locale-ru,PRESCRIPTION.MANAGEMENT_SEARCH,Поиск зоны управления.
+locale-ru,PRESCRIPTION.MANAGEMENT_REQUIRED,Требуется зона управления.
+locale-ru,PRESCRIPTION.MANAGEMENT_CTA,СОХРАНИТЬ ЗОНУ УПРАВЛЕНИЯ
+locale-ru,PRESCRIPTION.PRODUCT_SEARCH,Поиск продукта
+locale-ru,PRESCRIPTION.PRODUCT_SELECT,Выбор продукта
+locale-ru,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Требуется продукт
+locale-ru,PRESCRIPTION.PRODUCT_VALUE,Значение продукта
+locale-ru,PRESCRIPTION.PRODUCT_VALUE_SELECT,Выбрать значение продукта
+locale-ru,PRESCRIPTION.PRODUCT_VALUE_INPUT,Вставить значение продукта
+locale-ru,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Требуется значение продукта
+locale-ru,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Значение продукта не может быть отрицательным
+locale-ru,PRESCRIPTION.PRODUCT_NAME,Название продукта
+locale-ru,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Требуется название продукта
+locale-ru,PRESCRIPTION.PRODUCT_NAME_INSERT,Вставить название продукта
+locale-ru,PRESCRIPTION.UNIT_SELECT,Выбрать единицу измерения
+locale-ru,PRESCRIPTION.UNIT_SELECT_REQUIRED,Необходимо указать единицу измерения
+locale-ru,PRESCRIPTION.MAP_NAME,Название карты предписаний
+locale-ru,PRESCRIPTION.MAP_NAME_REQUIRED,Необходимо указать название карты предписаний
+locale-ru,PRESCRIPTION.MAP_EDIT,Изменить карту предписаний
+locale-ru,PRESCRIPTION.MAP_EDIT_N,Изменить название карты предписаний
+locale-ru,PRESCRIPTION.MAP_SET_N,Задать название карты предписаний
+locale-ru,PRESCRIPTION.ZONE_NUMBER,Зоны
+locale-ru,PRESCRIPTION.SEND_TO,Отправить предписание
+locale-ru,PRESCRIPTION.UNAVAILABLE,|Файл предписаний создан, после выполнения операции Вы получите уведомление. Повторите попытку позже.|
+locale-ru,PRESCRIPTION.PROCESSED,Готов файл предписания для {{prescriptionName}}. Теперь можно загрузить его или отправить на машины.
+locale-ru,PRESCRIPTION.PRESCRIPTION_MAP,Карта предписаний
+locale-ru,PRESCRIPTION.ANALYSIS,Анализ
+locale-ru,PRESCRIPTION.UNKNOWN,Неизвестный
+locale-ru,PRESCRIPTION.CREATED,Создана карта предписаний {{name}}
+locale-ru,SIDEBAR.USER_MANAGEMENT,управление пользователями
+locale-ru,SIDEBAR.REPORT_ISSUE,сообщить о проблеме
+locale-ru,SIDEBAR.SUBSCRIPTION_MANAGEMENT,управление подписками
+locale-ru,SIDEBAR.STORE,хранение
+locale-ru,OVERVIEW_SIDEBAR.FIELDS_TAB,Поля
+locale-ru,OVERVIEW_SIDEBAR.VEHICLES_TAB,Машины
+locale-ru,PRIMARY_NAV.UPLOAD,загрузка
+locale-ru,PRIMARY_NAV.LOGOUT,выход из системы
+locale-ru,SECONDARY_NAV.OVERVIEW,обзор
+locale-ru,SECONDARY_NAV.TASKS,задачи
+locale-ru,SECONDARY_NAV.PRESCRIPTIONS,предписания
+locale-ru,SECONDARY_NAV.MANAGE,управление
+locale-ru,MANAGE_NAV.GROWERS,фермеры
+locale-ru,MANAGE_NAV.FARMS,фермы
+locale-ru,MANAGE_NAV.FIELDS,поля
+locale-ru,MANAGE_NAV.CROPS,культуры
+locale-ru,MANAGE_NAV.PRODUCTS,продукты
+locale-ru,GFF.FIELD,поле
+locale-ru,GFF.FIELDS,поля
+locale-ru,GFF.FARM,ферма
+locale-ru,GFF.FARMS,фермы
+locale-ru,GFF.GROWER,фермер
+locale-ru,GFF.GROWERS,фермеры
+locale-ru,GFF.SEARCH_FIELD,Поиск названия поля
+locale-ru,GFF.GROWERS_SELECT,Все фермеры
+locale-ru,GFF.FARMS_SELECT,Все фермы
+locale-ru,VEHICLES.VEHICLES,машины
+locale-ru,VEHICLES.VEHICLE,машина
+locale-ru,VEHICLES.SN,Серийный номер
+locale-ru,VEHICLES.BRAND,Марка
+locale-ru,VEHICLES.TYPE,Тип
+locale-ru,VEHICLES.MODEL,Модель
+locale-ru,VEHICLES.STATUS,Состояние
+locale-ru,VEHICLES.SPEED,Скорость
+locale-ru,VEHICLES.DISTANCE,Расстояние
+locale-ru,VEHICLES.ENGINE_H,Моточасы двигателя
+locale-ru,VEHICLES.ENGINE_S,Частота вращения двигателя
+locale-ru,VEHICLES.FUEL,Уровень топлива
+locale-ru,VEHICLES.FUELRATE,Расход топлива
+locale-ru,VEHICLES.GOTO_FORCE,Перейти к Force
+locale-ru,VEHICLES.MACHINE_INFO,Информация о машине
+locale-ru,VEHICLES.SEARCH_VEHICLE,Поиск названия машины
+locale-ru,FARM.NEW,новая ферма
+locale-ru,FARM.NEW_CREATE,Создать новую ферму
+locale-ru,FARM.EDIT,Изменить ферму
+locale-ru,FARM.FARMS,Фермы
+locale-ru,FIELD.NEW,Новое поле
+locale-ru,FIELD.UPDATE,Обновить поле
+locale-ru,FIELD.CREATE,Создать поле
+locale-ru,FIELD.FIELDS,Поля
+locale-ru,FIELD.SELECT_GROWER,Выбрать феремера
+locale-ru,FIELD.REQUIRED_GROWER,Необходимо указать фермера
+locale-ru,FIELD.SEARCH_GROWER,Поиск фермера
+locale-ru,FIELD.NO_GROWER,Фермер не выбран
+locale-ru,FIELD.SELECT_FARM,Выбрать ферму
+locale-ru,FIELD.REQUIRED_FARM,Требуется ферма
+locale-ru,FIELD.SEARCH_FARM,Поиск фермы
+locale-ru,FIELD.SEARCH_FIELD,Поиск поля
+locale-ru,FIELD.NAME_FIELD,Имя поля
+locale-ru,FIELD.NAME_FIELD_REQUIRED,Требуется название поля
+locale-ru,FIELD.FIELD_SELECT,Выбор поля
+locale-ru,FIELD.FIELD_REQUIRED,Необходимо указать поле.
+locale-ru,FIELD.BOUNDARY,Область границ
+locale-ru,FIELD.TILLABLE,Обрабатываемая площадь
+locale-ru,FIELD.INSERT_TILLABLE,Вставить обрабатываемую площадь
+locale-ru,FIELD.TILLABLE_REQUIRED,Требуется обрабатываемая площадь
+locale-ru,FIELD.ZONE_VALUE,Вставить значение зоны
+locale-ru,NEW_FIELD.TITLE,Новое поле
+locale-ru,NEW_FIELD.SELECT_GROWER,Выбрать феремера
+locale-ru,NEW_FIELD.SELECT_FARM,Выбрать ферму
+locale-ru,NEW_FIELD.GROWER_LABEL,Фермер
+locale-ru,NEW_FIELD.FARM_LABEL,Ферма
+locale-ru,NEW_FIELD.FIELD_LABEL,Имя поля
+locale-ru,NEW_FIELD.FARM_REQUIRED,Необходимо указать название фермы
+locale-ru,NEW_FIELD.FIELD_INPUT,Вставить название поля
+locale-ru,NEW_FIELD.FIELD_INPUT_ERROR,Требуется название поля
+locale-ru,NEW_FIELD.BOUNDARY_AREA,Область границ
+locale-ru,NEW_FIELD.TILLABLE_AREA,Обрабатываемая площадь
+locale-ru,NEW_FIELD.TILLABLE_AREA_REQUIRED,Требуется обрабатываемая площадь
+locale-ru,NEW_FIELD.CREATE_FIELD,создать поле
+locale-ru,NEW_FIELD.SAVE_FIELD,сохранить поле
+locale-ru,NEW_FIELD.ERROR.NEW,Невозможно создать новое поле.
+locale-ru,NEW_FIELD.ERROR.EDIT,Невозможно изменить текущее поле.
+locale-ru,NEW_FIELD.ERROR.GENERIC,Невозможно создать нове поле из-за внутренней ошибки
+locale-ru,NEW_FIELD.ERROR_NEW,
+locale-ru,NEW_FIELD.ERROR_EDIT,
+locale-ru,NEW_FIELD.CANCEL,отмена
+locale-ru,NEW_FIELD.NO_GROWER,Отсутствует доступный фермер
+locale-ru,NEW_FIELD.NO_FARM,Отсутствует доступная ферма
+locale-ru,NEW_FARM_MODAL.TITLE,Новая ферма
+locale-ru,NEW_FARM_MODAL.GROWER_LABEL,Фермер
+locale-ru,NEW_FARM_MODAL.NO_GROWER_SELECTED,Фермер не выбран
+locale-ru,NEW_FARM_MODAL.FARM_LABEL,Название фермы
+locale-ru,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Необходимо указать название фермы
+locale-ru,NEW_FARM_MODAL.CREATE,создать
+locale-ru,NEW_FARM_MODAL.CLOSE,закрыть
+locale-ru,GROWER_MODAL.TITLE,Новый фермер
+locale-ru,GROWER_MODAL.GROWER_LABEL,Имя фермера
+locale-ru,GROWER_MODAL.GROWER_INPUT_REQUIRED,Требуется имя фермера
+locale-ru,GROWER_MODAL.CREATE,создать
+locale-ru,GROWER_MODAL.CLOSE,закрыть
+locale-ru,GROWER_MODAL.EG,|Например, Исаак Хармон|
+locale-ru,TASK.SHOW_LAYER,ПОКАЗАТЬ ДОСТУПНЫЕ УРОВНИ
+locale-ru,TASK.HIDE_LAYER,СКРЫТЬ ДОСТУПНЫЕ УРОВНИ
+locale-ru,TASK.SHOW_PREVIEW,Показать предпросмотр
+locale-ru,TASK.NO_TYPE,Тип не выбран.
+locale-ru,TASK.NO_YEAR,Год не выбран.
+locale-ru,TASK.SELECT_YEAR,Выбрать год.
+locale-ru,TASK.SELECT_OP,Выбрать операцию.
+locale-ru,TASK.TASK_NOT_ASSOCIATED,Задачи не назначены
+locale-ru,TASK.IMPORT_TASKS,Импортировать задачи
+locale-ru,TASK.INSERT,Вставить название задачи.
+locale-ru,TASK.NAME,Имя задачи.
+locale-ru,TASK.EDIT,Изменить задачу.
+locale-ru,TASK.EDIT_INFO,Изменить информацию
+locale-ru,TASK.REQUIRED,Требуется название задачи.
+locale-ru,TASK.ACTUAL_RATE,Фактический расход
+locale-ru,TASK.SENSOR_RDNG,СЧИТЫВАНИЕ датчика
+locale-ru,TASK.SENSOR_WDTH,Ширина датчика
+locale-ru,TASK.YIELD_MASS,Масса урожайности
+locale-ru,TASK.MOISTURE,Влажность
+locale-ru,TASK.CELL_MASS,Ячейка массы
+locale-ru,TASK.CELL_AREA,Ячейка площади
+locale-ru,TASK.YIELD_VOL,Объем урожайности
+locale-ru,TASK.UNADJ_CELL_M,Неотрегулированная ячейка
+locale-ru,TASK.NO_OPERATION,Нет доступных операций
+locale-ru,TASK.TASK_TYPE_UNKNOWN,Тип задачи неизвестен
+locale-ru,TASK.TASK_TYPE,Тип задачи
+locale-ru,TASK.SELECT_TASK_TYPE,Выбрать тип задачи
+locale-ru,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,Этот тип задачи не был распознан системой.
+locale-ru,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,Измените тип задачи на известный в TAP.
+locale-ru,TASK.CHANGE_TASK_TYPE,изменить тип задачи
+locale-ru,TASK.TASK_DATE,Дата задачи
+locale-ru,TASK.TASK_LAYER_ISSUE,Проблема уровня задач
+locale-ru,TASK.TASK_LAYER_ISSUE_DESCRIPTION,В этом уровне задач отсутствует информация. Она либо не связана с известной переменной и/или отсутствует единица измерения
+locale-ru,TASK.EDIT_TASK_LAYER,Изменить уровень задачи
+locale-ru,TASK.EDIT_TASK_LAYER_WARNING,|Нельзя работать с уровнями, пока тип задачи не будет связан с известным типом в TAP|
+locale-ru,TASK.EDIT_LAYER,Изменить уровень
+locale-ru,TASK.LAYER_TYPE,Тип уровня
+locale-ru,TASK.SELECT_A_LAYER_TYPE,Выбрать тип уровня
+locale-ru,TASK.UNIT_OF_MEASUREMENT,Единица измерения
+locale-ru,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Выбрать единицу измерения
+locale-ru,TASK.SELECT_A_LAYER_FIRST,Сначала необходимо выбрать тип уровня
+locale-ru,TASK.LAYER_UPDATED,Уровень {{layerName}} был обновлен
+locale-ru,TASK.TASK_UPDATED,Задача {{taskName}} была обновлена
+locale-ru,TASK.UNKNOWN,неизвестный
+locale-ru,CROP.INSERT_NAME,Вставить название культуры
+locale-ru,CROP.NAME,Название культуры
+locale-ru,CROP.REQUIRED,Требуется название культуры
+locale-ru,CROP.SELECT,Выбрать культуру
+locale-ru,CROP.CROP,Культура
+locale-ru,CROP.SEARCH,Поиск культуры
+locale-ru,CROP.NEW,Новая культура
+locale-ru,CROP.EDIT,Изменить культуру
+locale-ru,CROP.CROPS,Культуры
+locale-ru,CROP.CROP_SPEC,Характеристики культуры
+locale-ru,THEMATIZATION.CLASSES,Классы
+locale-ru,THEMATIZATION.COLOR_RAMP,Цветовой градиент
+locale-ru,THEMATIZATION.GREY,Серые
+locale-ru,THEMATIZATION.RED,Красные
+locale-ru,THEMATIZATION.GREEN,Зеленые
+locale-ru,THEMATIZATION.BLUE,Синие
+locale-ru,THEMATIZATION.GYR,ЗелЖелКрас
+locale-ru,THEMATIZATION.SPECTRAL,Спектральный
+locale-ru,THEMATIZATION.INVERTED,Инвертированный
+locale-ru,THEMATIZATION.THRESHOLD,Пороговое значение
+locale-ru,THEMATIZATION.METHOD,Метод
+locale-ru,THEMATIZATION.METHOD_SELECT,Выбрать метод
+locale-ru,THEMATIZATION.METHOD_REQUIRED,Требуется метод
+locale-ru,THEMATIZATION.EDIT,Изменить тематизацию
+locale-ru,THEMATIZATION.E_A,Равная площадь
+locale-ru,THEMATIZATION.E_I,Равный интервал
+locale-ru,THEMATIZATION.N_B,Естественные перерывы
+locale-ru,GROWER.NEW,Новый фермер
+locale-ru,GROWER.EDIT,Изменить фермера
+locale-ru,GROWER.GROWERS,Фермеры
+locale-ru,PRODUCT.NEW,Новый продукт
+locale-ru,PRODUCT.EDIT,Изменить продукт
+locale-ru,PRODUCT.EDIT_VALUE,Изменить значение продукта
+locale-ru,PRODUCT.PRODUCTS,Продукты
+locale-ru,DELETE_MODAL.PRE,Удалить предписание
+locale-ru,DELETE_MODAL.QUESTION,|Вы уверены, что хотите удалить|
+locale-ru,DELETE_MZ_MODAL.PRE,Выход из режима создания зоны управления
+locale-ru,DELETE_MZ_MODAL.QUESTION,Вы действительно хотите прервать режим создания зоны управления? Все несохраненные изменения будут потеряны.
+locale-ru,DELETE_MZ_MODAL.CONFIRM,|ДА, ВЫЙТИ|
+locale-ru,EDIT_PRESCRIPTION_MODAL.PRE,Выход из режима создания предписания
+locale-ru,EDIT_PRESCRIPTION_MODAL.QUESTION,|Вы действительно хотите прервать режим создания предписания? Если продолжить, все введенные данные будут потеряны.|
+locale-ru,DELETE_TASK_MODAL.PRE,Удалить задачу
+locale-ru,DELETE_TASK_MODAL.QUESTION,|Вы уверены, что хотите удалить|
+locale-ru,ZONE.EDIT,Изменить имя зоны
+locale-ru,ZONE.SET,Задать имя зоны управления
+locale-ru,PDF.TITLE,pdf
+locale-ru,MAP.EDIT_TOOLTIP_TEXT,|Перетащите маркер, чтобы изменить поле|
+locale-ru,MAP.REMOVE_TOOLTIP_TEXT,|Нажмите на поле, чтобы удалить его|
+locale-ru,MAP.POLYGON_TOOLTIP_START,|Нажмите на карту, чтобы начать вычерчивание поля.<br/> Рисуйте внутри многоугольника, чтобы создать отверстие в поле|
+locale-ru,MAP.BUFFER_TOOLTIP.TEXT,Нажмите и перетащите для расширения или сокращения поля
+locale-ru,MAP.BUFFER_TOOLTIP.MEASURE,Радиус
+locale-ru,MAP.POLYGON_TOOLTIP.START,|Нажмите, чтобы начать рисование|
+locale-ru,MAP.POLYGON_TOOLTIP.CONT,|Нажмите на карту, чтобы продолжить<br/>рисование поля|
+locale-ru,MAP.POLYGON_TOOLTIP.END,|Нажмите на первую точку, чтобы завершить<br/>создание поля|
+locale-ru,MAP.POLYLINE.ERROR,<strong>Ошибка:</strong> края формы не могут пересекаться!
+locale-ru,MAP.POLYLINE.TOOLTIP.START,|Нажмите, чтобы начать рисование линии|
+locale-ru,MAP.POLYLINE.TOOLTIP.CONT,Нажмите. чтобы продолжить рисование линии.
+locale-ru,MAP.POLYLINE.TOOLTIP.END,Нажимите на последнюю точку для завершения линии.
+locale-ru,MAP.PLUGINS.ZOOM.OUT,Уменьшить
+locale-ru,MAP.PLUGINS.ZOOM.IN,Увеличить
+locale-ru,MAP.PLUGINS.SEARCH.PLACEHOLDER,Поиск местоположения
+locale-ru,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Местоположение не найдено
+locale-ru,MAP.PLUGINS.UPLOAD.TEXT,импортировать шейп-файл
+locale-ru,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Перетащить шейп-файл ...
+locale-ru,MAP.PLUGINS.WEATHER.TEMPERATURE,температура
+locale-ru,MAP.PLUGINS.WEATHER.DEW_POINT,точка росы
+locale-ru,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,относительная влажность
+locale-ru,MAP.PLUGINS.WEATHER.WIND_SPEED,скорость ветра
+locale-ru,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,ощущение температуры
+locale-ru,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Нет данных для отображения
+locale-ru,MAP.PLUGINS.LEGEND.MIN_LABEL,Мин: {{data}}
+locale-ru,MAP.PLUGINS.LEGEND.MAX_LABEL,Макс: {{data}}
+locale-ru,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,спутник
+locale-ru,MAP.PLUGINS.LAYER_SWITCH.STREET,улица
+locale-ru,OPERATIONS.YIELD,Урожайность
+locale-ru,OPERATIONS.AS_APPLIED,Внесенный продукт
+locale-ru,OPERATIONS.SOIL_SAMPLE,Образец почвы
+locale-ru,OPERATIONS.OTHER,Другое
+locale-ru,STATISTICS.SPREAD_TIME,Время распределения
+locale-ru,STATISTICS.PRODUCT_TOTAL,Рассчетная итоговая сумма
+locale-ru,STATISTICS.PRODUCT_SPREAD_TIME,Время распределения продукта
+locale-ru,STATISTICS.PRODUCT_AREA,Зона продукта
+locale-ru,STATISTICS.SENSOR_TYPE,Тип датчика
+locale-ru,STATISTICS.TOTAL_AREA,Общая площадь
+locale-ru,STATISTICS.TOTAL_MASS,Общая масса
+locale-ru,STATISTICS.UN_ADJ_TTL_M,Неотрегулированный TTL
+locale-ru,STATISTICS.SENSOR_WDTH,Ширина датчика
+locale-ru,PROFILE.FEEDBACK,Отправить отзыв
+locale-ru,PROFILE.HELP,Помощь и поддержка
+locale-ru,VARIABLE.ACTUAL_RATE,Фактический расход
+locale-ru,VARIABLE.SENSOR_RDNG,СЧИТЫВАНИЕ датчика
+locale-ru,VARIABLE.SENSOR_WDTH,Ширина датчика
+locale-ru,VARIABLE.YIELD_MASS,Масса урожайности
+locale-ru,VARIABLE.MOISTURE,Влажность
+locale-ru,VARIABLE.CELL_MASS,Ячейка массы
+locale-ru,VARIABLE.CELL_AREA,Ячейка площади
+locale-ru,VARIABLE.YIELD_VOL,Объем урожайности
+locale-ru,VARIABLE.UNADJ_CELL_M,Неотрегулированная ячейка

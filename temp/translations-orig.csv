@@ -1,0 +1,3552 @@
+locale-fr,GLOBAL.SEND,Envoyer
+locale-fr,GLOBAL.SEND_DATA,Envoyer des données
+locale-fr,GLOBAL.FIELD_NAME,Nom du champ
+locale-fr,GLOBAL.CHANGE_STYLE,Changer le style
+locale-fr,GLOBAL.OPACITY,Opacité
+locale-fr,GLOBAL.VIEW_MODE,Mode Affichage
+locale-fr,GLOBAL.VECTOR,Vecteur
+locale-fr,GLOBAL.RASTER,Raster
+locale-fr,GLOBAL.REQUIRED_VALUE,Valeur requise
+locale-fr,GLOBAL.BOUNDARY_AREA,Zone de délimitation
+locale-fr,GLOBAL.TILLABLE_AREA,Zone labourable
+locale-fr,GLOBAL.SHOW_LAYERS_LIST,Afficher la liste des couches
+locale-fr,GLOBAL.HIDE_LAYERS_LIST,Masquer la liste des couches
+locale-fr,GLOBAL.SET_VALUE,Définir une valeur
+locale-fr,GLOBAL.DEVICES,Dispositifs
+locale-fr,GLOBAL.SEARCH,Rechercher
+locale-fr,GLOBAL.FIELDS,champs
+locale-fr,GLOBAL.FIELD,champ
+locale-fr,GLOBAL.FARM,exploitation
+locale-fr,GLOBAL.FARMS,exploitations
+locale-fr,GLOBAL.ZONE,Zone
+locale-fr,GLOBAL.ZONES,Zones
+locale-fr,GLOBAL.PRODUCT,Produit
+locale-fr,GLOBAL.PRODUCTS,Produits
+locale-fr,GLOBAL.GROWER,agriculteur
+locale-fr,GLOBAL.GROWERS,agriculteurs
+locale-fr,GLOBAL.TASKS,tâches
+locale-fr,GLOBAL.CROP,récolte
+locale-fr,GLOBAL.CROPS,récoltes
+locale-fr,GLOBAL.VEHICLES,véhicules
+locale-fr,GLOBAL.VEHICLE,véhicule
+locale-fr,GLOBAL.UNIT,unité
+locale-fr,GLOBAL.PRODUCT_TYPE,Type de produit
+locale-fr,GLOBAL.SHOWME,MONTREZ-MOI
+locale-fr,GLOBAL.CANCEL,annuler
+locale-fr,GLOBAL.EDIT,Modifier
+locale-fr,GLOBAL.DELETE,Supprimer
+locale-fr,GLOBAL.DELETE_CONFIRMATION,Etes-vous sûr de vouloir supprimer ?
+locale-fr,GLOBAL.SEND_TO,Envoyer à
+locale-fr,GLOBAL.MORE,Plus
+locale-fr,GLOBAL.CLEAR_LIST,Effacer la liste
+locale-fr,GLOBAL.CREATED,Créé à
+locale-fr,GLOBAL.ALL,Tout
+locale-fr,GLOBAL.YEAR,Année
+locale-fr,GLOBAL.TYPE,Type
+locale-fr,GLOBAL.ALARM,Alarme
+locale-fr,GLOBAL.ALARMS,Alarmes
+locale-fr,GLOBAL.OPERATION,Fonctionnement
+locale-fr,GLOBAL.NAME,nom
+locale-fr,GLOBAL.EG,|Exemple, ferme de la vallée d'If|
+locale-fr,GLOBAL.COMPANY,société
+locale-fr,GLOBAL.SUBCOMPANY,Filiale
+locale-fr,GLOBAL.FLEET,Flotte
+locale-fr,GLOBAL.CONFIRM,Confirmer
+locale-fr,GLOBAL.CREATE,Créer
+locale-fr,GLOBAL.CLOSE,fermer
+locale-fr,GLOBAL.SAVE,Enregistrer
+locale-fr,GLOBAL.CREATED_S,Créé
+locale-fr,GLOBAL.VIEW_ON_MAP,Afficher sur la carte
+locale-fr,GLOBAL.GUIDANCE,Guidage
+locale-fr,GLOBAL.SETTINGS,Paramètres
+locale-fr,GLOBAL.LOGOUT,Déconnexion
+locale-fr,GLOBAL.TASK_ID,tâche {{id}}
+locale-fr,GLOBAL.FARM_ID,exploitation {{id}}
+locale-fr,GLOBAL.FIELD_ID,champ {{id}}
+locale-fr,GLOBAL.HOUR,heure
+locale-fr,GLOBAL.HOURS,heures
+locale-fr,GLOBAL.MINUTE,minute
+locale-fr,GLOBAL.MINUTES,minutes
+locale-fr,GLOBAL.VIEW_LAYERS,Afficher les couches
+locale-fr,UPLOAD.DND,Faites glisser les fichiers et déposez-les ici !
+locale-fr,UPLOAD.OR,ou
+locale-fr,UPLOAD.BROWSE,parcourez les fichiers
+locale-fr,UPLOAD.UPLOADING,Chargement en cours
+locale-fr,UPLOAD.UPLOADING_DOT,Chargement en cours...
+locale-fr,UPLOAD.ERROR,Erreur
+locale-fr,UPLOAD.ERROR_UPLOADING,Erreur lors du téléchargement
+locale-fr,UPLOAD.ERROR_IMPORTING,Erreur lors de l'importation
+locale-fr,UPLOAD.RETRY,Réessayer le téléchargement
+locale-fr,UPLOAD.PROCESSING,Traitement en cours
+locale-fr,UPLOAD.PROCESSING_TASK,Traitement de la tâche en cours...
+locale-fr,UPLOAD.COMPLETED,Terminé
+locale-fr,UPLOAD.HAS_BEEN,a été importé dans le champ 
+locale-fr,UPLOAD.HAS_BEEN_FROM,{{taskName}} de {{fileName}} a été importée dans {{fieldName}}
+locale-fr,UPLOAD.HAS_BEEN_ORPHAN,a été importé en tant que tâche orpheline
+locale-fr,UPLOAD.UNKNOWN,Fichier inconnu.
+locale-fr,UPLOAD.START_NOTIFICATION,Le fichier téléchargé {{fileName}} est en cours de traitement
+locale-fr,UPLOAD.FINISH_NOTIFICATION,{{fileName}} a été importé
+locale-fr,UPLOAD.GFF_UPDATE_NOTIFICATION,|Les données Agriculteur, Exploitation et Champ sont en cours de mise à jour|
+locale-fr,ERRORS.ERROR_FOUND.ZERO,
+locale-fr,ERRORS.ERROR_FOUND.ONE,{{ErrorCount}} erreur trouvée
+locale-fr,ERRORS.ERROR_FOUND.MANY,{{ErrorCount}} erreurs trouvées
+locale-fr,ERRORS.ERROR_VIEW.ZERO,
+locale-fr,ERRORS.ERROR_VIEW.ONE,Il y a {{errorCount}} erreur. Affichez-la en appuyant sur le bouton suivant
+locale-fr,ERRORS.ERROR_VIEW.MANY,Il y a {{errorCount}} erreurs. Affichez-les en appuyant sur le bouton suivant
+locale-fr,ERRORS.HTTP.PARSE,Impossible d'analyser la réponse du serveur
+locale-fr,ERRORS.HTTP.FETCH,Impossible de récupérer les données {{objet}}
+locale-fr,ERRORS.GROWERS.NEW,Impossible de créer un producteur
+locale-fr,ERRORS.GROWERS.EDIT,Impossible de modifier le producteur avec l'identifiant {{id}}
+locale-fr,ERRORS.GROWERS.DELETE,Impossible de supprimer le producteur avec l'identifiant {{id}}
+locale-fr,ERRORS.FARMS.NEW,Impossible de créer une exploitation
+locale-fr,ERRORS.FARMS.EDIT,Impossible de modifier l'exploitation avec l'identifiant {{id}}
+locale-fr,ERRORS.FARMS.DELETE,Impossible de supprimer l'exploitation avec l'identifiant {{id}}
+locale-fr,ERRORS.CROPS.NEW,Impossible de créer une récolte
+locale-fr,ERRORS.CROPS.EDIT,Impossible de modifier la récolte avec l'identifiant {{id}}
+locale-fr,ERRORS.CROPS.DELETE,Impossible de supprimer la récolte avec l'identifiant {{id}}
+locale-fr,ERRORS.PRODUCTS.NEW,Impossible de créer un produit
+locale-fr,ERRORS.PRODUCTS.EDIT,Impossible de modifier le produit avec l'identifiant {{id}}
+locale-fr,ERRORS.PRODUCTS.DELETE,Impossible de supprimer le produit avec l'identifiant {{id}}
+locale-fr,ERRORS.TASKS.NEW,Impossible de créer une tâche
+locale-fr,ERRORS.TASKS.EDIT,Impossible de modifier la tâche avec l'identifiant {{id}}
+locale-fr,ERRORS.TASKS.DELETE,Impossible de supprimer la tâche avec l'identifiant {{id}}
+locale-fr,ERRORS.PRESCRIPTIONS.NEW,Impossible de créer un traitement
+locale-fr,ERRORS.PRESCRIPTIONS.EDIT,Impossible de modifier le traitement avec l'identifiant {{id}}
+locale-fr,ERRORS.PRESCRIPTIONS.DELETE,Impossible de supprimer le traitement avec l'identifiant {{id}}
+locale-fr,ERRORS.FIELDS.EDIT,Impossible de modifier le champ avec l'identifiant {{id}}
+locale-fr,ERRORS.FIELDS.DELETE,Impossible de supprimer le champ avec l'identifiant {{id}}
+locale-fr,ERRORS.MZONE.CREATE,Impossible de créer une zone de gestion
+locale-fr,ERRORS.MZONE.EDIT,Impossible de modifier la zone de gestion avec l'identifiant {{id}}
+locale-fr,ERRORS.MZONE.DELETE,Impossible de supprimer la zone de gestion avec l'identifiant {{id}}
+locale-fr,EMPTY_STATE.TASKS.IMPORTED_TITLE,Aucune tâche n'a encore été importée
+locale-fr,EMPTY_STATE.TASKS.IMPORTED_TEXT,Vous pouvez importer une nouvelle tâche avec le bouton ci-dessous
+locale-fr,EMPTY_STATE.TASKS.IMPORTED_CTA,importer une tâche
+locale-fr,EMPTY_STATE.TASKS.FOUND_TITLE,Aucune tâche trouvée
+locale-fr,EMPTY_STATE.TASKS.FOUND_TEXT,Essayez de modifier les filtres
+locale-fr,EMPTY_STATE.TASKS.NOT_SELECTED,AUCUNE TACHE N'A ENCORE ETE IMPORTEE
+locale-fr,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Vous pouvez importer une nouvelle tâche avec le bouton en haut à droite
+locale-fr,EMPTY_STATE.FIELDS.CREATED_TITLE,Aucun champ n'a encore été créé
+locale-fr,EMPTY_STATE.FIELDS.CREATED_TXT,Vous pouvez créer un nouveau champ avec le bouton ci-dessous
+locale-fr,EMPTY_STATE.FIELDS.FOUND_TITLE,Aucun champ trouvé
+locale-fr,EMPTY_STATE.FIELDS.FOUND_TXT,Essayez de modifier la recherche et les filtres
+locale-fr,EMPTY_STATE.FIELDS.NOT_SELECTED,AUCUN CHAMP N'A ENCORE ETE SELECTIONNE
+locale-fr,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,Vous pouvez sélectionner un champ dans la barre latérale à gauche pour voir toutes les tâches associées
+locale-fr,EMPTY_STATE.VEHICLES.CREATED_TITLE,Aucun véhicule n'a encore été créé
+locale-fr,EMPTY_STATE.VEHICLES.FOUND_TITLE,Aucun véhicule n'a encore été trouvé
+locale-fr,EMPTY_STATE.VEHICLES.FOUND_TXT,Essayez de modifier la recherche et les filtres
+locale-fr,EMPTY_STATE.DEFAULT.TITLE,Aucune donnée
+locale-fr,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Aucun traitement n'a été créé à ce jour
+locale-fr,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Vous pouvez créer un nouveau traitement avec le bouton ci-dessous
+locale-fr,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,nouveau traitement
+locale-fr,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Aucune zone de gestion créée à ce jour
+locale-fr,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Aucun guidage créé à ce jour
+locale-fr,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Aucune analyse créée à ce jour
+locale-fr,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,Vous pouvez créer une nouvelle analyse avec le bouton ci-dessous
+locale-fr,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,aller à spotlight
+locale-fr,FIELD_CARD.ACTIONS.EDIT,Modifier le champ
+locale-fr,FIELD_CARD.ACTIONS.DELETE,Supprimer
+locale-fr,FIELD_CARD.INFO,Informations relatives au champ
+locale-fr,FIELD_CARD.GROWER,Agriculteur
+locale-fr,FIELD_CARD.FARM,Exploitation
+locale-fr,FIELD_CARD.AREA,Surface totale du champ
+locale-fr,FIELD_CARD.CROPS,Récoltes
+locale-fr,FIELD_CARD.TILLABLE,Zone labourable
+locale-fr,FIELD_CARD.WEATHER,Météo
+locale-fr,FIELD_CARD.LAST_TASKS,3 dernières tâches
+locale-fr,FIELD_CARD.IMPORT_TASKS,Importer une tâche
+locale-fr,FIELD_CARD.SUMMARY_TASKS,Résumé de la tâche
+locale-fr,PRESCRIPTION.SENT_TO_VEHICLE,La prescription a été envoyée au véhicule
+locale-fr,PRESCRIPTION.NOT_SENT_TO_VEHICLE,La prescription n'a pas été envoyée au véhicule
+locale-fr,PRESCRIPTION.PRESCRIPTION_EMPTY,AUCUNE PRESCRIPTION N'A ENCORE ETE CREEE
+locale-fr,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,Vous pouvez créer une nouvelle prescription avec le bouton en haut à droite
+locale-fr,PRESCRIPTION.SELECT_DEVICE,Sélectionner un dispositif
+locale-fr,PRESCRIPTION.SELECT_DEVICE_DESC,Sélectionner un dispositif dans la liste ci-dessous.
+locale-fr,PRESCRIPTION.APPLIED_DATE,Date prévue
+locale-fr,PRESCRIPTION.CREATION_DATE,Date de création
+locale-fr,PRESCRIPTION.TOTAL_AREA,Surface totale
+locale-fr,PRESCRIPTION.PRODUCT_QUANTITY,Quantité de produit
+locale-fr,PRESCRIPTION.STATUS_PROCESSING,Création du fichier de prescription en cours...
+locale-fr,PRESCRIPTION.STATUS_PROCESSED,Prescription créée
+locale-fr,PRESCRIPTION.PLANNED_DATE,Date prévue
+locale-fr,PRESCRIPTION.HIDE_ZONES,MASQUER LES ZONES
+locale-fr,PRESCRIPTION.SHOW_ZONES,AFFICHER LES ZONES
+locale-fr,PRESCRIPTION.GROWERS_SELECT,Tous les agriculteurs
+locale-fr,PRESCRIPTION.FARMS_SELECT,Toutes les exploitations
+locale-fr,PRESCRIPTION.GROWER_REQUIRED,L'agriculteur est obligatoire
+locale-fr,PRESCRIPTION.FARM_REQUIRED,L'exploitation est obligatoire
+locale-fr,PRESCRIPTION.FIELD_SELECT,Tous les domaines
+locale-fr,PRESCRIPTION.FIELD_REQUIRED,Le champ est obligatoire.
+locale-fr,PRESCRIPTION.NEW_PRESCRIPTIONS,Nouvelle prescription
+locale-fr,PRESCRIPTION.PRESCRIPTION_CREATE,Créer une prescription
+locale-fr,PRESCRIPTION.MGMT,Zone de gestion
+locale-fr,PRESCRIPTION.MANAGEMENT_ZONE,Zone de gestion
+locale-fr,PRESCRIPTION.MANAGEMENT_NAME,Nom de la zone de gestion
+locale-fr,PRESCRIPTION.MANAGEMENT_SELECT,Sélectionner une zone de gestion.
+locale-fr,PRESCRIPTION.MANAGEMENT_SEARCH,Rechercher une zone de gestion.
+locale-fr,PRESCRIPTION.MANAGEMENT_REQUIRED,La zone de gestion est obligatoire.
+locale-fr,PRESCRIPTION.MANAGEMENT_CTA,ENREGISTRER LA ZONE DE GESTION
+locale-fr,PRESCRIPTION.PRODUCT_SEARCH,Rechercher un produit
+locale-fr,PRESCRIPTION.PRODUCT_SELECT,Sélectionner un produit
+locale-fr,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Le produit est obligatoire
+locale-fr,PRESCRIPTION.PRODUCT_VALUE,Valeur du produit
+locale-fr,PRESCRIPTION.PRODUCT_VALUE_SELECT,Sélectionner la valeur du produit
+locale-fr,PRESCRIPTION.PRODUCT_VALUE_INPUT,Insérer la valeur du produit
+locale-fr,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,La valeur du produit est obligatoire
+locale-fr,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,La valeur du produit ne peut pas être négative
+locale-fr,PRESCRIPTION.PRODUCT_NAME,Nom du produit
+locale-fr,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Le nom du produit est obligatoire
+locale-fr,PRESCRIPTION.PRODUCT_NAME_INSERT,Insérer le nom du produit
+locale-fr,PRESCRIPTION.UNIT_SELECT,Sélectionner une unité
+locale-fr,PRESCRIPTION.UNIT_SELECT_REQUIRED,L'unité est obligatoire
+locale-fr,PRESCRIPTION.MAP_NAME,Nom de la carte de prescription
+locale-fr,PRESCRIPTION.MAP_NAME_REQUIRED,Le nom de la carte de prescription est obligatoire
+locale-fr,PRESCRIPTION.MAP_EDIT,Modifier la carte de prescription
+locale-fr,PRESCRIPTION.MAP_EDIT_N,Modifier le nom de la carte de prescription
+locale-fr,PRESCRIPTION.MAP_SET_N,Définir le nom de la carte de prescription
+locale-fr,PRESCRIPTION.ZONE_NUMBER,Zones
+locale-fr,PRESCRIPTION.SEND_TO,Envoyer la prescription
+locale-fr,PRESCRIPTION.UNAVAILABLE,Le fichier de prescription est en cours de création et vous serez informé une fois l'opération terminée. Veuillez réessayer ultérieurement.
+locale-fr,PRESCRIPTION.PROCESSED,Le fichier de prescription {{prescriptionName}} est prêt. Vous pouvez maintenant le télécharger ou l'envoyer vers les machines.
+locale-fr,PRESCRIPTION.SELECT_DEVICE_EMPTY,Aucun périphérique sélectionné
+locale-fr,PRESCRIPTION.PRESCRIPTION_MAP,Plan de traitement
+locale-fr,PRESCRIPTION.ANALYSIS,Analyse
+locale-fr,PRESCRIPTION.UNKNOWN,Inconnu
+locale-fr,PRESCRIPTION.CREATED,Le plan de traitement {{nom}} a été créé
+locale-fr,SIDEBAR.USER_MANAGEMENT,gestion des utilisateurs
+locale-fr,SIDEBAR.REPORT_ISSUE,signaler un problème
+locale-fr,SIDEBAR.SUBSCRIPTION_MANAGEMENT,gestion de l'abonnement
+locale-fr,SIDEBAR.STORE,boutique
+locale-fr,OVERVIEW_SIDEBAR.FIELDS_TAB,Champs
+locale-fr,OVERVIEW_SIDEBAR.VEHICLES_TAB,Véhicules
+locale-fr,PRIMARY_NAV.UPLOAD,télécharger
+locale-fr,PRIMARY_NAV.LOGOUT,déconnexion
+locale-fr,SECONDARY_NAV.OVERVIEW,vue d'ensemble
+locale-fr,SECONDARY_NAV.TASKS,tâches
+locale-fr,SECONDARY_NAV.PRESCRIPTIONS,prescriptions
+locale-fr,SECONDARY_NAV.MANAGE,gérer
+locale-fr,MANAGE_NAV.GROWERS,agriculteurs
+locale-fr,MANAGE_NAV.FARMS,exploitations
+locale-fr,MANAGE_NAV.FIELDS,champs
+locale-fr,MANAGE_NAV.CROPS,récoltes
+locale-fr,MANAGE_NAV.PRODUCTS,produits
+locale-fr,GFF.FIELD,champ
+locale-fr,GFF.FIELDS,champs
+locale-fr,GFF.FARM,exploitation
+locale-fr,GFF.FARMS,exploitations
+locale-fr,GFF.GROWER,agriculteur
+locale-fr,GFF.GROWERS,agriculteurs
+locale-fr,GFF.SEARCH_FIELD,Nom du champ de recherche
+locale-fr,GFF.GROWERS_SELECT,Tous les agriculteurs
+locale-fr,GFF.FARMS_SELECT,Toutes les exploitations
+locale-fr,VEHICLES.VEHICLES,véhicules
+locale-fr,VEHICLES.VEHICLE,véhicule
+locale-fr,VEHICLES.SN,Numéro de série
+locale-fr,VEHICLES.BRAND,Marque
+locale-fr,VEHICLES.TYPE,Type
+locale-fr,VEHICLES.MODEL,Modèle
+locale-fr,VEHICLES.STATUS,Etat
+locale-fr,VEHICLES.SPEED,Vitesse
+locale-fr,VEHICLES.DISTANCE,Distance
+locale-fr,VEHICLES.ENGINE_H,Heures moteur
+locale-fr,VEHICLES.ENGINE_S,Régime moteur
+locale-fr,VEHICLES.FUEL,Niveau de carburant
+locale-fr,VEHICLES.FUELRATE,Débit de carburant
+locale-fr,VEHICLES.GOTO_FORCE,Accéder à force
+locale-fr,VEHICLES.MACHINE_INFO,Informations sur la machine
+locale-fr,VEHICLES.SEARCH_VEHICLE,Rechercher le nom du véhicule
+locale-fr,FARM.NEW,nouvelle exploitation
+locale-fr,FARM.NEW_CREATE,Créer une nouvelle exploitation
+locale-fr,FARM.EDIT,Modifier l'exploitation
+locale-fr,FARM.FARMS,Exploitations
+locale-fr,FIELD.NEW,Nouveau champ
+locale-fr,FIELD.UPDATE,Mettre le champ à jour
+locale-fr,FIELD.CREATE,Créer un champ
+locale-fr,FIELD.FIELDS,Champs
+locale-fr,FIELD.SELECT_GROWER,Sélectionner l'agriculteur
+locale-fr,FIELD.REQUIRED_GROWER,L'agriculteur est obligatoire
+locale-fr,FIELD.SEARCH_GROWER,Rechercher un agriculteur
+locale-fr,FIELD.NO_GROWER,Aucun agriculteur sélectionné
+locale-fr,FIELD.SELECT_FARM,Sélectionner une exploitation
+locale-fr,FIELD.REQUIRED_FARM,L'exploitation est obligatoire
+locale-fr,FIELD.SEARCH_FARM,Rechercher une exploitation
+locale-fr,FIELD.SEARCH_FIELD,Rechercher un champ
+locale-fr,FIELD.NAME_FIELD,Nom du champ
+locale-fr,FIELD.NAME_FIELD_REQUIRED,Le nom du champ est obligatoire
+locale-fr,FIELD.FIELD_SELECT,Sélectionner le champ
+locale-fr,FIELD.FIELD_REQUIRED,Le champ est obligatoire.
+locale-fr,FIELD.BOUNDARY,Zone de délimitation
+locale-fr,FIELD.TILLABLE,Zone labourable
+locale-fr,FIELD.INSERT_TILLABLE,Insérer la zone labourable
+locale-fr,FIELD.TILLABLE_REQUIRED,La zone labourable est obligatoire
+locale-fr,FIELD.ZONE_VALUE,Insérer la valeur de la zone
+locale-fr,NEW_FIELD.TITLE,Nouveau champ
+locale-fr,NEW_FIELD.SELECT_GROWER,Sélectionner l'agriculteur
+locale-fr,NEW_FIELD.SELECT_FARM,Sélectionner une exploitation
+locale-fr,NEW_FIELD.GROWER_LABEL,Agriculteur
+locale-fr,NEW_FIELD.FARM_LABEL,Exploitation
+locale-fr,NEW_FIELD.FIELD_LABEL,Nom du champ
+locale-fr,NEW_FIELD.FARM_REQUIRED,L'exploitation est obligatoire
+locale-fr,NEW_FIELD.FIELD_INPUT,Insérer le nom du champ
+locale-fr,NEW_FIELD.FIELD_INPUT_ERROR,Le nom du champ est obligatoire
+locale-fr,NEW_FIELD.BOUNDARY_AREA,Zone de délimitation
+locale-fr,NEW_FIELD.TILLABLE_AREA,Zone labourable
+locale-fr,NEW_FIELD.TILLABLE_AREA_REQUIRED,La zone labourable est obligatoire
+locale-fr,NEW_FIELD.CREATE_FIELD,créer un champ
+locale-fr,NEW_FIELD.SAVE_FIELD,enregistrer le champ
+locale-fr,NEW_FIELD.ERROR.NEW,Impossible de créer un champ.
+locale-fr,NEW_FIELD.ERROR.EDIT,Impossible de modifier le champ actuel.
+locale-fr,NEW_FIELD.ERROR.GENERIC,Impossible de créer un champ en raison d'une erreur interne
+locale-fr,NEW_FIELD.ERROR_NEW,
+locale-fr,NEW_FIELD.ERROR_EDIT,
+locale-fr,NEW_FIELD.CANCEL,annuler
+locale-fr,NEW_FIELD.NO_GROWER,Aucun producteur disponible
+locale-fr,NEW_FIELD.NO_FARM,Aucune exploitation disponible
+locale-fr,NEW_FARM_MODAL.TITLE,Nouvelle exploitation
+locale-fr,NEW_FARM_MODAL.GROWER_LABEL,Agriculteur
+locale-fr,NEW_FARM_MODAL.NO_GROWER_SELECTED,Aucun agriculteur sélectionné
+locale-fr,NEW_FARM_MODAL.FARM_LABEL,Nom de l'exploitation
+locale-fr,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Le nom de l'exploitation est obligatoire
+locale-fr,NEW_FARM_MODAL.CREATE,créer
+locale-fr,NEW_FARM_MODAL.CLOSE,fermer
+locale-fr,GROWER_MODAL.TITLE,Nouvel agriculteur
+locale-fr,GROWER_MODAL.GROWER_LABEL,Nom de l'agriculteur
+locale-fr,GROWER_MODAL.GROWER_INPUT_REQUIRED,Le nom de l'agriculteur est obligatoire
+locale-fr,GROWER_MODAL.CREATE,créer
+locale-fr,GROWER_MODAL.CLOSE,fermer
+locale-fr,GROWER_MODAL.EG,|Par exemple, Isaac Harmon|
+locale-fr,TASK.SHOW_LAYER,AFFICHER LES COUCHES DISPONIBLES
+locale-fr,TASK.HIDE_LAYER,MASQUER LES COUCHES DISPONIBLES
+locale-fr,TASK.SHOW_PREVIEW,Afficher l'aperçu
+locale-fr,TASK.NO_TYPE,Aucun type sélectionné.
+locale-fr,TASK.NO_YEAR,Aucune année sélectionnée.
+locale-fr,TASK.SELECT_YEAR,Sélectionner une année.
+locale-fr,TASK.SELECT_OP,Sélectionner une opération.
+locale-fr,TASK.TASK_NOT_ASSOCIATED,Tâches non associées
+locale-fr,TASK.IMPORT_TASKS,Importer des tâches
+locale-fr,TASK.INSERT,Insérer un nom de tâche.
+locale-fr,TASK.NAME,Nom de tâche.
+locale-fr,TASK.EDIT,Modifier une tâche.
+locale-fr,TASK.EDIT_INFO,Modifier les informations
+locale-fr,TASK.REQUIRED,Le nom de la tâche est obligatoire.
+locale-fr,TASK.ACTUAL_RATE,Taux réel
+locale-fr,TASK.SENSOR_RDNG,Capteur RDNG
+locale-fr,TASK.SENSOR_WDTH,Largeur de la zone du capteur
+locale-fr,TASK.YIELD_MASS,Rendement des récoltes
+locale-fr,TASK.MOISTURE,Humidité
+locale-fr,TASK.CELL_MASS,Masse récoltée par cellule
+locale-fr,TASK.CELL_AREA,Surface de cellule
+locale-fr,TASK.YIELD_VOL,Volume récoltée
+locale-fr,TASK.UNADJ_CELL_M,Cellule non ajustée
+locale-fr,TASK.NO_OPERATION,Aucune opération trouvée
+locale-fr,CROP.INSERT_NAME,Insérer le nom de la récolte
+locale-fr,CROP.NAME,Nom de la récolte
+locale-fr,CROP.REQUIRED,Le nom de la récolte est obligatoire
+locale-fr,CROP.SELECT,Sélectionner la récolte
+locale-fr,CROP.CROP,Récolte
+locale-fr,CROP.SEARCH,Rechercher une récolte
+locale-fr,CROP.NEW,Nouvelle récolte
+locale-fr,CROP.EDIT,Modifier la récolte
+locale-fr,CROP.CROPS,Récoltes
+locale-fr,CROP.CROP_SPEC,Crop Spec
+locale-fr,THEMATIZATION.CLASSES,Catégories
+locale-fr,THEMATIZATION.COLOR_RAMP,Gamme de couleurs
+locale-fr,THEMATIZATION.GREY,Gris
+locale-fr,THEMATIZATION.RED,Rouges
+locale-fr,THEMATIZATION.GREEN,Verts
+locale-fr,THEMATIZATION.BLUE,Bleus
+locale-fr,THEMATIZATION.GYR,VeJaRo
+locale-fr,THEMATIZATION.SPECTRAL,Spectral
+locale-fr,THEMATIZATION.INVERTED,Inversé
+locale-fr,THEMATIZATION.THRESHOLD,Seuil
+locale-fr,THEMATIZATION.METHOD,Méthode
+locale-fr,THEMATIZATION.METHOD_SELECT,Sélectionner une méthode
+locale-fr,THEMATIZATION.METHOD_REQUIRED,La méthode est obligatoire
+locale-fr,THEMATIZATION.EDIT,Modifier la thématisation
+locale-fr,THEMATIZATION.E_A,Zone égale
+locale-fr,THEMATIZATION.E_I,Intervalle égal
+locale-fr,THEMATIZATION.N_B,Intervalles naturels
+locale-fr,GROWER.NEW,Nouvel agriculteur
+locale-fr,GROWER.EDIT,Modifier l'agriculteur
+locale-fr,GROWER.GROWERS,Agriculteurs
+locale-fr,PRODUCT.NEW,Nouveau produit
+locale-fr,PRODUCT.EDIT,Modifier un produit
+locale-fr,PRODUCT.EDIT_VALUE,Modifier la valeur de produit
+locale-fr,PRODUCT.PRODUCTS,Produits
+locale-fr,DELETE_MODAL.PRE,Supprimer la prescription
+locale-fr,DELETE_MODAL.QUESTION,Etes-vous sûr de vouloir supprimer ?
+locale-fr,DELETE_MZ_MODAL.PRE,Quitter le mode de création de zone de gestion
+locale-fr,DELETE_MZ_MODAL.QUESTION,Etes-vous sûr de vouloir quitter le mode de création de zone de gestion ? Vous perdrez toutes les modifications non enregistrées.
+locale-fr,DELETE_MZ_MODAL.CONFIRM,|OUI, QUITTER|
+locale-fr,EDIT_PRESCRIPTION_MODAL.PRE,Quitter le mode de création de prescription
+locale-fr,EDIT_PRESCRIPTION_MODAL.QUESTION,|Etes-vous sûr de vouloir quitter le mode de création de prescription ? Si vous continuez, vous perdrez toutes les données saisies.|
+locale-fr,DELETE_TASK_MODAL.PRE,Supprimer la tâche
+locale-fr,DELETE_TASK_MODAL.QUESTION,Etes-vous sûr de vouloir supprimer ?
+locale-fr,ZONE.EDIT,Modifier le nom de la zone
+locale-fr,ZONE.SET,Définir le nom de la zone de gestion
+locale-fr,PDF.TITLE,pdf
+locale-fr,MAP.EDIT_TOOLTIP_TEXT,Faites glisser le curseur pour modifier le champ
+locale-fr,MAP.REMOVE_TOOLTIP_TEXT,Cliquez sur un champ pour le supprimer
+locale-fr,MAP.POLYGON_TOOLTIP_START,Cliquez sur la carte pour commencer à dessiner le champ.<br/>Dessinez à l'intérieur du polygone pour créer un trou dans le champ
+locale-fr,MAP.BUFFER_TOOLTIP.TEXT,Cliquez et faites glisser la souris pour agrandir ou réduire le champ
+locale-fr,MAP.BUFFER_TOOLTIP.MEASURE,Rayon
+locale-fr,MAP.POLYGON_TOOLTIP.START,Cliquez pour commencer à dessiner
+locale-fr,MAP.POLYGON_TOOLTIP.CONT,Cliquez sur la carte pour continuer<br/>à dessiner le champ
+locale-fr,MAP.POLYGON_TOOLTIP.END,Cliquez sur le premier point pour terminer<br/>la création du champ
+locale-fr,MAP.POLYLINE.ERROR,<strong>Erreur :</strong> les bords de la forme ne peuvent pas se croiser !
+locale-fr,MAP.POLYLINE.TOOLTIP.START,Cliquez pour commencer à tracer la ligne.
+locale-fr,MAP.POLYLINE.TOOLTIP.CONT,Cliquez pour continuer à tracer la ligne.
+locale-fr,MAP.POLYLINE.TOOLTIP.END,Cliquez sur le dernier point pour terminer la ligne.
+locale-fr,MAP.PLUGINS.ZOOM.OUT,Zoom arrière
+locale-fr,MAP.PLUGINS.ZOOM.IN,Zoom avant
+locale-fr,MAP.PLUGINS.SEARCH.PLACEHOLDER,Rechercher un emplacement
+locale-fr,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Emplacement introuvable
+locale-fr,MAP.PLUGINS.UPLOAD.TEXT,importer des fichiers de forme
+locale-fr,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Déposer un fichier de formes...
+locale-fr,MAP.PLUGINS.WEATHER.TEMPERATURE,température
+locale-fr,MAP.PLUGINS.WEATHER.DEW_POINT,point de rosée
+locale-fr,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,humidité relative
+locale-fr,MAP.PLUGINS.WEATHER.WIND_SPEED,vitesse du vent
+locale-fr,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,temp. ressentie
+locale-fr,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Aucune donnée à afficher
+locale-fr,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellite
+locale-fr,MAP.PLUGINS.LAYER_SWITCH.STREET,rue
+locale-fr,OPERATIONS.YIELD,Rendement
+locale-fr,OPERATIONS.AS_APPLIED,Comme appliqué
+locale-fr,OPERATIONS.SOIL_SAMPLE,Échantillon de sol
+locale-fr,STATISTICS.SPREAD_TIME,Durée de propagation
+locale-fr,STATISTICS.PRODUCT_TOTAL,Total estimé
+locale-fr,STATISTICS.PRODUCT_SPREAD_TIME,Durée de propagation de produit
+locale-fr,STATISTICS.PRODUCT_AREA,Zone de produit
+locale-fr,STATISTICS.SENSOR_TYPE,Type de capteur
+locale-fr,STATISTICS.TOTAL_AREA,Superficie totale
+locale-fr,STATISTICS.TOTAL_MASS,Masse totale
+locale-fr,STATISTICS.UN_ADJ_TTL_M,Total non ajusté
+locale-fr,STATISTICS.SENSOR_WDTH,Largeur de la zone du capteur
+locale-fr,PROFILE.FEEDBACK,Envoyer un commentaire
+locale-fr,PROFILE.HELP,Aide et support
+locale-es,GLOBAL.SEND,Enviar
+locale-es,GLOBAL.SEND_DATA,Enviar datos
+locale-es,GLOBAL.FIELD_NAME,Nombre del campo
+locale-es,GLOBAL.CHANGE_STYLE,Cambiar estilo
+locale-es,GLOBAL.OPACITY,Opacidad
+locale-es,GLOBAL.VIEW_MODE,Modo de visualización
+locale-es,GLOBAL.VECTOR,Vector
+locale-es,GLOBAL.RASTER,Representar
+locale-es,GLOBAL.REQUIRED_VALUE,Es necesario introducir un valor
+locale-es,GLOBAL.BOUNDARY_AREA,Área de linde
+locale-es,GLOBAL.TILLABLE_AREA,Área de arado
+locale-es,GLOBAL.SHOW_LAYERS_LIST,Mostrar lista de capas
+locale-es,GLOBAL.HIDE_LAYERS_LIST,Ocultar lista de capas
+locale-es,GLOBAL.SET_VALUE,Establecer valor
+locale-es,GLOBAL.DEVICES,Dispositivos
+locale-es,GLOBAL.SEARCH,Búsqueda
+locale-es,GLOBAL.FIELDS,campos
+locale-es,GLOBAL.FIELD,campo
+locale-es,GLOBAL.FARM,explotación agrícola
+locale-es,GLOBAL.FARMS,explotaciones agrícolas
+locale-es,GLOBAL.ZONE,Zona
+locale-es,GLOBAL.ZONES,Zonas
+locale-es,GLOBAL.PRODUCT,Producto
+locale-es,GLOBAL.PRODUCTS,Productos
+locale-es,GLOBAL.GROWER,agricultor
+locale-es,GLOBAL.GROWERS,agricultores
+locale-es,GLOBAL.TASKS,tareas
+locale-es,GLOBAL.CROP,cultivo
+locale-es,GLOBAL.CROPS,cultivos
+locale-es,GLOBAL.VEHICLES,vehículos
+locale-es,GLOBAL.VEHICLE,vehículo
+locale-es,GLOBAL.UNIT,unidad
+locale-es,GLOBAL.PRODUCT_TYPE,Tipo de producto
+locale-es,GLOBAL.SHOWME,MOSTRARME
+locale-es,GLOBAL.CANCEL,cancelar
+locale-es,GLOBAL.EDIT,Editar
+locale-es,GLOBAL.DELETE,Borrar
+locale-es,GLOBAL.DELETE_CONFIRMATION,¿Seguro que desea eliminar
+locale-es,GLOBAL.SEND_TO,Enviar a
+locale-es,GLOBAL.MORE,Más
+locale-es,GLOBAL.CLEAR_LIST,Borrar lista
+locale-es,GLOBAL.CREATED,Creado en
+locale-es,GLOBAL.ALL,Todos
+locale-es,GLOBAL.YEAR,Año
+locale-es,GLOBAL.TYPE,Tipo
+locale-es,GLOBAL.ALARM,Alarma
+locale-es,GLOBAL.ALARMS,Alarmas
+locale-es,GLOBAL.OPERATION,Operación
+locale-es,GLOBAL.NAME,nombre
+locale-es,GLOBAL.EG,|P. ej., explotación agrícola Yew Valley|
+locale-es,GLOBAL.COMPANY,empresa
+locale-es,GLOBAL.SUBCOMPANY,Subempresa
+locale-es,GLOBAL.FLEET,Flota
+locale-es,GLOBAL.CONFIRM,Confirmar
+locale-es,GLOBAL.CREATE,Crear
+locale-es,GLOBAL.CLOSE,cerrar
+locale-es,GLOBAL.SAVE,Guardar
+locale-es,GLOBAL.CREATED_S,Creado
+locale-es,GLOBAL.VIEW_ON_MAP,Ver en mapa
+locale-es,GLOBAL.GUIDANCE,Orientación
+locale-es,GLOBAL.SETTINGS,Configuración
+locale-es,GLOBAL.LOGOUT,Cerrar sesión
+locale-es,GLOBAL.TASK_ID,tarea {{id}}
+locale-es,GLOBAL.FARM_ID,explotación agrícola {{id}}
+locale-es,GLOBAL.FIELD_ID,campo {{id}}
+locale-es,GLOBAL.HOUR,hora
+locale-es,GLOBAL.HOURS,horas
+locale-es,GLOBAL.MINUTE,minuto
+locale-es,GLOBAL.MINUTES,minutos
+locale-es,GLOBAL.VIEW_LAYERS,Ver capas
+locale-es,UPLOAD.DND,Arrastre y suelte los archivos aquí.
+locale-es,UPLOAD.OR,o bien
+locale-es,UPLOAD.BROWSE,explorar archivos
+locale-es,UPLOAD.UPLOADING,Cargando
+locale-es,UPLOAD.UPLOADING_DOT,Cargando...
+locale-es,UPLOAD.ERROR,Error
+locale-es,UPLOAD.ERROR_UPLOADING,Error al cargar
+locale-es,UPLOAD.ERROR_IMPORTING,Error al importar
+locale-es,UPLOAD.RETRY,Volver a subir
+locale-es,UPLOAD.PROCESSING,Procesando
+locale-es,UPLOAD.PROCESSING_TASK,Procesando tarea...
+locale-es,UPLOAD.COMPLETED,Completado
+locale-es,UPLOAD.HAS_BEEN,se ha importado al campo 
+locale-es,UPLOAD.HAS_BEEN_FROM,{{taskName}} de {{fileName}} se ha importado al campo {{fieldName}}
+locale-es,UPLOAD.HAS_BEEN_ORPHAN,se ha importado como tarea huérfana
+locale-es,UPLOAD.UNKNOWN,Archivo desconocido.
+locale-es,UPLOAD.START_NOTIFICATION,La tarea {{fileName}} cargada se está procesando
+locale-es,UPLOAD.FINISH_NOTIFICATION,{{FileName}} se ha importado
+locale-es,UPLOAD.GFF_UPDATE_NOTIFICATION,|Los datos del agricultor, la explotación agrícola y el campo se están actualizando|
+locale-es,ERRORS.ERROR_FOUND.ZERO,
+locale-es,ERRORS.ERROR_FOUND.ONE,Se han detectado {{ErrorCount}} errores
+locale-es,ERRORS.ERROR_FOUND.MANY,Se han detectado {{ErrorCount}} errores
+locale-es,ERRORS.ERROR_VIEW.ZERO,
+locale-es,ERRORS.ERROR_VIEW.ONE,Hay {{errorCount}} error. Se puede ver pulsando el siguiente botón
+locale-es,ERRORS.ERROR_VIEW.MANY,Hay {{errorCount}} errores. Se pueden ver pulsando el siguiente botón
+locale-es,ERRORS.HTTP.PARSE,No se ha podido analizar la respuesta del servidor
+locale-es,ERRORS.HTTP.FETCH,No se han podido recuperar los datos de {{object}}
+locale-es,ERRORS.GROWERS.NEW,No se ha podido crear un nuevo agricultor
+locale-es,ERRORS.GROWERS.EDIT,No se ha podido editar el agricultor con identificación {{id}}
+locale-es,ERRORS.GROWERS.DELETE,No se ha podido eliminar el agricultor con identificación {{id}}
+locale-es,ERRORS.FARMS.NEW,No se ha podido crear una nueva explotación agrícola
+locale-es,ERRORS.FARMS.EDIT,No se ha podido editar la explotación agrícola con identificación {{id}}
+locale-es,ERRORS.FARMS.DELETE,No se ha podido eliminar la explotación agrícola con identificación {{id}}
+locale-es,ERRORS.CROPS.NEW,No se ha podido crear un nuevo cultivo
+locale-es,ERRORS.CROPS.EDIT,No se ha podido editar el cultivo con identificación {{id}}
+locale-es,ERRORS.CROPS.DELETE,No se ha podido eliminar el cultivo con identificación {{id}}
+locale-es,ERRORS.PRODUCTS.NEW,No se ha podido crear un nuevo producto
+locale-es,ERRORS.PRODUCTS.EDIT,No se ha podido editar el producto con identificación {{id}}
+locale-es,ERRORS.PRODUCTS.DELETE,No se ha podido eliminar el producto con identificación {{id}}
+locale-es,ERRORS.TASKS.NEW,No se ha podido crear una nueva tarea
+locale-es,ERRORS.TASKS.EDIT,No se ha podido editar la tarea con identificación {{id}}
+locale-es,ERRORS.TASKS.DELETE,No se ha podido eliminar la tarea con identificación {{id}}
+locale-es,ERRORS.PRESCRIPTIONS.NEW,No se ha podido crear una nueva instrucción
+locale-es,ERRORS.PRESCRIPTIONS.EDIT,No se ha podido editar la instrucción con identificación {{id}}
+locale-es,ERRORS.PRESCRIPTIONS.DELETE,No se ha podido eliminar la instrucción con identificación {{id}}
+locale-es,ERRORS.FIELDS.EDIT,No se ha podido editar el campo con identificación {{id}}
+locale-es,ERRORS.FIELDS.DELETE,No se ha podido eliminar el campo con identificación {{id}}
+locale-es,ERRORS.MZONE.CREATE,No se ha podido crear la zona de gestión
+locale-es,ERRORS.MZONE.EDIT,No se ha podido editar la zona de gestión con identificación {{id}}
+locale-es,ERRORS.MZONE.DELETE,No se ha podido eliminar la zona de gestión con identificación {{id}}
+locale-es,EMPTY_STATE.TASKS.IMPORTED_TITLE,Aún no hay tareas importadas
+locale-es,EMPTY_STATE.TASKS.IMPORTED_TEXT,Puede importar una tarea nueva con el siguiente botón
+locale-es,EMPTY_STATE.TASKS.IMPORTED_CTA,importar tarea
+locale-es,EMPTY_STATE.TASKS.FOUND_TITLE,No se han encontrado tareas
+locale-es,EMPTY_STATE.TASKS.FOUND_TEXT,Intente modificar los filtros
+locale-es,EMPTY_STATE.TASKS.NOT_SELECTED,AÚN NO HAY TAREAS IMPORTADAS
+locale-es,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Puede importar una tarea nueva con el botón superior derecho
+locale-es,EMPTY_STATE.FIELDS.CREATED_TITLE,Aún no se ha creado ningún campo
+locale-es,EMPTY_STATE.FIELDS.CREATED_TXT,Puede crear un campo nuevo con el siguiente botón
+locale-es,EMPTY_STATE.FIELDS.FOUND_TITLE,No se ha encontrado ningún campo
+locale-es,EMPTY_STATE.FIELDS.FOUND_TXT,Pruebe a cambiar la búsqueda y los filtros
+locale-es,EMPTY_STATE.FIELDS.NOT_SELECTED,AÚN NO SE HA SELECCIONADO NINGÚN CAMPO
+locale-es,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,Puede seleccionar un campo en la barra lateral de la izquierda para ver las tareas asociadas
+locale-es,EMPTY_STATE.VEHICLES.CREATED_TITLE,Aún no se han creado vehículos
+locale-es,EMPTY_STATE.VEHICLES.FOUND_TITLE,Aún no se ha encontrado un vehículo
+locale-es,EMPTY_STATE.VEHICLES.FOUND_TXT,Pruebe a modificar la búsqueda y los filtros
+locale-es,EMPTY_STATE.DEFAULT.TITLE,Sin datos
+locale-es,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Aún no se ha creado ninguna instrucción
+locale-es,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Puede crear una nueva instrucción con el siguiente botón
+locale-es,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,Nueva instrucción
+locale-es,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Aún no se ha creado ninguna zona de gestión
+locale-es,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Aúno se ha creado ninguna línea de orientación
+locale-es,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Aún no se ha creado ningún análisis
+locale-es,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,Puede crear un nuevo análisis con el siguiente botón
+locale-es,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,ir a spotlight
+locale-es,FIELD_CARD.ACTIONS.EDIT,Editar campo
+locale-es,FIELD_CARD.ACTIONS.DELETE,Borrar
+locale-es,FIELD_CARD.INFO,Información del campo
+locale-es,FIELD_CARD.GROWER,Agricultor
+locale-es,FIELD_CARD.FARM,Explotación agrícola
+locale-es,FIELD_CARD.AREA,Área total del campo
+locale-es,FIELD_CARD.CROPS,Cultivos
+locale-es,FIELD_CARD.TILLABLE,Área de arado
+locale-es,FIELD_CARD.WEATHER,Clima
+locale-es,FIELD_CARD.LAST_TASKS,Últimas tres tareas
+locale-es,FIELD_CARD.IMPORT_TASKS,Importar tarea
+locale-es,FIELD_CARD.SUMMARY_TASKS,Resumen de tareas
+locale-es,PRESCRIPTION.SENT_TO_VEHICLE,La prescripción se ha enviado al vehículo
+locale-es,PRESCRIPTION.NOT_SENT_TO_VEHICLE,La prescripción no se ha enviado al vehículo
+locale-es,PRESCRIPTION.PRESCRIPTION_EMPTY,AÚN NO SE HA CREADO NINGUNA PRESCRIPCIÓN
+locale-es,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,Puede crear una prescripción nueva con el botón superior derecho
+locale-es,PRESCRIPTION.SELECT_DEVICE,Seleccione un dispositivo
+locale-es,PRESCRIPTION.SELECT_DEVICE_DESC,Seleccione un dispositivo en la siguiente lista.
+locale-es,PRESCRIPTION.APPLIED_DATE,Fecha planificada
+locale-es,PRESCRIPTION.CREATION_DATE,Fecha de creación
+locale-es,PRESCRIPTION.TOTAL_AREA,Área total
+locale-es,PRESCRIPTION.PRODUCT_QUANTITY,Cantidad de producto
+locale-es,PRESCRIPTION.STATUS_PROCESSING,Crear archivo de prescripción...
+locale-es,PRESCRIPTION.STATUS_PROCESSED,Prescripción creada
+locale-es,PRESCRIPTION.PLANNED_DATE,Fecha planificada
+locale-es,PRESCRIPTION.HIDE_ZONES,OCULTAR ZONAS
+locale-es,PRESCRIPTION.SHOW_ZONES,MOSTRAR ZONAS
+locale-es,PRESCRIPTION.GROWERS_SELECT,Todos los agricultores
+locale-es,PRESCRIPTION.FARMS_SELECT,Todas las explotaciones agrícolas
+locale-es,PRESCRIPTION.GROWER_REQUIRED,Es necesario introducir el agricultor
+locale-es,PRESCRIPTION.FARM_REQUIRED,Es necesario introducir la explotación agrícola
+locale-es,PRESCRIPTION.FIELD_SELECT,Todos los campos
+locale-es,PRESCRIPTION.FIELD_REQUIRED,Es necesario introducir el campo.
+locale-es,PRESCRIPTION.NEW_PRESCRIPTIONS,Prescripción nueva
+locale-es,PRESCRIPTION.PRESCRIPTION_CREATE,Crear prescripción
+locale-es,PRESCRIPTION.MGMT,Zona de admin.
+locale-es,PRESCRIPTION.MANAGEMENT_ZONE,Zona de administración
+locale-es,PRESCRIPTION.MANAGEMENT_NAME,Nombre de zona de administración
+locale-es,PRESCRIPTION.MANAGEMENT_SELECT,Seleccionar zona de administración.
+locale-es,PRESCRIPTION.MANAGEMENT_SEARCH,Buscar zona de administración
+locale-es,PRESCRIPTION.MANAGEMENT_REQUIRED,Es necesario introducir la zona de administración.
+locale-es,PRESCRIPTION.MANAGEMENT_CTA,GUARDAR ZONA DE ADMINISTRACIÓN
+locale-es,PRESCRIPTION.PRODUCT_SEARCH,Buscar producto
+locale-es,PRESCRIPTION.PRODUCT_SELECT,Seleccionar producto
+locale-es,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Es necesario introducir el producto
+locale-es,PRESCRIPTION.PRODUCT_VALUE,Valor del producto
+locale-es,PRESCRIPTION.PRODUCT_VALUE_SELECT,Seleccionar valor del producto
+locale-es,PRESCRIPTION.PRODUCT_VALUE_INPUT,Inserte valor del producto
+locale-es,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Es necesario introducir el valor del producto
+locale-es,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,El valor del producto no puede ser negativo
+locale-es,PRESCRIPTION.PRODUCT_NAME,Nombre del producto
+locale-es,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Es necesario introducir el nombre del producto
+locale-es,PRESCRIPTION.PRODUCT_NAME_INSERT,Insertar nombre del producto
+locale-es,PRESCRIPTION.UNIT_SELECT,Seleccionar unidad
+locale-es,PRESCRIPTION.UNIT_SELECT_REQUIRED,Es necesario introducir la unidad
+locale-es,PRESCRIPTION.MAP_NAME,Nombre de mapa de prescripciones
+locale-es,PRESCRIPTION.MAP_NAME_REQUIRED,Es necesario introducir el nombre del mapa de prescripciones
+locale-es,PRESCRIPTION.MAP_EDIT,Editar mapa de prescripciones
+locale-es,PRESCRIPTION.MAP_EDIT_N,Editar nombre del mapa de prescripciones
+locale-es,PRESCRIPTION.MAP_SET_N,Establecer nombre del mapa de prescripciones
+locale-es,PRESCRIPTION.ZONE_NUMBER,Zonas
+locale-es,PRESCRIPTION.SEND_TO,Enviar prescripción
+locale-es,PRESCRIPTION.UNAVAILABLE,El archivo de prescripciones se está generando; se le notificará cuando el proceso finalice. Vuelva a intentarlo más tarde.
+locale-es,PRESCRIPTION.PROCESSED,La prescripción para {{prescriptionName}} está lista. Ya puede descargarla o enviarla a las máquinas.
+locale-es,PRESCRIPTION.SELECT_DEVICE_EMPTY,Ningún dispositivo seleccionado
+locale-es,PRESCRIPTION.PRESCRIPTION_MAP,Mapa de instrucciones
+locale-es,PRESCRIPTION.ANALYSIS,Análisis
+locale-es,PRESCRIPTION.UNKNOWN,Desconocido
+locale-es,PRESCRIPTION.CREATED,Se ha creado el mapa de instrucciones {{name}}
+locale-es,SIDEBAR.USER_MANAGEMENT,administración de usuarios
+locale-es,SIDEBAR.REPORT_ISSUE,informar del problema
+locale-es,SIDEBAR.SUBSCRIPTION_MANAGEMENT,administración de suscripciones
+locale-es,SIDEBAR.STORE,tienda
+locale-es,OVERVIEW_SIDEBAR.FIELDS_TAB,Campos
+locale-es,OVERVIEW_SIDEBAR.VEHICLES_TAB,Vehículos
+locale-es,PRIMARY_NAV.UPLOAD,cargar
+locale-es,PRIMARY_NAV.LOGOUT,cerrar sesión
+locale-es,SECONDARY_NAV.OVERVIEW,descripción general
+locale-es,SECONDARY_NAV.TASKS,tareas
+locale-es,SECONDARY_NAV.PRESCRIPTIONS,prescripciones
+locale-es,SECONDARY_NAV.MANAGE,administrar
+locale-es,MANAGE_NAV.GROWERS,agricultores
+locale-es,MANAGE_NAV.FARMS,explotaciones agrícolas
+locale-es,MANAGE_NAV.FIELDS,campos
+locale-es,MANAGE_NAV.CROPS,cultivos
+locale-es,MANAGE_NAV.PRODUCTS,productos
+locale-es,GFF.FIELD,campo
+locale-es,GFF.FIELDS,campos
+locale-es,GFF.FARM,explotación agrícola
+locale-es,GFF.FARMS,explotaciones agrícolas
+locale-es,GFF.GROWER,agricultor
+locale-es,GFF.GROWERS,agricultores
+locale-es,GFF.SEARCH_FIELD,Buscar nombre del campo
+locale-es,GFF.GROWERS_SELECT,Todos los agricultores
+locale-es,GFF.FARMS_SELECT,Todas las explotaciones agrícolas
+locale-es,VEHICLES.VEHICLES,vehículos
+locale-es,VEHICLES.VEHICLE,vehículo
+locale-es,VEHICLES.SN,N.º serie
+locale-es,VEHICLES.BRAND,Marca
+locale-es,VEHICLES.TYPE,Tipo
+locale-es,VEHICLES.MODEL,Modelo
+locale-es,VEHICLES.STATUS,Estado
+locale-es,VEHICLES.SPEED,Velocidad
+locale-es,VEHICLES.DISTANCE,Distancia
+locale-es,VEHICLES.ENGINE_H,Horas del motor
+locale-es,VEHICLES.ENGINE_S,Régimen del motor
+locale-es,VEHICLES.FUEL,Nivel de combustible
+locale-es,VEHICLES.FUELRATE,Tasa de combustible
+locale-es,VEHICLES.GOTO_FORCE,Ir a Force
+locale-es,VEHICLES.MACHINE_INFO,Información de la máquina
+locale-es,VEHICLES.SEARCH_VEHICLE,Buscar nombre del vehículo
+locale-es,FARM.NEW,explotación agrícola nueva
+locale-es,FARM.NEW_CREATE,Crear explotación agrícola nueva
+locale-es,FARM.EDIT,Editar explotación agrícola
+locale-es,FARM.FARMS,Explotaciones agrícolas
+locale-es,FIELD.NEW,Campo nuevo
+locale-es,FIELD.UPDATE,Actualizar campo
+locale-es,FIELD.CREATE,Crear campo
+locale-es,FIELD.FIELDS,Campos
+locale-es,FIELD.SELECT_GROWER,Seleccionar agricultor
+locale-es,FIELD.REQUIRED_GROWER,Es necesario introducir el agricultor
+locale-es,FIELD.SEARCH_GROWER,Buscar agricultor
+locale-es,FIELD.NO_GROWER,No se ha seleccionado ningún agricultor
+locale-es,FIELD.SELECT_FARM,Seleccionar explotación agrícola
+locale-es,FIELD.REQUIRED_FARM,Es necesario introducir la explotación agrícola
+locale-es,FIELD.SEARCH_FARM,Buscar explotación agrícola
+locale-es,FIELD.SEARCH_FIELD,Buscar campo
+locale-es,FIELD.NAME_FIELD,Nombre del campo
+locale-es,FIELD.NAME_FIELD_REQUIRED,Es necesario introducir el nombre del campo
+locale-es,FIELD.FIELD_SELECT,Seleccionar campo
+locale-es,FIELD.FIELD_REQUIRED,Es necesario introducir el campo.
+locale-es,FIELD.BOUNDARY,Área de linde
+locale-es,FIELD.TILLABLE,Área de arado
+locale-es,FIELD.INSERT_TILLABLE,Insertar el área de arado
+locale-es,FIELD.TILLABLE_REQUIRED,Es necesario introducir el área de arado
+locale-es,FIELD.ZONE_VALUE,Insertar valor de zona
+locale-es,NEW_FIELD.TITLE,Campo nuevo
+locale-es,NEW_FIELD.SELECT_GROWER,Seleccionar agricultor
+locale-es,NEW_FIELD.SELECT_FARM,Seleccionar explotación agrícola
+locale-es,NEW_FIELD.GROWER_LABEL,Agricultor
+locale-es,NEW_FIELD.FARM_LABEL,Explotación agrícola
+locale-es,NEW_FIELD.FIELD_LABEL,Nombre del campo
+locale-es,NEW_FIELD.FARM_REQUIRED,La explotación agrícola es obligatoria
+locale-es,NEW_FIELD.FIELD_INPUT,Insertar el nombre del campo
+locale-es,NEW_FIELD.FIELD_INPUT_ERROR,Es necesario introducir el nombre del campo
+locale-es,NEW_FIELD.BOUNDARY_AREA,Área de linde
+locale-es,NEW_FIELD.TILLABLE_AREA,Área de arado
+locale-es,NEW_FIELD.TILLABLE_AREA_REQUIRED,Es necesario introducir el área de arado
+locale-es,NEW_FIELD.CREATE_FIELD,crear campo
+locale-es,NEW_FIELD.SAVE_FIELD,guardar campo
+locale-es,NEW_FIELD.ERROR.NEW,No se ha podido crear un nuevo campo.
+locale-es,NEW_FIELD.ERROR.EDIT,No se ha podido editar el campo actual.
+locale-es,NEW_FIELD.ERROR.GENERIC,No se ha podido crear un nuevo campo debido a un error interno
+locale-es,NEW_FIELD.ERROR_NEW,
+locale-es,NEW_FIELD.ERROR_EDIT,
+locale-es,NEW_FIELD.CANCEL,cancelar
+locale-es,NEW_FIELD.NO_GROWER,Ningún agricultor disponible
+locale-es,NEW_FIELD.NO_FARM,Ninguna explotación agrícola disponible
+locale-es,NEW_FARM_MODAL.TITLE,Explotación agrícola nueva
+locale-es,NEW_FARM_MODAL.GROWER_LABEL,Agricultor
+locale-es,NEW_FARM_MODAL.NO_GROWER_SELECTED,No se ha seleccionado ningún agricultor
+locale-es,NEW_FARM_MODAL.FARM_LABEL,Nombre de la agrícola nueva
+locale-es,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Es necesario introducir el nombre de la agrícola nueva
+locale-es,NEW_FARM_MODAL.CREATE,crear
+locale-es,NEW_FARM_MODAL.CLOSE,cerrar
+locale-es,GROWER_MODAL.TITLE,Agricultor nuevo
+locale-es,GROWER_MODAL.GROWER_LABEL,Nombre del agricultor
+locale-es,GROWER_MODAL.GROWER_INPUT_REQUIRED,Es necesario introducir el nombre del agricultor
+locale-es,GROWER_MODAL.CREATE,crear
+locale-es,GROWER_MODAL.CLOSE,cerrar
+locale-es,GROWER_MODAL.EG,|P. ej., Isaac Harmon|
+locale-es,TASK.SHOW_LAYER,MOSTRAR CAPAS DISPONIBLES
+locale-es,TASK.HIDE_LAYER,OCULTAR CAPA DISPONIBLE
+locale-es,TASK.SHOW_PREVIEW,Mostrar vista previa
+locale-es,TASK.NO_TYPE,No ha seleccionado ningún tipo.
+locale-es,TASK.NO_YEAR,No ha seleccionado ningún año.
+locale-es,TASK.SELECT_YEAR,Seleccione un año.
+locale-es,TASK.SELECT_OP,Seleccione una operación.
+locale-es,TASK.TASK_NOT_ASSOCIATED,Tareas no asociadas
+locale-es,TASK.IMPORT_TASKS,Importar tareas
+locale-es,TASK.INSERT,Insertar nombre de la tarea.
+locale-es,TASK.NAME,Nombre de la tarea.
+locale-es,TASK.EDIT,Editar tarea.
+locale-es,TASK.EDIT_INFO,Editar información
+locale-es,TASK.REQUIRED,Es necesario introducir el nombre de la tarea.
+locale-es,TASK.ACTUAL_RATE,Velocidad real
+locale-es,TASK.SENSOR_RDNG,Sensor RDNG
+locale-es,TASK.SENSOR_WDTH,Anchura del sensor
+locale-es,TASK.YIELD_MASS,Masa de rendimiento
+locale-es,TASK.MOISTURE,Humedad
+locale-es,TASK.CELL_MASS,Masa de celda
+locale-es,TASK.CELL_AREA,Área de celda
+locale-es,TASK.YIELD_VOL,Volumen de rendimiento
+locale-es,TASK.UNADJ_CELL_M,Celda sin ajustar
+locale-es,TASK.NO_OPERATION,No se ha encontrado ninguna aplicación
+locale-es,CROP.INSERT_NAME,Insertar nombre del cultivo
+locale-es,CROP.NAME,Nombre del cultivo
+locale-es,CROP.REQUIRED,Es necesario introducir el nombre del cultivo
+locale-es,CROP.SELECT,Seleccionar cultivo
+locale-es,CROP.CROP,Cultivo
+locale-es,CROP.SEARCH,Buscar cultivo
+locale-es,CROP.NEW,Cultivo nuevo
+locale-es,CROP.EDIT,Editar cultivo
+locale-es,CROP.CROPS,Cultivos
+locale-es,CROP.CROP_SPEC,Crop Spec
+locale-es,THEMATIZATION.CLASSES,Clases
+locale-es,THEMATIZATION.COLOR_RAMP,Rampa de colores
+locale-es,THEMATIZATION.GREY,Grises
+locale-es,THEMATIZATION.RED,Rojos
+locale-es,THEMATIZATION.GREEN,Verdes
+locale-es,THEMATIZATION.BLUE,Azules
+locale-es,THEMATIZATION.GYR,VeAmRo
+locale-es,THEMATIZATION.SPECTRAL,Espectral
+locale-es,THEMATIZATION.INVERTED,Invertido
+locale-es,THEMATIZATION.THRESHOLD,Límite
+locale-es,THEMATIZATION.METHOD,Método
+locale-es,THEMATIZATION.METHOD_SELECT,Seleccionar un método
+locale-es,THEMATIZATION.METHOD_REQUIRED,Es necesario introducir un método
+locale-es,THEMATIZATION.EDIT,Editar temas
+locale-es,THEMATIZATION.E_A,Igualar área
+locale-es,THEMATIZATION.E_I,Igualar intervalo
+locale-es,THEMATIZATION.N_B,Pausas naturales
+locale-es,GROWER.NEW,Agricultor nuevo
+locale-es,GROWER.EDIT,Editar agricultor
+locale-es,GROWER.GROWERS,Agricultores
+locale-es,PRODUCT.NEW,Producto nuevo
+locale-es,PRODUCT.EDIT,Editar producto
+locale-es,PRODUCT.EDIT_VALUE,Editar valor de producto
+locale-es,PRODUCT.PRODUCTS,Productos
+locale-es,DELETE_MODAL.PRE,Eliminar prescripción
+locale-es,DELETE_MODAL.QUESTION,¿Seguro que desea eliminar
+locale-es,DELETE_MZ_MODAL.PRE,Salir del modo de creación de zona de administración
+locale-es,DELETE_MZ_MODAL.QUESTION,¿Seguro que desea salir del modo de creación de zona de administración Se perderán los cambios no guardados.
+locale-es,DELETE_MZ_MODAL.CONFIRM,|SÍ, SALIR|
+locale-es,EDIT_PRESCRIPTION_MODAL.PRE,Salir del modo de creación de prescripción
+locale-es,EDIT_PRESCRIPTION_MODAL.QUESTION,|¿Seguro que desea salir del modo de creación de prescripción? Si continúa, se perderán los datos introducidos.|
+locale-es,DELETE_TASK_MODAL.PRE,Eliminar tarea
+locale-es,DELETE_TASK_MODAL.QUESTION,¿Seguro que desea eliminar
+locale-es,ZONE.EDIT,Editar el nombre de zona
+locale-es,ZONE.SET,Establecer el nombre de zona de administración
+locale-es,PDF.TITLE,pdf
+locale-es,MAP.EDIT_TOOLTIP_TEXT,Arrastre el controlador para modificar el campo.
+locale-es,MAP.REMOVE_TOOLTIP_TEXT,Haga clic en un campo para eliminarlo.
+locale-es,MAP.POLYGON_TOOLTIP_START,Haga clic en el mapa para comenzar a dibujar el campo.<br/>Dibuje dentro del polígono para crear un agujero en el campo.
+locale-es,MAP.BUFFER_TOOLTIP.TEXT,Haga clic y arrastre para ampliar o reducir el campo.
+locale-es,MAP.BUFFER_TOOLTIP.MEASURE,Radio
+locale-es,MAP.POLYGON_TOOLTIP.START,Haga clic para empezar a dibujar.
+locale-es,MAP.POLYGON_TOOLTIP.CONT,Haga clic en el mapa para continuar<br/>dibujando el campo.
+locale-es,MAP.POLYGON_TOOLTIP.END,Haga clic en el primer punto para finalizar<br/>la creación del campo.
+locale-es,MAP.POLYLINE.ERROR,<strong>Error:</strong> los bordes de las formas no pueden cruzarse.
+locale-es,MAP.POLYLINE.TOOLTIP.START,Haga clic para empezar a dibujar la línea.
+locale-es,MAP.POLYLINE.TOOLTIP.CONT,Haga clic para continuar dibujando la línea.
+locale-es,MAP.POLYLINE.TOOLTIP.END,Haga clic en el último punto para finalizar la línea.
+locale-es,MAP.PLUGINS.ZOOM.OUT,Alejar
+locale-es,MAP.PLUGINS.ZOOM.IN,Acercar
+locale-es,MAP.PLUGINS.SEARCH.PLACEHOLDER,Buscar ubicación
+locale-es,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,No se ha encontrado la ubicación.
+locale-es,MAP.PLUGINS.UPLOAD.TEXT,importar archivo de formas
+locale-es,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Soltar un archivo de formas...
+locale-es,MAP.PLUGINS.WEATHER.TEMPERATURE,temperatura
+locale-es,MAP.PLUGINS.WEATHER.DEW_POINT,punto de rocío
+locale-es,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,humedad relativa
+locale-es,MAP.PLUGINS.WEATHER.WIND_SPEED,Velocidad del viento
+locale-es,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,parece temperatura
+locale-es,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,No hay datos que mostrar.
+locale-es,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satélite
+locale-es,MAP.PLUGINS.LAYER_SWITCH.STREET,calle
+locale-es,OPERATIONS.YIELD,Rendimiento
+locale-es,OPERATIONS.AS_APPLIED,Según aplicación
+locale-es,OPERATIONS.SOIL_SAMPLE,Muestra de suelo
+locale-es,STATISTICS.SPREAD_TIME,Tiempo de esparcimiento
+locale-es,STATISTICS.PRODUCT_TOTAL,Total estimado
+locale-es,STATISTICS.PRODUCT_SPREAD_TIME,Tiempo de esparcimiento del producto
+locale-es,STATISTICS.PRODUCT_AREA,Área del producto
+locale-es,STATISTICS.SENSOR_TYPE,Tipo de sensor
+locale-es,STATISTICS.TOTAL_AREA,Área total
+locale-es,STATISTICS.TOTAL_MASS,Masa total
+locale-es,STATISTICS.UN_ADJ_TTL_M,Total sin ajustar
+locale-es,STATISTICS.SENSOR_WDTH,Anchura del sensor
+locale-es,PROFILE.FEEDBACK,Enviar comentarios
+locale-es,PROFILE.HELP,Ayuda y asistencia
+locale-da,DATE_FORMAT.NORMAL,MM/DD/ÅÅÅÅ
+locale-da,DATE_FORMAT.PILL,DD MMM
+locale-da,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-da,GLOBAL.SEND,Send
+locale-da,GLOBAL.SEND_DATA,Send data
+locale-da,GLOBAL.FIELD_NAME,Marknavn
+locale-da,GLOBAL.CHANGE_STYLE,Ændr format
+locale-da,GLOBAL.OPACITY,Opacitet
+locale-da,GLOBAL.VIEW_MODE,Visningstilstand
+locale-da,GLOBAL.VECTOR,Vektor
+locale-da,GLOBAL.RASTER,Raster
+locale-da,GLOBAL.REQUIRED_VALUE,Krævet værdi
+locale-da,GLOBAL.BOUNDARY_AREA,Grænseområde
+locale-da,GLOBAL.TILLABLE_AREA,|Område, som kan dyrkes|
+locale-da,GLOBAL.SHOW_LAYERS_LIST,Vis liste over lag
+locale-da,GLOBAL.HIDE_LAYERS_LIST,Gem liste over lag
+locale-da,GLOBAL.SET_VALUE,Indstil værdi
+locale-da,GLOBAL.DEVICES,Udstyr
+locale-da,GLOBAL.SEARCH,Søg
+locale-da,GLOBAL.FIELDS,marker
+locale-da,GLOBAL.FIELD,mark
+locale-da,GLOBAL.FARM,gård
+locale-da,GLOBAL.FARMS,gårde
+locale-da,GLOBAL.ZONE,Zone
+locale-da,GLOBAL.ZONES,Zoner
+locale-da,GLOBAL.PRODUCT,Produkt
+locale-da,GLOBAL.PRODUCTS,Produkter
+locale-da,GLOBAL.GROWER,planteavlsbedrift
+locale-da,GLOBAL.GROWERS,planteavlsbedrifter
+locale-da,GLOBAL.GUIDANCE,Sporfølgning
+locale-da,GLOBAL.TASKS,opgaver
+locale-da,GLOBAL.CROP,afgrøde
+locale-da,GLOBAL.CROPS,afgrøder
+locale-da,GLOBAL.VEHICLES,køretøjer
+locale-da,GLOBAL.VEHICLE,køretøj
+locale-da,GLOBAL.UNIT,maskine
+locale-da,GLOBAL.PRODUCT_TYPE,Produkttype
+locale-da,GLOBAL.SHOWME,VIS
+locale-da,GLOBAL.CANCEL,annullér
+locale-da,GLOBAL.EDIT,Redigér
+locale-da,GLOBAL.DELETE,Slet
+locale-da,GLOBAL.DELETE_CONFIRMATION,|Er du sikker på, at du ønsker at slette|
+locale-da,GLOBAL.SEND_TO,Send til
+locale-da,GLOBAL.MORE,Mere
+locale-da,GLOBAL.CLEAR_LIST,Slet liste
+locale-da,GLOBAL.CREATED,Oprettet
+locale-da,GLOBAL.ALL,Alle
+locale-da,GLOBAL.YEAR,År
+locale-da,GLOBAL.TYPE,Type
+locale-da,GLOBAL.ALARM,Alarm
+locale-da,GLOBAL.ALARMS,Alarmer
+locale-da,GLOBAL.OPERATION,Handling
+locale-da,GLOBAL.NAME,navn
+locale-da,GLOBAL.EG,F.eks. Yew Valley farm
+locale-da,GLOBAL.COMPANY,virksomhed
+locale-da,GLOBAL.SUBCOMPANY,Undervirksomhed
+locale-da,GLOBAL.FLEET,Vognpark
+locale-da,GLOBAL.CONFIRM,Bekræft
+locale-da,GLOBAL.CREATE,Opret
+locale-da,GLOBAL.CLOSE,luk
+locale-da,GLOBAL.SAVE,Gem
+locale-da,GLOBAL.CREATED_S,Oprettet
+locale-da,GLOBAL.VIEW_ON_MAP,Vis på kort
+locale-da,GLOBAL.SETTINGS,Indstillinger
+locale-da,GLOBAL.LOGOUT,Log af
+locale-da,GLOBAL.TASK_ID,opgave {{id}}
+locale-da,GLOBAL.FARM_ID,gård {{id}}
+locale-da,GLOBAL.FIELD_ID,mark {{id}}
+locale-da,GLOBAL.HOUR,time
+locale-da,GLOBAL.HOURS,timer
+locale-da,GLOBAL.MINUTE,minut
+locale-da,GLOBAL.MINUTES,minutter
+locale-da,GLOBAL.VIEW_LAYERS,Vis lag
+locale-da,UPLOAD.DND,Træk og slip filer her!
+locale-da,UPLOAD.OR,eller
+locale-da,UPLOAD.BROWSE,søg efter filer
+locale-da,UPLOAD.UPLOADING,Uploader
+locale-da,UPLOAD.UPLOADING_DOT,Uploader...
+locale-da,UPLOAD.ERROR,Fejl
+locale-da,UPLOAD.ERROR_UPLOADING,Fejl ved upload
+locale-da,UPLOAD.ERROR_IMPORTING,Fejl ved import
+locale-da,UPLOAD.RETRY,Prøv at uploade igen
+locale-da,UPLOAD.PROCESSING,Behandler
+locale-da,UPLOAD.PROCESSING_TASK,Behandler opgave... 
+locale-da,UPLOAD.COMPLETED,Gennemført
+locale-da,UPLOAD.HAS_BEEN,er blevet importeret til marken 
+locale-da,UPLOAD.HAS_BEEN_FROM,{{taskName}} fra {{fileName}} er blevet importeret til marken {{fieldName}}
+locale-da,UPLOAD.HAS_BEEN_ORPHAN,er blevet importeret som en opgave uden stamopgave
+locale-da,UPLOAD.UNKNOWN,Ukendt fil.
+locale-da,UPLOAD.START_NOTIFICATION,Den uploadede opgave {{fileName}} behandles
+locale-da,UPLOAD.FINISH_NOTIFICATION,{{fileName}} er blevet importeret
+locale-da,UPLOAD.GFF_UPDATE_NOTIFICATION,|Planteavlsbedrift, gård og mark opdateres|
+locale-da,ERRORS.ERROR_FOUND.ZERO,
+locale-da,ERRORS.ERROR_FOUND.ONE,{{errorCount}} fejl fundet
+locale-da,ERRORS.ERROR_FOUND.MANY,{{errorCount}} fejl fundet
+locale-da,ERRORS.ERROR_VIEW.ZERO,
+locale-da,ERRORS.ERROR_VIEW.ONE,Der er {{errorCount}} fejl. Tryk på følgende knap for at få vist fejlen
+locale-da,ERRORS.ERROR_VIEW.MANY,Der er {{errorCount}} fejl. Tryk på følgende knap for at få vist fejlene
+locale-da,ERRORS.HTTP.PARSE,Kan ikke fortolke serversvar
+locale-da,ERRORS.HTTP.FETCH,Kan ikke hente {{object}} data
+locale-da,ERRORS.GROWERS.NEW,Kan ikke oprette en ny planteavlsbedrift
+locale-da,ERRORS.GROWERS.EDIT,Kan ikke redigere planteavlsbedrift med id {{id}}
+locale-da,ERRORS.GROWERS.DELETE,Kan ikke slette planteavlsbedrift med id {{id}}
+locale-da,ERRORS.FARMS.NEW,Kan ikke oprette en ny gård
+locale-da,ERRORS.FARMS.EDIT,Kan ikke redigere gård med id {{id}}
+locale-da,ERRORS.FARMS.DELETE,Kan ikke slette gård med id {{id}}
+locale-da,ERRORS.CROPS.NEW,Kan ikke oprette en ny afgrøde
+locale-da,ERRORS.CROPS.EDIT,Kan ikke redigere afgrøde med id {{id}}
+locale-da,ERRORS.CROPS.DELETE,Kan ikke slette afgrøde med id {{id}}
+locale-da,ERRORS.PRODUCTS.NEW,Kan ikke oprette et nyt produkt
+locale-da,ERRORS.PRODUCTS.EDIT,Kan ikke redigere produkt med id {{id}}
+locale-da,ERRORS.PRODUCTS.DELETE,Kan ikke slette produkt med id {{id}}
+locale-da,ERRORS.TASKS.NEW,Kan ikke oprette en ny opgave
+locale-da,ERRORS.TASKS.EDIT,Kan ikke redigere opgave med id {{id}}
+locale-da,ERRORS.TASKS.DELETE,Kan ikke slette opgave med id {{id}}
+locale-da,ERRORS.PRESCRIPTIONS.NEW,Kan ikke oprette en ny forskrift
+locale-da,ERRORS.PRESCRIPTIONS.EDIT,Kan ikke redigere forskrift med id {{id}}
+locale-da,ERRORS.PRESCRIPTIONS.DELETE,Kan ikke slette forskrift med id {{id}}
+locale-da,ERRORS.FIELDS.EDIT,Kan ikke redigere mark med id {{id}}
+locale-da,ERRORS.FIELDS.DELETE,Kan ikke slette mark med id {{id}}
+locale-da,ERRORS.MZONE.CREATE,Kan ikke oprette styringszone
+locale-da,ERRORS.MZONE.EDIT,Kan ikke redigere styringszone med id {{id}}
+locale-da,ERRORS.MZONE.DELETE,Kan ikke slette styringszone med id {{id}}
+locale-da,EMPTY_STATE.DEFAULT.TITLE,Ingen data
+locale-da,EMPTY_STATE.TASKS.IMPORTED_TITLE,Ingen opgaver er importeret på dette tidspunkt
+locale-da,EMPTY_STATE.TASKS.IMPORTED_TEXT,Du kan importere en ny opgave vha. nedenstående knap
+locale-da,EMPTY_STATE.TASKS.IMPORTED_CTA,importér opgave
+locale-da,EMPTY_STATE.TASKS.FOUND_TITLE,Ingen opgaver fundet
+locale-da,EMPTY_STATE.TASKS.FOUND_TEXT,Prøv at ændre filtrene
+locale-da,EMPTY_STATE.TASKS.NOT_SELECTED,INGEN OPGAVER ER IMPORTERET PÅ DETTE TIDSPUNKT
+locale-da,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Du kan importere en ny opgave vha. knappen øverst til højre
+locale-da,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Ingen forskrift er oprettet på dette tidspunkt
+locale-da,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Du kan oprette en ny forskrift vha. nedenstående knap
+locale-da,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,ny forskrift
+locale-da,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Ingen styringszone er oprettet på dette tidspunkt
+locale-da,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Ingen sporfølgningslinje er oprettet på dette tidspunkt
+locale-da,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Ingen analyse er oprettet på dette tidspunkt
+locale-da,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,Du kan oprette en ny analyse vha. nedenstående knap
+locale-da,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,gå til spotlight
+locale-da,EMPTY_STATE.FIELDS.CREATED_TITLE,Ingen mark er oprettet på dette tidspunkt
+locale-da,EMPTY_STATE.FIELDS.CREATED_TXT,Du kan oprette en ny mark vha. nedenstående knap
+locale-da,EMPTY_STATE.FIELDS.FOUND_TITLE,Ingen mark fundet
+locale-da,EMPTY_STATE.FIELDS.FOUND_TXT,Prøv ændre søgningen og filtrene
+locale-da,EMPTY_STATE.FIELDS.NOT_SELECTED,INGEN MARK ER VALGT PÅ DETTE TIDSPUNKT
+locale-da,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,Du kan vælge en mark fra venstre sidebjælke for at få vist alle de tilknyttede opgaver
+locale-da,EMPTY_STATE.VEHICLES.CREATED_TITLE,Ingen køretøjer er oprettet på dette tidspunkt
+locale-da,EMPTY_STATE.VEHICLES.FOUND_TITLE,Ingen køretøjer er fundet på dette tidspunkt
+locale-da,EMPTY_STATE.VEHICLES.FOUND_TXT,Prøv ændre søgningen og filtrene
+locale-da,FIELD_CARD.ACTIONS.EDIT,Redigér mark
+locale-da,FIELD_CARD.ACTIONS.DELETE,Slet
+locale-da,FIELD_CARD.INFO,Markoplysninger
+locale-da,FIELD_CARD.GROWER,Planteavlsbedrift
+locale-da,FIELD_CARD.FARM,Gård
+locale-da,FIELD_CARD.AREA,Samlet markareal
+locale-da,FIELD_CARD.CROPS,Afgrøder
+locale-da,FIELD_CARD.TILLABLE,|Område, som kan dyrkes|
+locale-da,FIELD_CARD.WEATHER,Vejr
+locale-da,FIELD_CARD.LAST_TASKS,Seneste 3 opgaver
+locale-da,FIELD_CARD.IMPORT_TASKS,Importér opgave
+locale-da,FIELD_CARD.SUMMARY_TASKS,Oversigt over opgaver
+locale-da,PRESCRIPTION.PRESCRIPTION,Forskrift
+locale-da,PRESCRIPTION.SENT_TO_VEHICLE,Forskriften er blevet sendt til køretøjet
+locale-da,PRESCRIPTION.NOT_SENT_TO_VEHICLE,Forskriften er ikke blevet sendt til køretøjet
+locale-da,PRESCRIPTION.PRESCRIPTION_EMPTY,INGEN FORSKRIFT ER OPRETTET PÅ DETTE TIDSPUNKT
+locale-da,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,Du kan oprette en ny forskrift vha. knappen øverst til højre
+locale-da,PRESCRIPTION.SELECT_DEVICE,Vælg et udstyr
+locale-da,PRESCRIPTION.SELECT_DEVICE_EMPTY,Intet udstyr valgt
+locale-da,PRESCRIPTION.SELECT_DEVICE_DESC,Vælg et udstyr fra nedenstående liste.
+locale-da,PRESCRIPTION.APPLIED_DATE,Planlagt dato
+locale-da,PRESCRIPTION.CREATION_DATE,Dato for oprettelse
+locale-da,PRESCRIPTION.TOTAL_AREA,Samlet areal
+locale-da,PRESCRIPTION.PRODUCT_QUANTITY,Estimeret sum
+locale-da,PRESCRIPTION.STATUS_PROCESSING,Opretter forskriftfil...
+locale-da,PRESCRIPTION.STATUS_PROCESSED,Forskrift er oprettet
+locale-da,PRESCRIPTION.PLANNED_DATE,Planlagt dato
+locale-da,PRESCRIPTION.HIDE_ZONES,GEM ZONER
+locale-da,PRESCRIPTION.SHOW_ZONES,VIS ZONER
+locale-da,PRESCRIPTION.GROWERS_SELECT,Alle planteavlsbedrifter
+locale-da,PRESCRIPTION.FARMS_SELECT,Alle gårde
+locale-da,PRESCRIPTION.GROWER_REQUIRED,Planteavlsbedrift er påkrævet
+locale-da,PRESCRIPTION.FARM_REQUIRED,Gårdnavn er påkrævet
+locale-da,PRESCRIPTION.FIELD_SELECT,Alle marker
+locale-da,PRESCRIPTION.FIELD_REQUIRED,Mark er påkrævet.
+locale-da,PRESCRIPTION.NEW_PRESCRIPTIONS,Ny forskrift
+locale-da,PRESCRIPTION.PRESCRIPTION_CREATE,Opret forskrift
+locale-da,PRESCRIPTION.MGMT,MGMT-zone
+locale-da,PRESCRIPTION.MANAGEMENT_ZONE,Styringszone
+locale-da,PRESCRIPTION.MANAGEMENT_NAME,Navn på styringszone
+locale-da,PRESCRIPTION.MANAGEMENT_SELECT,Vælg styringszone.
+locale-da,PRESCRIPTION.MANAGEMENT_SEARCH,Søg styringszone.
+locale-da,PRESCRIPTION.MANAGEMENT_REQUIRED,Styringszone er påkrævet.
+locale-da,PRESCRIPTION.MANAGEMENT_CTA,GEM STYRINGSZONE
+locale-da,PRESCRIPTION.PRODUCT_SEARCH,Søg produkt
+locale-da,PRESCRIPTION.PRODUCT_SELECT,Vælg produkt
+locale-da,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Produkt er påkrævet
+locale-da,PRESCRIPTION.PRODUCT_VALUE,Produktværdi
+locale-da,PRESCRIPTION.PRODUCT_VALUE_SELECT,Vælg produktværdi
+locale-da,PRESCRIPTION.PRODUCT_VALUE_INPUT,Angiv produktværdi
+locale-da,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Produktværdi er påkrævet
+locale-da,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Produktværdi kan ikke være negativ
+locale-da,PRESCRIPTION.PRODUCT_NAME,Produktnavn
+locale-da,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Produktnavn er påkrævet
+locale-da,PRESCRIPTION.PRODUCT_NAME_INSERT,Angiv produktnavn
+locale-da,PRESCRIPTION.UNIT_SELECT,Vælg enhed
+locale-da,PRESCRIPTION.UNIT_SELECT_REQUIRED,Enhed er påkrævet
+locale-da,PRESCRIPTION.MAP_NAME,Navn på forskriftkort
+locale-da,PRESCRIPTION.MAP_NAME_REQUIRED,Navn på forskriftkort er påkrævet
+locale-da,PRESCRIPTION.MAP_EDIT,Redigér forskriftkort
+locale-da,PRESCRIPTION.MAP_EDIT_N,Redigér navn på forskriftkort
+locale-da,PRESCRIPTION.MAP_SET_N,Angiv navn på forskriftkort
+locale-da,PRESCRIPTION.ZONE_NUMBER,Zoner
+locale-da,PRESCRIPTION.SEND_TO,Send forskrift
+locale-da,PRESCRIPTION.UNAVAILABLE,|Forskriftfilen genereres, og du får en meddelelse, når handlingen er udført. Prøv igen senere.|
+locale-da,PRESCRIPTION.PROCESSED,|Forskriftfilen for {{prescriptionName}} er klar. Du kan hente den, eller du kan sende den til maskinerne.|
+locale-da,PRESCRIPTION.PRESCRIPTION_MAP,Forskriftkort
+locale-da,PRESCRIPTION.ANALYSIS,Analyse
+locale-da,PRESCRIPTION.UNKNOWN,Ukendt
+locale-da,PRESCRIPTION.CREATED,Forskriftkortet {{name}} er blevet oprettet
+locale-da,SIDEBAR.USER_MANAGEMENT,brugerhåndtering
+locale-da,SIDEBAR.REPORT_ISSUE,rapportér problem
+locale-da,SIDEBAR.SUBSCRIPTION_MANAGEMENT,abonnementshåndtering
+locale-da,SIDEBAR.STORE,gem
+locale-da,OVERVIEW_SIDEBAR.FIELDS_TAB,Marker
+locale-da,OVERVIEW_SIDEBAR.VEHICLES_TAB,Køretøjer
+locale-da,PRIMARY_NAV.UPLOAD,upload
+locale-da,PRIMARY_NAV.LOGOUT,log af
+locale-da,SECONDARY_NAV.OVERVIEW,oversigt
+locale-da,SECONDARY_NAV.TASKS,opgaver
+locale-da,SECONDARY_NAV.PRESCRIPTIONS,forskrifter
+locale-da,SECONDARY_NAV.MANAGE,håndtér
+locale-da,MANAGE_NAV.GROWERS,planteavlsbedrifter
+locale-da,MANAGE_NAV.FARMS,gårde
+locale-da,MANAGE_NAV.FIELDS,marker
+locale-da,MANAGE_NAV.CROPS,afgrøder
+locale-da,MANAGE_NAV.PRODUCTS,produkter
+locale-da,GFF.FIELD,mark
+locale-da,GFF.FIELDS,marker
+locale-da,GFF.FARM,gård
+locale-da,GFF.FARMS,gårde
+locale-da,GFF.GROWER,planteavlsbedrift
+locale-da,GFF.GROWERS,planteavlsbedrifter
+locale-da,GFF.SEARCH_FIELD,Søg marknavn
+locale-da,GFF.GROWERS_SELECT,Alle planteavlsbedrifter
+locale-da,GFF.FARMS_SELECT,Alle gårde
+locale-da,VEHICLES.VEHICLES,køretøjer
+locale-da,VEHICLES.VEHICLE,køretøj
+locale-da,VEHICLES.SN,S/N
+locale-da,VEHICLES.BRAND,Brand
+locale-da,VEHICLES.TYPE,Type
+locale-da,VEHICLES.MODEL,Model
+locale-da,VEHICLES.STATUS,Status
+locale-da,VEHICLES.SPEED,Hastighed
+locale-da,VEHICLES.DISTANCE,Afstand
+locale-da,VEHICLES.ENGINE_H,Motordriftstimer
+locale-da,VEHICLES.ENGINE_S,Motorhastighed
+locale-da,VEHICLES.FUEL,Brændstofniveau
+locale-da,VEHICLES.FUELRATE,Brændstoføkonomi
+locale-da,VEHICLES.GOTO_FORCE,Gå til tvang
+locale-da,VEHICLES.MACHINE_INFO,Maskinoplysninger
+locale-da,VEHICLES.SEARCH_VEHICLE,Søg køretøjsnavn
+locale-da,FARM.NEW,ny gård
+locale-da,FARM.NEW_CREATE,Opret ny gård
+locale-da,FARM.EDIT,Redigér gård
+locale-da,FARM.FARMS,Gårde
+locale-da,FIELD.NEW,Ny mark
+locale-da,FIELD.UPDATE,Opdatér mark
+locale-da,FIELD.CREATE,Opret mark
+locale-da,FIELD.FIELDS,Marker
+locale-da,FIELD.SELECT_GROWER,Vælg planteavlsbedrift
+locale-da,FIELD.REQUIRED_GROWER,Planteavlsbedrift er påkrævet
+locale-da,FIELD.SEARCH_GROWER,Søg planteavlsbedrift
+locale-da,FIELD.NO_GROWER,Ingen planteavlsbedrift er valgt
+locale-da,FIELD.SELECT_FARM,Vælg gård
+locale-da,FIELD.REQUIRED_FARM,Gård er påkrævet
+locale-da,FIELD.SEARCH_FARM,Søg gård
+locale-da,FIELD.SEARCH_FIELD,Søg mark
+locale-da,FIELD.NAME_FIELD,Marknavn
+locale-da,FIELD.NAME_FIELD_REQUIRED,Marknavn er påkrævet
+locale-da,FIELD.FIELD_SELECT,Vælg mark
+locale-da,FIELD.FIELD_REQUIRED,Mark er påkrævet.
+locale-da,FIELD.BOUNDARY,Grænseområde
+locale-da,FIELD.TILLABLE,|Område, som kan dyrkes|
+locale-da,FIELD.INSERT_TILLABLE,|Angiv område, som kan dyrkes|
+locale-da,FIELD.TILLABLE_REQUIRED,|Område, som kan dyrkes, er påkrævet|
+locale-da,FIELD.ZONE_VALUE,Angiv zoneværdi
+locale-da,NEW_FIELD.TITLE,Ny mark
+locale-da,NEW_FIELD.SELECT_GROWER,Vælg planteavlsbedrift
+locale-da,NEW_FIELD.SELECT_FARM,Vælg gård
+locale-da,NEW_FIELD.GROWER_LABEL,Planteavlsbedrift
+locale-da,NEW_FIELD.FARM_LABEL,Gård
+locale-da,NEW_FIELD.FIELD_LABEL,Marknavn
+locale-da,NEW_FIELD.FARM_REQUIRED,Gårdnavn er påkrævet
+locale-da,NEW_FIELD.FIELD_INPUT,Angiv marknavn
+locale-da,NEW_FIELD.FIELD_INPUT_ERROR,Marknavn er påkrævet
+locale-da,NEW_FIELD.BOUNDARY_AREA,Grænseområde
+locale-da,NEW_FIELD.TILLABLE_AREA,|Område, som kan dyrkes|
+locale-da,NEW_FIELD.TILLABLE_AREA_REQUIRED,|Område, som kan dyrkes, er påkrævet|
+locale-da,NEW_FIELD.CREATE_FIELD,opret mark
+locale-da,NEW_FIELD.SAVE_FIELD,gem mark
+locale-da,NEW_FIELD.ERROR.NEW,Kan ikke oprette en ny mark.
+locale-da,NEW_FIELD.ERROR.EDIT,Kan ikke redigere aktuelle mark.
+locale-da,NEW_FIELD.ERROR.GENERIC,Kan ikke oprette en ny mark pga. intern fejl
+locale-da,NEW_FIELD.ERROR_NEW,
+locale-da,NEW_FIELD.ERROR_EDIT,
+locale-da,NEW_FIELD.CANCEL,annullér
+locale-da,NEW_FIELD.NO_GROWER,Ingen planteavlsbedrift er tilgængelig
+locale-da,NEW_FIELD.NO_FARM,Ingen gård er tilgængelig
+locale-da,NEW_FARM_MODAL.TITLE,Ny gård
+locale-da,NEW_FARM_MODAL.GROWER_LABEL,Planteavlsbedrift
+locale-da,NEW_FARM_MODAL.NO_GROWER_SELECTED,Ingen planteavlsbedrift er valgt
+locale-da,NEW_FARM_MODAL.FARM_LABEL,Marknavn
+locale-da,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Gårdnavn er påkrævet
+locale-da,NEW_FARM_MODAL.CREATE,opret
+locale-da,NEW_FARM_MODAL.CLOSE,luk
+locale-da,GROWER_MODAL.TITLE,Ny planteavlsbedrift
+locale-da,GROWER_MODAL.GROWER_LABEL,Navn på planteavlsbedrift
+locale-da,GROWER_MODAL.GROWER_INPUT_REQUIRED,Navn på planteavlsbedrift er påkrævet
+locale-da,GROWER_MODAL.CREATE,opret
+locale-da,GROWER_MODAL.CLOSE,luk
+locale-da,GROWER_MODAL.EG,F.eks. Isaac Harmon
+locale-da,TASK.SHOW_LAYER,VIS TILGÆNGELIGE LAG
+locale-da,TASK.HIDE_LAYER,GEM TILGÆNGELIGT LAG
+locale-da,TASK.SHOW_PREVIEW,Forhåndsvisning
+locale-da,TASK.NO_TYPE,Ingen type er valgt.
+locale-da,TASK.NO_YEAR,Intet år er valgt.
+locale-da,TASK.SELECT_YEAR,Vælg et år.
+locale-da,TASK.SELECT_OP,Vælg en handling.
+locale-da,TASK.TASK_NOT_ASSOCIATED,Opgaver er ikke tilknyttet
+locale-da,TASK.IMPORT_TASKS,Importér opgaver
+locale-da,TASK.INSERT,Angiv opgavenavn.
+locale-da,TASK.NAME,Opgavenavn.
+locale-da,TASK.EDIT,Redigér opgave.
+locale-da,TASK.EDIT_INFO,Redigér oplysninger
+locale-da,TASK.REQUIRED,Opgavenavn er påkrævet
+locale-da,TASK.ACTUAL_RATE,Faktisk hastighed
+locale-da,TASK.SENSOR_RDNG,Sensor RDNG
+locale-da,TASK.SENSOR_WDTH,Sensorbredde
+locale-da,TASK.YIELD_MASS,Udbyttemasse
+locale-da,TASK.MOISTURE,Fugtighed
+locale-da,TASK.CELL_MASS,Cellemasse
+locale-da,TASK.CELL_AREA,Celleareal
+locale-da,TASK.YIELD_VOL,Udbyttevolumen
+locale-da,TASK.UNADJ_CELL_M,Ikke justeret celle
+locale-da,TASK.NO_OPERATION,Ingen funktioner tilgængelige
+locale-da,CROP.INSERT_NAME,Angiv opgavenavn
+locale-da,CROP.NAME,Afgrødenavn
+locale-da,CROP.REQUIRED,Afgrødenavn er påkrævet
+locale-da,CROP.SELECT,Vælg afgrøde
+locale-da,CROP.CROP,Afgrøde
+locale-da,CROP.SEARCH,Søg afgrøde
+locale-da,CROP.NEW,Ny afgrøde
+locale-da,CROP.EDIT,Redigér afgrøde
+locale-da,CROP.CROPS,Afgrøder
+locale-da,CROP.CROP_SPEC,Afgrødespecifikation
+locale-da,THEMATIZATION.CLASSES,Klasser
+locale-da,THEMATIZATION.COLOR_RAMP,Farvegradering
+locale-da,THEMATIZATION.GREY,Grå
+locale-da,THEMATIZATION.RED,Røde
+locale-da,THEMATIZATION.GREEN,Grønne
+locale-da,THEMATIZATION.BLUE,Blå
+locale-da,THEMATIZATION.GYR,GrønGulRød
+locale-da,THEMATIZATION.SPECTRAL,Spektral
+locale-da,THEMATIZATION.INVERTED,Inverteret
+locale-da,THEMATIZATION.THRESHOLD,Tærskel
+locale-da,THEMATIZATION.METHOD,Metode
+locale-da,THEMATIZATION.METHOD_SELECT,Vælg en metode
+locale-da,THEMATIZATION.METHOD_REQUIRED,Metode er påkrævet
+locale-da,THEMATIZATION.EDIT,Redigér tema
+locale-da,THEMATIZATION.E_A,Tilsvarende areal
+locale-da,THEMATIZATION.E_I,Tilsvarende interval
+locale-da,THEMATIZATION.N_B,Naturlige afbrydelser
+locale-da,GROWER.NEW,Ny planteavlsbedrift
+locale-da,GROWER.EDIT,Redigér planteavlsbedrift
+locale-da,GROWER.GROWERS,Planteavlsbedrifter
+locale-da,PRODUCT.NEW,Nyt produkt
+locale-da,PRODUCT.EDIT,Redigér produkt
+locale-da,PRODUCT.EDIT_VALUE,Redigér produktværdi
+locale-da,PRODUCT.PRODUCTS,Produkter
+locale-da,DELETE_MODAL.PRE,Slet forskrift
+locale-da,DELETE_MODAL.QUESTION,|Er du sikker på, at du ønsker at slette|
+locale-da,DELETE_MZ_MODAL.PRE,Forlad oprettelsestilstand for styringszone
+locale-da,DELETE_MZ_MODAL.QUESTION,|Er du sikker på, at du vil forlade oprettelsestilstand for styringszone? Du vil miste alle ændringer, som ikke er gemt.|
+locale-da,DELETE_MZ_MODAL.CONFIRM,|JA, FORLAD|
+locale-da,EDIT_PRESCRIPTION_MODAL.PRE,Forlad oprettelsestilstand for forskrift
+locale-da,EDIT_PRESCRIPTION_MODAL.QUESTION,|Er du sikker på, at du vil forlade oprettelsestilstand for forskrift? Hvis du fortsætter, vil du miste de indtastede data.|
+locale-da,DELETE_TASK_MODAL.PRE,Slet opgave
+locale-da,DELETE_TASK_MODAL.QUESTION,|Er du sikker på, at du ønsker at slette|
+locale-da,ZONE.EDIT,Redigér zonenavn
+locale-da,ZONE.SET,Angiv navn på styringszone
+locale-da,PDF.TITLE,pdf
+locale-da,MAP.EDIT_TOOLTIP_TEXT,Træk i håndtaget for at ændre marken
+locale-da,MAP.REMOVE_TOOLTIP_TEXT,Klik på en mark for at fjerne den
+locale-da,MAP.POLYGON_TOOLTIP_START,Klik på et kort for at starte med at optegne marken.<br/>Tegn inde i polygonen for at lave et hul i marken
+locale-da,MAP.BUFFER_TOOLTIP.TEXT,|Klik, og træk for at udvide eller formindske marken|
+locale-da,MAP.BUFFER_TOOLTIP.MEASURE,Radius
+locale-da,MAP.POLYGON_TOOLTIP.START,Klik for at starte med at tegne
+locale-da,MAP.POLYGON_TOOLTIP.CONT,Klik på kortet for at fortsætte<br/>med at optegne marken
+locale-da,MAP.POLYGON_TOOLTIP.END,Klik på det første punkt for<br/>at afslutte oprettelsen af marken
+locale-da,MAP.POLYLINE.ERROR,<strong>Fejl:</strong> formkanter må ikke krydse hinanden!
+locale-da,MAP.POLYLINE.TOOLTIP.START,Klik for at starte med at tegne en linje.
+locale-da,MAP.POLYLINE.TOOLTIP.CONT,Klik for at fortsætte med at tegne en linje.
+locale-da,MAP.POLYLINE.TOOLTIP.END,Klik på det sidste punkt for at afslutte linjen.
+locale-da,MAP.PLUGINS.ZOOM.OUT,Zoom ud
+locale-da,MAP.PLUGINS.ZOOM.IN,Zoom ind
+locale-da,MAP.PLUGINS.SEARCH.PLACEHOLDER,Søg placering
+locale-da,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Placering ikke fundet
+locale-da,MAP.PLUGINS.UPLOAD.TEXT,Importér formfil
+locale-da,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Slip en formfil ...
+locale-da,MAP.PLUGINS.WEATHER.TEMPERATURE,temperatur
+locale-da,MAP.PLUGINS.WEATHER.DEW_POINT,dugpunkt
+locale-da,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,relativ fugtighed
+locale-da,MAP.PLUGINS.WEATHER.WIND_SPEED,vindhastighed
+locale-da,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,føles som temperatur
+locale-da,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Ingen data at vise
+locale-da,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellit
+locale-da,MAP.PLUGINS.LAYER_SWITCH.STREET,vej
+locale-da,OPERATIONS.YIELD,Udbytte
+locale-da,OPERATIONS.AS_APPLIED,Som anvendt
+locale-da,OPERATIONS.SOIL_SAMPLE,Jordprøve
+locale-da,STATISTICS.SPREAD_TIME,Spredningstid
+locale-da,STATISTICS.PRODUCT_TOTAL,Estimeret sum
+locale-da,STATISTICS.PRODUCT_SPREAD_TIME,Produktspredningstid
+locale-da,STATISTICS.PRODUCT_AREA,Produktareal
+locale-da,STATISTICS.SENSOR_TYPE,Sensortype
+locale-da,STATISTICS.TOTAL_AREA,Samlet areal
+locale-da,STATISTICS.TOTAL_MASS,Samlet masse
+locale-da,STATISTICS.UN_ADJ_TTL_M,Ikke justeret TTL
+locale-da,STATISTICS.SENSOR_WDTH,Sensorbredde
+locale-da,PROFILE.FEEDBACK,Send feedback
+locale-da,PROFILE.HELP,Hjælp og support
+locale-nl,DATE_FORMAT.NORMAL,MM/DD/JJJJ
+locale-nl,DATE_FORMAT.PILL,DD MMM
+locale-nl,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-nl,GLOBAL.SEND,Verzenden
+locale-nl,GLOBAL.SEND_DATA,Gegevens verzenden
+locale-nl,GLOBAL.FIELD_NAME,Naam veld
+locale-nl,GLOBAL.CHANGE_STYLE,Stijl wijzigen
+locale-nl,GLOBAL.OPACITY,Opaciteit
+locale-nl,GLOBAL.VIEW_MODE,Weergavemodus
+locale-nl,GLOBAL.VECTOR,Vector
+locale-nl,GLOBAL.RASTER,Raster
+locale-nl,GLOBAL.REQUIRED_VALUE,Vereiste waarde
+locale-nl,GLOBAL.BOUNDARY_AREA,Perceeloppervlakte
+locale-nl,GLOBAL.TILLABLE_AREA,Bewerkbaar oppervlakte
+locale-nl,GLOBAL.SHOW_LAYERS_LIST,Lijst met lagen weergeven
+locale-nl,GLOBAL.HIDE_LAYERS_LIST,Lijst met lagen verbergen
+locale-nl,GLOBAL.SET_VALUE,Waarde instellen
+locale-nl,GLOBAL.DEVICES,Apparaten
+locale-nl,GLOBAL.SEARCH,Zoeken
+locale-nl,GLOBAL.FIELDS,velden
+locale-nl,GLOBAL.FIELD,veld
+locale-nl,GLOBAL.FARM,bedrijf
+locale-nl,GLOBAL.FARMS,bedrijven
+locale-nl,GLOBAL.ZONE,Zone
+locale-nl,GLOBAL.ZONES,Zones
+locale-nl,GLOBAL.PRODUCT,Product
+locale-nl,GLOBAL.PRODUCTS,Producten
+locale-nl,GLOBAL.GROWER,teler
+locale-nl,GLOBAL.GROWERS,telers
+locale-nl,GLOBAL.GUIDANCE,Geleiding
+locale-nl,GLOBAL.TASKS,taken
+locale-nl,GLOBAL.CROP,gewas
+locale-nl,GLOBAL.CROPS,gewassen
+locale-nl,GLOBAL.VEHICLES,voertuigen
+locale-nl,GLOBAL.VEHICLE,voertuig
+locale-nl,GLOBAL.UNIT,eenheid
+locale-nl,GLOBAL.PRODUCT_TYPE,Producttype
+locale-nl,GLOBAL.SHOWME,Weergeven
+locale-nl,GLOBAL.CANCEL,annuleren
+locale-nl,GLOBAL.EDIT,Bewerken
+locale-nl,GLOBAL.DELETE,Wissen
+locale-nl,GLOBAL.DELETE_CONFIRMATION,Weet u zeker dat u het volgende wilt wissen
+locale-nl,GLOBAL.SEND_TO,Verzenden naar
+locale-nl,GLOBAL.MORE,Meer
+locale-nl,GLOBAL.CLEAR_LIST,Lijst wissen
+locale-nl,GLOBAL.CREATED,Aangemaakt op
+locale-nl,GLOBAL.ALL,Alle
+locale-nl,GLOBAL.YEAR,Jaar
+locale-nl,GLOBAL.TYPE,Type
+locale-nl,GLOBAL.ALARM,Alarm
+locale-nl,GLOBAL.ALARMS,Alarmen
+locale-nl,GLOBAL.OPERATION,Bediening
+locale-nl,GLOBAL.NAME,naam
+locale-nl,GLOBAL.EG,Bijv. Yew Valley Farm
+locale-nl,GLOBAL.COMPANY,bedrijf
+locale-nl,GLOBAL.SUBCOMPANY,Bedrijfsonderdeel
+locale-nl,GLOBAL.FLEET,Wagenpark
+locale-nl,GLOBAL.CONFIRM,Bevestigen
+locale-nl,GLOBAL.CREATE,Aanmaken
+locale-nl,GLOBAL.CLOSE,afsluiten
+locale-nl,GLOBAL.SAVE,Opslaan
+locale-nl,GLOBAL.CREATED_S,Aangemaakt
+locale-nl,GLOBAL.VIEW_ON_MAP,Weergeven op kaart
+locale-nl,GLOBAL.SETTINGS,Instellingen
+locale-nl,GLOBAL.LOGOUT,Uitloggen
+locale-nl,GLOBAL.TASK_ID,taak {{id}}
+locale-nl,GLOBAL.FARM_ID,bedrijf {{id}}
+locale-nl,GLOBAL.FIELD_ID,veld {{id}}
+locale-nl,GLOBAL.HOUR,uur
+locale-nl,GLOBAL.HOURS,uren
+locale-nl,GLOBAL.MINUTE,minuten
+locale-nl,GLOBAL.MINUTES,minuten
+locale-nl,GLOBAL.VIEW_LAYERS,Lagen bekijken
+locale-nl,UPLOAD.DND,Sleep bestanden hierheen!
+locale-nl,UPLOAD.OR,of
+locale-nl,UPLOAD.BROWSE,door bestanden bladeren
+locale-nl,UPLOAD.UPLOADING,Uploaden
+locale-nl,UPLOAD.UPLOADING_DOT,Uploaden...
+locale-nl,UPLOAD.ERROR,Fout
+locale-nl,UPLOAD.ERROR_UPLOADING,Fout bij uploaden
+locale-nl,UPLOAD.ERROR_IMPORTING,Fout bij importeren
+locale-nl,UPLOAD.RETRY,Uploaden opnieuw proberen
+locale-nl,UPLOAD.PROCESSING,Verwerken
+locale-nl,UPLOAD.PROCESSING_TASK,Taak verwerken...
+locale-nl,UPLOAD.COMPLETED,Voltooid
+locale-nl,UPLOAD.HAS_BEEN,is geïmporteerd naar veld 
+locale-nl,UPLOAD.HAS_BEEN_FROM,{{taskName}} van {{fileName}} is geïmporteerd naar veld {{fieldName}}
+locale-nl,UPLOAD.HAS_BEEN_ORPHAN,is als weestaak geïmporteerd
+locale-nl,UPLOAD.UNKNOWN,Onbekend bestand.
+locale-nl,UPLOAD.START_NOTIFICATION,De geüploade taak {{fileName}} wordt verwerkt
+locale-nl,UPLOAD.FINISH_NOTIFICATION,{{fileName}} is geïmporteerd
+locale-nl,UPLOAD.GFF_UPDATE_NOTIFICATION,|Teler, bedrijf en Veldgegevens worden bijgewerkt|
+locale-nl,ERRORS.ERROR_FOUND.ZERO,
+locale-nl,ERRORS.ERROR_FOUND.ONE,{{errorCount}} fout gevonden
+locale-nl,ERRORS.ERROR_FOUND.MANY,{{errorCount}} fout gevonden
+locale-nl,ERRORS.ERROR_VIEW.ZERO,
+locale-nl,ERRORS.ERROR_VIEW.ONE,Er is {{errorCount}} fout. Bekijk deze door op de volgende knop te drukken
+locale-nl,ERRORS.ERROR_VIEW.MANY,Er zijn {{errorCount}} fouten. Bekijk deze door op de volgende knop te drukken
+locale-nl,ERRORS.HTTP.PARSE,Niet mogelijk om reactie van server te lezen
+locale-nl,ERRORS.HTTP.FETCH,Kan {{object}}-gegevens niet ophalen
+locale-nl,ERRORS.GROWERS.NEW,Er kan geen nieuwe teler worden aangemaakt
+locale-nl,ERRORS.GROWERS.EDIT,Teler met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.GROWERS.DELETE,Teler met id {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.FARMS.NEW,Er kan geen nieuw bedrijf worden aangemaakt
+locale-nl,ERRORS.FARMS.EDIT,Bedrijf met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.FARMS.DELETE,Bedrijf met {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.CROPS.NEW,Er kan geen nieuw gewas worden aangemaakt
+locale-nl,ERRORS.CROPS.EDIT,Gewas met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.CROPS.DELETE,Gewas met id {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.PRODUCTS.NEW,Er kan geen nieuw product worden aangemaakt
+locale-nl,ERRORS.PRODUCTS.EDIT,Product met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.PRODUCTS.DELETE,Product met id {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.TASKS.NEW,Er kan geen nieuwe taak worden aangemaakt
+locale-nl,ERRORS.TASKS.EDIT,Taak met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.TASKS.DELETE,Taak met id {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.PRESCRIPTIONS.NEW,Er kan geen nieuw voorschrift worden aangemaakt
+locale-nl,ERRORS.PRESCRIPTIONS.EDIT,Voorschrift met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.PRESCRIPTIONS.DELETE,Voorschrift met id {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.FIELDS.EDIT,Veld met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.FIELDS.DELETE,Veld met id {{id}} kan niet worden verwijderd
+locale-nl,ERRORS.MZONE.CREATE,Er kon geen nieuwe beheerzone worden aangemaakt
+locale-nl,ERRORS.MZONE.EDIT,Beheerzone met id {{id}} kan niet worden bewerkt
+locale-nl,ERRORS.MZONE.DELETE,Beheerzone met id {{id}} kan niet worden verwijderd
+locale-nl,EMPTY_STATE.DEFAULT.TITLE,Geen gegevens
+locale-nl,EMPTY_STATE.TASKS.IMPORTED_TITLE,Nog geen taken geïmporteerd
+locale-nl,EMPTY_STATE.TASKS.IMPORTED_TEXT,U kunt een nieuwe taak importeren met de onderstaande knop
+locale-nl,EMPTY_STATE.TASKS.IMPORTED_CTA,taak importeren
+locale-nl,EMPTY_STATE.TASKS.FOUND_TITLE,Geen taken gevonden
+locale-nl,EMPTY_STATE.TASKS.FOUND_TEXT,Probeer filters te wijzigen
+locale-nl,EMPTY_STATE.TASKS.NOT_SELECTED,NOG GEEN TAKEN GEÏMPORTEERD
+locale-nl,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,U kunt een nieuwe taak importeren met de knop rechtsboven
+locale-nl,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Er is nog geen voorschrift aangemaakt
+locale-nl,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,U kunt een nieuw voorschrift aanmaken met de onderstaande knop
+locale-nl,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,nieuw voorschrift
+locale-nl,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Er is nog geen beheerzone aangemaakt
+locale-nl,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Er is nog geen geleidingslijn aangemaakt
+locale-nl,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Er is nog geen analyse aangemaakt
+locale-nl,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,U kunt een nieuwe analyse aanmaken met de onderstaande knop
+locale-nl,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,ga naar spotlight
+locale-nl,EMPTY_STATE.FIELDS.CREATED_TITLE,Er is nog geen veld aangemaakt
+locale-nl,EMPTY_STATE.FIELDS.CREATED_TXT,U kunt een nieuw veld aanmaken met de onderstaande knop
+locale-nl,EMPTY_STATE.FIELDS.FOUND_TITLE,Geen veld gevonden
+locale-nl,EMPTY_STATE.FIELDS.FOUND_TXT,Probeer de zoekopdracht en filters te wijzigen
+locale-nl,EMPTY_STATE.FIELDS.NOT_SELECTED,ER IS NOG GEEN VELD GESELECTEERD
+locale-nl,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,U kunt een veld selecteren uit de balk aan de linkerkant om alle bijbehorende taken te zien
+locale-nl,EMPTY_STATE.VEHICLES.CREATED_TITLE,Er zijn nog geen voertuigen aangemaakt
+locale-nl,EMPTY_STATE.VEHICLES.FOUND_TITLE,Er zijn nog geen voertuigen gevonden
+locale-nl,EMPTY_STATE.VEHICLES.FOUND_TXT,Probeer de zoekopdracht en filters aan te passen
+locale-nl,FIELD_CARD.ACTIONS.EDIT,Veld bewerken
+locale-nl,FIELD_CARD.ACTIONS.DELETE,Wissen
+locale-nl,FIELD_CARD.INFO,Informatie veld
+locale-nl,FIELD_CARD.GROWER,Teler
+locale-nl,FIELD_CARD.FARM,bedrijf
+locale-nl,FIELD_CARD.AREA,Totaal veldoppervlak
+locale-nl,FIELD_CARD.CROPS,Gewassen
+locale-nl,FIELD_CARD.TILLABLE,Bewerkbare oppervlakte
+locale-nl,FIELD_CARD.WEATHER,Weer
+locale-nl,FIELD_CARD.LAST_TASKS,Laatste 3 taken
+locale-nl,FIELD_CARD.IMPORT_TASKS,Taak importeren
+locale-nl,FIELD_CARD.SUMMARY_TASKS,Overzicht taken
+locale-nl,PRESCRIPTION.PRESCRIPTION,Voorschrift
+locale-nl,PRESCRIPTION.SENT_TO_VEHICLE,Het voorschrift is naar het voertuig verzonden
+locale-nl,PRESCRIPTION.NOT_SENT_TO_VEHICLE,Het voorschrift is niet naar het voertuig verzonden
+locale-nl,PRESCRIPTION.PRESCRIPTION_EMPTY,ER IS NOG GEEN VOORSCHRIFT AANGEMAAKT
+locale-nl,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,U kunt een nieuw voorschrift aanmaken met de knop rechtsboven
+locale-nl,PRESCRIPTION.SELECT_DEVICE,Selecteer een apparaat
+locale-nl,PRESCRIPTION.SELECT_DEVICE_EMPTY,Geen apparaat geselecteerd
+locale-nl,PRESCRIPTION.SELECT_DEVICE_DESC,Selecteer een apparaat uit de onderstaande lijst.
+locale-nl,PRESCRIPTION.APPLIED_DATE,Geplande datum
+locale-nl,PRESCRIPTION.CREATION_DATE,Aanmaakdatum
+locale-nl,PRESCRIPTION.TOTAL_AREA,Totaal oppervlak
+locale-nl,PRESCRIPTION.PRODUCT_QUANTITY,Geschat totaal
+locale-nl,PRESCRIPTION.STATUS_PROCESSING,Voorschriftbestand aanmaken...
+locale-nl,PRESCRIPTION.STATUS_PROCESSED,Voorschrift aangemaakt
+locale-nl,PRESCRIPTION.PLANNED_DATE,Geplande datum
+locale-nl,PRESCRIPTION.HIDE_ZONES,ZONES VERBERGEN
+locale-nl,PRESCRIPTION.SHOW_ZONES,ZONES WEERGEVEN
+locale-nl,PRESCRIPTION.GROWERS_SELECT,Alle telers
+locale-nl,PRESCRIPTION.FARMS_SELECT,Alle bedrijven
+locale-nl,PRESCRIPTION.GROWER_REQUIRED,Teler is vereist
+locale-nl,PRESCRIPTION.FARM_REQUIRED,De naam van het bedrijf is vereist
+locale-nl,PRESCRIPTION.FIELD_SELECT,Alle velden
+locale-nl,PRESCRIPTION.FIELD_REQUIRED,Veld is vereist.
+locale-nl,PRESCRIPTION.NEW_PRESCRIPTIONS,Nieuw voorschrift
+locale-nl,PRESCRIPTION.PRESCRIPTION_CREATE,Voorschrift aanmaken
+locale-nl,PRESCRIPTION.MGMT,Beheerzone
+locale-nl,PRESCRIPTION.MANAGEMENT_ZONE,Beheerzone
+locale-nl,PRESCRIPTION.MANAGEMENT_NAME,Naam beheerzone
+locale-nl,PRESCRIPTION.MANAGEMENT_SELECT,Beheerzone selecteren.
+locale-nl,PRESCRIPTION.MANAGEMENT_SEARCH,Beheerzone zoeken.
+locale-nl,PRESCRIPTION.MANAGEMENT_REQUIRED,Beheerzone is vereist.
+locale-nl,PRESCRIPTION.MANAGEMENT_CTA,BEHEERZONE OPSLAAN
+locale-nl,PRESCRIPTION.PRODUCT_SEARCH,Product zoeken
+locale-nl,PRESCRIPTION.PRODUCT_SELECT,Product selecteren
+locale-nl,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Product is vereist
+locale-nl,PRESCRIPTION.PRODUCT_VALUE,Waarde van het product
+locale-nl,PRESCRIPTION.PRODUCT_VALUE_SELECT,Waarde van het product selecteren
+locale-nl,PRESCRIPTION.PRODUCT_VALUE_INPUT,De waarde van het product invoegen
+locale-nl,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Productwaarde is vereist
+locale-nl,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Productwaarde kan niet negatief zijn
+locale-nl,PRESCRIPTION.PRODUCT_NAME,Productnaam
+locale-nl,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Productnaam is vereist
+locale-nl,PRESCRIPTION.PRODUCT_NAME_INSERT,Naam van het product invoegen
+locale-nl,PRESCRIPTION.UNIT_SELECT,Eenheid selecteren
+locale-nl,PRESCRIPTION.UNIT_SELECT_REQUIRED,Eenheid is vereist
+locale-nl,PRESCRIPTION.MAP_NAME,Naam voorschriftkaart
+locale-nl,PRESCRIPTION.MAP_NAME_REQUIRED,Naam van voorschriftkaart is vereist
+locale-nl,PRESCRIPTION.MAP_EDIT,Voorschriftkaart bewerken
+locale-nl,PRESCRIPTION.MAP_EDIT_N,Naam voorschriftkaart bewerken
+locale-nl,PRESCRIPTION.MAP_SET_N,Naam voorschriftkaart instellen
+locale-nl,PRESCRIPTION.ZONE_NUMBER,Zones
+locale-nl,PRESCRIPTION.SEND_TO,Voorschrift verzenden
+locale-nl,PRESCRIPTION.UNAVAILABLE,Het voorschriftbestand wordt gegenereerd en u krijgt een melding zodra de bewerking is voltooid. Probeer het later opnieuw.
+locale-nl,PRESCRIPTION.PROCESSED,Het voorschriftbestand voor {{prescriptionName}} is gereed. U kunt het nu downloaden of verzenden naar de machines.
+locale-nl,PRESCRIPTION.PRESCRIPTION_MAP,Voorschriftkaart
+locale-nl,PRESCRIPTION.ANALYSIS,Analyse
+locale-nl,PRESCRIPTION.UNKNOWN,Onbekend
+locale-nl,PRESCRIPTION.CREATED,De voorschriftkaart {{name}} is aangemaakt
+locale-nl,SIDEBAR.USER_MANAGEMENT,gebruikersbeheer
+locale-nl,SIDEBAR.REPORT_ISSUE,probleem melden
+locale-nl,SIDEBAR.SUBSCRIPTION_MANAGEMENT,beheer van abonnementen
+locale-nl,SIDEBAR.STORE,opslaan
+locale-nl,OVERVIEW_SIDEBAR.FIELDS_TAB,Velden
+locale-nl,OVERVIEW_SIDEBAR.VEHICLES_TAB,Voertuigen
+locale-nl,PRIMARY_NAV.UPLOAD,uploaden
+locale-nl,PRIMARY_NAV.LOGOUT,uitloggen
+locale-nl,SECONDARY_NAV.OVERVIEW,overzicht
+locale-nl,SECONDARY_NAV.TASKS,taken
+locale-nl,SECONDARY_NAV.PRESCRIPTIONS,voorschriften
+locale-nl,SECONDARY_NAV.MANAGE,beheren
+locale-nl,MANAGE_NAV.GROWERS,telers
+locale-nl,MANAGE_NAV.FARMS,bedrijven
+locale-nl,MANAGE_NAV.FIELDS,velden
+locale-nl,MANAGE_NAV.CROPS,gewassen
+locale-nl,MANAGE_NAV.PRODUCTS,producten
+locale-nl,GFF.FIELD,veld
+locale-nl,GFF.FIELDS,velden
+locale-nl,GFF.FARM,bedrijf
+locale-nl,GFF.FARMS,bedrijven
+locale-nl,GFF.GROWER,teler
+locale-nl,GFF.GROWERS,telers
+locale-nl,GFF.SEARCH_FIELD,Veldnaam zoeken
+locale-nl,GFF.GROWERS_SELECT,Alle telers
+locale-nl,GFF.FARMS_SELECT,Alle bedrijven
+locale-nl,VEHICLES.VEHICLES,voertuigen
+locale-nl,VEHICLES.VEHICLE,voertuig
+locale-nl,VEHICLES.SN,S/N
+locale-nl,VEHICLES.BRAND,Merk
+locale-nl,VEHICLES.TYPE,Type
+locale-nl,VEHICLES.MODEL,Model
+locale-nl,VEHICLES.STATUS,Status
+locale-nl,VEHICLES.SPEED,Snelheid
+locale-nl,VEHICLES.DISTANCE,Afstand
+locale-nl,VEHICLES.ENGINE_H,Motoruren
+locale-nl,VEHICLES.ENGINE_S,Motortoerental
+locale-nl,VEHICLES.FUEL,Brandstofpeil
+locale-nl,VEHICLES.FUELRATE,Brandstofverbruik
+locale-nl,VEHICLES.GOTO_FORCE,Ga naar kracht
+locale-nl,VEHICLES.MACHINE_INFO,Informatie over de machine
+locale-nl,VEHICLES.SEARCH_VEHICLE,Voertuignaam zoeken
+locale-nl,FARM.NEW,nieuw bedrijf
+locale-nl,FARM.NEW_CREATE,Nieuw bedrijf aanmaken
+locale-nl,FARM.EDIT,Bedrijf bewerken
+locale-nl,FARM.FARMS,Bedrijven
+locale-nl,FIELD.NEW,Nieuw veld
+locale-nl,FIELD.UPDATE,Veld bijwerken
+locale-nl,FIELD.CREATE,Veld aanmaken
+locale-nl,FIELD.FIELDS,Velden
+locale-nl,FIELD.SELECT_GROWER,Teler selecteren
+locale-nl,FIELD.REQUIRED_GROWER,Teler is vereist
+locale-nl,FIELD.SEARCH_GROWER,Teler zoeken
+locale-nl,FIELD.NO_GROWER,Geen teler geselecteerd
+locale-nl,FIELD.SELECT_FARM,bedrijf selecteren
+locale-nl,FIELD.REQUIRED_FARM,bedrijf is vereist
+locale-nl,FIELD.SEARCH_FARM,bedrijf zoeken
+locale-nl,FIELD.SEARCH_FIELD,Zoekveld
+locale-nl,FIELD.NAME_FIELD,Naam veld
+locale-nl,FIELD.NAME_FIELD_REQUIRED,Veldnaam is vereist
+locale-nl,FIELD.FIELD_SELECT,Veld selecteren
+locale-nl,FIELD.FIELD_REQUIRED,Veld is vereist.
+locale-nl,FIELD.BOUNDARY,Perceeloppervlakte
+locale-nl,FIELD.TILLABLE,Bewerkbare oppervlakte
+locale-nl,FIELD.INSERT_TILLABLE,Bewerkbare oppervlakte invoegen
+locale-nl,FIELD.TILLABLE_REQUIRED,De bewerkbare oppervlakte is vereist
+locale-nl,FIELD.ZONE_VALUE,Waarde zone invoegen
+locale-nl,NEW_FIELD.TITLE,Nieuw veld
+locale-nl,NEW_FIELD.SELECT_GROWER,Teler selecteren
+locale-nl,NEW_FIELD.SELECT_FARM,bedrijf selecteren
+locale-nl,NEW_FIELD.GROWER_LABEL,Teler
+locale-nl,NEW_FIELD.FARM_LABEL,bedrijf
+locale-nl,NEW_FIELD.FIELD_LABEL,Naam veld
+locale-nl,NEW_FIELD.FARM_REQUIRED,De naam van het bedrijf is vereist
+locale-nl,NEW_FIELD.FIELD_INPUT,Veldnaam invoegen
+locale-nl,NEW_FIELD.FIELD_INPUT_ERROR,Veldnaam is vereist
+locale-nl,NEW_FIELD.BOUNDARY_AREA,Perceeloppervlakte
+locale-nl,NEW_FIELD.TILLABLE_AREA,Bewerkbare oppervlakte
+locale-nl,NEW_FIELD.TILLABLE_AREA_REQUIRED,De bewerkbare oppervlakte is vereist
+locale-nl,NEW_FIELD.CREATE_FIELD,veld aanmaken
+locale-nl,NEW_FIELD.SAVE_FIELD,veld opslaan
+locale-nl,NEW_FIELD.ERROR.NEW,Er kan geen nieuw veld worden aangemaakt.
+locale-nl,NEW_FIELD.ERROR.EDIT,Huidig veld kan niet worden bewerkt.
+locale-nl,NEW_FIELD.ERROR.GENERIC,Vanwege een interne fout kan er geen nieuw veld worden aangemaakt
+locale-nl,NEW_FIELD.ERROR_NEW,
+locale-nl,NEW_FIELD.ERROR_EDIT,
+locale-nl,NEW_FIELD.CANCEL,annuleren
+locale-nl,NEW_FIELD.NO_GROWER,Geen beschikbare teler
+locale-nl,NEW_FIELD.NO_FARM,Geen beschikbaar bedrijf
+locale-nl,NEW_FARM_MODAL.TITLE,Nieuw bedrijf
+locale-nl,NEW_FARM_MODAL.GROWER_LABEL,Teler
+locale-nl,NEW_FARM_MODAL.NO_GROWER_SELECTED,Geen teler geselecteerd
+locale-nl,NEW_FARM_MODAL.FARM_LABEL,Naam bedrijf
+locale-nl,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,De naam van het bedrijf is vereist
+locale-nl,NEW_FARM_MODAL.CREATE,aanmaken
+locale-nl,NEW_FARM_MODAL.CLOSE,afsluiten
+locale-nl,GROWER_MODAL.TITLE,Nieuwe teler
+locale-nl,GROWER_MODAL.GROWER_LABEL,Naam teler
+locale-nl,GROWER_MODAL.GROWER_INPUT_REQUIRED,Naam van de teler is vereist
+locale-nl,GROWER_MODAL.CREATE,aanmaken
+locale-nl,GROWER_MODAL.CLOSE,afsluiten
+locale-nl,GROWER_MODAL.EG,Bijv. Isaac Harmon
+locale-nl,TASK.SHOW_LAYER,BESCHIKBARE LAGEN WEERGEVEN
+locale-nl,TASK.HIDE_LAYER,BESCHIKBARE LAAG VERBERGEN
+locale-nl,TASK.SHOW_PREVIEW,Voorbeeldweergave tonen
+locale-nl,TASK.NO_TYPE,Geen type geselecteerd.
+locale-nl,TASK.NO_YEAR,Geen jaar geselecteerd.
+locale-nl,TASK.SELECT_YEAR,Selecteer een jaar.
+locale-nl,TASK.SELECT_OP,Selecteer een bewerking.
+locale-nl,TASK.TASK_NOT_ASSOCIATED,Taken niet gekoppeld
+locale-nl,TASK.IMPORT_TASKS,Taken importeren
+locale-nl,TASK.INSERT,Taaknaam invoeren.
+locale-nl,TASK.NAME,Naam taak.
+locale-nl,TASK.EDIT,Taak bewerken.
+locale-nl,TASK.EDIT_INFO,Info bewerken
+locale-nl,TASK.REQUIRED,Taaknaam is vereist.
+locale-nl,TASK.ACTUAL_RATE,Ware snelheid
+locale-nl,TASK.SENSOR_RDNG,Sensor RDNG
+locale-nl,TASK.SENSOR_WDTH,Sensorbreedte
+locale-nl,TASK.YIELD_MASS,Massa opbrengst
+locale-nl,TASK.MOISTURE,Vocht
+locale-nl,TASK.CELL_MASS,Celmassa
+locale-nl,TASK.CELL_AREA,Celoppervlak
+locale-nl,TASK.YIELD_VOL,Volume opbrengst
+locale-nl,TASK.UNADJ_CELL_M,Onaangepaste cel
+locale-nl,TASK.NO_OPERATION,Geen bewerking beschikbaar
+locale-nl,CROP.INSERT_NAME,Gewasnaam invoegen
+locale-nl,CROP.NAME,Naam gewas
+locale-nl,CROP.REQUIRED,Gewasnaam is vereist
+locale-nl,CROP.SELECT,Gewas selecteren
+locale-nl,CROP.CROP,Gewas
+locale-nl,CROP.SEARCH,Gewas zoeken
+locale-nl,CROP.NEW,Nieuw gewas
+locale-nl,CROP.EDIT,Gewas bewerken
+locale-nl,CROP.CROPS,Gewassen
+locale-nl,CROP.CROP_SPEC,Gewasspecificaties
+locale-nl,THEMATIZATION.CLASSES,Klassen
+locale-nl,THEMATIZATION.COLOR_RAMP,Kleur helling
+locale-nl,THEMATIZATION.GREY,Grijs
+locale-nl,THEMATIZATION.RED,Rood
+locale-nl,THEMATIZATION.GREEN,Groen
+locale-nl,THEMATIZATION.BLUE,Blauw
+locale-nl,THEMATIZATION.GYR,GrGeRo
+locale-nl,THEMATIZATION.SPECTRAL,Spectraal
+locale-nl,THEMATIZATION.INVERTED,Omgekeerd
+locale-nl,THEMATIZATION.THRESHOLD,Drempel
+locale-nl,THEMATIZATION.METHOD,Methode
+locale-nl,THEMATIZATION.METHOD_SELECT,Methode selecteren
+locale-nl,THEMATIZATION.METHOD_REQUIRED,Methode is vereist
+locale-nl,THEMATIZATION.EDIT,Thematisering bewerken
+locale-nl,THEMATIZATION.E_A,Gelijke oppervlakte
+locale-nl,THEMATIZATION.E_I,Gelijk interval
+locale-nl,THEMATIZATION.N_B,Natuurlijke onderbrekingen
+locale-nl,GROWER.NEW,Nieuwe teler
+locale-nl,GROWER.EDIT,Teler bewerken
+locale-nl,GROWER.GROWERS,Telers
+locale-nl,PRODUCT.NEW,Nieuw product
+locale-nl,PRODUCT.EDIT,Product bewerken
+locale-nl,PRODUCT.EDIT_VALUE,Productwaarde bewerken
+locale-nl,PRODUCT.PRODUCTS,Producten
+locale-nl,DELETE_MODAL.PRE,Voorschrift verwijderen
+locale-nl,DELETE_MODAL.QUESTION,Weet u zeker dat u het volgende wilt wissen
+locale-nl,DELETE_MZ_MODAL.PRE,Aanmaakmodus beheerzone afsluiten
+locale-nl,DELETE_MZ_MODAL.QUESTION,Weet u zeker dat u de aanmaakmodus van de beheerzone wilt afsluiten? Alle niet-opgeslagen wijzigingen gaan verloren.
+locale-nl,DELETE_MZ_MODAL.CONFIRM,|JA, AFSLUITEN|
+locale-nl,EDIT_PRESCRIPTION_MODAL.PRE,Aanmaakmodus voorschriften afsluiten
+locale-nl,EDIT_PRESCRIPTION_MODAL.QUESTION,|Weet u zeker dat u de aanmaakmodus voorschriften wilt afsluiten? Als u verdergaat, gaan alle ingevoerde gegevens verloren.|
+locale-nl,DELETE_TASK_MODAL.PRE,Taak verwijderen
+locale-nl,DELETE_TASK_MODAL.QUESTION,Weet u zeker dat u het volgende wilt wissen
+locale-nl,ZONE.EDIT,Zonenaam wijzigen
+locale-nl,ZONE.SET,Naam beheerzone instellen
+locale-nl,PDF.TITLE,pdf
+locale-nl,MAP.EDIT_TOOLTIP_TEXT,Sleep handvat om het veld te wijzigen
+locale-nl,MAP.REMOVE_TOOLTIP_TEXT,Klik op een veld om het te verwijderen
+locale-nl,MAP.POLYGON_TOOLTIP_START,Klik op de kaart om te beginnen met het tekenen van het veld.<br/>Teken in de veelhoek om een gat in het veld te maken
+locale-nl,MAP.BUFFER_TOOLTIP.TEXT,Klik en sleep om het veld te vergroten of te verkleinen
+locale-nl,MAP.BUFFER_TOOLTIP.MEASURE,Radius
+locale-nl,MAP.POLYGON_TOOLTIP.START,Klik om te beginnen met tekenen
+locale-nl,MAP.POLYGON_TOOLTIP.CONT,Klik op de kaart om verder te gaan<br/>met het tekenen van het veld
+locale-nl,MAP.POLYGON_TOOLTIP.END,Klik op het eerste punt om de<br/>tekening van het veld te voltooien
+locale-nl,MAP.POLYLINE.ERROR,<strong>Fout:</strong> vormranden mogen elkaar niet kruisen!
+locale-nl,MAP.POLYLINE.TOOLTIP.START,Klik om te beginnen met tekenen van lijn.
+locale-nl,MAP.POLYLINE.TOOLTIP.CONT,Klik om verder te gaan met tekenen van lijn.
+locale-nl,MAP.POLYLINE.TOOLTIP.END,Klik op laatste punt om de lijn af te sluiten.
+locale-nl,MAP.PLUGINS.ZOOM.OUT,Uitzoomen
+locale-nl,MAP.PLUGINS.ZOOM.IN,Inzoomen
+locale-nl,MAP.PLUGINS.SEARCH.PLACEHOLDER,Locatie zoeken
+locale-nl,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Locatie niet gevonden
+locale-nl,MAP.PLUGINS.UPLOAD.TEXT,vormbestand importeren
+locale-nl,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Een vormbestand loslaten...
+locale-nl,MAP.PLUGINS.WEATHER.TEMPERATURE,temperatuur
+locale-nl,MAP.PLUGINS.WEATHER.DEW_POINT,dauwpunt
+locale-nl,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,relatieve luchtvochtigheid
+locale-nl,MAP.PLUGINS.WEATHER.WIND_SPEED,windsnelheid
+locale-nl,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,gevoelstemperatuur
+locale-nl,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Geen gegevens om te tonen
+locale-nl,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satelliet
+locale-nl,MAP.PLUGINS.LAYER_SWITCH.STREET,straat
+locale-nl,OPERATIONS.YIELD,Opbrengst
+locale-nl,OPERATIONS.AS_APPLIED,Zoals toegepast
+locale-nl,OPERATIONS.SOIL_SAMPLE,Bodemmonster
+locale-nl,STATISTICS.SPREAD_TIME,Spreidingstijd
+locale-nl,STATISTICS.PRODUCT_TOTAL,Geschat totaal
+locale-nl,STATISTICS.PRODUCT_SPREAD_TIME,Spreidingstijd prod.
+locale-nl,STATISTICS.PRODUCT_AREA,Productoppervlak
+locale-nl,STATISTICS.SENSOR_TYPE,Sensortype
+locale-nl,STATISTICS.TOTAL_AREA,Totaal oppervlak
+locale-nl,STATISTICS.TOTAL_MASS,Totale massa
+locale-nl,STATISTICS.UN_ADJ_TTL_M,Onaangepaste TTL
+locale-nl,STATISTICS.SENSOR_WDTH,Sensorbreedte
+locale-nl,PROFILE.FEEDBACK,Feedback verzenden
+locale-nl,PROFILE.HELP,Help en ondersteuning
+locale-ja,GLOBAL.SEND,送信
+locale-ja,GLOBAL.SEND_DATA,データの送信
+locale-ja,GLOBAL.FIELD_NAME,圃場の名前
+locale-ja,GLOBAL.CHANGE_STYLE,スタイル変更
+locale-ja,GLOBAL.OPACITY,不透明度
+locale-ja,GLOBAL.VIEW_MODE,表示モード
+locale-ja,GLOBAL.VECTOR,ベクトル
+locale-ja,GLOBAL.RASTER,ラスター
+locale-ja,GLOBAL.REQUIRED_VALUE,必要な値
+locale-ja,GLOBAL.BOUNDARY_AREA,境界面積
+locale-ja,GLOBAL.TILLABLE_AREA,耕作可能面積
+locale-ja,GLOBAL.SHOW_LAYERS_LIST,レイヤーリストを表示
+locale-ja,GLOBAL.HIDE_LAYERS_LIST,レイヤーリストを非表示
+locale-ja,GLOBAL.SET_VALUE,値の設定
+locale-ja,GLOBAL.DEVICES,装置
+locale-ja,GLOBAL.SEARCH,検索
+locale-ja,GLOBAL.FIELDS,圃場
+locale-ja,GLOBAL.FIELD,圃場
+locale-ja,GLOBAL.FARM,農場
+locale-ja,GLOBAL.FARMS,農場
+locale-ja,GLOBAL.ZONE,ゾーン
+locale-ja,GLOBAL.ZONES,ゾーン
+locale-ja,GLOBAL.PRODUCT,製品
+locale-ja,GLOBAL.PRODUCTS,製品
+locale-ja,GLOBAL.GROWER,生産者
+locale-ja,GLOBAL.GROWERS,生産者
+locale-ja,GLOBAL.TASKS,タスク
+locale-ja,GLOBAL.CROP,収穫物
+locale-ja,GLOBAL.CROPS,収穫物
+locale-ja,GLOBAL.VEHICLES,車両
+locale-ja,GLOBAL.VEHICLE,車両
+locale-ja,GLOBAL.UNIT,ユニット
+locale-ja,GLOBAL.PRODUCT_TYPE,製品の種類
+locale-ja,GLOBAL.SHOWME,表示する
+locale-ja,GLOBAL.CANCEL,キャンセル
+locale-ja,GLOBAL.EDIT,編集
+locale-ja,GLOBAL.DELETE,削除
+locale-ja,GLOBAL.DELETE_CONFIRMATION,本当に削除しますか
+locale-ja,GLOBAL.SEND_TO,送信先
+locale-ja,GLOBAL.MORE,詳細
+locale-ja,GLOBAL.CLEAR_LIST,リスト消去
+locale-ja,GLOBAL.CREATED,作成日時
+locale-ja,GLOBAL.ALL,すべて
+locale-ja,GLOBAL.YEAR,年
+locale-ja,GLOBAL.TYPE,種類
+locale-ja,GLOBAL.ALARM,アラーム
+locale-ja,GLOBAL.ALARMS,アラーム
+locale-ja,GLOBAL.OPERATION,操作
+locale-ja,GLOBAL.NAME,名前
+locale-ja,GLOBAL.EG,例: ユーバレー農場
+locale-ja,GLOBAL.COMPANY,会社
+locale-ja,GLOBAL.SUBCOMPANY,子会社
+locale-ja,GLOBAL.FLEET,フリート
+locale-ja,GLOBAL.CONFIRM,確認
+locale-ja,GLOBAL.CREATE,作成
+locale-ja,GLOBAL.CLOSE,閉じる
+locale-ja,GLOBAL.SAVE,保存
+locale-ja,GLOBAL.CREATED_S,作成済み
+locale-ja,GLOBAL.VIEW_ON_MAP,地図上に表示
+locale-ja,GLOBAL.GUIDANCE,ｶﾞｲﾀﾞﾝｽ
+locale-ja,GLOBAL.SETTINGS,設定
+locale-ja,GLOBAL.LOGOUT,ﾛｸﾞｱｳﾄ
+locale-ja,GLOBAL.TASK_ID,ﾀｽｸ{{id}}
+locale-ja,GLOBAL.FARM_ID,農場{{id}}
+locale-ja,GLOBAL.FIELD_ID,圃場{{id}}
+locale-ja,GLOBAL.HOUR,時間
+locale-ja,GLOBAL.HOURS,時間
+locale-ja,GLOBAL.MINUTE,分
+locale-ja,GLOBAL.MINUTES,分
+locale-ja,GLOBAL.VIEW_LAYERS,ﾚｲﾔｰの表示
+locale-ja,UPLOAD.DND,ファイルをここにドラッグ&ドロップ
+locale-ja,UPLOAD.OR,または
+locale-ja,UPLOAD.BROWSE,ファイルを表示
+locale-ja,UPLOAD.UPLOADING,アップロード
+locale-ja,UPLOAD.UPLOADING_DOT,アップロード中...
+locale-ja,UPLOAD.ERROR,エラー
+locale-ja,UPLOAD.ERROR_UPLOADING,アップロードのエラー
+locale-ja,UPLOAD.ERROR_IMPORTING,インポートのエラー
+locale-ja,UPLOAD.RETRY,アップロードの再試行
+locale-ja,UPLOAD.PROCESSING,処理
+locale-ja,UPLOAD.PROCESSING_TASK,タスクの処理中...
+locale-ja,UPLOAD.COMPLETED,完了
+locale-ja,UPLOAD.HAS_BEEN,フィールドにインポートされました 
+locale-ja,UPLOAD.HAS_BEEN_FROM,{{taskName}}は{{fileName}}から{{fieldName}}フィールドにインポートされました
+locale-ja,UPLOAD.HAS_BEEN_ORPHAN,オーファンタスクとしてインポートされました
+locale-ja,UPLOAD.UNKNOWN,未知のファイル。
+locale-ja,UPLOAD.START_NOTIFICATION,アップロードされたタスク{{fileName}}を処理中です。
+locale-ja,UPLOAD.FINISH_NOTIFICATION,{{fileName}}をインポートしました。
+locale-ja,UPLOAD.GFF_UPDATE_NOTIFICATION,栽培者、農場および圃場データを更新中です
+locale-ja,ERRORS.ERROR_FOUND.ZERO,
+locale-ja,ERRORS.ERROR_FOUND.ONE,{{errorCount}}個のエラーが見つかりました
+locale-ja,ERRORS.ERROR_FOUND.MANY,{{errorCount}}個のエラーが見つかりました
+locale-ja,ERRORS.ERROR_VIEW.ZERO,
+locale-ja,ERRORS.ERROR_VIEW.ONE,{{errorCount}}個のエラーがあります。以下のボタンを押してこれを表示
+locale-ja,ERRORS.ERROR_VIEW.MANY,{{errorCount}}個のエラーがあります。以下のボタンを押してこれらを確認
+locale-ja,ERRORS.HTTP.PARSE,ｻｰﾊﾞｰの応答を解析できません
+locale-ja,ERRORS.HTTP.FETCH,{{object}}ﾃﾞｰﾀﾌｪｯﾁ不能
+locale-ja,ERRORS.GROWERS.NEW,栽培者を新規作成できません
+locale-ja,ERRORS.GROWERS.EDIT,ID {{id}}の栽培者を編集できません
+locale-ja,ERRORS.GROWERS.DELETE,ID {{id}}の栽培者を削除できません
+locale-ja,ERRORS.FARMS.NEW,農場を新規作成できません
+locale-ja,ERRORS.FARMS.EDIT,ID {{id}}の農場を編集できません
+locale-ja,ERRORS.FARMS.DELETE,ID {{id}}の農場を削除できません
+locale-ja,ERRORS.CROPS.NEW,穀物を新規作成できません
+locale-ja,ERRORS.CROPS.EDIT,ID {{id}}の穀物を編集できません
+locale-ja,ERRORS.CROPS.DELETE,ID {{id}}の穀物を削除できません
+locale-ja,ERRORS.PRODUCTS.NEW,製品を新規作成できません
+locale-ja,ERRORS.PRODUCTS.EDIT,ID {{id}}の製品を編集できません
+locale-ja,ERRORS.PRODUCTS.DELETE,ID {{id}}の製品を削除できません
+locale-ja,ERRORS.TASKS.NEW,ﾀｽｸを新規作成できません
+locale-ja,ERRORS.TASKS.EDIT,ID {{id}}のﾀｽｸを編集できません
+locale-ja,ERRORS.TASKS.DELETE,ID {{id}}のﾀｽｸを削除できません
+locale-ja,ERRORS.PRESCRIPTIONS.NEW,調合を新規作成できません
+locale-ja,ERRORS.PRESCRIPTIONS.EDIT,ID {{id}}の調合を編集できません
+locale-ja,ERRORS.PRESCRIPTIONS.DELETE,ID {{id}}の調合を削除できません
+locale-ja,ERRORS.FIELDS.EDIT,ID {{id}}の圃場を編集できません
+locale-ja,ERRORS.FIELDS.DELETE,ID {{id}}の圃場を削除できません
+locale-ja,ERRORS.MZONE.CREATE,管理ゾーンを作成できません
+locale-ja,ERRORS.MZONE.EDIT,ID {{id}}の管理ゾーンを編集できません
+locale-ja,ERRORS.MZONE.DELETE,ID {{id}}の管理ゾーンを削除できません
+locale-ja,EMPTY_STATE.TASKS.IMPORTED_TITLE,まだタスクをインポートしていません。
+locale-ja,EMPTY_STATE.TASKS.IMPORTED_TEXT,下のボタンから新しいタスクをインポートできます
+locale-ja,EMPTY_STATE.TASKS.IMPORTED_CTA,タスクのインポート
+locale-ja,EMPTY_STATE.TASKS.FOUND_TITLE,タスクが見つかりません
+locale-ja,EMPTY_STATE.TASKS.FOUND_TEXT,フィルターを変更してみてください
+locale-ja,EMPTY_STATE.TASKS.NOT_SELECTED,まだタスクをインポートしていません。
+locale-ja,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,右上のボタンから新しいタスクをインポートできます
+locale-ja,EMPTY_STATE.FIELDS.CREATED_TITLE,まだフィールドを作成していません
+locale-ja,EMPTY_STATE.FIELDS.CREATED_TXT,下のボタンから新しいフィールドを作成できます
+locale-ja,EMPTY_STATE.FIELDS.FOUND_TITLE,フィールドが見つかりません
+locale-ja,EMPTY_STATE.FIELDS.FOUND_TXT,検索とフィルターを変更してください
+locale-ja,EMPTY_STATE.FIELDS.NOT_SELECTED,まだフィールドを選択していません
+locale-ja,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,左のサイドバーからフィールドを選択してすべての関連タスクを表示できます
+locale-ja,EMPTY_STATE.VEHICLES.CREATED_TITLE,まだ車両を作成していません
+locale-ja,EMPTY_STATE.VEHICLES.FOUND_TITLE,まだ車両が見つかりません
+locale-ja,EMPTY_STATE.VEHICLES.FOUND_TXT,検索とフィルターを変更してください
+locale-ja,EMPTY_STATE.DEFAULT.TITLE,ﾃﾞｰﾀなし
+locale-ja,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,調合未作成
+locale-ja,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,下記のﾎﾞﾀﾝから調合を新規作成できます
+locale-ja,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,新規調合
+locale-ja,EMPTY_STATE.MGMZ.IMPORTED_TITLE,管理ゾーン未作成
+locale-ja,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,ｶﾞｲﾀﾞﾝｽﾗｲﾝ未作成
+locale-ja,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,解析未作成
+locale-ja,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,下記のﾎﾞﾀﾝから解析を新規作成できます
+locale-ja,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,ｽﾎﾟｯﾄﾗｲﾄへ移動
+locale-ja,FIELD_CARD.ACTIONS.EDIT,圃場の編集
+locale-ja,FIELD_CARD.ACTIONS.DELETE,削除
+locale-ja,FIELD_CARD.INFO,圃場の情報
+locale-ja,FIELD_CARD.GROWER,生産者
+locale-ja,FIELD_CARD.FARM,農場
+locale-ja,FIELD_CARD.AREA,合計圃場面積
+locale-ja,FIELD_CARD.CROPS,収穫物
+locale-ja,FIELD_CARD.TILLABLE,耕作可能面積
+locale-ja,FIELD_CARD.WEATHER,天候
+locale-ja,FIELD_CARD.LAST_TASKS,過去3週間
+locale-ja,FIELD_CARD.IMPORT_TASKS,タスクのインポート
+locale-ja,FIELD_CARD.SUMMARY_TASKS,タスクの要約
+locale-ja,PRESCRIPTION.SENT_TO_VEHICLE,指示が車両に送信されました
+locale-ja,PRESCRIPTION.NOT_SENT_TO_VEHICLE,指示が車両に送信されていません
+locale-ja,PRESCRIPTION.PRESCRIPTION_EMPTY,まだ指示が作成されていません
+locale-ja,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,右上のボタンから指示を作成できます
+locale-ja,PRESCRIPTION.SELECT_DEVICE,装置の選択
+locale-ja,PRESCRIPTION.SELECT_DEVICE_DESC,下のリストから装置を1つ選択します。
+locale-ja,PRESCRIPTION.APPLIED_DATE,計画日
+locale-ja,PRESCRIPTION.CREATION_DATE,作成日
+locale-ja,PRESCRIPTION.TOTAL_AREA,合計面積
+locale-ja,PRESCRIPTION.PRODUCT_QUANTITY,製品の量
+locale-ja,PRESCRIPTION.STATUS_PROCESSING,指示ファイルを作成中...
+locale-ja,PRESCRIPTION.STATUS_PROCESSED,指示を作成しました
+locale-ja,PRESCRIPTION.PLANNED_DATE,計画日
+locale-ja,PRESCRIPTION.HIDE_ZONES,ゾーンを非表示
+locale-ja,PRESCRIPTION.SHOW_ZONES,ゾーンを表示
+locale-ja,PRESCRIPTION.GROWERS_SELECT,全生産者
+locale-ja,PRESCRIPTION.FARMS_SELECT,全農場
+locale-ja,PRESCRIPTION.GROWER_REQUIRED,生産者が必要です
+locale-ja,PRESCRIPTION.FARM_REQUIRED,農場が必要です
+locale-ja,PRESCRIPTION.FIELD_SELECT,全圃場
+locale-ja,PRESCRIPTION.FIELD_REQUIRED,圃場が必要です。
+locale-ja,PRESCRIPTION.NEW_PRESCRIPTIONS,新しい指示
+locale-ja,PRESCRIPTION.PRESCRIPTION_CREATE,指示の作成
+locale-ja,PRESCRIPTION.MGMT,MGMTゾーン
+locale-ja,PRESCRIPTION.MANAGEMENT_ZONE,管理ゾーン
+locale-ja,PRESCRIPTION.MANAGEMENT_NAME,管理ゾーン名
+locale-ja,PRESCRIPTION.MANAGEMENT_SELECT,管理ゾーンを選択します。
+locale-ja,PRESCRIPTION.MANAGEMENT_SEARCH,管理ゾーンを検索します。
+locale-ja,PRESCRIPTION.MANAGEMENT_REQUIRED,管理ゾーンが必要です。
+locale-ja,PRESCRIPTION.MANAGEMENT_CTA,管理ゾーンの保存
+locale-ja,PRESCRIPTION.PRODUCT_SEARCH,製品の検索
+locale-ja,PRESCRIPTION.PRODUCT_SELECT,製品の選択
+locale-ja,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,製品が必要です
+locale-ja,PRESCRIPTION.PRODUCT_VALUE,製品の価格
+locale-ja,PRESCRIPTION.PRODUCT_VALUE_SELECT,製品の価格を検索
+locale-ja,PRESCRIPTION.PRODUCT_VALUE_INPUT,製品の価格を挿入
+locale-ja,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,製品の価格が必要です
+locale-ja,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,製品の価格は負の値にできません
+locale-ja,PRESCRIPTION.PRODUCT_NAME,製品の名前
+locale-ja,PRESCRIPTION.PRODUCT_NAME_REQUIRED,製品の名前が必要です
+locale-ja,PRESCRIPTION.PRODUCT_NAME_INSERT,製品の名前を挿入
+locale-ja,PRESCRIPTION.UNIT_SELECT,単位を選択
+locale-ja,PRESCRIPTION.UNIT_SELECT_REQUIRED,単位が必要です
+locale-ja,PRESCRIPTION.MAP_NAME,指示マップ名
+locale-ja,PRESCRIPTION.MAP_NAME_REQUIRED,指示マップ名が必要です
+locale-ja,PRESCRIPTION.MAP_EDIT,所用マップの編集
+locale-ja,PRESCRIPTION.MAP_EDIT_N,指示マップ名の編集
+locale-ja,PRESCRIPTION.MAP_SET_N,指示マップ名の設定
+locale-ja,PRESCRIPTION.ZONE_NUMBER,ゾーン
+locale-ja,PRESCRIPTION.SEND_TO,指示の送信
+locale-ja,PRESCRIPTION.UNAVAILABLE,指示ファイルを作成中であり、動作が完了すると通知します。後ほど再試行してください。
+locale-ja,PRESCRIPTION.PROCESSED,{{prescriptionName}}の指示ファイルの準備ができました。これをダウンロードしたり、機械に送信したりできます。
+locale-ja,PRESCRIPTION.SELECT_DEVICE_EMPTY,ﾃﾞﾊﾞｲｽ未選択
+locale-ja,PRESCRIPTION.PRESCRIPTION_MAP,調合マップ
+locale-ja,PRESCRIPTION.ANALYSIS,解析
+locale-ja,PRESCRIPTION.UNKNOWN,不明
+locale-ja,PRESCRIPTION.CREATED,調合マップ{{name}}が作成されました
+locale-ja,SIDEBAR.USER_MANAGEMENT,ユーザー管理
+locale-ja,SIDEBAR.REPORT_ISSUE,問題のレポート
+locale-ja,SIDEBAR.SUBSCRIPTION_MANAGEMENT,サブスクリプション管理
+locale-ja,SIDEBAR.STORE,ストア
+locale-ja,OVERVIEW_SIDEBAR.FIELDS_TAB,圃場
+locale-ja,OVERVIEW_SIDEBAR.VEHICLES_TAB,車両
+locale-ja,PRIMARY_NAV.UPLOAD,アップロード
+locale-ja,PRIMARY_NAV.LOGOUT,ログアウト
+locale-ja,SECONDARY_NAV.OVERVIEW,概要
+locale-ja,SECONDARY_NAV.TASKS,タスク
+locale-ja,SECONDARY_NAV.PRESCRIPTIONS,指示
+locale-ja,SECONDARY_NAV.MANAGE,管理
+locale-ja,MANAGE_NAV.GROWERS,生産者
+locale-ja,MANAGE_NAV.FARMS,農場
+locale-ja,MANAGE_NAV.FIELDS,圃場
+locale-ja,MANAGE_NAV.CROPS,収穫物
+locale-ja,MANAGE_NAV.PRODUCTS,製品
+locale-ja,GFF.FIELD,圃場
+locale-ja,GFF.FIELDS,圃場
+locale-ja,GFF.FARM,農場
+locale-ja,GFF.FARMS,農場
+locale-ja,GFF.GROWER,生産者
+locale-ja,GFF.GROWERS,生産者
+locale-ja,GFF.SEARCH_FIELD,圃場名の検索
+locale-ja,GFF.GROWERS_SELECT,全生産者
+locale-ja,GFF.FARMS_SELECT,全農場
+locale-ja,VEHICLES.VEHICLES,車両
+locale-ja,VEHICLES.VEHICLE,車両
+locale-ja,VEHICLES.SN,S/N
+locale-ja,VEHICLES.BRAND,ブランド
+locale-ja,VEHICLES.TYPE,種類
+locale-ja,VEHICLES.MODEL,モデル
+locale-ja,VEHICLES.STATUS,状態
+locale-ja,VEHICLES.SPEED,速度
+locale-ja,VEHICLES.DISTANCE,距離
+locale-ja,VEHICLES.ENGINE_H,エンジン時間
+locale-ja,VEHICLES.ENGINE_S,エンジン回転数
+locale-ja,VEHICLES.FUEL,燃料レベル
+locale-ja,VEHICLES.FUELRATE,燃料比
+locale-ja,VEHICLES.GOTO_FORCE,forceに移動
+locale-ja,VEHICLES.MACHINE_INFO,機械の情報
+locale-ja,VEHICLES.SEARCH_VEHICLE,車両の名前の検索
+locale-ja,FARM.NEW,新しい農場
+locale-ja,FARM.NEW_CREATE,新しい農場の作成
+locale-ja,FARM.EDIT,農場の編集
+locale-ja,FARM.FARMS,農場
+locale-ja,FIELD.NEW,新しい圃場
+locale-ja,FIELD.UPDATE,圃場の更新
+locale-ja,FIELD.CREATE,圃場の作成
+locale-ja,FIELD.FIELDS,圃場
+locale-ja,FIELD.SELECT_GROWER,生産者の選択
+locale-ja,FIELD.REQUIRED_GROWER,生産者が必要です
+locale-ja,FIELD.SEARCH_GROWER,生産者の検索
+locale-ja,FIELD.NO_GROWER,生産者が未選択
+locale-ja,FIELD.SELECT_FARM,農場の選択
+locale-ja,FIELD.REQUIRED_FARM,農場が必要です
+locale-ja,FIELD.SEARCH_FARM,農場の検索
+locale-ja,FIELD.SEARCH_FIELD,圃場の検索
+locale-ja,FIELD.NAME_FIELD,圃場の名前
+locale-ja,FIELD.NAME_FIELD_REQUIRED,圃場の名前が必要です
+locale-ja,FIELD.FIELD_SELECT,圃場の選択
+locale-ja,FIELD.FIELD_REQUIRED,圃場が必要です。
+locale-ja,FIELD.BOUNDARY,境界面積
+locale-ja,FIELD.TILLABLE,耕作可能面積
+locale-ja,FIELD.INSERT_TILLABLE,耕作可能面積の挿入
+locale-ja,FIELD.TILLABLE_REQUIRED,耕作可能面積が必要です
+locale-ja,FIELD.ZONE_VALUE,ゾーンの価格の入力
+locale-ja,NEW_FIELD.TITLE,新しい圃場
+locale-ja,NEW_FIELD.SELECT_GROWER,生産者の選択
+locale-ja,NEW_FIELD.SELECT_FARM,農場の選択
+locale-ja,NEW_FIELD.GROWER_LABEL,生産者
+locale-ja,NEW_FIELD.FARM_LABEL,農場
+locale-ja,NEW_FIELD.FIELD_LABEL,圃場の名前
+locale-ja,NEW_FIELD.FARM_REQUIRED,農場が必要です。
+locale-ja,NEW_FIELD.FIELD_INPUT,圃場の名前の挿入
+locale-ja,NEW_FIELD.FIELD_INPUT_ERROR,圃場の名前が必要です
+locale-ja,NEW_FIELD.BOUNDARY_AREA,境界面積
+locale-ja,NEW_FIELD.TILLABLE_AREA,耕作可能面積
+locale-ja,NEW_FIELD.TILLABLE_AREA_REQUIRED,耕作可能面積が必要です
+locale-ja,NEW_FIELD.CREATE_FIELD,圃場の作成
+locale-ja,NEW_FIELD.SAVE_FIELD,圃場の保存
+locale-ja,NEW_FIELD.CANCEL,キャンセル
+locale-ja,NEW_FIELD.ERROR.NEW,圃場を新規作成できません。
+locale-ja,NEW_FIELD.ERROR.EDIT,現在の圃場を編集できません。
+locale-ja,NEW_FIELD.ERROR.GENERIC,内部ｴﾗｰにより圃場を新規作成できません
+locale-ja,NEW_FIELD.ERROR_NEW,
+locale-ja,NEW_FIELD.ERROR_EDIT,
+locale-ja,NEW_FIELD.NO_GROWER,栽培者がありません
+locale-ja,NEW_FIELD.NO_FARM,農場がありません
+locale-ja,NEW_FARM_MODAL.TITLE,新しい農場
+locale-ja,NEW_FARM_MODAL.GROWER_LABEL,生産者
+locale-ja,NEW_FARM_MODAL.NO_GROWER_SELECTED,生産者が未選択
+locale-ja,NEW_FARM_MODAL.FARM_LABEL,農場の名前
+locale-ja,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,農場の名前が必要です
+locale-ja,NEW_FARM_MODAL.CREATE,作成
+locale-ja,NEW_FARM_MODAL.CLOSE,閉じる
+locale-ja,GROWER_MODAL.TITLE,新しい生産者
+locale-ja,GROWER_MODAL.GROWER_LABEL,生産者の名前
+locale-ja,GROWER_MODAL.GROWER_INPUT_REQUIRED,生産者の名前が必要です
+locale-ja,GROWER_MODAL.CREATE,作成
+locale-ja,GROWER_MODAL.CLOSE,閉じる
+locale-ja,GROWER_MODAL.EG,例: アイザック・ハーモン
+locale-ja,TASK.SHOW_LAYER,使用可能なレイヤーを表示
+locale-ja,TASK.HIDE_LAYER,使用可能なレイヤーを非表示
+locale-ja,TASK.SHOW_PREVIEW,プレビューを表示
+locale-ja,TASK.NO_TYPE,種類が選択されていません。
+locale-ja,TASK.NO_YEAR,年が選択されていません。
+locale-ja,TASK.SELECT_YEAR,年を選択してください。
+locale-ja,TASK.SELECT_OP,操作を選択してください。
+locale-ja,TASK.TASK_NOT_ASSOCIATED,タスクが関連付けられていません
+locale-ja,TASK.IMPORT_TASKS,タスクのインポート
+locale-ja,TASK.INSERT,タスク名のインポート
+locale-ja,TASK.NAME,タスク名
+locale-ja,TASK.EDIT,タスクの編集
+locale-ja,TASK.EDIT_INFO,情報の編集
+locale-ja,TASK.REQUIRED,タスク名が必要です。
+locale-ja,TASK.ACTUAL_RATE,実際の率
+locale-ja,TASK.SENSOR_RDNG,ｾﾝｻｰRDNG
+locale-ja,TASK.SENSOR_WDTH,ｾﾝｻｰ幅
+locale-ja,TASK.YIELD_MASS,収穫質量
+locale-ja,TASK.MOISTURE,湿気
+locale-ja,TASK.CELL_MASS,セル質量
+locale-ja,TASK.CELL_AREA,セル面積
+locale-ja,TASK.YIELD_VOL,収穫量
+locale-ja,TASK.UNADJ_CELL_M,未調整セル
+locale-ja,TASK.NO_OPERATION,操作がみつかりません
+locale-ja,CROP.INSERT_NAME,収穫物の名前を挿入
+locale-ja,CROP.NAME,収穫物の名前
+locale-ja,CROP.REQUIRED,収穫物の名前が必要です
+locale-ja,CROP.SELECT,収穫物の選択
+locale-ja,CROP.CROP,収穫物
+locale-ja,CROP.SEARCH,収穫物の検索
+locale-ja,CROP.NEW,新しい収穫物
+locale-ja,CROP.EDIT,収穫物の編集
+locale-ja,CROP.CROPS,収穫物
+locale-ja,CROP.CROP_SPEC,作物種
+locale-ja,THEMATIZATION.CLASSES,等級
+locale-ja,THEMATIZATION.COLOR_RAMP,カラーランプ
+locale-ja,THEMATIZATION.GREY,灰色
+locale-ja,THEMATIZATION.RED,赤色
+locale-ja,THEMATIZATION.GREEN,緑色
+locale-ja,THEMATIZATION.BLUE,青色
+locale-ja,THEMATIZATION.GYR,灰黄赤
+locale-ja,THEMATIZATION.SPECTRAL,スペクトル
+locale-ja,THEMATIZATION.INVERTED,反転
+locale-ja,THEMATIZATION.THRESHOLD,閾値
+locale-ja,THEMATIZATION.METHOD,方法
+locale-ja,THEMATIZATION.METHOD_SELECT,方法の選択
+locale-ja,THEMATIZATION.METHOD_REQUIRED,方法が必要です
+locale-ja,THEMATIZATION.EDIT,グラフィック様式の編集
+locale-ja,THEMATIZATION.E_A,面積が等しい
+locale-ja,THEMATIZATION.E_I,間隔が等しい
+locale-ja,THEMATIZATION.N_B,自然間隔
+locale-ja,GROWER.NEW,新しい生産者
+locale-ja,GROWER.EDIT,生産者の編集
+locale-ja,GROWER.GROWERS,生産者
+locale-ja,PRODUCT.NEW,新しい製品
+locale-ja,PRODUCT.EDIT,製品の編集
+locale-ja,PRODUCT.EDIT_VALUE,製品の価格の編集
+locale-ja,PRODUCT.PRODUCTS,製品
+locale-ja,DELETE_MODAL.PRE,指示の削除
+locale-ja,DELETE_MODAL.QUESTION,本当に削除しますか
+locale-ja,DELETE_MZ_MODAL.PRE,管理ゾーン作成モードの終了
+locale-ja,DELETE_MZ_MODAL.QUESTION,管理ゾーン作成モードを本当に終了しますか? 未保存の変更は全て失われます。
+locale-ja,DELETE_MZ_MODAL.CONFIRM,はい、終了します
+locale-ja,EDIT_PRESCRIPTION_MODAL.PRE,指示作成モードの終了
+locale-ja,EDIT_PRESCRIPTION_MODAL.QUESTION,指示作成モードを本当に終了しますか? 終了する場合は、入力したデータはすべて失われます。
+locale-ja,DELETE_TASK_MODAL.PRE,タスクの削除
+locale-ja,DELETE_TASK_MODAL.QUESTION,本当に削除しますか
+locale-ja,ZONE.EDIT,ゾーンの名前の編集
+locale-ja,ZONE.SET,管理ゾーン名の設定
+locale-ja,PDF.TITLE,pdf
+locale-ja,MAP.EDIT_TOOLTIP_TEXT,ハンドルをドラッグして圃場を変更します
+locale-ja,MAP.REMOVE_TOOLTIP_TEXT,圃場をクリックして削除します
+locale-ja,MAP.POLYGON_TOOLTIP_START,マップをクリックして圃場の描画を開始します。<br/>ポリゴンの内部を描画して圃場に穴を作成します。
+locale-ja,MAP.BUFFER_TOOLTIP.TEXT,クリックしてドラッグし、圃場を拡大/縮小します。
+locale-ja,MAP.BUFFER_TOOLTIP.MEASURE,半径
+locale-ja,MAP.POLYGON_TOOLTIP.START,クリックして描画を開始
+locale-ja,MAP.POLYGON_TOOLTIP.CONT,マップをクリックして圃場の<br/>描画を継続
+locale-ja,MAP.POLYGON_TOOLTIP.END,最初の点をクリックして、<br/>圃場の作成を完了します
+locale-ja,MAP.POLYLINE.ERROR,<strong>エラー:</strong> 形状の端は交差できません!
+locale-ja,MAP.POLYLINE.TOOLTIP.START,クリックして線の描画を開始します。
+locale-ja,MAP.POLYLINE.TOOLTIP.CONT,クリックして線の描画を継続します。
+locale-ja,MAP.POLYLINE.TOOLTIP.END,最後の点をクリックして線を完了します。
+locale-ja,MAP.PLUGINS.ZOOM.OUT,ズームアウト
+locale-ja,MAP.PLUGINS.ZOOM.IN,ズームイン
+locale-ja,MAP.PLUGINS.SEARCH.PLACEHOLDER,位置検索
+locale-ja,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,場所が見つかりません
+locale-ja,MAP.PLUGINS.UPLOAD.TEXT,形状ファイルのインポート
+locale-ja,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,形状ファイルをドロップ...
+locale-ja,MAP.PLUGINS.WEATHER.TEMPERATURE,温度
+locale-ja,MAP.PLUGINS.WEATHER.DEW_POINT,露点
+locale-ja,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,相対湿度
+locale-ja,MAP.PLUGINS.WEATHER.WIND_SPEED,風速
+locale-ja,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,体感温度
+locale-ja,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,表示データなし
+locale-ja,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,衛星
+locale-ja,MAP.PLUGINS.LAYER_SWITCH.STREET,街路
+locale-ja,OPERATIONS.YIELD,収穫高
+locale-ja,OPERATIONS.AS_APPLIED,適用済み
+locale-ja,OPERATIONS.SOIL_SAMPLE,土壌ｻﾝﾌﾟﾙ
+locale-ja,STATISTICS.SPREAD_TIME,拡散時間
+locale-ja,STATISTICS.PRODUCT_TOTAL,見積総量
+locale-ja,STATISTICS.PRODUCT_SPREAD_TIME,製品拡散時間
+locale-ja,STATISTICS.PRODUCT_AREA,製品面積
+locale-ja,STATISTICS.SENSOR_TYPE,ｾﾝｻｰﾀｲﾌﾟ
+locale-ja,STATISTICS.TOTAL_AREA,総面積
+locale-ja,STATISTICS.TOTAL_MASS,総質量
+locale-ja,STATISTICS.UN_ADJ_TTL_M,未調整TTL
+locale-ja,STATISTICS.SENSOR_WDTH,ｾﾝｻｰ幅
+locale-ja,PROFILE.FEEDBACK,ﾌｨｰﾄﾞﾊﾞｯｸ送信
+locale-ja,PROFILE.HELP,ﾍﾙﾌﾟ&ｻﾎﾟｰﾄ
+locale-en,DATE_FORMAT.NORMAL,MM/DD/YYYY
+locale-en,DATE_FORMAT.PILL,DD MMM
+locale-en,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-en,GLOBAL.SEND,Send
+locale-en,GLOBAL.SEND_DATA,Send Data
+locale-en,GLOBAL.FIELD_NAME,Field's name
+locale-en,GLOBAL.CHANGE_STYLE,Change Style
+locale-en,GLOBAL.OPACITY,Opacity
+locale-en,GLOBAL.VIEW_MODE,View Mode
+locale-en,GLOBAL.VECTOR,Vector
+locale-en,GLOBAL.RASTER,Raster
+locale-en,GLOBAL.REQUIRED_VALUE,Required value
+locale-en,GLOBAL.BOUNDARY_AREA,Boundary's Area
+locale-en,GLOBAL.TILLABLE_AREA,Tillable Area
+locale-en,GLOBAL.SHOW_LAYERS_LIST,Show layers list
+locale-en,GLOBAL.HIDE_LAYERS_LIST,Hide layers list
+locale-en,GLOBAL.SET_VALUE,Set value
+locale-en,GLOBAL.DEVICES,Devices
+locale-en,GLOBAL.SEARCH,Search
+locale-en,GLOBAL.FIELDS,fields
+locale-en,GLOBAL.FIELD,field
+locale-en,GLOBAL.FARM,farm
+locale-en,GLOBAL.FARMS,farms
+locale-en,GLOBAL.ZONE,Zone
+locale-en,GLOBAL.ZONES,Zones
+locale-en,GLOBAL.PRODUCT,Product
+locale-en,GLOBAL.PRODUCTS,Products
+locale-en,GLOBAL.GROWER,grower
+locale-en,GLOBAL.GROWERS,growers
+locale-en,GLOBAL.GUIDANCE,Guidance
+locale-en,GLOBAL.TASKS,tasks
+locale-en,GLOBAL.CROP,crop
+locale-en,GLOBAL.CROPS,crops
+locale-en,GLOBAL.VEHICLES,vehicles
+locale-en,GLOBAL.VEHICLE,vehicle
+locale-en,GLOBAL.UNIT,unit
+locale-en,GLOBAL.PRODUCT_TYPE,Product Type
+locale-en,GLOBAL.SHOWME,SHOW ME
+locale-en,GLOBAL.CANCEL,cancel
+locale-en,GLOBAL.EDIT,Edit
+locale-en,GLOBAL.DELETE,Delete
+locale-en,GLOBAL.DELETE_CONFIRMATION,Are you sure you want to delete
+locale-en,GLOBAL.SEND_TO,Send to
+locale-en,GLOBAL.MORE,More
+locale-en,GLOBAL.CLEAR_LIST,Clear List
+locale-en,GLOBAL.CREATED,Created at
+locale-en,GLOBAL.ALL,All
+locale-en,GLOBAL.YEAR,Year
+locale-en,GLOBAL.TYPE,Type
+locale-en,GLOBAL.ALARM,Alarm
+locale-en,GLOBAL.ALARMS,Alarms
+locale-en,GLOBAL.OPERATION,Operation
+locale-en,GLOBAL.NAME,name
+locale-en,GLOBAL.EG,E.g. Yew Valley farm
+locale-en,GLOBAL.COMPANY,company
+locale-en,GLOBAL.SUBCOMPANY,Subcompany
+locale-en,GLOBAL.FLEET,Fleet
+locale-en,GLOBAL.CONFIRM,Confirm
+locale-en,GLOBAL.CREATE,Create
+locale-en,GLOBAL.CLOSE,close
+locale-en,GLOBAL.SAVE,Save
+locale-en,GLOBAL.CREATED_S,Created
+locale-en,GLOBAL.VIEW_ON_MAP,View on map
+locale-en,GLOBAL.SETTINGS,Settings
+locale-en,GLOBAL.HELP,Get help
+locale-en,GLOBAL.LOGOUT,Logout
+locale-en,GLOBAL.TASK_ID,task {{id}}
+locale-en,GLOBAL.FARM_ID,farm {{id}}
+locale-en,GLOBAL.FIELD_ID,field {{id}}
+locale-en,GLOBAL.HOUR,hour
+locale-en,GLOBAL.HOURS,hours
+locale-en,GLOBAL.MINUTE,minute
+locale-en,GLOBAL.MINUTES,minutes
+locale-en,GLOBAL.VIEW_LAYERS,View layers
+locale-en,GLOBAL.AT,at
+locale-en,GLOBAL.ON,on
+locale-en,GLOBAL.OF,of
+locale-en,GLOBAL.COMPLETED,completed
+locale-en,UPLOAD.DND,Drag and drop files here!
+locale-en,UPLOAD.OR,or
+locale-en,UPLOAD.BROWSE,browse files
+locale-en,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
+locale-en,UPLOAD.UPLOADING,Uploading
+locale-en,UPLOAD.UPLOADING_DOT,Uploading...
+locale-en,UPLOAD.ERROR,Error
+locale-en,UPLOAD.ERROR_PLURAL,Errors
+locale-en,UPLOAD.ERROR_UPLOADING,Error uploading
+locale-en,UPLOAD.ERROR_IMPORTING,Error importing
+locale-en,UPLOAD.AN_ERROR_OCCURRED,An error occurred
+locale-en,UPLOAD.RETRY,Retry upload
+locale-en,UPLOAD.PROCESSING,Processing
+locale-en,UPLOAD.STATUS.PROCESSING.ONE,Processing {{count}} file
+locale-en,UPLOAD.STATUS.PROCESSING.MANY,Processing {{count}} files
+locale-en,UPLOAD.STATUS.UPLOADING.ONE,Uploading {{count}} file
+locale-en,UPLOAD.STATUS.UPLOADING.MANY,Uploading {{count}} files
+locale-en,UPLOAD.STATUS.COMPLETED.ONE,Uploaded {{count}} file
+locale-en,UPLOAD.STATUS.COMPLETED.MANY,Uploaded {{count}} files
+locale-en,UPLOAD.PROCESSING_TASK,Processing...
+locale-en,UPLOAD.GLOBAL_COMPLETED,Uploaded {{files}} file
+locale-en,UPLOAD.GLOBAL_COMPLETED_PLURAL,Uploaded {{files}} files
+locale-en,UPLOAD.COMPLETED,The file has been uploaded
+locale-en,UPLOAD.HAS_BEEN,has been imported in field 
+locale-en,UPLOAD.HAS_BEEN_FROM,{{taskName}} from {{fileName}} has been imported in field {{fieldName}}
+locale-en,UPLOAD.HAS_BEEN_ORPHAN,has been imported as orphan task
+locale-en,UPLOAD.UNKNOWN,Unknown file.
+locale-en,UPLOAD.START_NOTIFICATION,The uploaded task {{fileName}} is processing
+locale-en,UPLOAD.FINISH_NOTIFICATION,{{fileName}} has been imported
+locale-en,UPLOAD.GFF_UPDATE_NOTIFICATION,|Grower, Farm and Field data is being updated|
+locale-en,UPLOAD.UNEXPECTED_ERROR,An unexpected error occurred while processing your file
+locale-en,UPLOAD.WARNING_TO_CHECK,There is a warning message to check
+locale-en,UPLOAD.SEE_DETAILS,See details
+locale-en,UPLOAD.FILE,file
+locale-en,UPLOAD.FILE_PLURAL,files
+locale-en,UPLOAD.SUPPORTED_FORMATS,Supported formats:
+locale-en,UPLOAD.HAVING_PROBLEMS,Get help with my upload
+locale-en,UPLOAD.TOOLTIP_MESSAGE,|If you are uploading an ISOXML files, the entire contents of the TASKDATA folder should first be zipped. Be sure to include all XML, BIN and any other files which are in the TASKDATA folder. Then upload the ZIP file, rather than the individual files.|
+locale-en,UPLOAD.DISMISS,Dismiss
+locale-en,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> has been created in field <strong>{{fieldName}}</strong>
+locale-en,UPLOAD.FILE_IMPORTED,{{fileName}} has been imported
+locale-en,ERRORS.ERROR_FOUND.ZERO,
+locale-en,ERRORS.ERROR_FOUND.ONE,{{errorCount}} error found
+locale-en,ERRORS.ERROR_FOUND.MANY,{{errorCount}} error found
+locale-en,ERRORS.ERROR_VIEW.ZERO,
+locale-en,ERRORS.ERROR_VIEW.ONE,There is {{errorCount}} error. View it by pressing the following button
+locale-en,ERRORS.ERROR_VIEW.MANY,There are {{errorCount}} errors. View them pressing the following button
+locale-en,ERRORS.HTTP.PARSE,Unable to parse response from server
+locale-en,ERRORS.HTTP.FETCH,Unable to fetch {{object}} data
+locale-en,ERRORS.GROWERS.NEW,Unable to create a new grower
+locale-en,ERRORS.GROWERS.EDIT,Unable to edit grower with id {{id}}
+locale-en,ERRORS.GROWERS.DELETE,Unable to delete grower with id {{id}}
+locale-en,ERRORS.FARMS.NEW,Unable to create a new farm
+locale-en,ERRORS.FARMS.EDIT,Unable to edit farm with id {{id}}
+locale-en,ERRORS.FARMS.DELETE,Unable to delete farm with id {{id}}
+locale-en,ERRORS.CROPS.NEW,Unable to create a new crop
+locale-en,ERRORS.CROPS.EDIT,Unable to edit crop with id {{id}}
+locale-en,ERRORS.CROPS.DELETE,Unable to delete crop with id {{id}}
+locale-en,ERRORS.PRODUCTS.NEW,Unable to create a new product
+locale-en,ERRORS.PRODUCTS.EDIT,Unable to edit product with id {{id}}
+locale-en,ERRORS.PRODUCTS.DELETE,Unable to delete product with id {{id}}
+locale-en,ERRORS.TASKS.NEW,Unable to create a new task
+locale-en,ERRORS.TASKS.EDIT,Unable to edit task with id {{id}}
+locale-en,ERRORS.TASKS.DELETE,Unable to delete task with id {{id}}
+locale-en,ERRORS.PRESCRIPTIONS.NEW,Unable to create a new prescription
+locale-en,ERRORS.PRESCRIPTIONS.EDIT,Unable to edit prescription with id {{id}}
+locale-en,ERRORS.PRESCRIPTIONS.DELETE,Unable to delete prescription with id {{id}}
+locale-en,ERRORS.FIELDS.EDIT,Unable to edit field with id {{id}}
+locale-en,ERRORS.FIELDS.DELETE,Unable to delete field with id {{id}}
+locale-en,ERRORS.MZONE.CREATE,Unable to create management zone
+locale-en,ERRORS.MZONE.EDIT,Unable to edit management zone with id {{id}}
+locale-en,ERRORS.MZONE.DELETE,Unable to delete management zone with id {{id}}
+locale-en,ERRORS.VARIABLE.EDIT,Unable to edit variable with id {{id}}
+locale-en,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Invalid Data Headers
+locale-en,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Unable to parse input parameters from imported file.
+locale-en,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,File Source Not Found
+locale-en,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Invalid or inaccessible file path.
+locale-en,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Data Import Error
+locale-en,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,An unhandled exception error has occurred during file import.
+locale-en,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Activity Type Failure
+locale-en,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Unable to read operational data type from the imported file during upload.
+locale-en,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.TITLE,Shapefile .PRJ Projection Error
+locale-en,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Shapefile uploaded contains an unsupported projection file. Remove the .prj file from the .zip file contents.
+locale-en,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Could Not Read Import File
+locale-en,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,The file imported contains corrupt or unreadable files.
+locale-en,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT Transform Error
+locale-en,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,During file transformation to the ADAPT model an error occurred.
+locale-en,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Unable to Read Shapefile
+locale-en,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,No data was found in the shapefile uploaded.
+locale-en,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Unable to Read Shapefile
+locale-en,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,No numeric data was found in the shapefile uploaded.
+locale-en,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Unable to Read Shapefile
+locale-en,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,Shapefile uploaded is invalid. Include the .dbf .shp and .shx files within the uploaded .zip file.
+locale-en,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Error Writing to Storage
+locale-en,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,An error occurred while attempting to write imported data to the storage database.
+locale-en,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Data Compare Failed
+locale-en,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,An error occurred while attempting to load the existing data structure during import.
+locale-en,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Data Merge Failure
+locale-en,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,An error occurred while attempting to reconcile the imported data structure with existing data.
+locale-en,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Geo Match Failure
+locale-en,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Error matching field with existing field boundaries. The creation of the task has been skipped.
+locale-en,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Field Creation Failed
+locale-en,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Error while creating a new field. The creation of the task has been skipped.
+locale-en,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.TITLE,Field Creation Failed
+locale-en,ERRORS.IMPORTER.CREATEFIELDEXCEPTION.DESCRIPTION,Error while creating a new field. The creation of the field has been skipped.
+locale-en,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Post Processing Storage Error
+locale-en,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,An error occurred while attempting to write imported data to the postgres storage database.
+locale-en,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,No Coverage Data Found
+locale-en,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,The file imported doesn't contain any coverage data.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,No Task Found
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,The file imported doesn't contain any task information.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Non-Numeric Column Removed
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,The file uploaded contained a non-numeric column within the data. This column has been removed and the data has been imported.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Date/Time Conflict Detected
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,The file uploaded contained multiple Date/Time columns. The first Date/Time column detected has been used.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Unable to Calculate Totals
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,The data has been processed but does not contain any totals nor could any be calculated.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Data Previously Imported
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Data has been skipped. It is a duplicate of a previously imported task.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Unmappable Task
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,The task file uploaded contains unmappable task references. These have been removed.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Missing Section/Width Data
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_151.TITLE,Missing Section/Width Data
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_152.TITLE,Missing Section/Width Data
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_152.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_153.TITLE,Missing Section/Width Data
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_153.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Data Model Warning
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,During file processing issues were detected in the device data model parents.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Missing Section/Width Data
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,During file processing section/width information was missing. Section and width information inferred from another source.
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Data Cleansing Error
+locale-en,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,A value filter threshold was triggered and the data reverted to previous values.
+locale-en,ERRORS.IMPORTER.UNKNOWN.TITLE,Unknown error
+locale-en,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Unknown error ({{code}}).
+locale-en,ERRORS.IMPORTER.SUB_DESCRIPTION,It looks like you have some problems uploading your file
+locale-en,ERRORS.IMPORTER.BUTTON.ERROR,get help with my upload
+locale-en,ERRORS.IMPORTER.BUTTON.WARNING,get help with my upload
+locale-en,ERRORS.IMPORTER.WARNING_MESSAGE,Warning message
+locale-en,EMPTY_STATE.DEFAULT.TITLE,No data
+locale-en,EMPTY_STATE.TASKS.IMPORTED_TITLE,No tasks imported yet
+locale-en,EMPTY_STATE.TASKS.IMPORTED_TEXT,You can import a new task from the button below
+locale-en,EMPTY_STATE.TASKS.IMPORTED_CTA,import task
+locale-en,EMPTY_STATE.TASKS.FOUND_TITLE,No tasks found
+locale-en,EMPTY_STATE.TASKS.FOUND_TEXT,Try to modify filters
+locale-en,EMPTY_STATE.TASKS.NOT_SELECTED,NO TASKS IMPORTED YET
+locale-en,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,You can import a new task from the button on the top right
+locale-en,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,No prescription created yet
+locale-en,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,You can create a new prescription from the button below
+locale-en,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,new prescription
+locale-en,EMPTY_STATE.MGMZ.IMPORTED_TITLE,No management zone created yet
+locale-en,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,No guidance line created yet
+locale-en,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,No analysis created yet
+locale-en,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,You can create a new analysis from the button below
+locale-en,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,go to spotlight
+locale-en,EMPTY_STATE.FIELDS.CREATED_TITLE,No field created yet
+locale-en,EMPTY_STATE.FIELDS.CREATED_TXT,You can create a new field from the button below
+locale-en,EMPTY_STATE.FIELDS.FOUND_TITLE,No field found
+locale-en,EMPTY_STATE.FIELDS.FOUND_TXT,Try to change search and filters
+locale-en,EMPTY_STATE.FIELDS.NOT_SELECTED,NO FIELD SELECTED YET
+locale-en,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,You can select a field from the sidebar in the left to see all the associated tasks
+locale-en,EMPTY_STATE.VEHICLES.CREATED_TITLE,No vehicles created yet
+locale-en,EMPTY_STATE.VEHICLES.FOUND_TITLE,No vehicles found yet
+locale-en,EMPTY_STATE.VEHICLES.FOUND_TXT,Try to modify search and filters
+locale-en,FIELD_CARD.ACTIONS.EDIT,Edit field
+locale-en,FIELD_CARD.ACTIONS.DELETE,Delete
+locale-en,FIELD_CARD.INFO,Field's information
+locale-en,FIELD_CARD.GROWER,Grower
+locale-en,FIELD_CARD.FARM,Farm
+locale-en,FIELD_CARD.AREA,Total field area
+locale-en,FIELD_CARD.CROPS,Crops
+locale-en,FIELD_CARD.TILLABLE,Tillable area
+locale-en,FIELD_CARD.WEATHER,Weather
+locale-en,FIELD_CARD.LAST_TASKS,Last 3 tasks
+locale-en,FIELD_CARD.IMPORT_TASKS,Import task
+locale-en,FIELD_CARD.SUMMARY_TASKS,Tasks' summary
+locale-en,PRESCRIPTION.PRESCRIPTION,Prescription
+locale-en,PRESCRIPTION.SENT_TO_VEHICLE,The prescription has been sent to the vehicle
+locale-en,PRESCRIPTION.NOT_SENT_TO_VEHICLE,The prescription has not been sent to the vehicle
+locale-en,PRESCRIPTION.PRESCRIPTION_EMPTY,NO PRESCRIPTION CREATED YET
+locale-en,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,You can create a new prescription from the button on the top right
+locale-en,PRESCRIPTION.SELECT_DEVICE,Select a device
+locale-en,PRESCRIPTION.SELECT_DEVICE_EMPTY,No device selected
+locale-en,PRESCRIPTION.SELECT_DEVICE_DESC,Select one device from the list below.
+locale-en,PRESCRIPTION.APPLIED_DATE,Planned date
+locale-en,PRESCRIPTION.CREATION_DATE,Date of creation
+locale-en,PRESCRIPTION.TOTAL_AREA,Total Area
+locale-en,PRESCRIPTION.PRODUCT_QUANTITY,Estimated total
+locale-en,PRESCRIPTION.STATUS_PROCESSING,Creating Prescription File...
+locale-en,PRESCRIPTION.STATUS_PROCESSED,Prescription created
+locale-en,PRESCRIPTION.PLANNED_DATE,Planned Date
+locale-en,PRESCRIPTION.HIDE_ZONES,HIDE ZONES
+locale-en,PRESCRIPTION.SHOW_ZONES,SHOW ZONES
+locale-en,PRESCRIPTION.GROWERS_SELECT,All growers
+locale-en,PRESCRIPTION.FARMS_SELECT,All farms
+locale-en,PRESCRIPTION.GROWER_REQUIRED,Grower is required
+locale-en,PRESCRIPTION.FARM_REQUIRED,Farm name is required
+locale-en,PRESCRIPTION.FIELD_SELECT,All fields
+locale-en,PRESCRIPTION.FIELD_REQUIRED,Field is required.
+locale-en,PRESCRIPTION.NEW_PRESCRIPTIONS,New Prescription
+locale-en,PRESCRIPTION.PRESCRIPTION_CREATE,Create prescription
+locale-en,PRESCRIPTION.MGMT,MGMT zone
+locale-en,PRESCRIPTION.MANAGEMENT_ZONE,Management Zone
+locale-en,PRESCRIPTION.MANAGEMENT_NAME,Management zone name
+locale-en,PRESCRIPTION.MANAGEMENT_SELECT,Select management zone.
+locale-en,PRESCRIPTION.MANAGEMENT_SEARCH,Search management zone.
+locale-en,PRESCRIPTION.MANAGEMENT_REQUIRED,Management zone is required.
+locale-en,PRESCRIPTION.MANAGEMENT_CTA,SAVE MANAGEMENT ZONE
+locale-en,PRESCRIPTION.PRODUCT_SEARCH,Search product
+locale-en,PRESCRIPTION.PRODUCT_SELECT,Select product
+locale-en,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Product is required
+locale-en,PRESCRIPTION.PRODUCT_VALUE,Product's value
+locale-en,PRESCRIPTION.PRODUCT_VALUE_SELECT,Select product's value
+locale-en,PRESCRIPTION.PRODUCT_VALUE_INPUT,Insert product's value
+locale-en,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Product value is required
+locale-en,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Product value can't be negative
+locale-en,PRESCRIPTION.PRODUCT_NAME,Product name
+locale-en,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Product name is required
+locale-en,PRESCRIPTION.PRODUCT_NAME_INSERT,Insert product's name
+locale-en,PRESCRIPTION.UNIT_SELECT,Select unit
+locale-en,PRESCRIPTION.UNIT_SELECT_REQUIRED,Unit is required
+locale-en,PRESCRIPTION.MAP_NAME,Prescription map name
+locale-en,PRESCRIPTION.MAP_NAME_REQUIRED,Prescription map name is required
+locale-en,PRESCRIPTION.MAP_EDIT,Edit prescription map
+locale-en,PRESCRIPTION.MAP_EDIT_N,Edit prescription map name
+locale-en,PRESCRIPTION.MAP_SET_N,Set prescription map name
+locale-en,PRESCRIPTION.ZONE_NUMBER,Zones
+locale-en,PRESCRIPTION.SEND_TO,Send prescription
+locale-en,PRESCRIPTION.UNAVAILABLE,The prescription file is being generated and you will be notified once the operation is completed. Please retry later.
+locale-en,PRESCRIPTION.PROCESSED,The prescription file for {{prescriptionName}} is ready. You can now download it or send it to the machines.
+locale-en,PRESCRIPTION.PRESCRIPTION_MAP,Prescription Map
+locale-en,PRESCRIPTION.ANALYSIS,Analysis
+locale-en,PRESCRIPTION.UNKNOWN,Unknown
+locale-en,PRESCRIPTION.CREATED,The Prescription Map {{name}} has been created
+locale-en,SIDEBAR.USER_MANAGEMENT,users management
+locale-en,SIDEBAR.REPORT_ISSUE,report issue
+locale-en,SIDEBAR.SUBSCRIPTION_MANAGEMENT,subscription management
+locale-en,SIDEBAR.STORE,store
+locale-en,OVERVIEW_SIDEBAR.FIELDS_TAB,Fields
+locale-en,OVERVIEW_SIDEBAR.VEHICLES_TAB,Vehicles
+locale-en,PRIMARY_NAV.UPLOAD,upload
+locale-en,PRIMARY_NAV.LOGOUT,logout
+locale-en,SECONDARY_NAV.OVERVIEW,overview
+locale-en,SECONDARY_NAV.TASKS,tasks
+locale-en,SECONDARY_NAV.PRESCRIPTIONS,prescriptions
+locale-en,SECONDARY_NAV.MANAGE,manage
+locale-en,MANAGE_NAV.GROWERS,growers
+locale-en,MANAGE_NAV.FARMS,farms
+locale-en,MANAGE_NAV.FIELDS,fields
+locale-en,MANAGE_NAV.CROPS,crops
+locale-en,MANAGE_NAV.PRODUCTS,products
+locale-en,GFF.FIELD,field
+locale-en,GFF.FIELDS,fields
+locale-en,GFF.FARM,farm
+locale-en,GFF.FARMS,farms
+locale-en,GFF.GROWER,grower
+locale-en,GFF.GROWERS,growers
+locale-en,GFF.SEARCH_FIELD,Search field's name
+locale-en,GFF.GROWERS_SELECT,All growers
+locale-en,GFF.FARMS_SELECT,All farms
+locale-en,VEHICLES.VEHICLES,vehicles
+locale-en,VEHICLES.VEHICLE,vehicle
+locale-en,VEHICLES.SN,S/N
+locale-en,VEHICLES.BRAND,Brand
+locale-en,VEHICLES.TYPE,Type
+locale-en,VEHICLES.MODEL,Model
+locale-en,VEHICLES.STATUS,Status
+locale-en,VEHICLES.SPEED,Speed
+locale-en,VEHICLES.DISTANCE,Distance
+locale-en,VEHICLES.ENGINE_H,Engine Hours
+locale-en,VEHICLES.ENGINE_S,Engine Speed
+locale-en,VEHICLES.FUEL,Fuel Level
+locale-en,VEHICLES.FUELRATE,Fuel Rate
+locale-en,VEHICLES.GOTO_FORCE,Go to force
+locale-en,VEHICLES.MACHINE_INFO,Machine’s information
+locale-en,VEHICLES.SEARCH_VEHICLE,Search vehicle's name
+locale-en,FARM.NEW,new farm
+locale-en,FARM.NEW_CREATE,Create new farm
+locale-en,FARM.EDIT,Edit farm
+locale-en,FARM.FARMS,Farms
+locale-en,FIELD.NEW,New field
+locale-en,FIELD.UPDATE,Update field
+locale-en,FIELD.CREATE,Create field
+locale-en,FIELD.FIELDS,Fields
+locale-en,FIELD.SELECT_GROWER,Select grower
+locale-en,FIELD.REQUIRED_GROWER,Grower is required
+locale-en,FIELD.SEARCH_GROWER,Search grower
+locale-en,FIELD.NO_GROWER,No grower selected
+locale-en,FIELD.SELECT_FARM,Select farm
+locale-en,FIELD.REQUIRED_FARM,Farm is required
+locale-en,FIELD.SEARCH_FARM,Search farm
+locale-en,FIELD.SEARCH_FIELD,Search field
+locale-en,FIELD.NAME_FIELD,Field's name
+locale-en,FIELD.NAME_FIELD_REQUIRED,Field name is required
+locale-en,FIELD.FIELD_SELECT,Select field
+locale-en,FIELD.FIELD_REQUIRED,Field is required.
+locale-en,FIELD.BOUNDARY,Boundary's area
+locale-en,FIELD.TILLABLE,Tillable area
+locale-en,FIELD.INSERT_TILLABLE,Insert the tillable area
+locale-en,FIELD.TILLABLE_REQUIRED,Tillable area is required
+locale-en,FIELD.ZONE_VALUE,Insert zone's value
+locale-en,NEW_FIELD.TITLE,New field
+locale-en,NEW_FIELD.SELECT_GROWER,Select grower
+locale-en,NEW_FIELD.SELECT_FARM,Select farm
+locale-en,NEW_FIELD.GROWER_LABEL,Grower
+locale-en,NEW_FIELD.FARM_LABEL,Farm
+locale-en,NEW_FIELD.FIELD_LABEL,Field's name
+locale-en,NEW_FIELD.FARM_REQUIRED,Farm name is required
+locale-en,NEW_FIELD.FIELD_INPUT,Insert the field's name
+locale-en,NEW_FIELD.FIELD_INPUT_ERROR,Field name is required
+locale-en,NEW_FIELD.BOUNDARY_AREA,Boundary's area
+locale-en,NEW_FIELD.TILLABLE_AREA,Tillable area
+locale-en,NEW_FIELD.TILLABLE_AREA_REQUIRED,Tillable area is required
+locale-en,NEW_FIELD.CREATE_FIELD,create field
+locale-en,NEW_FIELD.SAVE_FIELD,save field
+locale-en,NEW_FIELD.ERROR.NEW,Unable to create new field.
+locale-en,NEW_FIELD.ERROR.EDIT,Unable to edit current field.
+locale-en,NEW_FIELD.ERROR.GENERIC,Unable to create a new field due to internal error
+locale-en,NEW_FIELD.ERROR_NEW,
+locale-en,NEW_FIELD.ERROR_EDIT,
+locale-en,NEW_FIELD.CANCEL,cancel
+locale-en,NEW_FIELD.NO_GROWER,No grower available
+locale-en,NEW_FIELD.NO_FARM,No farm available
+locale-en,NEW_FARM_MODAL.TITLE,New farm
+locale-en,NEW_FARM_MODAL.GROWER_LABEL,Grower
+locale-en,NEW_FARM_MODAL.NO_GROWER_SELECTED,No grower selected
+locale-en,NEW_FARM_MODAL.FARM_LABEL,Farm's name
+locale-en,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Farm name is required
+locale-en,NEW_FARM_MODAL.CREATE,create
+locale-en,NEW_FARM_MODAL.CLOSE,close
+locale-en,GROWER_MODAL.TITLE,New grower
+locale-en,GROWER_MODAL.GROWER_LABEL,Grower's name
+locale-en,GROWER_MODAL.GROWER_INPUT_REQUIRED,Grower name is required
+locale-en,GROWER_MODAL.CREATE,create
+locale-en,GROWER_MODAL.CLOSE,close
+locale-en,GROWER_MODAL.EG,E.g. Isaac Harmon
+locale-en,TASK.SHOW_LAYER,SHOW AVAILABLE LAYERS
+locale-en,TASK.HIDE_LAYER,HIDE AVAILABLE LAYER
+locale-en,TASK.SHOW_PREVIEW,Show Preview
+locale-en,TASK.NO_TYPE,No type selected.
+locale-en,TASK.NO_YEAR,No year selected.
+locale-en,TASK.SELECT_YEAR,Select a year.
+locale-en,TASK.SELECT_OP,Select a operation.
+locale-en,TASK.TASK_NOT_ASSOCIATED,Tasks not associated
+locale-en,TASK.IMPORT_TASKS,Import tasks
+locale-en,TASK.INSERT,Insert task name.
+locale-en,TASK.NAME,Task name.
+locale-en,TASK.EDIT,Edit task.
+locale-en,TASK.EDIT_INFO,Edit info
+locale-en,TASK.REQUIRED,Task name is required.
+locale-en,TASK.ACTUAL_RATE,Actual Rate
+locale-en,TASK.SENSOR_RDNG,Sensor RDNG
+locale-en,TASK.SENSOR_WDTH,Sensor Width
+locale-en,TASK.YIELD_MASS,Yield Mass
+locale-en,TASK.MOISTURE,Moisture
+locale-en,TASK.CELL_MASS,Cell Mass
+locale-en,TASK.CELL_AREA,Cell Area
+locale-en,TASK.YIELD_VOL,Yield Volume
+locale-en,TASK.UNADJ_CELL_M,Unadjasted Cell
+locale-en,TASK.NO_OPERATION,Nessuna operazione disponibile
+locale-en,TASK.TASK_TYPE_UNKNOWN,Task type unknown
+locale-en,TASK.TASK_TYPE,Task type
+locale-en,TASK.SELECT_TASK_TYPE,Select task type
+locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,This task type wasn’t recognized by the system.
+locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,|Please, change this task type to a known one in TAP.|
+locale-en,TASK.CHANGE_TASK_TYPE,change task type
+locale-en,TASK.TASK_DATE,Task date
+locale-en,TASK.TASK_LAYER_ISSUE,Task layer issue
+locale-en,TASK.TASK_LAYER_ISSUE_DESCRIPTION,This task layer has missing information. It's either not related to a known variable and/or the unit of measure is missing
+locale-en,TASK.EDIT_TASK_LAYER,Edit task layer
+locale-en,TASK.EDIT_TASK_LAYER_WARNING,You can’t operate with the layers until you relate the task type to a known one in TAP
+locale-en,TASK.EDIT_LAYER,Edit layer
+locale-en,TASK.LAYER_TYPE,Layer type
+locale-en,TASK.SELECT_A_LAYER_TYPE,Select a layer type
+locale-en,TASK.UNIT_OF_MEASUREMENT,Unit of measurement
+locale-en,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Select a unit of measurement
+locale-en,TASK.SELECT_A_LAYER_FIRST,You have to select a layer type first
+locale-en,TASK.LAYER_UPDATED,The layer {{layerName}} has been updated
+locale-en,TASK.TASK_UPDATED,The task {{taskName}} has been updated
+locale-en,TASK.UNKNOWN,unknown
+locale-en,CROP.INSERT_NAME,Insert crop name
+locale-en,CROP.NAME,Crop's name
+locale-en,CROP.REQUIRED,Crop name is required
+locale-en,CROP.SELECT,Select crop
+locale-en,CROP.CROP,Crop
+locale-en,CROP.SEARCH,Search crop
+locale-en,CROP.NEW,New crop
+locale-en,CROP.EDIT,Edit crop
+locale-en,CROP.CROPS,Crops
+locale-en,CROP.CROP_SPEC,Crop spec
+locale-en,THEMATIZATION.CLASSES,Classes
+locale-en,THEMATIZATION.COLOR_RAMP,Color Ramp
+locale-en,THEMATIZATION.GREY,Greys
+locale-en,THEMATIZATION.RED,Reds
+locale-en,THEMATIZATION.GREEN,Greens
+locale-en,THEMATIZATION.BLUE,Blues
+locale-en,THEMATIZATION.GYR,GrYeRe
+locale-en,THEMATIZATION.SPECTRAL,Spectral
+locale-en,THEMATIZATION.INVERTED,Inverted
+locale-en,THEMATIZATION.THRESHOLD,Threshold
+locale-en,THEMATIZATION.METHOD,Method
+locale-en,THEMATIZATION.METHOD_SELECT,Select a method
+locale-en,THEMATIZATION.METHOD_REQUIRED,Method is required
+locale-en,THEMATIZATION.EDIT,Edit thematization
+locale-en,THEMATIZATION.E_A,Equal Area
+locale-en,THEMATIZATION.E_I,Equal Interval
+locale-en,THEMATIZATION.N_B,Natural Breaks
+locale-en,GROWER.NEW,New grower
+locale-en,GROWER.EDIT,Edit grower
+locale-en,GROWER.GROWERS,Growers
+locale-en,PRODUCT.NEW,New product
+locale-en,PRODUCT.EDIT,Edit product
+locale-en,PRODUCT.EDIT_VALUE,Edit product value
+locale-en,PRODUCT.PRODUCTS,Products
+locale-en,DELETE_MODAL.PRE,Delete Prescription
+locale-en,DELETE_MODAL.QUESTION,Are you sure you want to delete
+locale-en,DELETE_MZ_MODAL.PRE,Exit from management zone create mode
+locale-en,DELETE_MZ_MODAL.QUESTION,Are you sure you want to quit the management zone create mode? You will lose all the unsaved changes.
+locale-en,DELETE_MZ_MODAL.CONFIRM,|YES, EXIT|
+locale-en,EDIT_PRESCRIPTION_MODAL.PRE,Exit from create prescription mode
+locale-en,EDIT_PRESCRIPTION_MODAL.QUESTION,|Are you sure you want to quit the prescription create mode? If you continue, you will lose all entered data.|
+locale-en,DELETE_TASK_MODAL.PRE,Delete Task
+locale-en,DELETE_TASK_MODAL.QUESTION,Are you sure you want to delete
+locale-en,ZONE.EDIT,Edit zone's name
+locale-en,ZONE.SET,Set management zone name
+locale-en,PDF.TITLE,pdf
+locale-en,MAP.EDIT_TOOLTIP_TEXT,Drag handle to modify the field
+locale-en,MAP.REMOVE_TOOLTIP_TEXT,Click on a field to remove it
+locale-en,MAP.POLYGON_TOOLTIP_START,Click on the map to start drawing the field.<br/>Draw inside the polygon to create a hole in the field
+locale-en,MAP.BUFFER_TOOLTIP.TEXT,Click and drag to expand or shrink the field
+locale-en,MAP.BUFFER_TOOLTIP.MEASURE,Radius
+locale-en,MAP.POLYGON_TOOLTIP.START,Click to start drawing
+locale-en,MAP.POLYGON_TOOLTIP.CONT,Click on the map to continue<br/>drawing the field
+locale-en,MAP.POLYGON_TOOLTIP.END,Click the first point to finish<br/>the creation of the field
+locale-en,MAP.POLYLINE.ERROR,<strong>Error:</strong> shape edges cannot cross!
+locale-en,MAP.POLYLINE.TOOLTIP.START,Click to start drawing line.
+locale-en,MAP.POLYLINE.TOOLTIP.CONT,Click to continue drawing line.
+locale-en,MAP.POLYLINE.TOOLTIP.END,Click last point to finish line.
+locale-en,MAP.PLUGINS.ZOOM.OUT,Zoom Out
+locale-en,MAP.PLUGINS.ZOOM.IN,Zoom In
+locale-en,MAP.PLUGINS.SEARCH.PLACEHOLDER,Search location
+locale-en,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Location not found
+locale-en,MAP.PLUGINS.UPLOAD.TEXT,import shape file
+locale-en,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Drop a shape file ...
+locale-en,MAP.PLUGINS.WEATHER.TEMPERATURE,temperature
+locale-en,MAP.PLUGINS.WEATHER.DEW_POINT,dew point
+locale-en,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,relative humidity
+locale-en,MAP.PLUGINS.WEATHER.WIND_SPEED,wind speed
+locale-en,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,feels like temp
+locale-en,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,No data to show
+locale-en,MAP.PLUGINS.LEGEND.MIN_LABEL,Min: {{data}}
+locale-en,MAP.PLUGINS.LEGEND.MAX_LABEL,Max: {{data}}
+locale-en,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellite
+locale-en,MAP.PLUGINS.LAYER_SWITCH.STREET,street
+locale-en,OPERATIONS.YIELD,Yield
+locale-en,OPERATIONS.AS_APPLIED,As applied
+locale-en,OPERATIONS.SOIL_SAMPLE,Soil sample
+locale-en,OPERATIONS.OTHER,Other
+locale-en,STATISTICS.SPREAD_TIME,Spread Time
+locale-en,STATISTICS.PRODUCT_TOTAL,Estimated total
+locale-en,STATISTICS.PRODUCT_SPREAD_TIME,Prod. Spread Time
+locale-en,STATISTICS.PRODUCT_AREA,Product Area
+locale-en,STATISTICS.SENSOR_TYPE,Sensor Type
+locale-en,STATISTICS.TOTAL_AREA,Total Area
+locale-en,STATISTICS.TOTAL_MASS,Total Mass
+locale-en,STATISTICS.UN_ADJ_TTL_M,Unadjusted TTL
+locale-en,STATISTICS.SENSOR_WDTH,Sensor Width
+locale-en,PROFILE.FEEDBACK,Send a feedback
+locale-en,PROFILE.HELP,Help & support
+locale-en,VARIABLE.ACTUAL_RATE,Actual Rate
+locale-en,VARIABLE.SENSOR_RDNG,Sensor RDNG
+locale-en,VARIABLE.SENSOR_WDTH,Sensor Width
+locale-en,VARIABLE.YIELD_MASS,Yield Mass
+locale-en,VARIABLE.MOISTURE,Moisture
+locale-en,VARIABLE.CELL_MASS,Cell Mass
+locale-en,VARIABLE.CELL_AREA,Cell Area
+locale-en,VARIABLE.YIELD_VOL,Yield Volume
+locale-en,VARIABLE.UNADJ_CELL_M,Unadjasted Cell
+locale-it,DATE_FORMAT.NORMAL,MM/GG/AAAA
+locale-it,DATE_FORMAT.PILL,GG MMM
+locale-it,DATE_FORMAT.WEATHER,|MMMM G, gggg|
+locale-it,GLOBAL.SEND,Invia
+locale-it,GLOBAL.SEND_DATA,Invia dati
+locale-it,GLOBAL.FIELD_NAME,Nome campo
+locale-it,GLOBAL.CHANGE_STYLE,Modifica stile
+locale-it,GLOBAL.OPACITY,Opacità
+locale-it,GLOBAL.VIEW_MODE,Modalità visualizzazione
+locale-it,GLOBAL.VECTOR,Vettore
+locale-it,GLOBAL.RASTER,Raster
+locale-it,GLOBAL.REQUIRED_VALUE,Valore richiesto
+locale-it,GLOBAL.BOUNDARY_AREA,Area confine
+locale-it,GLOBAL.TILLABLE_AREA,Area coltivabile
+locale-it,GLOBAL.SHOW_LAYERS_LIST,Mostra elenco livelli
+locale-it,GLOBAL.HIDE_LAYERS_LIST,Nascondi elenco livelli
+locale-it,GLOBAL.SET_VALUE,Imposta valore
+locale-it,GLOBAL.DEVICES,Dispositivi
+locale-it,GLOBAL.SEARCH,Ricerca
+locale-it,GLOBAL.FIELDS,campi
+locale-it,GLOBAL.FIELD,campo
+locale-it,GLOBAL.FARM,azienda agricola
+locale-it,GLOBAL.FARMS,aziende agricole
+locale-it,GLOBAL.ZONE,Zona
+locale-it,GLOBAL.ZONES,Zone
+locale-it,GLOBAL.PRODUCT,Prodotto
+locale-it,GLOBAL.PRODUCTS,Prodotti
+locale-it,GLOBAL.GROWER,coltivatore
+locale-it,GLOBAL.GROWERS,coltivatori
+locale-it,GLOBAL.GUIDANCE,Guida
+locale-it,GLOBAL.TASKS,attività
+locale-it,GLOBAL.CROP,prodotto
+locale-it,GLOBAL.CROPS,prodotti
+locale-it,GLOBAL.VEHICLES,veicoli
+locale-it,GLOBAL.VEHICLE,veicolo
+locale-it,GLOBAL.UNIT,unità
+locale-it,GLOBAL.PRODUCT_TYPE,Tipo prodotto
+locale-it,GLOBAL.SHOWME,MOSTRAMI
+locale-it,GLOBAL.CANCEL,annulla
+locale-it,GLOBAL.EDIT,Modifica
+locale-it,GLOBAL.DELETE,Elimina
+locale-it,GLOBAL.DELETE_CONFIRMATION,Eliminare?
+locale-it,GLOBAL.SEND_TO,Invia a
+locale-it,GLOBAL.MORE,Altro
+locale-it,GLOBAL.CLEAR_LIST,Cancella elenco
+locale-it,GLOBAL.CREATED,Data di creazione
+locale-it,GLOBAL.ALL,Tutti
+locale-it,GLOBAL.YEAR,Anno
+locale-it,GLOBAL.TYPE,Tipo
+locale-it,GLOBAL.ALARM,Allarme
+locale-it,GLOBAL.ALARMS,Allarmi
+locale-it,GLOBAL.OPERATION,Operazione
+locale-it,GLOBAL.NAME,nome
+locale-it,GLOBAL.EG,Es.: Fattoria Valle Giulia
+locale-it,GLOBAL.COMPANY,azienda
+locale-it,GLOBAL.SUBCOMPANY,Affiliata
+locale-it,GLOBAL.FLEET,Flotta
+locale-it,GLOBAL.CONFIRM,Conferma
+locale-it,GLOBAL.CREATE,Crea
+locale-it,GLOBAL.CLOSE,chiudi
+locale-it,GLOBAL.SAVE,Salva
+locale-it,GLOBAL.CREATED_S,Creato
+locale-it,GLOBAL.VIEW_ON_MAP,Visualizza su mappa
+locale-it,GLOBAL.SETTINGS,Impostazioni
+locale-it,GLOBAL.LOGOUT,Disconnetti
+locale-it,GLOBAL.TASK_ID,{{id}} attività
+locale-it,GLOBAL.FARM_ID,{{id}} azienda agricola
+locale-it,GLOBAL.FIELD_ID,{{id}} campo
+locale-it,GLOBAL.HOUR,ora
+locale-it,GLOBAL.HOURS,ore
+locale-it,GLOBAL.MINUTE,minuto
+locale-it,GLOBAL.MINUTES,minuti
+locale-it,GLOBAL.VIEW_LAYERS,Visualizza livelli
+locale-it,UPLOAD.DND,Trascina i file qui!
+locale-it,UPLOAD.OR,o
+locale-it,UPLOAD.BROWSE,sfoglia file
+locale-it,UPLOAD.UPLOADING,Caricamento in corso
+locale-it,UPLOAD.UPLOADING_DOT,Caricamento in corso...
+locale-it,UPLOAD.ERROR,Errore
+locale-it,UPLOAD.ERROR_UPLOADING,Errore di caricamento
+locale-it,UPLOAD.ERROR_IMPORTING,Errore di importazione
+locale-it,UPLOAD.RETRY,Ripeti caricamento
+locale-it,UPLOAD.PROCESSING,Elaborazione in corso
+locale-it,UPLOAD.PROCESSING_TASK,Elaborazione attività in corso...
+locale-it,UPLOAD.COMPLETED,Operazione completata
+locale-it,UPLOAD.HAS_BEEN,è stato importato nel campo 
+locale-it,UPLOAD.HAS_BEEN_FROM,{{taskName}} da {{fileName}} è stato importato nel campo {{fieldName}}
+locale-it,UPLOAD.HAS_BEEN_ORPHAN,è stato importato come attività isolata
+locale-it,UPLOAD.UNKNOWN,File sconosciuto.
+locale-it,UPLOAD.START_NOTIFICATION,Elaborazione in corso dell'attività caricata {{fileName}}
+locale-it,UPLOAD.FINISH_NOTIFICATION,{{fileName}} importato
+locale-it,UPLOAD.GFF_UPDATE_NOTIFICATION,|Dati Coltivatore, Azienda agricola e Campo in aggiornamento|
+locale-it,ERRORS.ERROR_FOUND.ZERO,
+locale-it,ERRORS.ERROR_FOUND.ONE,Errore {{errorCount}}
+locale-it,ERRORS.ERROR_FOUND.MANY,Errore {{errorCount}}
+locale-it,ERRORS.ERROR_VIEW.ZERO,
+locale-it,ERRORS.ERROR_VIEW.ONE,È presente un errore {{errorCount}}. Visualizzarlo premendo il pulsante seguente
+locale-it,ERRORS.ERROR_VIEW.MANY,Sono presenti errori {{errorCount}}. Visualizzarli premendo il pulsante seguente
+locale-it,ERRORS.HTTP.PARSE,Impossibile analizzare la risposta dal server
+locale-it,ERRORS.HTTP.FETCH,Impossibile recuperare i dati {{object}}
+locale-it,ERRORS.GROWERS.NEW,Impossibile creare un nuovo coltivatore
+locale-it,ERRORS.GROWERS.EDIT,Impossibile modificare il coltivatore con id {{id}}
+locale-it,ERRORS.GROWERS.DELETE,Impossibile eliminare il coltivatore con id {{id}}
+locale-it,ERRORS.FARMS.NEW,Impossibile creare una nuova azienda agricola
+locale-it,ERRORS.FARMS.EDIT,Impossibile modificare l'azienda agricola con id {{id}}
+locale-it,ERRORS.FARMS.DELETE,Impossibile eliminare l'azienda agricola con id {{id}}
+locale-it,ERRORS.CROPS.NEW,Impossibile creare un nuovo prodotto
+locale-it,ERRORS.CROPS.EDIT,Impossibile modificare il prodotto con id {{id}}
+locale-it,ERRORS.CROPS.DELETE,Impossibile eliminare il prodotto con id {{id}}
+locale-it,ERRORS.PRODUCTS.NEW,Impossibile creare un nuovo prodotto
+locale-it,ERRORS.PRODUCTS.EDIT,Impossibile modificare il prodotto con id {{id}}
+locale-it,ERRORS.PRODUCTS.DELETE,Impossibile eliminare il prodotto con id {{id}}
+locale-it,ERRORS.TASKS.NEW,Impossibile creare una nuova attività
+locale-it,ERRORS.TASKS.EDIT,Impossibile modificare l'attività con id {{id}}
+locale-it,ERRORS.TASKS.DELETE,Impossibile eliminare l'attività con id {{id}}
+locale-it,ERRORS.PRESCRIPTIONS.NEW,Impossibile creare una nuova prescrizione
+locale-it,ERRORS.PRESCRIPTIONS.EDIT,Impossibile modificare la prescrizione con id {{id}}
+locale-it,ERRORS.PRESCRIPTIONS.DELETE,Impossibile eliminare la prescrizione con id {{id}}
+locale-it,ERRORS.FIELDS.EDIT,Impossibile modificare il campo con id {{id}}
+locale-it,ERRORS.FIELDS.DELETE,Impossibile eliminare il campo con id {{id}}
+locale-it,ERRORS.MZONE.CREATE,Impossibile creare zona di gestione
+locale-it,ERRORS.MZONE.EDIT,Impossibile modificare la zona di gestione con id {{id}}
+locale-it,ERRORS.MZONE.DELETE,Impossibile eliminare la zona di gestione con id {{id}}
+locale-it,EMPTY_STATE.DEFAULT.TITLE,Nessun dato
+locale-it,EMPTY_STATE.TASKS.IMPORTED_TITLE,Nessuna attività ancora importata
+locale-it,EMPTY_STATE.TASKS.IMPORTED_TEXT,Impossibile importare una nuova attività premendo il pulsante seguente
+locale-it,EMPTY_STATE.TASKS.IMPORTED_CTA,importa attività
+locale-it,EMPTY_STATE.TASKS.FOUND_TITLE,Nessuna attività trovata
+locale-it,EMPTY_STATE.TASKS.FOUND_TEXT,Provare a modificare i filtri
+locale-it,EMPTY_STATE.TASKS.NOT_SELECTED,NESSUNA ATTIVITÀ ANCORA IMPORTATA
+locale-it,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Impossibile importare una nuova attività premendo il pulsante in alto a destra
+locale-it,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Nessuna prescrizione ancora creata
+locale-it,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,È possibile creare una nuova prescrizione con il pulsante seguente
+locale-it,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,nuova prescrizione
+locale-it,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Nessuna zona di gestione ancora creata
+locale-it,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Nessuna linea guida ancora creata
+locale-it,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Nessuna analisi ancora creata
+locale-it,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,È possibile creare una nuova analisi con il pulsante seguente
+locale-it,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,vai a Spotlight
+locale-it,EMPTY_STATE.FIELDS.CREATED_TITLE,Nessun campo ancora creato
+locale-it,EMPTY_STATE.FIELDS.CREATED_TXT,È possibile creare un nuovo campo con il pulsante seguente
+locale-it,EMPTY_STATE.FIELDS.FOUND_TITLE,Nessun campo trovato
+locale-it,EMPTY_STATE.FIELDS.FOUND_TXT,Tentare di modificare la ricerca e i filtri
+locale-it,EMPTY_STATE.FIELDS.NOT_SELECTED,NESSUN CAMPO ANCORA SELEZIONATO
+locale-it,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,È possibile selezionare un campo dalla barra laterale a sinistra per visualizzare tutte le attività associate
+locale-it,EMPTY_STATE.VEHICLES.CREATED_TITLE,Nessun veicolo ancora creato
+locale-it,EMPTY_STATE.VEHICLES.FOUND_TITLE,Nessun veicolo ancora trovato
+locale-it,EMPTY_STATE.VEHICLES.FOUND_TXT,Provare a modificare la ricerca e i filtri
+locale-it,FIELD_CARD.ACTIONS.EDIT,Modifica campo
+locale-it,FIELD_CARD.ACTIONS.DELETE,Elimina
+locale-it,FIELD_CARD.INFO,Info sul campo
+locale-it,FIELD_CARD.GROWER,Coltivatore
+locale-it,FIELD_CARD.FARM,Azienda agricola
+locale-it,FIELD_CARD.AREA,Area campo totale
+locale-it,FIELD_CARD.CROPS,Prodotti
+locale-it,FIELD_CARD.TILLABLE,Area coltivabile
+locale-it,FIELD_CARD.WEATHER,Condizioni meteo
+locale-it,FIELD_CARD.LAST_TASKS,Ultime 3 attività
+locale-it,FIELD_CARD.IMPORT_TASKS,Importa attività
+locale-it,FIELD_CARD.SUMMARY_TASKS,Riepilogo attività
+locale-it,PRESCRIPTION.PRESCRIPTION,Prescrizione
+locale-it,PRESCRIPTION.SENT_TO_VEHICLE,La prescrizione è stata inviata al veicolo
+locale-it,PRESCRIPTION.NOT_SENT_TO_VEHICLE,La prescrizione non è stata inviata al veicolo
+locale-it,PRESCRIPTION.PRESCRIPTION_EMPTY,NESSUNA PRESCRIZIONE ANCORA CREATA
+locale-it,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,È possibile creare una nuova prescrizione con il pulsante in alto a destra
+locale-it,PRESCRIPTION.SELECT_DEVICE,Seleziona un dispositivo
+locale-it,PRESCRIPTION.SELECT_DEVICE_EMPTY,Nessun dispositivo selezionato
+locale-it,PRESCRIPTION.SELECT_DEVICE_DESC,Selezionare un dispositivo dall'elenco seguente.
+locale-it,PRESCRIPTION.APPLIED_DATE,Data pianificata
+locale-it,PRESCRIPTION.CREATION_DATE,Data di creazione
+locale-it,PRESCRIPTION.TOTAL_AREA,Area totale
+locale-it,PRESCRIPTION.PRODUCT_QUANTITY,Totale stimato
+locale-it,PRESCRIPTION.STATUS_PROCESSING,Creazione file di prescrizione in corso...
+locale-it,PRESCRIPTION.STATUS_PROCESSED,Prescrizione creata
+locale-it,PRESCRIPTION.PLANNED_DATE,Data pianificata
+locale-it,PRESCRIPTION.HIDE_ZONES,NASCONDI ZONE
+locale-it,PRESCRIPTION.SHOW_ZONES,MOSTRA ZONE
+locale-it,PRESCRIPTION.GROWERS_SELECT,Tutti i coltivatori
+locale-it,PRESCRIPTION.FARMS_SELECT,Tutte le aziende agricole
+locale-it,PRESCRIPTION.GROWER_REQUIRED,Coltivatore obbligatorio
+locale-it,PRESCRIPTION.FARM_REQUIRED,Nome azienda agricola obbligatorio
+locale-it,PRESCRIPTION.FIELD_SELECT,Tutti i campi
+locale-it,PRESCRIPTION.FIELD_REQUIRED,Campo obbligatorio.
+locale-it,PRESCRIPTION.NEW_PRESCRIPTIONS,Nuova prescrizione
+locale-it,PRESCRIPTION.PRESCRIPTION_CREATE,Crea prescrizione
+locale-it,PRESCRIPTION.MGMT,Zona MGMT
+locale-it,PRESCRIPTION.MANAGEMENT_ZONE,Zona di gestione
+locale-it,PRESCRIPTION.MANAGEMENT_NAME,Nome zona di gestione
+locale-it,PRESCRIPTION.MANAGEMENT_SELECT,Seleziona zona di gestione.
+locale-it,PRESCRIPTION.MANAGEMENT_SEARCH,Cerca zona di gestione.
+locale-it,PRESCRIPTION.MANAGEMENT_REQUIRED,Zona di gestione obbligatoria.
+locale-it,PRESCRIPTION.MANAGEMENT_CTA,SALVA ZONA DI GESTIONE
+locale-it,PRESCRIPTION.PRODUCT_SEARCH,Cerca prodotto
+locale-it,PRESCRIPTION.PRODUCT_SELECT,Seleziona prodotto
+locale-it,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Prodotto obbligatorio
+locale-it,PRESCRIPTION.PRODUCT_VALUE,Valore prodotto
+locale-it,PRESCRIPTION.PRODUCT_VALUE_SELECT,Seleziona valore prodotto
+locale-it,PRESCRIPTION.PRODUCT_VALUE_INPUT,Immetti valore prodotto
+locale-it,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Valore prodotto obbligatorio
+locale-it,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Il valore prodotto non può essere negativo
+locale-it,PRESCRIPTION.PRODUCT_NAME,Nome prodotto
+locale-it,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Nome prodotto obbligatorio
+locale-it,PRESCRIPTION.PRODUCT_NAME_INSERT,Immetti nome prodotto
+locale-it,PRESCRIPTION.UNIT_SELECT,Seleziona unità
+locale-it,PRESCRIPTION.UNIT_SELECT_REQUIRED,Unità obbligatoria
+locale-it,PRESCRIPTION.MAP_NAME,Nome mappa di prescrizione
+locale-it,PRESCRIPTION.MAP_NAME_REQUIRED,Nome mappa di prescrizione obbligatorio
+locale-it,PRESCRIPTION.MAP_EDIT,Modifica mappa di prescrizione
+locale-it,PRESCRIPTION.MAP_EDIT_N,Modifica nome mappa di prescrizione
+locale-it,PRESCRIPTION.MAP_SET_N,Imposta nome mappa di prescrizione
+locale-it,PRESCRIPTION.ZONE_NUMBER,Zone
+locale-it,PRESCRIPTION.SEND_TO,Invia prescrizione
+locale-it,PRESCRIPTION.UNAVAILABLE,Il file di prescrizione è in fase di generazione e l'utente riceverà una notifica al completamento dell'operazione. Riprovare in seguito.
+locale-it,PRESCRIPTION.PROCESSED,Il file di prescrizione per {{prescriptionName}} è pronto. Ora è possibile scaricarlo o inviarlo alle macchine.
+locale-it,PRESCRIPTION.PRESCRIPTION_MAP,Mappa di prescrizione
+locale-it,PRESCRIPTION.ANALYSIS,Analisi
+locale-it,PRESCRIPTION.UNKNOWN,Sconosciuto
+locale-it,PRESCRIPTION.CREATED,La mappa di prescrizione {{name}} è stata creata
+locale-it,SIDEBAR.USER_MANAGEMENT,gestione utenti
+locale-it,SIDEBAR.REPORT_ISSUE,segnala un problema
+locale-it,SIDEBAR.SUBSCRIPTION_MANAGEMENT,gestione abbonamenti
+locale-it,SIDEBAR.STORE,memorizza
+locale-it,OVERVIEW_SIDEBAR.FIELDS_TAB,Campi
+locale-it,OVERVIEW_SIDEBAR.VEHICLES_TAB,Veicoli
+locale-it,PRIMARY_NAV.UPLOAD,carica
+locale-it,PRIMARY_NAV.LOGOUT,disconnetti
+locale-it,SECONDARY_NAV.OVERVIEW,panoramica
+locale-it,SECONDARY_NAV.TASKS,attività
+locale-it,SECONDARY_NAV.PRESCRIPTIONS,prescrizioni
+locale-it,SECONDARY_NAV.MANAGE,gestisci
+locale-it,MANAGE_NAV.GROWERS,coltivatori
+locale-it,MANAGE_NAV.FARMS,aziende agricole
+locale-it,MANAGE_NAV.FIELDS,campi
+locale-it,MANAGE_NAV.CROPS,prodotti
+locale-it,MANAGE_NAV.PRODUCTS,prodotti
+locale-it,GFF.FIELD,campo
+locale-it,GFF.FIELDS,campi
+locale-it,GFF.FARM,azienda agricola
+locale-it,GFF.FARMS,aziende agricole
+locale-it,GFF.GROWER,coltivatore
+locale-it,GFF.GROWERS,coltivatori
+locale-it,GFF.SEARCH_FIELD,Cerca nome campo
+locale-it,GFF.GROWERS_SELECT,Tutti i coltivatori
+locale-it,GFF.FARMS_SELECT,Tutte le aziende agricole
+locale-it,VEHICLES.VEHICLES,veicoli
+locale-it,VEHICLES.VEHICLE,veicolo
+locale-it,VEHICLES.SN,N/S
+locale-it,VEHICLES.BRAND,Marchio
+locale-it,VEHICLES.TYPE,Tipo
+locale-it,VEHICLES.MODEL,Modello
+locale-it,VEHICLES.STATUS,Stato
+locale-it,VEHICLES.SPEED,Velocità
+locale-it,VEHICLES.DISTANCE,Distanza
+locale-it,VEHICLES.ENGINE_H,Ore motore
+locale-it,VEHICLES.ENGINE_S,Regime motore
+locale-it,VEHICLES.FUEL,Livello carburante
+locale-it,VEHICLES.FUELRATE,Consumo carburante
+locale-it,VEHICLES.GOTO_FORCE,Vai a Force
+locale-it,VEHICLES.MACHINE_INFO,Informazioni macchina
+locale-it,VEHICLES.SEARCH_VEHICLE,Cerca nome veicolo
+locale-it,FARM.NEW,nuova azienda agricola
+locale-it,FARM.NEW_CREATE,Crea nuova azienda agricola
+locale-it,FARM.EDIT,Modifica azienda agricola
+locale-it,FARM.FARMS,Aziende agricole
+locale-it,FIELD.NEW,Nuovo campo
+locale-it,FIELD.UPDATE,Aggiorna campo
+locale-it,FIELD.CREATE,Crea campo
+locale-it,FIELD.FIELDS,Campi
+locale-it,FIELD.SELECT_GROWER,Seleziona coltivatore
+locale-it,FIELD.REQUIRED_GROWER,Coltivatore obbligatorio
+locale-it,FIELD.SEARCH_GROWER,Cerca coltivatore
+locale-it,FIELD.NO_GROWER,Nessun coltivatore selezionato
+locale-it,FIELD.SELECT_FARM,Seleziona azienda agricola
+locale-it,FIELD.REQUIRED_FARM,Azienda agricola obbligatoria
+locale-it,FIELD.SEARCH_FARM,Cerca azienda agricola
+locale-it,FIELD.SEARCH_FIELD,Cerca campo
+locale-it,FIELD.NAME_FIELD,Nome campo
+locale-it,FIELD.NAME_FIELD_REQUIRED,Nome campo obbligatorio
+locale-it,FIELD.FIELD_SELECT,Seleziona campo
+locale-it,FIELD.FIELD_REQUIRED,Campo obbligatorio.
+locale-it,FIELD.BOUNDARY,Area confine
+locale-it,FIELD.TILLABLE,Area coltivabile
+locale-it,FIELD.INSERT_TILLABLE,Inserisci area coltivabile
+locale-it,FIELD.TILLABLE_REQUIRED,Area coltivabile obbligatoria
+locale-it,FIELD.ZONE_VALUE,Inserisci valore zona
+locale-it,NEW_FIELD.TITLE,Nuovo campo
+locale-it,NEW_FIELD.SELECT_GROWER,Seleziona coltivatore
+locale-it,NEW_FIELD.SELECT_FARM,Seleziona azienda agricola
+locale-it,NEW_FIELD.GROWER_LABEL,Coltivatore
+locale-it,NEW_FIELD.FARM_LABEL,Azienda agricola
+locale-it,NEW_FIELD.FIELD_LABEL,Nome campo
+locale-it,NEW_FIELD.FARM_REQUIRED,Nome azienda agricola obbligatorio
+locale-it,NEW_FIELD.FIELD_INPUT,Immetti nome campo
+locale-it,NEW_FIELD.FIELD_INPUT_ERROR,Nome campo obbligatorio
+locale-it,NEW_FIELD.BOUNDARY_AREA,Area confine
+locale-it,NEW_FIELD.TILLABLE_AREA,Area coltivabile
+locale-it,NEW_FIELD.TILLABLE_AREA_REQUIRED,Area coltivabile obbligatoria
+locale-it,NEW_FIELD.CREATE_FIELD,crea campo
+locale-it,NEW_FIELD.SAVE_FIELD,salva campo
+locale-it,NEW_FIELD.ERROR.NEW,Impossibile creare un nuovo campo.
+locale-it,NEW_FIELD.ERROR.EDIT,Impossibile modificare il campo corrente.
+locale-it,NEW_FIELD.ERROR.GENERIC,Impossibile creare un nuovo campo a causa di un errore interno
+locale-it,NEW_FIELD.ERROR_NEW,
+locale-it,NEW_FIELD.ERROR_EDIT,
+locale-it,NEW_FIELD.CANCEL,annulla
+locale-it,NEW_FIELD.NO_GROWER,Nessun coltivatore disponibile
+locale-it,NEW_FIELD.NO_FARM,Nessuna azienda agricola disponibile
+locale-it,NEW_FARM_MODAL.TITLE,Nuova azienda agricola
+locale-it,NEW_FARM_MODAL.GROWER_LABEL,Coltivatore
+locale-it,NEW_FARM_MODAL.NO_GROWER_SELECTED,Nessun coltivatore selezionato
+locale-it,NEW_FARM_MODAL.FARM_LABEL,Nome azienda agricola
+locale-it,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Nome azienda agricola obbligatorio
+locale-it,NEW_FARM_MODAL.CREATE,crea
+locale-it,NEW_FARM_MODAL.CLOSE,chiudi
+locale-it,GROWER_MODAL.TITLE,Nuovo coltivatore
+locale-it,GROWER_MODAL.GROWER_LABEL,Nome coltivatore
+locale-it,GROWER_MODAL.GROWER_INPUT_REQUIRED,Nome coltivatore obbligatorio
+locale-it,GROWER_MODAL.CREATE,crea
+locale-it,GROWER_MODAL.CLOSE,chiudi
+locale-it,GROWER_MODAL.EG,Es.: Isaac Harmon
+locale-it,TASK.SHOW_LAYER,MOSTRA LIVELLI DISPONIBILI
+locale-it,TASK.HIDE_LAYER,NASCONDI LIVELLI DISPONIBILI
+locale-it,TASK.SHOW_PREVIEW,Mostra anteprima
+locale-it,TASK.NO_TYPE,Nessun tipo selezionato.
+locale-it,TASK.NO_YEAR,Nessun anno selezionato.
+locale-it,TASK.SELECT_YEAR,Selezionare un anno.
+locale-it,TASK.SELECT_OP,Selezionare un'operazione.
+locale-it,TASK.TASK_NOT_ASSOCIATED,Attività non associate
+locale-it,TASK.IMPORT_TASKS,Importa attività
+locale-it,TASK.INSERT,Immetti nome attività.
+locale-it,TASK.NAME,Nome attività.
+locale-it,TASK.EDIT,Modifica attività.
+locale-it,TASK.EDIT_INFO,Modifica informazioni
+locale-it,TASK.REQUIRED,Nome attività obbligatorio.
+locale-it,TASK.ACTUAL_RATE,Frequenza effettiva
+locale-it,TASK.SENSOR_RDNG,Sensore RDNG
+locale-it,TASK.SENSOR_WDTH,Larghezza sensore
+locale-it,TASK.YIELD_MASS,Massa resa prodotto
+locale-it,TASK.MOISTURE,Umidità
+locale-it,TASK.CELL_MASS,Massa cella
+locale-it,TASK.CELL_AREA,Area cella
+locale-it,TASK.YIELD_VOL,Volume resa prodotto
+locale-it,TASK.UNADJ_CELL_M,Cella non regolata
+locale-it,TASK.NO_OPERATION,Nessuna operazione disponibile
+locale-it,CROP.INSERT_NAME,Immetti nome prodotto
+locale-it,CROP.NAME,Nome prodotto
+locale-it,CROP.REQUIRED,Nome prodotto obbligatorio
+locale-it,CROP.SELECT,Seleziona prodotto
+locale-it,CROP.CROP,Prodotto
+locale-it,CROP.SEARCH,Cerca prodotto
+locale-it,CROP.NEW,Nuovo prodotto
+locale-it,CROP.EDIT,Modifica prodotto
+locale-it,CROP.CROPS,Prodotti
+locale-it,CROP.CROP_SPEC,Crop Spec
+locale-it,THEMATIZATION.CLASSES,Classi
+locale-it,THEMATIZATION.COLOR_RAMP,Sfumature di colori
+locale-it,THEMATIZATION.GREY,Grigi
+locale-it,THEMATIZATION.RED,Rossi
+locale-it,THEMATIZATION.GREEN,Verdi
+locale-it,THEMATIZATION.BLUE,Blu
+locale-it,THEMATIZATION.GYR,GrGiRo
+locale-it,THEMATIZATION.SPECTRAL,Spettrale
+locale-it,THEMATIZATION.INVERTED,Invertita
+locale-it,THEMATIZATION.THRESHOLD,Soglia
+locale-it,THEMATIZATION.METHOD,Metodo
+locale-it,THEMATIZATION.METHOD_SELECT,Selezionare un metodo
+locale-it,THEMATIZATION.METHOD_REQUIRED,Metodo obbligatorio
+locale-it,THEMATIZATION.EDIT,Modifica tematizzazione
+locale-it,THEMATIZATION.E_A,Area uguale
+locale-it,THEMATIZATION.E_I,Intervallo uguale
+locale-it,THEMATIZATION.N_B,Natural breaks
+locale-it,GROWER.NEW,Nuovo coltivatore
+locale-it,GROWER.EDIT,Modifica coltivatore
+locale-it,GROWER.GROWERS,Coltivatori
+locale-it,PRODUCT.NEW,Nuovo prodotto
+locale-it,PRODUCT.EDIT,Modifica prodotto
+locale-it,PRODUCT.EDIT_VALUE,Modifica valore prodotto
+locale-it,PRODUCT.PRODUCTS,Prodotti
+locale-it,DELETE_MODAL.PRE,Elimina prescrizione
+locale-it,DELETE_MODAL.QUESTION,Eliminare?
+locale-it,DELETE_MZ_MODAL.PRE,Uscire dalla modalità di creazione della zona di gestione
+locale-it,DELETE_MZ_MODAL.QUESTION,Uscire dalla modalità di creazione della zona di gestione? Tutte le modifiche non salvate andranno perse.
+locale-it,DELETE_MZ_MODAL.CONFIRM,|SÌ, USCIRE|
+locale-it,EDIT_PRESCRIPTION_MODAL.PRE,Esci da modalità crea prescrizione
+locale-it,EDIT_PRESCRIPTION_MODAL.QUESTION,Uscire dalla modalità crea prescrizione? Continuando tutti i dati immessi andranno persi.
+locale-it,DELETE_TASK_MODAL.PRE,Elimina attività
+locale-it,DELETE_TASK_MODAL.QUESTION,Eliminare?
+locale-it,ZONE.EDIT,Modifica nome zona
+locale-it,ZONE.SET,Imposta nome zona di gestione
+locale-it,PDF.TITLE,pdf
+locale-it,MAP.EDIT_TOOLTIP_TEXT,Trascinare il punto di controllo per modificare il campo
+locale-it,MAP.REMOVE_TOOLTIP_TEXT,Fare clic su un campo per rimuoverlo
+locale-it,MAP.POLYGON_TOOLTIP_START,Fare clic sulla mappa per iniziare a disegnare il campo.<br/>Disegnare all'interno del poligono per creare un buco nel campo
+locale-it,MAP.BUFFER_TOOLTIP.TEXT,Fare clic e trascinare per ingrandire o ridurre il campo
+locale-it,MAP.BUFFER_TOOLTIP.MEASURE,Raggio
+locale-it,MAP.POLYGON_TOOLTIP.START,Fare clic per iniziare a disegnare
+locale-it,MAP.POLYGON_TOOLTIP.CONT,Fare clic sulla mappa per continuare<br/>a disegnare il campo
+locale-it,MAP.POLYGON_TOOLTIP.END,Fare clic sul primo punto per completare<br/>la creazione del campo
+locale-it,MAP.POLYLINE.ERROR,<strong>Errore:</strong> i bordi della forma non si possono intersecare!
+locale-it,MAP.POLYLINE.TOOLTIP.START,Fare clic per iniziare a disegnare la linea.
+locale-it,MAP.POLYLINE.TOOLTIP.CONT,Fare clic per continuare a disegnare la linea.
+locale-it,MAP.POLYLINE.TOOLTIP.END,Fare clic sull'ultimo punto per completare la linea.
+locale-it,MAP.PLUGINS.ZOOM.OUT,Zoom indietro
+locale-it,MAP.PLUGINS.ZOOM.IN,Zoom avanti
+locale-it,MAP.PLUGINS.SEARCH.PLACEHOLDER,Cerca posizione
+locale-it,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Posizione non trovata
+locale-it,MAP.PLUGINS.UPLOAD.TEXT,importa file forma
+locale-it,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Rilascia un file forma ...
+locale-it,MAP.PLUGINS.WEATHER.TEMPERATURE,temperatura
+locale-it,MAP.PLUGINS.WEATHER.DEW_POINT,punto di rugiada
+locale-it,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,umidità relativa
+locale-it,MAP.PLUGINS.WEATHER.WIND_SPEED,velocità vento
+locale-it,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,temp percepita
+locale-it,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Nessun dato da visualizzare
+locale-it,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,satellite
+locale-it,MAP.PLUGINS.LAYER_SWITCH.STREET,via
+locale-it,OPERATIONS.YIELD,Resa prodotto
+locale-it,OPERATIONS.AS_APPLIED,As Applied
+locale-it,OPERATIONS.SOIL_SAMPLE,Campione di terreno
+locale-it,STATISTICS.SPREAD_TIME,Tempo di spanditura
+locale-it,STATISTICS.PRODUCT_TOTAL,Totale stimato
+locale-it,STATISTICS.PRODUCT_SPREAD_TIME,Tempo spanditura prodotto
+locale-it,STATISTICS.PRODUCT_AREA,Area prodotto
+locale-it,STATISTICS.SENSOR_TYPE,Tipo sensore
+locale-it,STATISTICS.TOTAL_AREA,Area totale
+locale-it,STATISTICS.TOTAL_MASS,Massa totale
+locale-it,STATISTICS.UN_ADJ_TTL_M,Totale non regolato
+locale-it,STATISTICS.SENSOR_WDTH,Larghezza sensore
+locale-it,PROFILE.FEEDBACK,Invia un feedback
+locale-it,PROFILE.HELP,Guida e supporto
+locale-de,GLOBAL.SEND,Senden
+locale-de,GLOBAL.SEND_DATA,Daten senden
+locale-de,GLOBAL.FIELD_NAME,Name des Feldes
+locale-de,GLOBAL.CHANGE_STYLE,Stil ändern
+locale-de,GLOBAL.OPACITY,Deckkraft
+locale-de,GLOBAL.VIEW_MODE,Ansichtsmodus
+locale-de,GLOBAL.VECTOR,Vektor
+locale-de,GLOBAL.RASTER,Raster
+locale-de,GLOBAL.REQUIRED_VALUE,Erforderter Wert
+locale-de,GLOBAL.BOUNDARY_AREA,Grenzfläche
+locale-de,GLOBAL.TILLABLE_AREA,Anbaufähige Fläche
+locale-de,GLOBAL.SHOW_LAYERS_LIST,Ebenenliste anzeigen
+locale-de,GLOBAL.HIDE_LAYERS_LIST,Ebenenliste ausblenden
+locale-de,GLOBAL.SET_VALUE,Wert festlegen
+locale-de,GLOBAL.DEVICES,Geräte
+locale-de,GLOBAL.SEARCH,Suche
+locale-de,GLOBAL.FIELDS,Felder
+locale-de,GLOBAL.FIELD,Feld
+locale-de,GLOBAL.FARM,Betrieb
+locale-de,GLOBAL.FARMS,Betriebe
+locale-de,GLOBAL.ZONE,Zone
+locale-de,GLOBAL.ZONES,Zonen
+locale-de,GLOBAL.PRODUCT,Produkt
+locale-de,GLOBAL.PRODUCTS,Produkte
+locale-de,GLOBAL.GROWER,Anbauer
+locale-de,GLOBAL.GROWERS,Anbauer
+locale-de,GLOBAL.TASKS,Aufgaben
+locale-de,GLOBAL.CROP,Erntegut
+locale-de,GLOBAL.CROPS,Erntegüter
+locale-de,GLOBAL.VEHICLES,Fahrzeuge
+locale-de,GLOBAL.VEHICLE,Fahrzeug
+locale-de,GLOBAL.UNIT,Einheit
+locale-de,GLOBAL.PRODUCT_TYPE,Produkttyp
+locale-de,GLOBAL.SHOWME,MEHR ANZEIGEN
+locale-de,GLOBAL.CANCEL,Abbrechen
+locale-de,GLOBAL.EDIT,Bearbeiten
+locale-de,GLOBAL.DELETE,Löschen
+locale-de,GLOBAL.DELETE_CONFIRMATION,Möchten Sie wirklich löschen?
+locale-de,GLOBAL.SEND_TO,Senden an
+locale-de,GLOBAL.MORE,Mehr
+locale-de,GLOBAL.CLEAR_LIST,Liste löschen
+locale-de,GLOBAL.CREATED,Erstellt am
+locale-de,GLOBAL.ALL,Alle
+locale-de,GLOBAL.YEAR,Jahr
+locale-de,GLOBAL.TYPE,Typ
+locale-de,GLOBAL.ALARM,Alarm
+locale-de,GLOBAL.ALARMS,Alarme
+locale-de,GLOBAL.OPERATION,Arbeitsvorgang
+locale-de,GLOBAL.NAME,Name
+locale-de,GLOBAL.EG,Z. B. Yew Valley Farm
+locale-de,GLOBAL.COMPANY,Unternehmen
+locale-de,GLOBAL.SUBCOMPANY,Tochtergesellschaft
+locale-de,GLOBAL.FLEET,Flotte
+locale-de,GLOBAL.CONFIRM,Bestätigen
+locale-de,GLOBAL.CREATE,Erstellen
+locale-de,GLOBAL.CLOSE,Schließen
+locale-de,GLOBAL.SAVE,Speichern
+locale-de,GLOBAL.CREATED_S,Erstellt
+locale-de,GLOBAL.VIEW_ON_MAP,Auf Karte anzeigen
+locale-de,GLOBAL.GUIDANCE,Führung
+locale-de,GLOBAL.SETTINGS,Einstellungen
+locale-de,GLOBAL.LOGOUT,Abmelden
+locale-de,GLOBAL.TASK_ID,Aufgabe {{id}}
+locale-de,GLOBAL.FARM_ID,Betrieb {{id}}
+locale-de,GLOBAL.FIELD_ID,Feld {{id}}
+locale-de,GLOBAL.HOUR,Stunde
+locale-de,GLOBAL.HOURS,Stunden
+locale-de,GLOBAL.MINUTE,Minute
+locale-de,GLOBAL.MINUTES,Minuten
+locale-de,GLOBAL.VIEW_LAYERS,Schichten anzeigen
+locale-de,UPLOAD.DND,Dateien per Drag & Drop hierher verschieben!
+locale-de,UPLOAD.OR,bzw.
+locale-de,UPLOAD.BROWSE,Dateien durchsuchen
+locale-de,UPLOAD.UPLOADING,Hochladen
+locale-de,UPLOAD.UPLOADING_DOT,Hochladen...
+locale-de,UPLOAD.ERROR,Fehler
+locale-de,UPLOAD.ERROR_UPLOADING,Fehler beim Hochladen
+locale-de,UPLOAD.ERROR_IMPORTING,Fehler beim Importieren
+locale-de,UPLOAD.RETRY,Upload erneut versuchen
+locale-de,UPLOAD.PROCESSING,Verarbeitung…
+locale-de,UPLOAD.PROCESSING_TASK,Aufgabe wird verarbeitet...
+locale-de,UPLOAD.COMPLETED,Abgeschlossen
+locale-de,UPLOAD.HAS_BEEN,wurde importiert in Feld 
+locale-de,UPLOAD.HAS_BEEN_FROM,{{taskName}} von {{fileName}} wurde importiert in Feld {{fieldName}}
+locale-de,UPLOAD.HAS_BEEN_ORPHAN,Wurde importiert als Waisen-Aufgabe
+locale-de,UPLOAD.UNKNOWN,Unbekannte Datei.
+locale-de,UPLOAD.START_NOTIFICATION,Die hochgeladene Aufgabe {{fileName}} wird verarbeitet
+locale-de,UPLOAD.FINISH_NOTIFICATION,{{fileName}} wurde importiert
+locale-de,UPLOAD.GFF_UPDATE_NOTIFICATION,|Anbauer, Betriebs- und Felddaten werden aktualisiert|
+locale-de,ERRORS.ERROR_FOUND.ZERO,
+locale-de,ERRORS.ERROR_FOUND.ONE,{{errorCount}} Fehler gefunden
+locale-de,ERRORS.ERROR_FOUND.MANY,{{errorCount}} Fehler gefunden
+locale-de,ERRORS.ERROR_VIEW.ZERO,
+locale-de,ERRORS.ERROR_VIEW.ONE,{{errorCount}} Fehler vorhanden. Durch Drücken auf die folgende Schaltfläche anzeigen
+locale-de,ERRORS.ERROR_VIEW.MANY,{{errorCount}} Fehler vorhanden. Durch Drücken auf die folgende Schaltfläche anzeigen
+locale-de,ERRORS.HTTP.PARSE,Antwort vom Server kann nicht geparst werden
+locale-de,ERRORS.HTTP.FETCH,{{Object}}-Daten können nicht abgerufen werden
+locale-de,ERRORS.GROWERS.NEW,Neuer Landwirt kann nicht erstellt werden
+locale-de,ERRORS.GROWERS.EDIT,Landwirt mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.GROWERS.DELETE,Landwirt mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.FARMS.NEW,Neuer Betrieb kann nicht erstellt werden
+locale-de,ERRORS.FARMS.EDIT,Betrieb mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.FARMS.DELETE,Betrieb mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.CROPS.NEW,Neues Erntegut kann nicht erstellt werden
+locale-de,ERRORS.CROPS.EDIT,Erntegut mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.CROPS.DELETE,Erntegut mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.PRODUCTS.NEW,Neues Produkt kann nicht erstellt werden
+locale-de,ERRORS.PRODUCTS.EDIT,Produkt mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.PRODUCTS.DELETE,Produkt mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.TASKS.NEW,Neue Aufgabe kann nicht erstellt werden
+locale-de,ERRORS.TASKS.EDIT,Aufgabe mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.TASKS.DELETE,Aufgabe mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.PRESCRIPTIONS.NEW,Neues Rezept kann nicht erstellt werden.
+locale-de,ERRORS.PRESCRIPTIONS.EDIT,Rezept mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.PRESCRIPTIONS.DELETE,Rezept mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.FIELDS.EDIT,Feld mit der ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.FIELDS.DELETE,Feld mit ID {{id}} kann nicht gelöscht werden
+locale-de,ERRORS.MZONE.CREATE,Managementzone kann nicht erstellt werden
+locale-de,ERRORS.MZONE.EDIT,Managementzone mit ID {{id}} kann nicht bearbeitet werden
+locale-de,ERRORS.MZONE.DELETE,Managementzone mit ID {{id}} kann nicht gelöscht werden
+locale-de,EMPTY_STATE.TASKS.IMPORTED_TITLE,Noch keine Aufgaben importiert
+locale-de,EMPTY_STATE.TASKS.IMPORTED_TEXT,Sie können eine neue Aufgabe über die Schaltfläche unten importieren
+locale-de,EMPTY_STATE.TASKS.IMPORTED_CTA,Aufgabe importieren
+locale-de,EMPTY_STATE.TASKS.FOUND_TITLE,Keine Aufgaben gefunden
+locale-de,EMPTY_STATE.TASKS.FOUND_TEXT,|Versuchen, Filter zu ändern|
+locale-de,EMPTY_STATE.TASKS.NOT_SELECTED,NOCH KEINE AUFGABEN IMPORTIERT
+locale-de,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Sie können eine neue Aufgabe über die Schaltfläche rechts oben importieren
+locale-de,EMPTY_STATE.FIELDS.CREATED_TITLE,Noch kein Feld erstellt
+locale-de,EMPTY_STATE.FIELDS.CREATED_TXT,Sie können ein neues Feld über die Schaltfläche unten erstellen
+locale-de,EMPTY_STATE.FIELDS.FOUND_TITLE,Kein Feld gefunden
+locale-de,EMPTY_STATE.FIELDS.FOUND_TXT,|Versuchen, Suche und Filter zu ändern|
+locale-de,EMPTY_STATE.FIELDS.NOT_SELECTED,NOCH KEIN FELD AUSGEWÄHLT
+locale-de,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,|Sie können ein Feld in der Seitenleiste links auswählen, um alle zugehörigen Aufgaben anzuzeigen|
+locale-de,EMPTY_STATE.VEHICLES.CREATED_TITLE,Noch keine Fahrzeuge erstellt
+locale-de,EMPTY_STATE.VEHICLES.FOUND_TITLE,Noch keine Fahrzeuge gefunden
+locale-de,EMPTY_STATE.VEHICLES.FOUND_TXT,|Versuchen, Suche und Filter zu ändern|
+locale-de,EMPTY_STATE.DEFAULT.TITLE,Keine Daten
+locale-de,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Noch kein Rezept erstellt
+locale-de,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Sie können ein neues Rezept über die Schaltfläche unten erstellen.
+locale-de,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_CTA,Neues Rezept
+locale-de,EMPTY_STATE.MGMZ.IMPORTED_TITLE,Noch keine Managementzone erstellt
+locale-de,EMPTY_STATE.GUIDANCE.IMPORTED_TITLE,Noch keine Führung erstellt
+locale-de,EMPTY_STATE.ANALYSIS.IMPORTED_TITLE,Noch keine Analyse erstellt
+locale-de,EMPTY_STATE.ANALYSIS.IMPORTED_TEXT,Sie können eine neue Analyse über die Schaltfläche unten erstellen.
+locale-de,EMPTY_STATE.ANALYSIS.IMPORTED_CTA,Gehe zu Spotlight
+locale-de,FIELD_CARD.ACTIONS.EDIT,Feld bearbeiten
+locale-de,FIELD_CARD.ACTIONS.DELETE,Löschen
+locale-de,FIELD_CARD.INFO,Informationen über das Feld
+locale-de,FIELD_CARD.GROWER,Anbauer
+locale-de,FIELD_CARD.FARM,Betrieb
+locale-de,FIELD_CARD.AREA,Gesamte Feldfläche
+locale-de,FIELD_CARD.CROPS,Erntegüter
+locale-de,FIELD_CARD.TILLABLE,Anbaufähige Fläche
+locale-de,FIELD_CARD.WEATHER,Wetter
+locale-de,FIELD_CARD.LAST_TASKS,Letzte 3 Aufgaben
+locale-de,FIELD_CARD.IMPORT_TASKS,Aufgabe importieren
+locale-de,FIELD_CARD.SUMMARY_TASKS,Aufgabenübersicht
+locale-de,PRESCRIPTION.SENT_TO_VEHICLE,Die Vorgabe wurde an das Fahrzeug gesendet
+locale-de,PRESCRIPTION.NOT_SENT_TO_VEHICLE,Die Vorgabe wurde nicht an das Fahrzeug gesendet
+locale-de,PRESCRIPTION.PRESCRIPTION_EMPTY,NOCH KEINE VORGABE ERSTELLT
+locale-de,PRESCRIPTION.PRESCRIPTION_EMPTY_DESC,Sie können eine neue Vorgabe über die Schaltfläche rechts oben erstellen
+locale-de,PRESCRIPTION.SELECT_DEVICE,Gerät auswählen
+locale-de,PRESCRIPTION.SELECT_DEVICE_DESC,Wählen Sie ein Gerät aus der Liste unten aus.
+locale-de,PRESCRIPTION.APPLIED_DATE,Geplantes Datum
+locale-de,PRESCRIPTION.CREATION_DATE,Datum der Erstellung
+locale-de,PRESCRIPTION.TOTAL_AREA,Gesamtfläche
+locale-de,PRESCRIPTION.PRODUCT_QUANTITY,Produktmenge
+locale-de,PRESCRIPTION.STATUS_PROCESSING,Vorgabe-Datei wird erstellt...
+locale-de,PRESCRIPTION.STATUS_PROCESSED,Vorgabe-Datei erstellt
+locale-de,PRESCRIPTION.PLANNED_DATE,Geplantes Datum
+locale-de,PRESCRIPTION.HIDE_ZONES,BEREICHE AUSBLENDEN
+locale-de,PRESCRIPTION.SHOW_ZONES,BEREICHE ANZEIGEN
+locale-de,PRESCRIPTION.GROWERS_SELECT,Alle Anbauer
+locale-de,PRESCRIPTION.FARMS_SELECT,Alle Betriebe
+locale-de,PRESCRIPTION.GROWER_REQUIRED,Anbauer ist erforderlich
+locale-de,PRESCRIPTION.FARM_REQUIRED,Betrieb ist erforderlich
+locale-de,PRESCRIPTION.FIELD_SELECT,Alle Felder
+locale-de,PRESCRIPTION.FIELD_REQUIRED,Feld ist erforderlich.
+locale-de,PRESCRIPTION.NEW_PRESCRIPTIONS,Neue Vorgabe
+locale-de,PRESCRIPTION.PRESCRIPTION_CREATE,Vorgabe erstellen
+locale-de,PRESCRIPTION.MGMT,MGMT-Zone
+locale-de,PRESCRIPTION.MANAGEMENT_ZONE,Management-Zone
+locale-de,PRESCRIPTION.MANAGEMENT_NAME,Name der Management-Zone
+locale-de,PRESCRIPTION.MANAGEMENT_SELECT,Wählen Sie die Management-Zone aus.
+locale-de,PRESCRIPTION.MANAGEMENT_SEARCH,Durchsuchen Sie die Management-Zone.
+locale-de,PRESCRIPTION.MANAGEMENT_REQUIRED,Management-Zone ist erforderlich.
+locale-de,PRESCRIPTION.MANAGEMENT_CTA,MANAGEMENT-ZONE SPEICHERN
+locale-de,PRESCRIPTION.PRODUCT_SEARCH,Produkt suchen
+locale-de,PRESCRIPTION.PRODUCT_SELECT,Produkt auswählen
+locale-de,PRESCRIPTION.PRODUCT_SELECT_REQUIRED,Produkt ist erforderlich
+locale-de,PRESCRIPTION.PRODUCT_VALUE,Produktwert
+locale-de,PRESCRIPTION.PRODUCT_VALUE_SELECT,Produktwert auswählen
+locale-de,PRESCRIPTION.PRODUCT_VALUE_INPUT,Produktwert einfügen
+locale-de,PRESCRIPTION.PRODUCT_VALUE_REQUIRED,Produktwert ist erforderlich
+locale-de,PRESCRIPTION.PRODUCT_VALUE_NEGATIVE,Produktwert darf nicht negativ sein
+locale-de,PRESCRIPTION.PRODUCT_NAME,Produktname
+locale-de,PRESCRIPTION.PRODUCT_NAME_REQUIRED,Produktname ist erforderlich
+locale-de,PRESCRIPTION.PRODUCT_NAME_INSERT,Produktname einfügen
+locale-de,PRESCRIPTION.UNIT_SELECT,Einheit auswählen
+locale-de,PRESCRIPTION.UNIT_SELECT_REQUIRED,Einheit ist erforderlich
+locale-de,PRESCRIPTION.MAP_NAME,Name der Vorgabekarte
+locale-de,PRESCRIPTION.MAP_NAME_REQUIRED,Name der Vorgabekarte ist erforderlich
+locale-de,PRESCRIPTION.MAP_EDIT,Vorgabekarte bearbeiten
+locale-de,PRESCRIPTION.MAP_EDIT_N,Namen der Vorgabekarte bearbeiten
+locale-de,PRESCRIPTION.MAP_SET_N,Namen der Vorgabekarte festlegen
+locale-de,PRESCRIPTION.ZONE_NUMBER,Zonen
+locale-de,PRESCRIPTION.SEND_TO,Vorgabe senden
+locale-de,PRESCRIPTION.UNAVAILABLE,|Die Vorgabedatei wird erstellt, und Sie werden benachrichtigt, sobald der Vorgang abgeschlossen ist. Bitte versuchen Sie es später noch einmal.|
+locale-de,PRESCRIPTION.PROCESSED,Die Vorgabedatei für {{prescriptionName}} ist bereit. Sie können sie jetzt herunterladen oder an die Maschinen senden.
+locale-de,PRESCRIPTION.SELECT_DEVICE_EMPTY,Kein Gerät ausgewählt
+locale-de,PRESCRIPTION.PRESCRIPTION_MAP,Vorgabekarte
+locale-de,PRESCRIPTION.ANALYSIS,Analyse
+locale-de,PRESCRIPTION.UNKNOWN,Unbekannt
+locale-de,PRESCRIPTION.CREATED,Die Vorgabekarte {{name}} wurde erstellt
+locale-de,SIDEBAR.USER_MANAGEMENT,Benutzermanagement
+locale-de,SIDEBAR.REPORT_ISSUE,Problem mit Bericht
+locale-de,SIDEBAR.SUBSCRIPTION_MANAGEMENT,Abonnement-Management
+locale-de,SIDEBAR.STORE,Store
+locale-de,OVERVIEW_SIDEBAR.FIELDS_TAB,Felder
+locale-de,OVERVIEW_SIDEBAR.VEHICLES_TAB,Fahrzeuge
+locale-de,PRIMARY_NAV.UPLOAD,Hochladen
+locale-de,PRIMARY_NAV.LOGOUT,Abmelden
+locale-de,SECONDARY_NAV.OVERVIEW,Überblick
+locale-de,SECONDARY_NAV.TASKS,Aufgaben
+locale-de,SECONDARY_NAV.PRESCRIPTIONS,Vorgaben
+locale-de,SECONDARY_NAV.MANAGE,Verwalten
+locale-de,MANAGE_NAV.GROWERS,Anbauer
+locale-de,MANAGE_NAV.FARMS,Betriebe
+locale-de,MANAGE_NAV.FIELDS,Felder
+locale-de,MANAGE_NAV.CROPS,Erntegüter
+locale-de,MANAGE_NAV.PRODUCTS,Produkte
+locale-de,GFF.FIELD,Feld
+locale-de,GFF.FIELDS,Felder
+locale-de,GFF.FARM,Betrieb
+locale-de,GFF.FARMS,Betriebe
+locale-de,GFF.GROWER,Anbauer
+locale-de,GFF.GROWERS,Anbauer
+locale-de,GFF.SEARCH_FIELD,Feldnamen suchen
+locale-de,GFF.GROWERS_SELECT,Alle Anbauer
+locale-de,GFF.FARMS_SELECT,Alle Betriebe
+locale-de,VEHICLES.VEHICLES,Fahrzeuge
+locale-de,VEHICLES.VEHICLE,Fahrzeug
+locale-de,VEHICLES.SN,Seriennummer
+locale-de,VEHICLES.BRAND,Marke
+locale-de,VEHICLES.TYPE,Typ
+locale-de,VEHICLES.MODEL,Modell
+locale-de,VEHICLES.STATUS,Status
+locale-de,VEHICLES.SPEED,Geschwindigkeit
+locale-de,VEHICLES.DISTANCE,Entfernung
+locale-de,VEHICLES.ENGINE_H,Motorstunden
+locale-de,VEHICLES.ENGINE_S,Motordrehzahl
+locale-de,VEHICLES.FUEL,Kraftstoffstand
+locale-de,VEHICLES.FUELRATE,Kraftstoffverbrauch
+locale-de,VEHICLES.GOTO_FORCE,Gehen Sie zu Force
+locale-de,VEHICLES.MACHINE_INFO,Maschineninformationen
+locale-de,VEHICLES.SEARCH_VEHICLE,Fahrzeugnamen suchen
+locale-de,FARM.NEW,Neuer Betrieb
+locale-de,FARM.NEW_CREATE,Neuen Betrieb erstellen
+locale-de,FARM.EDIT,Betrieb bearbeiten
+locale-de,FARM.FARMS,Betriebe
+locale-de,FIELD.NEW,Neues Feld
+locale-de,FIELD.UPDATE,Feld aktualisieren
+locale-de,FIELD.CREATE,Feld erstellen
+locale-de,FIELD.FIELDS,Felder
+locale-de,FIELD.SELECT_GROWER,Anbauer auswählen
+locale-de,FIELD.REQUIRED_GROWER,Anbauer ist erforderlich
+locale-de,FIELD.SEARCH_GROWER,Anbauer suchen
+locale-de,FIELD.NO_GROWER,Kein Anbauer ausgewählt
+locale-de,FIELD.SELECT_FARM,Betrieb auswählen
+locale-de,FIELD.REQUIRED_FARM,Betrieb ist erforderlich
+locale-de,FIELD.SEARCH_FARM,Betrieb suchen
+locale-de,FIELD.SEARCH_FIELD,Feld suchen
+locale-de,FIELD.NAME_FIELD,Name des Feldes
+locale-de,FIELD.NAME_FIELD_REQUIRED,Name des Feldes ist erforderlich
+locale-de,FIELD.FIELD_SELECT,Feld auswählen
+locale-de,FIELD.FIELD_REQUIRED,Feld ist erforderlich.
+locale-de,FIELD.BOUNDARY,Grenzfläche
+locale-de,FIELD.TILLABLE,Anbaufähige Fläche
+locale-de,FIELD.INSERT_TILLABLE,Die anbaufähige Fläche einfügen
+locale-de,FIELD.TILLABLE_REQUIRED,Anbaufähige Fläche ist erforderlich
+locale-de,FIELD.ZONE_VALUE,Wert der Zone einfügen
+locale-de,NEW_FIELD.TITLE,Neues Feld
+locale-de,NEW_FIELD.SELECT_GROWER,Anbauer auswählen
+locale-de,NEW_FIELD.SELECT_FARM,Betrieb auswählen
+locale-de,NEW_FIELD.GROWER_LABEL,Anbauer
+locale-de,NEW_FIELD.FARM_LABEL,Betrieb
+locale-de,NEW_FIELD.FIELD_LABEL,Name des Feldes
+locale-de,NEW_FIELD.FARM_REQUIRED,Betrieb ist erforderlich
+locale-de,NEW_FIELD.FIELD_INPUT,Namen des Feldes einfügen
+locale-de,NEW_FIELD.FIELD_INPUT_ERROR,Name des Feldes ist erforderlich
+locale-de,NEW_FIELD.BOUNDARY_AREA,Grenzfläche
+locale-de,NEW_FIELD.TILLABLE_AREA,Anbaufähige Fläche
+locale-de,NEW_FIELD.TILLABLE_AREA_REQUIRED,Anbaufähige Fläche ist erforderlich
+locale-de,NEW_FIELD.CREATE_FIELD,Feld erstellen
+locale-de,NEW_FIELD.SAVE_FIELD,Feld speichern
+locale-de,NEW_FIELD.ERROR.NEW,Neues Feld kann nicht erstellt werden.
+locale-de,NEW_FIELD.ERROR.EDIT,Aktuelles Feld kann nicht bearbeitet werden.
+locale-de,NEW_FIELD.ERROR.GENERIC,Ein neues Feld kann aufgrund eines internen Fehlers nicht erstellt werden
+locale-de,NEW_FIELD.ERROR_NEW,
+locale-de,NEW_FIELD.ERROR_EDIT,
+locale-de,NEW_FIELD.CANCEL,Abbrechen
+locale-de,NEW_FIELD.NO_GROWER,Kein Landwirt verfügbar
+locale-de,NEW_FIELD.NO_FARM,Kein Betrieb verfügbar
+locale-de,NEW_FARM_MODAL.TITLE,Neuer Betrieb
+locale-de,NEW_FARM_MODAL.GROWER_LABEL,Anbauer
+locale-de,NEW_FARM_MODAL.NO_GROWER_SELECTED,Kein Anbauer ausgewählt
+locale-de,NEW_FARM_MODAL.FARM_LABEL,Betriebsname
+locale-de,NEW_FARM_MODAL.FARM_INPUT_REQUIRED,Betriebsname ist erforderlich
+locale-de,NEW_FARM_MODAL.CREATE,Erstellen
+locale-de,NEW_FARM_MODAL.CLOSE,Schließen
+locale-de,GROWER_MODAL.TITLE,Neuer Anbauer
+locale-de,GROWER_MODAL.GROWER_LABEL,Anbauername
+locale-de,GROWER_MODAL.GROWER_INPUT_REQUIRED,Anbauername ist erforderlich
+locale-de,GROWER_MODAL.CREATE,Erstellen
+locale-de,GROWER_MODAL.CLOSE,Schließen
+locale-de,GROWER_MODAL.EG,Z. B. Isaac Harmon
+locale-de,TASK.SHOW_LAYER,VERFÜGBARE EBENEN ANZEIGEN
+locale-de,TASK.HIDE_LAYER,VERFÜGBARE EBENEN AUSBLENDEN
+locale-de,TASK.SHOW_PREVIEW,Vorschau anzeigen
+locale-de,TASK.NO_TYPE,Kein Typ ausgewählt.
+locale-de,TASK.NO_YEAR,Kein Jahr ausgewählt.
+locale-de,TASK.SELECT_YEAR,Wählen Sie ein Jahr aus.
+locale-de,TASK.SELECT_OP,Wählen Sie einen Vorgang aus.
+locale-de,TASK.TASK_NOT_ASSOCIATED,Nicht zugeordnete Aufgaben
+locale-de,TASK.IMPORT_TASKS,Aufgaben importieren
+locale-de,TASK.INSERT,Name der Aufgabe einfügen.
+locale-de,TASK.NAME,Name der Aufgabe.
+locale-de,TASK.EDIT,Aufgabe bearbeiten.
+locale-de,TASK.EDIT_INFO,Info bearbeiten
+locale-de,TASK.REQUIRED,Name der Aufgabe ist erforderlich.
+locale-de,TASK.ACTUAL_RATE,Istmenge
+locale-de,TASK.SENSOR_RDNG,Sensor RDNG
+locale-de,TASK.SENSOR_WDTH,Sensorbreite
+locale-de,TASK.YIELD_MASS,Ertragsmasse
+locale-de,TASK.MOISTURE,Feuchtigkeit
+locale-de,TASK.CELL_MASS,Zellenmasse
+locale-de,TASK.CELL_AREA,Zellenbereich
+locale-de,TASK.YIELD_VOL,Ertragsvolumen
+locale-de,TASK.UNADJ_CELL_M,Unangepasste Zelle
+locale-de,TASK.NO_OPERATION,Keine Operation verfügbar
+locale-de,CROP.INSERT_NAME,Name des Ernteguts einfügen
+locale-de,CROP.NAME,Name des Ernteguts
+locale-de,CROP.REQUIRED,Name des Ernteguts ist erforderlich
+locale-de,CROP.SELECT,Erntegut auswählen
+locale-de,CROP.CROP,Erntegut
+locale-de,CROP.SEARCH,Erntegut suchen
+locale-de,CROP.NEW,Neues Erntegut
+locale-de,CROP.EDIT,Erntegut bearbeiten
+locale-de,CROP.CROPS,Erntegüter
+locale-de,CROP.CROP_SPEC,Crop spec
+locale-de,THEMATIZATION.CLASSES,Klassen
+locale-de,THEMATIZATION.COLOR_RAMP,Farbverlauf
+locale-de,THEMATIZATION.GREY,Graufarben
+locale-de,THEMATIZATION.RED,Rottöne
+locale-de,THEMATIZATION.GREEN,Grüntöne
+locale-de,THEMATIZATION.BLUE,Blautöne
+locale-de,THEMATIZATION.GYR,Grün/Gelb/Rot
+locale-de,THEMATIZATION.SPECTRAL,Spektral
+locale-de,THEMATIZATION.INVERTED,Invertiert
+locale-de,THEMATIZATION.THRESHOLD,Schwellenwert
+locale-de,THEMATIZATION.METHOD,Methode
+locale-de,THEMATIZATION.METHOD_SELECT,Methode auswählen
+locale-de,THEMATIZATION.METHOD_REQUIRED,Methode ist erforderlich
+locale-de,THEMATIZATION.EDIT,Bildbearbeitung
+locale-de,THEMATIZATION.E_A,Gleiche Fläche
+locale-de,THEMATIZATION.E_I,Gleicher Intervall
+locale-de,THEMATIZATION.N_B,Natürliche Intervalle
+locale-de,GROWER.NEW,Neuer Anbauer
+locale-de,GROWER.EDIT,Anbauer bearbeiten
+locale-de,GROWER.GROWERS,Anbauer
+locale-de,PRODUCT.NEW,Neues Produkt
+locale-de,PRODUCT.EDIT,Produkt bearbeiten
+locale-de,PRODUCT.EDIT_VALUE,Produktwert bearbeiten
+locale-de,PRODUCT.PRODUCTS,Produkte
+locale-de,DELETE_MODAL.PRE,Vorgabe löschen
+locale-de,DELETE_MODAL.QUESTION,Möchten Sie wirklich löschen?
+locale-de,DELETE_MZ_MODAL.PRE,Modus Management-Zone erstellen beenden
+locale-de,DELETE_MZ_MODAL.QUESTION,|Sind Sie sicher, dass Sie den Modus Management-Zone erstellen beenden möchten? Sie verlieren alle nicht gespeicherten Änderungen.|
+locale-de,DELETE_MZ_MODAL.CONFIRM,|JA, BEENDEN|
+locale-de,EDIT_PRESCRIPTION_MODAL.PRE,Modus Vorgabe erstellen beenden
+locale-de,EDIT_PRESCRIPTION_MODAL.QUESTION,|Sind Sie sicher, dass Sie den Modus Vorgabe erstellen beenden möchten? Wenn Sie fortfahren, verlieren Sie alle eingegebenen Daten.|
+locale-de,DELETE_TASK_MODAL.PRE,Aufgabe löschen
+locale-de,DELETE_TASK_MODAL.QUESTION,Möchten Sie wirklich löschen?
+locale-de,ZONE.EDIT,Zonenname bearbeiten
+locale-de,ZONE.SET,Management-Zonenname festlegen
+locale-de,PDF.TITLE,PDF
+locale-de,MAP.EDIT_TOOLTIP_TEXT,|Ziehen Sie am Steuerpunkt, um das Feld zu verändern|
+locale-de,MAP.REMOVE_TOOLTIP_TEXT,|Klicken Sie auf ein Feld, um es zu entfernen|
+locale-de,MAP.POLYGON_TOOLTIP_START,|Klicken Sie auf die Karte, um mit dem Zeichnen des Feldes zu beginnen.<br/>Zeichnen Sie innerhalb des Polygons, um ein Loch im Feld zu erstellen|
+locale-de,MAP.BUFFER_TOOLTIP.TEXT,Klicken und ziehen Sie zum Erweitern oder Verkleinern des Feldes
+locale-de,MAP.BUFFER_TOOLTIP.MEASURE,Radius
+locale-de,MAP.POLYGON_TOOLTIP.START,|Klicken Sie, um mit dem Zeichnen zu beginnen|
+locale-de,MAP.POLYGON_TOOLTIP.CONT,|Klicken Sie auf die Karte, um mit dem Zeichnen<br/>des Feldes fortzufahren|
+locale-de,MAP.POLYGON_TOOLTIP.END,|Klicken Sie auf den ersten Punkt, um die Erstellung <br/> des Feldes abzuschließen|
+locale-de,MAP.POLYLINE.ERROR,<strong>Fehler:</strong> Formkanten dürfen sich nicht kreuzen!
+locale-de,MAP.POLYLINE.TOOLTIP.START,|Klicken Sie, um mit dem Zeichnen der Linie zu beginnen.|
+locale-de,MAP.POLYLINE.TOOLTIP.CONT,|Klicken Sie, um mit dem Zeichnen der Linie fortzufahren.|
+locale-de,MAP.POLYLINE.TOOLTIP.END,|Klicken Sie auf den letzten Punkt, um die Linie fertigzustellen.|
+locale-de,MAP.PLUGINS.ZOOM.OUT,Verkleinern
+locale-de,MAP.PLUGINS.ZOOM.IN,Vergrößern
+locale-de,MAP.PLUGINS.SEARCH.PLACEHOLDER,Position suchen
+locale-de,MAP.PLUGINS.SEARCH.ERROR_MESSAGE,Position nicht gefunden
+locale-de,MAP.PLUGINS.UPLOAD.TEXT,Formdatei importieren
+locale-de,MAP.PLUGINS.UPLOAD.DRAGGABLE_AREA.TEXT,Eine Formdatei ablegen...
+locale-de,MAP.PLUGINS.WEATHER.TEMPERATURE,Temperatur
+locale-de,MAP.PLUGINS.WEATHER.DEW_POINT,Taupunkt
+locale-de,MAP.PLUGINS.WEATHER.RELATIVE_HUMIDITY,Relative Feuchtigkeit
+locale-de,MAP.PLUGINS.WEATHER.WIND_SPEED,Windstärke
+locale-de,MAP.PLUGINS.WEATHER.FEELS_LIKE_TEMP,Gefühlte Temp.
+locale-de,MAP.PLUGINS.LEGEND.ERROR_MESSAGE,Keine Daten zum Anzeigen
+locale-de,MAP.PLUGINS.LAYER_SWITCH.SATELLITE,Satellit
+locale-de,MAP.PLUGINS.LAYER_SWITCH.STREET,Straße
+locale-de,OPERATIONS.YIELD,Ertrag
+locale-de,OPERATIONS.AS_APPLIED,Wie angewendet
+locale-de,OPERATIONS.SOIL_SAMPLE,Bodenprobe
+locale-de,STATISTICS.SPREAD_TIME,Verteilungszeit
+locale-de,STATISTICS.PRODUCT_TOTAL,Geschätzte Summe
+locale-de,STATISTICS.PRODUCT_SPREAD_TIME,Prod.-Verteilungszeit
+locale-de,STATISTICS.PRODUCT_AREA,Produktbereich
+locale-de,STATISTICS.SENSOR_TYPE,Sensortyp
+locale-de,STATISTICS.TOTAL_AREA,Gesamtfläche
+locale-de,STATISTICS.TOTAL_MASS,Gesamtmasse
+locale-de,STATISTICS.UN_ADJ_TTL_M,Unangepasstes TTL
+locale-de,STATISTICS.SENSOR_WDTH,Sensorbreite
+locale-de,PROFILE.FEEDBACK,Feedback senden
+locale-de,PROFILE.HELP,Hilfe und Support
