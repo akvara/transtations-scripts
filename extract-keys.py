@@ -3,7 +3,8 @@ import json
 import os
 import sys
 
-EXCEPT_FILES = ['importer.json']
+EXCEPT_FILES = ['importer_errors.json']
+ONLY_FILE = 'importer.json'
 
 
 def decompose(array, path, input):
@@ -28,6 +29,8 @@ if __name__ == '__main__':
     for file in os.listdir(locales_directory):
         if '.json' in file and file not in EXCEPT_FILES:
             files.append(file)
+
+    # files = [ONLY_FILE]
 
     with open(output_file, 'w') as csv_output:
         spam_writer = csv.writer(csv_output, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='|')
