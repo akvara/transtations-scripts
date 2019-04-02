@@ -33,7 +33,7 @@ if __name__ == '__main__':
     # files = [ONLY_FILE]
 
     with open(output_file, 'w') as csv_output:
-        spam_writer = csv.writer(csv_output, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='|')
+        spam_writer = csv.writer(csv_output, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='`')
         for file in files:
             count_files += 1
             with open(os.path.join(locales_directory, file)) as json_data:

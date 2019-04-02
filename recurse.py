@@ -13,7 +13,7 @@ MAPPINGS_FILE = 'mapping.csv'
 mapping = nested_dict(2, str)
 
 with open(MAPPINGS_FILE, 'r') as csv_input:
-    spamreader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='|')
+    spamreader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='`')
     for row in spamreader:
         print(row)
         # if len(row) > 0:

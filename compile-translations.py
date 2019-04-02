@@ -1,14 +1,19 @@
 import os
 import json
 import sys
-import settings
 
 from collections import defaultdict
 import csv
 
+LANGUAGES = [
+    'en'
+    # 'da', 'de', 'en', 'es', 'fr', 'it', 'ja', 'nl', 'pt', 'ru',
+]
+
 OUTPUT_DIRECTORY = 'locales'
 TRANSLATIONS_FILE = 'translations.csv'
 MAPPINGS_FILE = 'mapping.csv'
+EXCEPT_FILES = ['importer_errors.json']
 
 
 def nested_dict(n, element_type):
@@ -25,17 +30,21 @@ if __name__ == '__main__':
     locales_directory = sys.argv[1]
 
     files = []
+    missing_translations = 0
 
     '''
     Read in translations
     '''
     translations = nested_dict(2, str)
     with open(TRANSLATIONS_FILE, 'r') as csv_input:
-        spamreader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='|')
-        for row in spamreader:
+        spam_reader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='`')
+        for row in spam_reader:
             if len(row) > 0:
-                language, key, translation = row
-                translations[language][key] = translation
+                try:
+                    language, key, translation = row
+                    translations[language][key] = translation
+                except:
+                    print("Problem in data row:", row)
 
     '''
     Read in mappings
@@ -43,12 +52,15 @@ if __name__ == '__main__':
     mapping = nested_dict(2, str)
 
     with open(MAPPINGS_FILE, 'r') as csv_input:
-        spamreader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='|')
-        for row in spamreader:
+        spam_reader = csv.reader(csv_input, delimiter=',', quoting=csv.QUOTE_MINIMAL, quotechar='`')
+        for row in spam_reader:
             if len(row) > 0:
-                file_name, key, ignore, mapped_key, *comment = row
-                if mapped_key:
-                    mapping[file_name][key] = mapped_key
+                try:
+                    file_name, key, ignore, mapped_key, *comment = row
+                    if mapped_key:
+                        mapping[file_name][key] = mapped_key
+                except:
+                    print("Problem in data row:", row)
 
     '''
     Read files in directory
@@ -56,18 +68,18 @@ if __name__ == '__main__':
     # r=root, d=directories, f = files
     for r, d, f in os.walk(os.path.join(locales_directory, 'en')):
         for file in f:
-            if '.json' in file:
+            if '.json' in file and not file in EXCEPT_FILES:
                 files.append(file)
 
-    files = ['growers.json']
+    # files = ['growers.json']
     for file in files:
         file_name = os.path.splitext(file)[0]
         # print("Reading file " + file)
         with open(os.path.join(locales_directory, 'en', file)) as json_data:
             en_translations = json.load(json_data)
 
-        for lang in settings.LANGUAGES:
-            directory = os.path.join(OUTPUT_DIRECTORY, lang)
+        for lang in LANGUAGES:
+            directory = os.path.join(locales_directory, lang)
             # Create directory, if does not exist
             if not os.path.exists(directory):
                 # print("Creating directory " + directory)
@@ -84,5 +96,7 @@ if __name__ == '__main__':
                         translated_string = translations[f'locale-{lang}'][mapped_key]
                         file_content[key] = translated_string
                     else:
-                        print (f'No translation key for {file_name}:{key}')
+                        print(f'No translation key for {file_name}:{key}')
+                        missing_translations += 1
                 json.dump(file_content, outfile, indent=2, ensure_ascii=False)
+    print(f"Done. {missing_translations} missing translations")

@@ -47,7 +47,7 @@ locale-fr,GLOBAL.ALARM,Alarme
 locale-fr,GLOBAL.ALARMS,Alarmes
 locale-fr,GLOBAL.OPERATION,Fonctionnement
 locale-fr,GLOBAL.NAME,nom
-locale-fr,GLOBAL.EG,|Exemple, ferme de la vallée d'If|
+locale-fr,GLOBAL.EG,`Exemple, ferme de la vallée d'If`
 locale-fr,GLOBAL.COMPANY,société
 locale-fr,GLOBAL.SUBCOMPANY,Filiale
 locale-fr,GLOBAL.FLEET,Flotte
@@ -86,7 +86,7 @@ locale-fr,UPLOAD.HAS_BEEN_ORPHAN,a été importé en tant que tâche orpheline
 locale-fr,UPLOAD.UNKNOWN,Fichier inconnu.
 locale-fr,UPLOAD.START_NOTIFICATION,Le fichier téléchargé {{fileName}} est en cours de traitement
 locale-fr,UPLOAD.FINISH_NOTIFICATION,{{fileName}} a été importé
-locale-fr,UPLOAD.GFF_UPDATE_NOTIFICATION,|Les données Agriculteur, Exploitation et Champ sont en cours de mise à jour|
+locale-fr,UPLOAD.GFF_UPDATE_NOTIFICATION,`Les données Agriculteur, Exploitation et Champ sont en cours de mise à jour`
 locale-fr,ERRORS.ERROR_FOUND.ZERO,
 locale-fr,ERRORS.ERROR_FOUND.ONE,{{ErrorCount}} erreur trouvée
 locale-fr,ERRORS.ERROR_FOUND.MANY,{{ErrorCount}} erreurs trouvées
@@ -313,7 +313,7 @@ locale-fr,GROWER_MODAL.GROWER_LABEL,Nom de l'agriculteur
 locale-fr,GROWER_MODAL.GROWER_INPUT_REQUIRED,Le nom de l'agriculteur est obligatoire
 locale-fr,GROWER_MODAL.CREATE,créer
 locale-fr,GROWER_MODAL.CLOSE,fermer
-locale-fr,GROWER_MODAL.EG,|Par exemple, Isaac Harmon|
+locale-fr,GROWER_MODAL.EG,`Par exemple, Isaac Harmon`
 locale-fr,TASK.SHOW_LAYER,AFFICHER LES COUCHES DISPONIBLES
 locale-fr,TASK.HIDE_LAYER,MASQUER LES COUCHES DISPONIBLES
 locale-fr,TASK.SHOW_PREVIEW,Afficher l'aperçu
@@ -376,9 +376,9 @@ locale-fr,DELETE_MODAL.PRE,Supprimer la prescription
 locale-fr,DELETE_MODAL.QUESTION,Etes-vous sûr de vouloir supprimer ?
 locale-fr,DELETE_MZ_MODAL.PRE,Quitter le mode de création de zone de gestion
 locale-fr,DELETE_MZ_MODAL.QUESTION,Etes-vous sûr de vouloir quitter le mode de création de zone de gestion ? Vous perdrez toutes les modifications non enregistrées.
-locale-fr,DELETE_MZ_MODAL.CONFIRM,|OUI, QUITTER|
+locale-fr,DELETE_MZ_MODAL.CONFIRM,`OUI, QUITTER`
 locale-fr,EDIT_PRESCRIPTION_MODAL.PRE,Quitter le mode de création de prescription
-locale-fr,EDIT_PRESCRIPTION_MODAL.QUESTION,|Etes-vous sûr de vouloir quitter le mode de création de prescription ? Si vous continuez, vous perdrez toutes les données saisies.|
+locale-fr,EDIT_PRESCRIPTION_MODAL.QUESTION,`Etes-vous sûr de vouloir quitter le mode de création de prescription ? Si vous continuez, vous perdrez toutes les données saisies.`
 locale-fr,DELETE_TASK_MODAL.PRE,Supprimer la tâche
 locale-fr,DELETE_TASK_MODAL.QUESTION,Etes-vous sûr de vouloir supprimer ?
 locale-fr,ZONE.EDIT,Modifier le nom de la zone
@@ -473,7 +473,7 @@ locale-es,GLOBAL.ALARM,Alarma
 locale-es,GLOBAL.ALARMS,Alarmas
 locale-es,GLOBAL.OPERATION,Operación
 locale-es,GLOBAL.NAME,nombre
-locale-es,GLOBAL.EG,|P. ej., explotación agrícola Yew Valley|
+locale-es,GLOBAL.EG,`P. ej., explotación agrícola Yew Valley`
 locale-es,GLOBAL.COMPANY,empresa
 locale-es,GLOBAL.SUBCOMPANY,Subempresa
 locale-es,GLOBAL.FLEET,Flota
@@ -512,7 +512,7 @@ locale-es,UPLOAD.HAS_BEEN_ORPHAN,se ha importado como tarea huérfana
 locale-es,UPLOAD.UNKNOWN,Archivo desconocido.
 locale-es,UPLOAD.START_NOTIFICATION,La tarea {{fileName}} cargada se está procesando
 locale-es,UPLOAD.FINISH_NOTIFICATION,{{FileName}} se ha importado
-locale-es,UPLOAD.GFF_UPDATE_NOTIFICATION,|Los datos del agricultor, la explotación agrícola y el campo se están actualizando|
+locale-es,UPLOAD.GFF_UPDATE_NOTIFICATION,`Los datos del agricultor, la explotación agrícola y el campo se están actualizando`
 locale-es,ERRORS.ERROR_FOUND.ZERO,
 locale-es,ERRORS.ERROR_FOUND.ONE,Se han detectado {{ErrorCount}} errores
 locale-es,ERRORS.ERROR_FOUND.MANY,Se han detectado {{ErrorCount}} errores
@@ -739,7 +739,7 @@ locale-es,GROWER_MODAL.GROWER_LABEL,Nombre del agricultor
 locale-es,GROWER_MODAL.GROWER_INPUT_REQUIRED,Es necesario introducir el nombre del agricultor
 locale-es,GROWER_MODAL.CREATE,crear
 locale-es,GROWER_MODAL.CLOSE,cerrar
-locale-es,GROWER_MODAL.EG,|P. ej., Isaac Harmon|
+locale-es,GROWER_MODAL.EG,`P. ej., Isaac Harmon`
 locale-es,TASK.SHOW_LAYER,MOSTRAR CAPAS DISPONIBLES
 locale-es,TASK.HIDE_LAYER,OCULTAR CAPA DISPONIBLE
 locale-es,TASK.SHOW_PREVIEW,Mostrar vista previa
@@ -802,9 +802,9 @@ locale-es,DELETE_MODAL.PRE,Eliminar prescripción
 locale-es,DELETE_MODAL.QUESTION,¿Seguro que desea eliminar
 locale-es,DELETE_MZ_MODAL.PRE,Salir del modo de creación de zona de administración
 locale-es,DELETE_MZ_MODAL.QUESTION,¿Seguro que desea salir del modo de creación de zona de administración Se perderán los cambios no guardados.
-locale-es,DELETE_MZ_MODAL.CONFIRM,|SÍ, SALIR|
+locale-es,DELETE_MZ_MODAL.CONFIRM,`SÍ, SALIR`
 locale-es,EDIT_PRESCRIPTION_MODAL.PRE,Salir del modo de creación de prescripción
-locale-es,EDIT_PRESCRIPTION_MODAL.QUESTION,|¿Seguro que desea salir del modo de creación de prescripción? Si continúa, se perderán los datos introducidos.|
+locale-es,EDIT_PRESCRIPTION_MODAL.QUESTION,`¿Seguro que desea salir del modo de creación de prescripción? Si continúa, se perderán los datos introducidos.`
 locale-es,DELETE_TASK_MODAL.PRE,Eliminar tarea
 locale-es,DELETE_TASK_MODAL.QUESTION,¿Seguro que desea eliminar
 locale-es,ZONE.EDIT,Editar el nombre de zona
@@ -852,7 +852,7 @@ locale-es,PROFILE.FEEDBACK,Enviar comentarios
 locale-es,PROFILE.HELP,Ayuda y asistencia
 locale-da,DATE_FORMAT.NORMAL,MM/DD/ÅÅÅÅ
 locale-da,DATE_FORMAT.PILL,DD MMM
-locale-da,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-da,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-da,GLOBAL.SEND,Send
 locale-da,GLOBAL.SEND_DATA,Send data
 locale-da,GLOBAL.FIELD_NAME,Marknavn
@@ -863,7 +863,7 @@ locale-da,GLOBAL.VECTOR,Vektor
 locale-da,GLOBAL.RASTER,Raster
 locale-da,GLOBAL.REQUIRED_VALUE,Krævet værdi
 locale-da,GLOBAL.BOUNDARY_AREA,Grænseområde
-locale-da,GLOBAL.TILLABLE_AREA,|Område, som kan dyrkes|
+locale-da,GLOBAL.TILLABLE_AREA,`Område, som kan dyrkes`
 locale-da,GLOBAL.SHOW_LAYERS_LIST,Vis liste over lag
 locale-da,GLOBAL.HIDE_LAYERS_LIST,Gem liste over lag
 locale-da,GLOBAL.SET_VALUE,Indstil værdi
@@ -891,7 +891,7 @@ locale-da,GLOBAL.SHOWME,VIS
 locale-da,GLOBAL.CANCEL,annullér
 locale-da,GLOBAL.EDIT,Redigér
 locale-da,GLOBAL.DELETE,Slet
-locale-da,GLOBAL.DELETE_CONFIRMATION,|Er du sikker på, at du ønsker at slette|
+locale-da,GLOBAL.DELETE_CONFIRMATION,`Er du sikker på, at du ønsker at slette`
 locale-da,GLOBAL.SEND_TO,Send til
 locale-da,GLOBAL.MORE,Mere
 locale-da,GLOBAL.CLEAR_LIST,Slet liste
@@ -941,7 +941,7 @@ locale-da,UPLOAD.HAS_BEEN_ORPHAN,er blevet importeret som en opgave uden stamopg
 locale-da,UPLOAD.UNKNOWN,Ukendt fil.
 locale-da,UPLOAD.START_NOTIFICATION,Den uploadede opgave {{fileName}} behandles
 locale-da,UPLOAD.FINISH_NOTIFICATION,{{fileName}} er blevet importeret
-locale-da,UPLOAD.GFF_UPDATE_NOTIFICATION,|Planteavlsbedrift, gård og mark opdateres|
+locale-da,UPLOAD.GFF_UPDATE_NOTIFICATION,`Planteavlsbedrift, gård og mark opdateres`
 locale-da,ERRORS.ERROR_FOUND.ZERO,
 locale-da,ERRORS.ERROR_FOUND.ONE,{{errorCount}} fejl fundet
 locale-da,ERRORS.ERROR_FOUND.MANY,{{errorCount}} fejl fundet
@@ -1005,7 +1005,7 @@ locale-da,FIELD_CARD.GROWER,Planteavlsbedrift
 locale-da,FIELD_CARD.FARM,Gård
 locale-da,FIELD_CARD.AREA,Samlet markareal
 locale-da,FIELD_CARD.CROPS,Afgrøder
-locale-da,FIELD_CARD.TILLABLE,|Område, som kan dyrkes|
+locale-da,FIELD_CARD.TILLABLE,`Område, som kan dyrkes`
 locale-da,FIELD_CARD.WEATHER,Vejr
 locale-da,FIELD_CARD.LAST_TASKS,Seneste 3 opgaver
 locale-da,FIELD_CARD.IMPORT_TASKS,Importér opgave
@@ -1062,8 +1062,8 @@ locale-da,PRESCRIPTION.MAP_EDIT_N,Redigér navn på forskriftkort
 locale-da,PRESCRIPTION.MAP_SET_N,Angiv navn på forskriftkort
 locale-da,PRESCRIPTION.ZONE_NUMBER,Zoner
 locale-da,PRESCRIPTION.SEND_TO,Send forskrift
-locale-da,PRESCRIPTION.UNAVAILABLE,|Forskriftfilen genereres, og du får en meddelelse, når handlingen er udført. Prøv igen senere.|
-locale-da,PRESCRIPTION.PROCESSED,|Forskriftfilen for {{prescriptionName}} er klar. Du kan hente den, eller du kan sende den til maskinerne.|
+locale-da,PRESCRIPTION.UNAVAILABLE,`Forskriftfilen genereres, og du får en meddelelse, når handlingen er udført. Prøv igen senere.`
+locale-da,PRESCRIPTION.PROCESSED,`Forskriftfilen for {{prescriptionName}} er klar. Du kan hente den, eller du kan sende den til maskinerne.`
 locale-da,PRESCRIPTION.PRESCRIPTION_MAP,Forskriftkort
 locale-da,PRESCRIPTION.ANALYSIS,Analyse
 locale-da,PRESCRIPTION.UNKNOWN,Ukendt
@@ -1131,9 +1131,9 @@ locale-da,FIELD.NAME_FIELD_REQUIRED,Marknavn er påkrævet
 locale-da,FIELD.FIELD_SELECT,Vælg mark
 locale-da,FIELD.FIELD_REQUIRED,Mark er påkrævet.
 locale-da,FIELD.BOUNDARY,Grænseområde
-locale-da,FIELD.TILLABLE,|Område, som kan dyrkes|
-locale-da,FIELD.INSERT_TILLABLE,|Angiv område, som kan dyrkes|
-locale-da,FIELD.TILLABLE_REQUIRED,|Område, som kan dyrkes, er påkrævet|
+locale-da,FIELD.TILLABLE,`Område, som kan dyrkes`
+locale-da,FIELD.INSERT_TILLABLE,`Angiv område, som kan dyrkes`
+locale-da,FIELD.TILLABLE_REQUIRED,`Område, som kan dyrkes, er påkrævet`
 locale-da,FIELD.ZONE_VALUE,Angiv zoneværdi
 locale-da,NEW_FIELD.TITLE,Ny mark
 locale-da,NEW_FIELD.SELECT_GROWER,Vælg planteavlsbedrift
@@ -1145,8 +1145,8 @@ locale-da,NEW_FIELD.FARM_REQUIRED,Gårdnavn er påkrævet
 locale-da,NEW_FIELD.FIELD_INPUT,Angiv marknavn
 locale-da,NEW_FIELD.FIELD_INPUT_ERROR,Marknavn er påkrævet
 locale-da,NEW_FIELD.BOUNDARY_AREA,Grænseområde
-locale-da,NEW_FIELD.TILLABLE_AREA,|Område, som kan dyrkes|
-locale-da,NEW_FIELD.TILLABLE_AREA_REQUIRED,|Område, som kan dyrkes, er påkrævet|
+locale-da,NEW_FIELD.TILLABLE_AREA,`Område, som kan dyrkes`
+locale-da,NEW_FIELD.TILLABLE_AREA_REQUIRED,`Område, som kan dyrkes, er påkrævet`
 locale-da,NEW_FIELD.CREATE_FIELD,opret mark
 locale-da,NEW_FIELD.SAVE_FIELD,gem mark
 locale-da,NEW_FIELD.ERROR.NEW,Kan ikke oprette en ny mark.
@@ -1229,21 +1229,21 @@ locale-da,PRODUCT.EDIT,Redigér produkt
 locale-da,PRODUCT.EDIT_VALUE,Redigér produktværdi
 locale-da,PRODUCT.PRODUCTS,Produkter
 locale-da,DELETE_MODAL.PRE,Slet forskrift
-locale-da,DELETE_MODAL.QUESTION,|Er du sikker på, at du ønsker at slette|
+locale-da,DELETE_MODAL.QUESTION,`Er du sikker på, at du ønsker at slette`
 locale-da,DELETE_MZ_MODAL.PRE,Forlad oprettelsestilstand for styringszone
-locale-da,DELETE_MZ_MODAL.QUESTION,|Er du sikker på, at du vil forlade oprettelsestilstand for styringszone? Du vil miste alle ændringer, som ikke er gemt.|
-locale-da,DELETE_MZ_MODAL.CONFIRM,|JA, FORLAD|
+locale-da,DELETE_MZ_MODAL.QUESTION,`Er du sikker på, at du vil forlade oprettelsestilstand for styringszone? Du vil miste alle ændringer, som ikke er gemt.`
+locale-da,DELETE_MZ_MODAL.CONFIRM,`JA, FORLAD`
 locale-da,EDIT_PRESCRIPTION_MODAL.PRE,Forlad oprettelsestilstand for forskrift
-locale-da,EDIT_PRESCRIPTION_MODAL.QUESTION,|Er du sikker på, at du vil forlade oprettelsestilstand for forskrift? Hvis du fortsætter, vil du miste de indtastede data.|
+locale-da,EDIT_PRESCRIPTION_MODAL.QUESTION,`Er du sikker på, at du vil forlade oprettelsestilstand for forskrift? Hvis du fortsætter, vil du miste de indtastede data.`
 locale-da,DELETE_TASK_MODAL.PRE,Slet opgave
-locale-da,DELETE_TASK_MODAL.QUESTION,|Er du sikker på, at du ønsker at slette|
+locale-da,DELETE_TASK_MODAL.QUESTION,`Er du sikker på, at du ønsker at slette`
 locale-da,ZONE.EDIT,Redigér zonenavn
 locale-da,ZONE.SET,Angiv navn på styringszone
 locale-da,PDF.TITLE,pdf
 locale-da,MAP.EDIT_TOOLTIP_TEXT,Træk i håndtaget for at ændre marken
 locale-da,MAP.REMOVE_TOOLTIP_TEXT,Klik på en mark for at fjerne den
 locale-da,MAP.POLYGON_TOOLTIP_START,Klik på et kort for at starte med at optegne marken.<br/>Tegn inde i polygonen for at lave et hul i marken
-locale-da,MAP.BUFFER_TOOLTIP.TEXT,|Klik, og træk for at udvide eller formindske marken|
+locale-da,MAP.BUFFER_TOOLTIP.TEXT,`Klik, og træk for at udvide eller formindske marken`
 locale-da,MAP.BUFFER_TOOLTIP.MEASURE,Radius
 locale-da,MAP.POLYGON_TOOLTIP.START,Klik for at starte med at tegne
 locale-da,MAP.POLYGON_TOOLTIP.CONT,Klik på kortet for at fortsætte<br/>med at optegne marken
@@ -1282,7 +1282,7 @@ locale-da,PROFILE.FEEDBACK,Send feedback
 locale-da,PROFILE.HELP,Hjælp og support
 locale-nl,DATE_FORMAT.NORMAL,MM/DD/JJJJ
 locale-nl,DATE_FORMAT.PILL,DD MMM
-locale-nl,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-nl,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-nl,GLOBAL.SEND,Verzenden
 locale-nl,GLOBAL.SEND_DATA,Gegevens verzenden
 locale-nl,GLOBAL.FIELD_NAME,Naam veld
@@ -1371,7 +1371,7 @@ locale-nl,UPLOAD.HAS_BEEN_ORPHAN,is als weestaak geïmporteerd
 locale-nl,UPLOAD.UNKNOWN,Onbekend bestand.
 locale-nl,UPLOAD.START_NOTIFICATION,De geüploade taak {{fileName}} wordt verwerkt
 locale-nl,UPLOAD.FINISH_NOTIFICATION,{{fileName}} is geïmporteerd
-locale-nl,UPLOAD.GFF_UPDATE_NOTIFICATION,|Teler, bedrijf en Veldgegevens worden bijgewerkt|
+locale-nl,UPLOAD.GFF_UPDATE_NOTIFICATION,`Teler, bedrijf en Veldgegevens worden bijgewerkt`
 locale-nl,ERRORS.ERROR_FOUND.ZERO,
 locale-nl,ERRORS.ERROR_FOUND.ONE,{{errorCount}} fout gevonden
 locale-nl,ERRORS.ERROR_FOUND.MANY,{{errorCount}} fout gevonden
@@ -1662,9 +1662,9 @@ locale-nl,DELETE_MODAL.PRE,Voorschrift verwijderen
 locale-nl,DELETE_MODAL.QUESTION,Weet u zeker dat u het volgende wilt wissen
 locale-nl,DELETE_MZ_MODAL.PRE,Aanmaakmodus beheerzone afsluiten
 locale-nl,DELETE_MZ_MODAL.QUESTION,Weet u zeker dat u de aanmaakmodus van de beheerzone wilt afsluiten? Alle niet-opgeslagen wijzigingen gaan verloren.
-locale-nl,DELETE_MZ_MODAL.CONFIRM,|JA, AFSLUITEN|
+locale-nl,DELETE_MZ_MODAL.CONFIRM,`JA, AFSLUITEN`
 locale-nl,EDIT_PRESCRIPTION_MODAL.PRE,Aanmaakmodus voorschriften afsluiten
-locale-nl,EDIT_PRESCRIPTION_MODAL.QUESTION,|Weet u zeker dat u de aanmaakmodus voorschriften wilt afsluiten? Als u verdergaat, gaan alle ingevoerde gegevens verloren.|
+locale-nl,EDIT_PRESCRIPTION_MODAL.QUESTION,`Weet u zeker dat u de aanmaakmodus voorschriften wilt afsluiten? Als u verdergaat, gaan alle ingevoerde gegevens verloren.`
 locale-nl,DELETE_TASK_MODAL.PRE,Taak verwijderen
 locale-nl,DELETE_TASK_MODAL.QUESTION,Weet u zeker dat u het volgende wilt wissen
 locale-nl,ZONE.EDIT,Zonenaam wijzigen
@@ -2138,7 +2138,7 @@ locale-ja,PROFILE.FEEDBACK,ﾌｨｰﾄﾞﾊﾞｯｸ送信
 locale-ja,PROFILE.HELP,ﾍﾙﾌﾟ&ｻﾎﾟｰﾄ
 locale-en,DATE_FORMAT.NORMAL,MM/DD/YYYY
 locale-en,DATE_FORMAT.PILL,DD MMM
-locale-en,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-en,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-en,GLOBAL.SEND,Send
 locale-en,GLOBAL.SEND_DATA,Send Data
 locale-en,GLOBAL.FIELD_NAME,Field's name
@@ -2217,7 +2217,7 @@ locale-en,GLOBAL.COMPLETED,completed
 locale-en,UPLOAD.DND,Drag and drop files here!
 locale-en,UPLOAD.OR,or
 locale-en,UPLOAD.BROWSE,browse files
-locale-en,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
+locale-en,UPLOAD.FILE_FORMATS,`ISOXML, Shapefile, CN1`
 locale-en,UPLOAD.UPLOADING,Uploading
 locale-en,UPLOAD.UPLOADING_DOT,Uploading...
 locale-en,UPLOAD.ERROR,Error
@@ -2243,7 +2243,7 @@ locale-en,UPLOAD.HAS_BEEN_ORPHAN,has been imported as orphan task
 locale-en,UPLOAD.UNKNOWN,Unknown file.
 locale-en,UPLOAD.START_NOTIFICATION,The uploaded task {{fileName}} is processing
 locale-en,UPLOAD.FINISH_NOTIFICATION,{{fileName}} has been imported
-locale-en,UPLOAD.GFF_UPDATE_NOTIFICATION,|Grower, Farm and Field data is being updated|
+locale-en,UPLOAD.GFF_UPDATE_NOTIFICATION,`Grower, Farm and Field data is being updated`
 locale-en,UPLOAD.UNEXPECTED_ERROR,An unexpected error occurred while processing your file
 locale-en,UPLOAD.WARNING_TO_CHECK,There is a warning message to check
 locale-en,UPLOAD.SEE_DETAILS,See details
@@ -2251,7 +2251,7 @@ locale-en,UPLOAD.FILE,file
 locale-en,UPLOAD.FILE_PLURAL,files
 locale-en,UPLOAD.SUPPORTED_FORMATS,Supported formats:
 locale-en,UPLOAD.HAVING_PROBLEMS,Get help with my upload
-locale-en,UPLOAD.TOOLTIP_MESSAGE,|If you are uploading an ISOXML files, the entire contents of the TASKDATA folder should first be zipped. Be sure to include all XML, BIN and any other files which are in the TASKDATA folder. Then upload the ZIP file, rather than the individual files.|
+locale-en,UPLOAD.TOOLTIP_MESSAGE,`If you are uploading an ISOXML files, the entire contents of the TASKDATA folder should first be zipped. Be sure to include all XML, BIN and any other files which are in the TASKDATA folder. Then upload the ZIP file, rather than the individual files.`
 locale-en,UPLOAD.DISMISS,Dismiss
 locale-en,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> has been created in field <strong>{{fieldName}}</strong>
 locale-en,UPLOAD.FILE_IMPORTED,{{fileName}} has been imported
@@ -2580,7 +2580,7 @@ locale-en,TASK.TASK_TYPE_UNKNOWN,Task type unknown
 locale-en,TASK.TASK_TYPE,Task type
 locale-en,TASK.SELECT_TASK_TYPE,Select task type
 locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,This task type wasn’t recognized by the system.
-locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,|Please, change this task type to a known one in TAP.|
+locale-en,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION_SUBTEXT,`Please, change this task type to a known one in TAP.`
 locale-en,TASK.CHANGE_TASK_TYPE,change task type
 locale-en,TASK.TASK_DATE,Task date
 locale-en,TASK.TASK_LAYER_ISSUE,Task layer issue
@@ -2634,9 +2634,9 @@ locale-en,DELETE_MODAL.PRE,Delete Prescription
 locale-en,DELETE_MODAL.QUESTION,Are you sure you want to delete
 locale-en,DELETE_MZ_MODAL.PRE,Exit from management zone create mode
 locale-en,DELETE_MZ_MODAL.QUESTION,Are you sure you want to quit the management zone create mode? You will lose all the unsaved changes.
-locale-en,DELETE_MZ_MODAL.CONFIRM,|YES, EXIT|
+locale-en,DELETE_MZ_MODAL.CONFIRM,`YES, EXIT`
 locale-en,EDIT_PRESCRIPTION_MODAL.PRE,Exit from create prescription mode
-locale-en,EDIT_PRESCRIPTION_MODAL.QUESTION,|Are you sure you want to quit the prescription create mode? If you continue, you will lose all entered data.|
+locale-en,EDIT_PRESCRIPTION_MODAL.QUESTION,`Are you sure you want to quit the prescription create mode? If you continue, you will lose all entered data.`
 locale-en,DELETE_TASK_MODAL.PRE,Delete Task
 locale-en,DELETE_TASK_MODAL.QUESTION,Are you sure you want to delete
 locale-en,ZONE.EDIT,Edit zone's name
@@ -2696,7 +2696,7 @@ locale-en,VARIABLE.YIELD_VOL,Yield Volume
 locale-en,VARIABLE.UNADJ_CELL_M,Unadjasted Cell
 locale-it,DATE_FORMAT.NORMAL,MM/GG/AAAA
 locale-it,DATE_FORMAT.PILL,GG MMM
-locale-it,DATE_FORMAT.WEATHER,|MMMM G, gggg|
+locale-it,DATE_FORMAT.WEATHER,`MMMM G, gggg`
 locale-it,GLOBAL.SEND,Invia
 locale-it,GLOBAL.SEND_DATA,Invia dati
 locale-it,GLOBAL.FIELD_NAME,Nome campo
@@ -2785,7 +2785,7 @@ locale-it,UPLOAD.HAS_BEEN_ORPHAN,è stato importato come attività isolata
 locale-it,UPLOAD.UNKNOWN,File sconosciuto.
 locale-it,UPLOAD.START_NOTIFICATION,Elaborazione in corso dell'attività caricata {{fileName}}
 locale-it,UPLOAD.FINISH_NOTIFICATION,{{fileName}} importato
-locale-it,UPLOAD.GFF_UPDATE_NOTIFICATION,|Dati Coltivatore, Azienda agricola e Campo in aggiornamento|
+locale-it,UPLOAD.GFF_UPDATE_NOTIFICATION,`Dati Coltivatore, Azienda agricola e Campo in aggiornamento`
 locale-it,ERRORS.ERROR_FOUND.ZERO,
 locale-it,ERRORS.ERROR_FOUND.ONE,Errore {{errorCount}}
 locale-it,ERRORS.ERROR_FOUND.MANY,Errore {{errorCount}}
@@ -3076,7 +3076,7 @@ locale-it,DELETE_MODAL.PRE,Elimina prescrizione
 locale-it,DELETE_MODAL.QUESTION,Eliminare?
 locale-it,DELETE_MZ_MODAL.PRE,Uscire dalla modalità di creazione della zona di gestione
 locale-it,DELETE_MZ_MODAL.QUESTION,Uscire dalla modalità di creazione della zona di gestione? Tutte le modifiche non salvate andranno perse.
-locale-it,DELETE_MZ_MODAL.CONFIRM,|SÌ, USCIRE|
+locale-it,DELETE_MZ_MODAL.CONFIRM,`SÌ, USCIRE`
 locale-it,EDIT_PRESCRIPTION_MODAL.PRE,Esci da modalità crea prescrizione
 locale-it,EDIT_PRESCRIPTION_MODAL.QUESTION,Uscire dalla modalità crea prescrizione? Continuando tutti i dati immessi andranno persi.
 locale-it,DELETE_TASK_MODAL.PRE,Elimina attività
@@ -3212,7 +3212,7 @@ locale-de,UPLOAD.HAS_BEEN_ORPHAN,Wurde importiert als Waisen-Aufgabe
 locale-de,UPLOAD.UNKNOWN,Unbekannte Datei.
 locale-de,UPLOAD.START_NOTIFICATION,Die hochgeladene Aufgabe {{fileName}} wird verarbeitet
 locale-de,UPLOAD.FINISH_NOTIFICATION,{{fileName}} wurde importiert
-locale-de,UPLOAD.GFF_UPDATE_NOTIFICATION,|Anbauer, Betriebs- und Felddaten werden aktualisiert|
+locale-de,UPLOAD.GFF_UPDATE_NOTIFICATION,`Anbauer, Betriebs- und Felddaten werden aktualisiert`
 locale-de,ERRORS.ERROR_FOUND.ZERO,
 locale-de,ERRORS.ERROR_FOUND.ONE,{{errorCount}} Fehler gefunden
 locale-de,ERRORS.ERROR_FOUND.MANY,{{errorCount}} Fehler gefunden
@@ -3248,18 +3248,18 @@ locale-de,EMPTY_STATE.TASKS.IMPORTED_TITLE,Noch keine Aufgaben importiert
 locale-de,EMPTY_STATE.TASKS.IMPORTED_TEXT,Sie können eine neue Aufgabe über die Schaltfläche unten importieren
 locale-de,EMPTY_STATE.TASKS.IMPORTED_CTA,Aufgabe importieren
 locale-de,EMPTY_STATE.TASKS.FOUND_TITLE,Keine Aufgaben gefunden
-locale-de,EMPTY_STATE.TASKS.FOUND_TEXT,|Versuchen, Filter zu ändern|
+locale-de,EMPTY_STATE.TASKS.FOUND_TEXT,`Versuchen, Filter zu ändern`
 locale-de,EMPTY_STATE.TASKS.NOT_SELECTED,NOCH KEINE AUFGABEN IMPORTIERT
 locale-de,EMPTY_STATE.TASKS.NOT_SELECTED_TXT,Sie können eine neue Aufgabe über die Schaltfläche rechts oben importieren
 locale-de,EMPTY_STATE.FIELDS.CREATED_TITLE,Noch kein Feld erstellt
 locale-de,EMPTY_STATE.FIELDS.CREATED_TXT,Sie können ein neues Feld über die Schaltfläche unten erstellen
 locale-de,EMPTY_STATE.FIELDS.FOUND_TITLE,Kein Feld gefunden
-locale-de,EMPTY_STATE.FIELDS.FOUND_TXT,|Versuchen, Suche und Filter zu ändern|
+locale-de,EMPTY_STATE.FIELDS.FOUND_TXT,`Versuchen, Suche und Filter zu ändern`
 locale-de,EMPTY_STATE.FIELDS.NOT_SELECTED,NOCH KEIN FELD AUSGEWÄHLT
-locale-de,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,|Sie können ein Feld in der Seitenleiste links auswählen, um alle zugehörigen Aufgaben anzuzeigen|
+locale-de,EMPTY_STATE.FIELDS.NOT_SELECTED_TXT,`Sie können ein Feld in der Seitenleiste links auswählen, um alle zugehörigen Aufgaben anzuzeigen`
 locale-de,EMPTY_STATE.VEHICLES.CREATED_TITLE,Noch keine Fahrzeuge erstellt
 locale-de,EMPTY_STATE.VEHICLES.FOUND_TITLE,Noch keine Fahrzeuge gefunden
-locale-de,EMPTY_STATE.VEHICLES.FOUND_TXT,|Versuchen, Suche und Filter zu ändern|
+locale-de,EMPTY_STATE.VEHICLES.FOUND_TXT,`Versuchen, Suche und Filter zu ändern`
 locale-de,EMPTY_STATE.DEFAULT.TITLE,Keine Daten
 locale-de,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TITLE,Noch kein Rezept erstellt
 locale-de,EMPTY_STATE.PRESCRIPTIONS.IMPORTED_TEXT,Sie können ein neues Rezept über die Schaltfläche unten erstellen.
@@ -3331,7 +3331,7 @@ locale-de,PRESCRIPTION.MAP_EDIT_N,Namen der Vorgabekarte bearbeiten
 locale-de,PRESCRIPTION.MAP_SET_N,Namen der Vorgabekarte festlegen
 locale-de,PRESCRIPTION.ZONE_NUMBER,Zonen
 locale-de,PRESCRIPTION.SEND_TO,Vorgabe senden
-locale-de,PRESCRIPTION.UNAVAILABLE,|Die Vorgabedatei wird erstellt, und Sie werden benachrichtigt, sobald der Vorgang abgeschlossen ist. Bitte versuchen Sie es später noch einmal.|
+locale-de,PRESCRIPTION.UNAVAILABLE,`Die Vorgabedatei wird erstellt, und Sie werden benachrichtigt, sobald der Vorgang abgeschlossen ist. Bitte versuchen Sie es später noch einmal.`
 locale-de,PRESCRIPTION.PROCESSED,Die Vorgabedatei für {{prescriptionName}} ist bereit. Sie können sie jetzt herunterladen oder an die Maschinen senden.
 locale-de,PRESCRIPTION.SELECT_DEVICE_EMPTY,Kein Gerät ausgewählt
 locale-de,PRESCRIPTION.PRESCRIPTION_MAP,Vorgabekarte
@@ -3501,27 +3501,27 @@ locale-de,PRODUCT.PRODUCTS,Produkte
 locale-de,DELETE_MODAL.PRE,Vorgabe löschen
 locale-de,DELETE_MODAL.QUESTION,Möchten Sie wirklich löschen?
 locale-de,DELETE_MZ_MODAL.PRE,Modus Management-Zone erstellen beenden
-locale-de,DELETE_MZ_MODAL.QUESTION,|Sind Sie sicher, dass Sie den Modus Management-Zone erstellen beenden möchten? Sie verlieren alle nicht gespeicherten Änderungen.|
-locale-de,DELETE_MZ_MODAL.CONFIRM,|JA, BEENDEN|
+locale-de,DELETE_MZ_MODAL.QUESTION,`Sind Sie sicher, dass Sie den Modus Management-Zone erstellen beenden möchten? Sie verlieren alle nicht gespeicherten Änderungen.`
+locale-de,DELETE_MZ_MODAL.CONFIRM,`JA, BEENDEN`
 locale-de,EDIT_PRESCRIPTION_MODAL.PRE,Modus Vorgabe erstellen beenden
-locale-de,EDIT_PRESCRIPTION_MODAL.QUESTION,|Sind Sie sicher, dass Sie den Modus Vorgabe erstellen beenden möchten? Wenn Sie fortfahren, verlieren Sie alle eingegebenen Daten.|
+locale-de,EDIT_PRESCRIPTION_MODAL.QUESTION,`Sind Sie sicher, dass Sie den Modus Vorgabe erstellen beenden möchten? Wenn Sie fortfahren, verlieren Sie alle eingegebenen Daten.`
 locale-de,DELETE_TASK_MODAL.PRE,Aufgabe löschen
 locale-de,DELETE_TASK_MODAL.QUESTION,Möchten Sie wirklich löschen?
 locale-de,ZONE.EDIT,Zonenname bearbeiten
 locale-de,ZONE.SET,Management-Zonenname festlegen
 locale-de,PDF.TITLE,PDF
-locale-de,MAP.EDIT_TOOLTIP_TEXT,|Ziehen Sie am Steuerpunkt, um das Feld zu verändern|
-locale-de,MAP.REMOVE_TOOLTIP_TEXT,|Klicken Sie auf ein Feld, um es zu entfernen|
-locale-de,MAP.POLYGON_TOOLTIP_START,|Klicken Sie auf die Karte, um mit dem Zeichnen des Feldes zu beginnen.<br/>Zeichnen Sie innerhalb des Polygons, um ein Loch im Feld zu erstellen|
+locale-de,MAP.EDIT_TOOLTIP_TEXT,`Ziehen Sie am Steuerpunkt, um das Feld zu verändern`
+locale-de,MAP.REMOVE_TOOLTIP_TEXT,`Klicken Sie auf ein Feld, um es zu entfernen`
+locale-de,MAP.POLYGON_TOOLTIP_START,`Klicken Sie auf die Karte, um mit dem Zeichnen des Feldes zu beginnen.<br/>Zeichnen Sie innerhalb des Polygons, um ein Loch im Feld zu erstellen`
 locale-de,MAP.BUFFER_TOOLTIP.TEXT,Klicken und ziehen Sie zum Erweitern oder Verkleinern des Feldes
 locale-de,MAP.BUFFER_TOOLTIP.MEASURE,Radius
-locale-de,MAP.POLYGON_TOOLTIP.START,|Klicken Sie, um mit dem Zeichnen zu beginnen|
-locale-de,MAP.POLYGON_TOOLTIP.CONT,|Klicken Sie auf die Karte, um mit dem Zeichnen<br/>des Feldes fortzufahren|
-locale-de,MAP.POLYGON_TOOLTIP.END,|Klicken Sie auf den ersten Punkt, um die Erstellung <br/> des Feldes abzuschließen|
+locale-de,MAP.POLYGON_TOOLTIP.START,`Klicken Sie, um mit dem Zeichnen zu beginnen`
+locale-de,MAP.POLYGON_TOOLTIP.CONT,`Klicken Sie auf die Karte, um mit dem Zeichnen<br/>des Feldes fortzufahren`
+locale-de,MAP.POLYGON_TOOLTIP.END,`Klicken Sie auf den ersten Punkt, um die Erstellung <br/> des Feldes abzuschließen`
 locale-de,MAP.POLYLINE.ERROR,<strong>Fehler:</strong> Formkanten dürfen sich nicht kreuzen!
-locale-de,MAP.POLYLINE.TOOLTIP.START,|Klicken Sie, um mit dem Zeichnen der Linie zu beginnen.|
-locale-de,MAP.POLYLINE.TOOLTIP.CONT,|Klicken Sie, um mit dem Zeichnen der Linie fortzufahren.|
-locale-de,MAP.POLYLINE.TOOLTIP.END,|Klicken Sie auf den letzten Punkt, um die Linie fertigzustellen.|
+locale-de,MAP.POLYLINE.TOOLTIP.START,`Klicken Sie, um mit dem Zeichnen der Linie zu beginnen.`
+locale-de,MAP.POLYLINE.TOOLTIP.CONT,`Klicken Sie, um mit dem Zeichnen der Linie fortzufahren.`
+locale-de,MAP.POLYLINE.TOOLTIP.END,`Klicken Sie auf den letzten Punkt, um die Linie fertigzustellen.`
 locale-de,MAP.PLUGINS.ZOOM.OUT,Verkleinern
 locale-de,MAP.PLUGINS.ZOOM.IN,Vergrößern
 locale-de,MAP.PLUGINS.SEARCH.PLACEHOLDER,Position suchen
@@ -3552,7 +3552,7 @@ locale-de,PROFILE.FEEDBACK,Feedback senden
 locale-de,PROFILE.HELP,Hilfe und Support
 locale-fr,DATE_FORMAT.NORMAL,MM/JJ/AAAA
 locale-fr,DATE_FORMAT.PILL,JJ MMM
-locale-fr,DATE_FORMAT.WEATHER,|MMMM J, jjjj|
+locale-fr,DATE_FORMAT.WEATHER,`MMMM J, jjjj`
 locale-fr,GLOBAL.AT,à
 locale-fr,GLOBAL.COMPLETED,terminé
 locale-fr,GLOBAL.HELP,Obtenir de l'aide
@@ -3571,7 +3571,7 @@ locale-fr,UPLOAD.AN_ERROR_OCCURRED,Une erreur s’est produite
 locale-fr,UPLOAD.DISMISS,Ignorer
 locale-fr,UPLOAD.ERROR_PLURAL,Erreurs
 locale-fr,UPLOAD.FILE,fichier
-locale-fr,UPLOAD.FILE_FORMATS,|ISOXML, fichier de forme, CN1|
+locale-fr,UPLOAD.FILE_FORMATS,`ISOXML, fichier de forme, CN1`
 locale-fr,UPLOAD.FILE_IMPORTED,{{fileName}} a été importé
 locale-fr,UPLOAD.FILE_PLURAL,fichiers
 locale-fr,UPLOAD.GLOBAL_COMPLETED,Fichier {{files}} téléchargé
@@ -3585,7 +3585,7 @@ locale-fr,UPLOAD.STATUS.PROCESSING.ONE,Traitement du fichier {{count}}
 locale-fr,UPLOAD.STATUS.UPLOADING.MANY,Téléchargement des fichiers {{count}} en cours
 locale-fr,UPLOAD.STATUS.UPLOADING.ONE,Téléchargement du fichier {{count}} en cours
 locale-fr,UPLOAD.SUPPORTED_FORMATS,Formats pris en charge :
-locale-fr,UPLOAD.TOOLTIP_MESSAGE,|Si vous téléchargez des fichiers ISOXML, tout le contenu du dossier TASKDATA doit d'abord être compressé. Assurez-vous d'inclure tous les fichiers XML, BIN et de tout autre format présents dans le dossier TASKDATA. Chargez ensuite le fichier ZIP, plutôt que les fichiers individuels.|
+locale-fr,UPLOAD.TOOLTIP_MESSAGE,`Si vous téléchargez des fichiers ISOXML, tout le contenu du dossier TASKDATA doit d'abord être compressé. Assurez-vous d'inclure tous les fichiers XML, BIN et de tout autre format présents dans le dossier TASKDATA. Chargez ensuite le fichier ZIP, plutôt que les fichiers individuels.`
 locale-fr,UPLOAD.UNEXPECTED_ERROR,Une erreur inattendue s'est produite lors du traitement de votre fichier
 locale-fr,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> a été créé dans le champ <strong>{{fieldName}}</strong>
 locale-fr,UPLOAD.WARNING_TO_CHECK,Veuillez vérifier le message d'avertissement
@@ -3612,7 +3612,7 @@ locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,Le fichier téléchar
 locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Colonne non numérique supprimée
 locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Le fichier téléchargé contenait plusieurs colonnes Date/Heure. La première colonne Date/Heure détectée a été utilisée.
 locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Conflit de Date/Heure détecté
-locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Les données ont été traitées, mais elles ne contiennent aucun total ou aucun total ne peut être calculé.|
+locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,`Les données ont été traitées, mais elles ne contiennent aucun total ou aucun total ne peut être calculé.`
 locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Impossible de calculer les totaux
 locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Les données ont été ignorées. Il s'agit d'une copie d'une tâche précédemment importée.
 locale-fr,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Données précédemment importées
@@ -3682,7 +3682,7 @@ locale-fr,PDF.TITLE,pdf
 locale-fr,OPERATIONS.OTHER,Autre
 locale-es,DATE_FORMAT.NORMAL,MM/DD/AAAA
 locale-es,DATE_FORMAT.PILL,DD MMM
-locale-es,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-es,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-es,GLOBAL.AT,a las
 locale-es,GLOBAL.COMPLETED,completado
 locale-es,GLOBAL.HELP,Obtener asistencia
@@ -3701,7 +3701,7 @@ locale-es,UPLOAD.AN_ERROR_OCCURRED,Se ha producido un error
 locale-es,UPLOAD.DISMISS,Descartar
 locale-es,UPLOAD.ERROR_PLURAL,Errores
 locale-es,UPLOAD.FILE,archivo
-locale-es,UPLOAD.FILE_FORMATS,|ISOXML, archivo de formas, CN1|
+locale-es,UPLOAD.FILE_FORMATS,`ISOXML, archivo de formas, CN1`
 locale-es,UPLOAD.FILE_IMPORTED,{{fileName}} se ha importado
 locale-es,UPLOAD.FILE_PLURAL,archivos
 locale-es,UPLOAD.GLOBAL_COMPLETED,Se ha cargado {{files}} archivo
@@ -3715,7 +3715,7 @@ locale-es,UPLOAD.STATUS.PROCESSING.ONE,Procesando {{count}} archivo
 locale-es,UPLOAD.STATUS.UPLOADING.MANY,Cargando {{count}} archivos
 locale-es,UPLOAD.STATUS.UPLOADING.ONE,Cargando {{count}} archivo
 locale-es,UPLOAD.SUPPORTED_FORMATS,Formatos admitidos:
-locale-es,UPLOAD.TOOLTIP_MESSAGE,|Si está cargando un archivo ISOXML, todo el contenido de la carpeta TASKDATA debe comprimirse primero. Asegúrese de incluir todos los archivos XML, BIN y de otro tipo que estén en la carpeta TASKDATA. A continuación, cargue el archivo ZIP, en lugar de los archivos individuales.|
+locale-es,UPLOAD.TOOLTIP_MESSAGE,`Si está cargando un archivo ISOXML, todo el contenido de la carpeta TASKDATA debe comprimirse primero. Asegúrese de incluir todos los archivos XML, BIN y de otro tipo que estén en la carpeta TASKDATA. A continuación, cargue el archivo ZIP, en lugar de los archivos individuales.`
 locale-es,UPLOAD.UNEXPECTED_ERROR,Se ha producido un error inesperado al procesar el archivo
 locale-es,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> se ha creado en el campo <strong>{{fieldName}}</strong>
 locale-es,UPLOAD.WARNING_TO_CHECK,Hay un mensaje de advertencia que comprobar
@@ -3742,7 +3742,7 @@ locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,El archivo cargado co
 locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Columna no numérica eliminada
 locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,El archivo cargado contenía varias columnas de fecha/hora. La primera columna de fecha/hora detectada se ha utilizado.
 locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Conflicto con fecha/hora detectado
-locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Los datos se han procesado, pero no contienen totales ni pudieron calcularse.|
+locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,`Los datos se han procesado, pero no contienen totales ni pudieron calcularse.`
 locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,No se pueden calcular los totales
 locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Los datos se han omitido. Es un duplicado de una tarea importada previamente.
 locale-es,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Datos importados previamente
@@ -3768,7 +3768,7 @@ locale-es,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,No se han podido anali
 locale-es,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Encabezados de datos no válidos
 locale-es,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ruta de archivo no válida o inaccesible.
 locale-es,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Fuente del archivo no encontrada
-locale-es,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|El archivo de formas cargado no es válido. Incluya los archivos .dbf, .shp y .shx en el archivo .zip cargado.|
+locale-es,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,`El archivo de formas cargado no es válido. Incluya los archivos .dbf, .shp y .shx en el archivo .zip cargado.`
 locale-es,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,No se ha podido leer el archivo de formas
 locale-es,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,El archivo importado no contiene datos de cobertura.
 locale-es,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,No se han encontrado datos de cobertura
@@ -3800,7 +3800,7 @@ locale-es,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Seleccionar una unidad de medida
 locale-es,TASK.SELECT_TASK_TYPE,Seleccionar tipo de tarea
 locale-es,TASK.TASK_DATE,Fecha de la tarea
 locale-es,TASK.TASK_LAYER_ISSUE,Problema con la capa de la tarea
-locale-es,TASK.TASK_LAYER_ISSUE_DESCRIPTION,|Falta información en esta capa de la tarea O bien no está relacionada con una variable conocida, o bien falta la unidad de medida|
+locale-es,TASK.TASK_LAYER_ISSUE_DESCRIPTION,`Falta información en esta capa de la tarea O bien no está relacionada con una variable conocida, o bien falta la unidad de medida`
 locale-es,TASK.TASK_TYPE,Tipo de tarea
 locale-es,TASK.TASK_TYPE_UNKNOWN,Tipo de tarea desconocido
 locale-es,TASK.TASK_TYPE_UNKNOWN_DESCRIPTION,El sistema no ha reconocido este tipo de tarea.
@@ -3811,7 +3811,7 @@ locale-es,TASK.UNKNOWN,desconocido
 locale-es,OPERATIONS.OTHER,Otros
 locale-da,DATE_FORMAT.NORMAL,MM/DD/ÅÅÅÅ
 locale-da,DATE_FORMAT.PILL,DD MMM
-locale-da,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-da,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-da,GLOBAL.SEND,Send
 locale-da,GLOBAL.SEND_DATA,Send data
 locale-da,GLOBAL.AT,kl.
@@ -3823,7 +3823,7 @@ locale-da,UPLOAD.AN_ERROR_OCCURRED,Der opstod en fejl
 locale-da,UPLOAD.DISMISS,Afvis
 locale-da,UPLOAD.ERROR_PLURAL,Fejl
 locale-da,UPLOAD.FILE,fil
-locale-da,UPLOAD.FILE_FORMATS,|ISOXML, shapefil, CN1|
+locale-da,UPLOAD.FILE_FORMATS,`ISOXML, shapefil, CN1`
 locale-da,UPLOAD.FILE_IMPORTED,{{fileName}} blev importeret
 locale-da,UPLOAD.FILE_PLURAL,filer
 locale-da,UPLOAD.GLOBAL_COMPLETED,Uploadede {{files}} fil
@@ -3837,10 +3837,10 @@ locale-da,UPLOAD.STATUS.PROCESSING.ONE,Behandler {{count}} fil
 locale-da,UPLOAD.STATUS.UPLOADING.MANY,Uploader {{count}} filer
 locale-da,UPLOAD.STATUS.UPLOADING.ONE,Uploader {{count}} fil
 locale-da,UPLOAD.SUPPORTED_FORMATS,Understøttede formater:
-locale-da,UPLOAD.TOOLTIP_MESSAGE,|Hvis du uploader ISOXML-filer, skal alt indhold i TASKDATA-mappen først pakkes i en .zip-fil. Sørg for at medtage alle XML, BIN og andre filer, der er i TASKDATA-mappen. Upload derefter ZIP-filen i stedet for de enkelte filer.|
+locale-da,UPLOAD.TOOLTIP_MESSAGE,`Hvis du uploader ISOXML-filer, skal alt indhold i TASKDATA-mappen først pakkes i en .zip-fil. Sørg for at medtage alle XML, BIN og andre filer, der er i TASKDATA-mappen. Upload derefter ZIP-filen i stedet for de enkelte filer.`
 locale-da,UPLOAD.UNEXPECTED_ERROR,Der opstod en uventet fejl under behandlingen af din fil
 locale-da,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> Er oprettet i feltet <strong>{{fieldName}}</strong>
-locale-da,UPLOAD.WARNING_TO_CHECK,|Der er en advarselsmeddelelse, der skal kontrolleres|
+locale-da,UPLOAD.WARNING_TO_CHECK,`Der er en advarselsmeddelelse, der skal kontrolleres`
 locale-da,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Under filtransformation til ADAPT-model opstod der en fejl.
 locale-da,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT-transformeringsfejl
 locale-da,ERRORS.IMPORTER.BUTTON.ERROR,få hjælp med min upload
@@ -3859,16 +3859,16 @@ locale-da,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,Der opstod en fejl u
 locale-da,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Datasammenligning mislykkedes
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Den importerede fil indeholder ingen opgaveoplysninger.
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Ingen opgave fundet
-locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,|Den uploadede fil indeholdt en ikke-numerisk kolonne i dataene. Denne kolonne er fjernet, og dataene er importeret.|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,`Den uploadede fil indeholdt en ikke-numerisk kolonne i dataene. Denne kolonne er fjernet, og dataene er importeret.`
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Ikke-numerisk kolonne fjernet
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Den uploadede fil indeholdt flere kolonner for dato/tid. Den første registrerede kolonne for dato/tid er brugt.
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Dato/tid for registreret konflikt
-locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Dataene er behandlet, men indeholder ingen totaler, og de kunne heller ikke beregnes.|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,`Dataene er behandlet, men indeholder ingen totaler, og de kunne heller ikke beregnes.`
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Kunne ikke beregne totaler
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Data er afvist. Det er en kopi af en tidligere importeret opgave.
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Tidligere importerede data
-locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,|Den uploadede opgavefil indeholder opgavereferencer, der ikke kan tilknyttes. Disse er blevet fjernet.|
-locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,|Opgave, der ikke kan tilknyttes|
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_106.DESCRIPTION,`Den uploadede opgavefil indeholder opgavereferencer, der ikke kan tilknyttes. Disse er blevet fjernet.`
+locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,`Opgave, der ikke kan tilknyttes`
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_150.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_150.TITLE,Manglende sektions-/breddedata
 locale-da,ERRORS.IMPORTER.INGESTOR_WARNING_151.DESCRIPTION,Under filbehandling manglede sektions-/breddeoplysninger. Sektions- og breddeoplysninger udledt fra anden kilde.
@@ -3889,7 +3889,7 @@ locale-da,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Kunne ikke analysere i
 locale-da,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Ugyldig datakontrol
 locale-da,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ugyldig eller utilgængelig filsti.
 locale-da,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Filens kilde ikke fundet
-locale-da,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|Uploadet shapefil er ugyldig. Inkluder .dbf, .shp og .shx-filerne i den uploadede .zip-fil.|
+locale-da,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,`Uploadet shapefil er ugyldig. Inkluder .dbf, .shp og .shx-filerne i den uploadede .zip-fil.`
 locale-da,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Kan ikke læse shapefil
 locale-da,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Den importerede fil indeholder ingen dækningsdata.
 locale-da,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Ingen dækningsdata fundet
@@ -3903,7 +3903,7 @@ locale-da,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Fejl ved tilpasning 
 locale-da,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Geo tilpasningsfejl
 locale-da,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Der opstod en fejl under forsøget på at skrive importerede data lagerdatabasen.
 locale-da,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Fejl ved skrivning til lager
-locale-da,ERRORS.IMPORTER.SUB_DESCRIPTION,|Det lader til, at du har problemer med at uploade din fil|
+locale-da,ERRORS.IMPORTER.SUB_DESCRIPTION,`Det lader til, at du har problemer med at uploade din fil`
 locale-da,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Ukendt fejl ({{code}}).
 locale-da,ERRORS.IMPORTER.UNKNOWN.TITLE,Ukendt fejl
 locale-da,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Uploadet shapefil indeholder en ikke-understøttet projektionsfil. Fjern .prj-filen fra .zip-filens indhold.
@@ -3913,7 +3913,7 @@ locale-da,ERRORS.VARIABLE.EDIT,Kan ikke redigere variabel med id {{id}}
 locale-da,TASK.CHANGE_TASK_TYPE,skift opgavetype
 locale-da,TASK.EDIT_LAYER,Redigér lag
 locale-da,TASK.EDIT_TASK_LAYER,Redigér opgavelag
-locale-da,TASK.EDIT_TASK_LAYER_WARNING,|Du kan ikke arbejde med lag, før du knytter opgavetypen til en kendt én i TAP|
+locale-da,TASK.EDIT_TASK_LAYER_WARNING,`Du kan ikke arbejde med lag, før du knytter opgavetypen til en kendt én i TAP`
 locale-da,TASK.LAYER_TYPE,Lagtype
 locale-da,TASK.LAYER_UPDATED,Laget {{layerName}} er blevet opdateret
 locale-da,TASK.SELECT_A_LAYER_FIRST,Du skal først vælge en lagtype
@@ -3942,7 +3942,7 @@ locale-da,VARIABLE.YIELD_MASS,Udbyttemasse
 locale-da,VARIABLE.YIELD_VOL,Udbyttevolumen
 locale-nl,DATE_FORMAT.NORMAL,MM/DD/JJJJ
 locale-nl,DATE_FORMAT.PILL,DD MMM
-locale-nl,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-nl,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-nl,GLOBAL.AT,bij
 locale-nl,GLOBAL.COMPLETED,voltooid
 locale-nl,GLOBAL.HELP,Hulp krijgen
@@ -3961,7 +3961,7 @@ locale-nl,UPLOAD.AN_ERROR_OCCURRED,Er is een fout opgetreden
 locale-nl,UPLOAD.DISMISS,Sluiten
 locale-nl,UPLOAD.ERROR_PLURAL,Fouten
 locale-nl,UPLOAD.FILE,bestand
-locale-nl,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
+locale-nl,UPLOAD.FILE_FORMATS,`ISOXML, Shapefile, CN1`
 locale-nl,UPLOAD.FILE_IMPORTED,{{fileName}} is geïmporteerd
 locale-nl,UPLOAD.FILE_PLURAL,bestanden
 locale-nl,UPLOAD.GLOBAL_COMPLETED,Geüpload {{files}} bestand
@@ -3975,7 +3975,7 @@ locale-nl,UPLOAD.STATUS.PROCESSING.ONE,Verwerken van {{count}} bestand
 locale-nl,UPLOAD.STATUS.UPLOADING.MANY,Uploaden van {{count}} bestanden
 locale-nl,UPLOAD.STATUS.UPLOADING.ONE,Uploaden van {{count}} bestand
 locale-nl,UPLOAD.SUPPORTED_FORMATS,Ondersteunde formaten:
-locale-nl,UPLOAD.TOOLTIP_MESSAGE,|Als u een ISOXML-bestand uploadt, moet de volledige inhoud van de map TASKDATA eerst worden gezipt. Zorg ervoor dat u alle XML-, BIN- en andere bestanden die in de map TASKDATA staan opneemt. Upload vervolgens het ZIP-bestand, en niet de afzonderlijke bestanden.|
+locale-nl,UPLOAD.TOOLTIP_MESSAGE,`Als u een ISOXML-bestand uploadt, moet de volledige inhoud van de map TASKDATA eerst worden gezipt. Zorg ervoor dat u alle XML-, BIN- en andere bestanden die in de map TASKDATA staan opneemt. Upload vervolgens het ZIP-bestand, en niet de afzonderlijke bestanden.`
 locale-nl,UPLOAD.UNEXPECTED_ERROR,Er is een onverwachte fout opgetreden tijdens het verwerken van uw bestand
 locale-nl,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> Is aangemaakt in veld <strong>{{fieldName}}</strong>
 locale-nl,UPLOAD.WARNING_TO_CHECK,Er is een waarschuwingsbericht dat gecontroleerd moet worden
@@ -4070,7 +4070,7 @@ locale-nl,TASK.UNIT_OF_MEASUREMENT,Meeteenheid
 locale-nl,TASK.UNKNOWN,onbekend
 locale-ja,DATE_FORMAT.NORMAL,MM/DD/YYYY
 locale-ja,DATE_FORMAT.PILL,DD MMM
-locale-ja,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-ja,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-ja,GLOBAL.AT,で
 locale-ja,GLOBAL.COMPLETED,完了
 locale-ja,GLOBAL.HELP,ヘルプ
@@ -4201,7 +4201,7 @@ locale-ja,PDF.TITLE,pdf
 locale-ja,OPERATIONS.OTHER,その他
 locale-pt,DATE_FORMAT.NORMAL,MM/DD/AAAA
 locale-pt,DATE_FORMAT.PILL,DD MMM
-locale-pt,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-pt,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-pt,GLOBAL.SEND,Enviar
 locale-pt,GLOBAL.SEND_DATA,Enviar dados
 locale-pt,GLOBAL.FIELD_NAME,Nome do campo
@@ -4280,7 +4280,7 @@ locale-pt,GLOBAL.COMPLETED,concluído
 locale-pt,UPLOAD.DND,Arrastar e largar ficheiros para aqui!
 locale-pt,UPLOAD.OR,ou
 locale-pt,UPLOAD.BROWSE,pesquisar ficheiros
-locale-pt,UPLOAD.FILE_FORMATS,|ISOXML, ficheiro de formas, CN1|
+locale-pt,UPLOAD.FILE_FORMATS,`ISOXML, ficheiro de formas, CN1`
 locale-pt,UPLOAD.UPLOADING,A carregar
 locale-pt,UPLOAD.UPLOADING_DOT,A carregar...
 locale-pt,UPLOAD.ERROR,Erro
@@ -4306,7 +4306,7 @@ locale-pt,UPLOAD.HAS_BEEN_ORPHAN,foi importado no campo como tarefa órfã
 locale-pt,UPLOAD.UNKNOWN,Ficheiro desconhecido.
 locale-pt,UPLOAD.START_NOTIFICATION,A tarefa carregada {{fileName}} está em processamento
 locale-pt,UPLOAD.FINISH_NOTIFICATION,{{fileName}} foi importado
-locale-pt,UPLOAD.GFF_UPDATE_NOTIFICATION,|Os dados de cultivador, quinta e campo estão a ser atualizados|
+locale-pt,UPLOAD.GFF_UPDATE_NOTIFICATION,`Os dados de cultivador, quinta e campo estão a ser atualizados`
 locale-pt,UPLOAD.UNEXPECTED_ERROR,Ocorreu um erro inesperado durante o processamento do seu ficheiro
 locale-pt,UPLOAD.WARNING_TO_CHECK,Existe uma mensagem de aviso para verificar
 locale-pt,UPLOAD.SEE_DETAILS,Ver detalhes
@@ -4314,7 +4314,7 @@ locale-pt,UPLOAD.FILE,ficheiro
 locale-pt,UPLOAD.FILE_PLURAL,ficheiros
 locale-pt,UPLOAD.SUPPORTED_FORMATS,Formatos suportados:
 locale-pt,UPLOAD.HAVING_PROBLEMS,Obter ajuda com o meu carregamento
-locale-pt,UPLOAD.TOOLTIP_MESSAGE,|Se estiver a carregar um ficheiro ISOXML, a totalidade do conteúdo da pasta TASKDATA tem primeiro de ser compactada. Certifique-se de que inclui todos os ficheiros XML, BIN e quaisquer outros ficheiros que estejam na pasta TASKDATA. Em seguida, carregue o ficheiro ZIP em vez dos ficheiros individuais.|
+locale-pt,UPLOAD.TOOLTIP_MESSAGE,`Se estiver a carregar um ficheiro ISOXML, a totalidade do conteúdo da pasta TASKDATA tem primeiro de ser compactada. Certifique-se de que inclui todos os ficheiros XML, BIN e quaisquer outros ficheiros que estejam na pasta TASKDATA. Em seguida, carregue o ficheiro ZIP em vez dos ficheiros individuais.`
 locale-pt,UPLOAD.DISMISS,Fechar
 locale-pt,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> foi criado no campo <strong>{{fieldName}}</strong>
 locale-pt,UPLOAD.FILE_IMPORTED,{{fileName}} foi importado
@@ -4393,7 +4393,7 @@ locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,O ficheiro carregado 
 locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Detetado conflito data/hora
 locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,O ficheiro carregado incluía diversas colunas de data/hora. Foi utilizada a primeira coluna data/hora detetada.
 locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Não é possível calcular os totais
-locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Os dados foram processados, mas não incluem quaisquer totais nem foi possível calculá-los.|
+locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,`Os dados foram processados, mas não incluem quaisquer totais nem foi possível calculá-los.`
 locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Dados importados previamente
 locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Os dados foram ignorados. É um duplicado de uma tarefa importada anteriormente.
 locale-pt,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,A tarefa não pode ser mapeada
@@ -4655,7 +4655,7 @@ locale-pt,TASK.LAYER_TYPE,Tipo de camada
 locale-pt,TASK.SELECT_A_LAYER_TYPE,Selecionar um tipo de camada
 locale-pt,TASK.UNIT_OF_MEASUREMENT,Unidade de medida
 locale-pt,TASK.SELECT_A_UNIT_OF_MEASUREMENT,Selecione uma unidade de medida
-locale-pt,TASK.SELECT_A_LAYER_FIRST,|Primeiro, tem de selecionar um tipo de camada|
+locale-pt,TASK.SELECT_A_LAYER_FIRST,`Primeiro, tem de selecionar um tipo de camada`
 locale-pt,TASK.LAYER_UPDATED,A camada {{layerName}} foi atualizada
 locale-pt,TASK.TASK_UPDATED,A tarefa {{taskName}} foi atualizada
 locale-pt,TASK.UNKNOWN,desconhecido
@@ -4697,9 +4697,9 @@ locale-pt,DELETE_MODAL.PRE,Eliminar prescrição
 locale-pt,DELETE_MODAL.QUESTION,Tem a certeza de que pretende eliminar
 locale-pt,DELETE_MZ_MODAL.PRE,Sair do modo de criação de zona de gestão
 locale-pt,DELETE_MZ_MODAL.QUESTION,Tem a certeza de que pretende sair do modo de criação de zona de gestão? Perderá todas as alterações não guardadas.
-locale-pt,DELETE_MZ_MODAL.CONFIRM,|SIM, SAIR|
+locale-pt,DELETE_MZ_MODAL.CONFIRM,`SIM, SAIR`
 locale-pt,EDIT_PRESCRIPTION_MODAL.PRE,Sair do modo de criação de prescrição
-locale-pt,EDIT_PRESCRIPTION_MODAL.QUESTION,|Tem a certeza de que pretende sair do modo de criação de prescrição? Se continuar, perderá todos os dados introduzidos.|
+locale-pt,EDIT_PRESCRIPTION_MODAL.QUESTION,`Tem a certeza de que pretende sair do modo de criação de prescrição? Se continuar, perderá todos os dados introduzidos.`
 locale-pt,DELETE_TASK_MODAL.PRE,Eliminar tarefa
 locale-pt,DELETE_TASK_MODAL.QUESTION,Tem a certeza de que pretende eliminar
 locale-pt,ZONE.EDIT,Editar nome de zona
@@ -4759,7 +4759,7 @@ locale-pt,VARIABLE.YIELD_VOL,Volume de produtividade
 locale-pt,VARIABLE.UNADJ_CELL_M,Célula não ajustada
 locale-it,DATE_FORMAT.NORMAL,MM/GG/AAAA
 locale-it,DATE_FORMAT.PILL,GG MMM
-locale-it,DATE_FORMAT.WEATHER,|MMMM G, gggg|
+locale-it,DATE_FORMAT.WEATHER,`MMMM G, gggg`
 locale-it,GLOBAL.SEND,Invia
 locale-it,GLOBAL.SEND_DATA,Invia dati
 locale-it,GLOBAL.FIELD_NAME,Nome campo
@@ -4838,7 +4838,7 @@ locale-it,GLOBAL.COMPLETED,completato
 locale-it,UPLOAD.DND,Trascina i file qui!
 locale-it,UPLOAD.OR,o
 locale-it,UPLOAD.BROWSE,sfoglia file
-locale-it,UPLOAD.FILE_FORMATS,|ISOXML, file di forma, CN1|
+locale-it,UPLOAD.FILE_FORMATS,`ISOXML, file di forma, CN1`
 locale-it,UPLOAD.UPLOADING,Caricamento in corso
 locale-it,UPLOAD.UPLOADING_DOT,Caricamento in corso...
 locale-it,UPLOAD.ERROR,Errore
@@ -4864,7 +4864,7 @@ locale-it,UPLOAD.HAS_BEEN_ORPHAN,è stato importato come attività isolata
 locale-it,UPLOAD.UNKNOWN,File sconosciuto.
 locale-it,UPLOAD.START_NOTIFICATION,L'attività {{fileName}} è in corso di elaborazione
 locale-it,UPLOAD.FINISH_NOTIFICATION,{{fileName}} è stato importato
-locale-it,UPLOAD.GFF_UPDATE_NOTIFICATION,|Dati Coltivatore, Azienda agricola e Campo in corso di aggiornamento|
+locale-it,UPLOAD.GFF_UPDATE_NOTIFICATION,`Dati Coltivatore, Azienda agricola e Campo in corso di aggiornamento`
 locale-it,UPLOAD.UNEXPECTED_ERROR,Durante l'elaborazione del file si è verificato un errore imprevisto
 locale-it,UPLOAD.WARNING_TO_CHECK,C'è un messaggio di avvertimento da controllare
 locale-it,UPLOAD.SEE_DETAILS,Vedi dettagli
@@ -4872,7 +4872,7 @@ locale-it,UPLOAD.FILE,file
 locale-it,UPLOAD.FILE_PLURAL,file
 locale-it,UPLOAD.SUPPORTED_FORMATS,Formati supportati:
 locale-it,UPLOAD.HAVING_PROBLEMS,Ulteriori informazioni sul caricamento
-locale-it,UPLOAD.TOOLTIP_MESSAGE,|Prima di caricare file ISOXML comprimere l'intero contenuto della cartella TASKDATA. Accertarsi di includere tutti i file XML, BIN e qualsiasi altro file presente nella cartella TASKDATA. Quindi, caricare il file ZIP e non i singoli file.|
+locale-it,UPLOAD.TOOLTIP_MESSAGE,`Prima di caricare file ISOXML comprimere l'intero contenuto della cartella TASKDATA. Accertarsi di includere tutti i file XML, BIN e qualsiasi altro file presente nella cartella TASKDATA. Quindi, caricare il file ZIP e non i singoli file.`
 locale-it,UPLOAD.DISMISS,Ignora
 locale-it,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> è stato creato nel campo <strong>{{fieldName}}</strong>
 locale-it,UPLOAD.FILE_IMPORTED,{{fileName}} è stato importato
@@ -4927,7 +4927,7 @@ locale-it,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,Dati non trovati nel file d
 locale-it,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Impossibile leggere il file di forma
 locale-it,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,Dati numerici non trovati nel file di forma caricato.
 locale-it,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Impossibile leggere il file di forma
-locale-it,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|File di forma caricato non valido. Il file .zip caricato include file .dbf, .shp e .shx.|
+locale-it,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,`File di forma caricato non valido. Il file .zip caricato include file .dbf, .shp e .shx.`
 locale-it,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Errore di scrittura su archivio
 locale-it,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,Si è verificato un errore durante il tentativo di scrivere i dati importati sul database di archiviazione.
 locale-it,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Confronto dati non riuscito
@@ -5255,7 +5255,7 @@ locale-it,DELETE_MODAL.PRE,Elimina prescrizione
 locale-it,DELETE_MODAL.QUESTION,Eliminare?
 locale-it,DELETE_MZ_MODAL.PRE,Uscire dalla modalità di creazione della zona di gestione
 locale-it,DELETE_MZ_MODAL.QUESTION,Uscire dalla modalità di creazione della zona di gestione? Tutte le modifiche non salvate andranno perse.
-locale-it,DELETE_MZ_MODAL.CONFIRM,|SÌ, USCIRE|
+locale-it,DELETE_MZ_MODAL.CONFIRM,`SÌ, USCIRE`
 locale-it,EDIT_PRESCRIPTION_MODAL.PRE,Esci da modalità crea prescrizione
 locale-it,EDIT_PRESCRIPTION_MODAL.QUESTION,Uscire dalla modalità crea prescrizione? Continuando tutti i dati immessi andranno persi.
 locale-it,DELETE_TASK_MODAL.PRE,Elimina attività
@@ -5317,7 +5317,7 @@ locale-it,VARIABLE.YIELD_VOL,Volume resa prodotto
 locale-it,VARIABLE.UNADJ_CELL_M,Cella non regolata
 locale-de,DATE_FORMAT.NORMAL,MM/TT/JJJJ
 locale-de,DATE_FORMAT.PILL,DD MMM
-locale-de,DATE_FORMAT.WEATHER,|MMMM D, dddd|
+locale-de,DATE_FORMAT.WEATHER,`MMMM D, dddd`
 locale-de,GLOBAL.AT,um
 locale-de,GLOBAL.COMPLETED,abgeschlossen
 locale-de,GLOBAL.HELP,Hilfe anfordern
@@ -5336,7 +5336,7 @@ locale-de,UPLOAD.AN_ERROR_OCCURRED,Ein Fehler ist aufgetreten
 locale-de,UPLOAD.DISMISS,Schließen
 locale-de,UPLOAD.ERROR_PLURAL,Fehler
 locale-de,UPLOAD.FILE,Datei
-locale-de,UPLOAD.FILE_FORMATS,|ISOXML, Shape-Datei, CN1|
+locale-de,UPLOAD.FILE_FORMATS,`ISOXML, Shape-Datei, CN1`
 locale-de,UPLOAD.FILE_IMPORTED,{{fileName}} wurde importiert
 locale-de,UPLOAD.FILE_PLURAL,Dateien
 locale-de,UPLOAD.GLOBAL_COMPLETED,Hochgeladene {{files}}-Datei
@@ -5350,10 +5350,10 @@ locale-de,UPLOAD.STATUS.PROCESSING.ONE,{{count}}-Datei wird verarbeitet
 locale-de,UPLOAD.STATUS.UPLOADING.MANY,{{count}}-Dateien werden hochgeladen
 locale-de,UPLOAD.STATUS.UPLOADING.ONE,{{count}}-Datei wird hochgeladen
 locale-de,UPLOAD.SUPPORTED_FORMATS,Unterstützte Formate:
-locale-de,UPLOAD.TOOLTIP_MESSAGE,|Wenn Sie ISOXML-Dateien hochladen, sollte der gesamte Inhalt des Ordners TASKDATA zunächst ZIP-komprimiert werden. Stellen Sie sicher, dass alle XML-, BIN- und sonstigen Dateien im Ordner TASKDATA enthalten sind. Laden Sie dann die ZIP-Datei statt der einzelnen Dateien hoch.|
+locale-de,UPLOAD.TOOLTIP_MESSAGE,`Wenn Sie ISOXML-Dateien hochladen, sollte der gesamte Inhalt des Ordners TASKDATA zunächst ZIP-komprimiert werden. Stellen Sie sicher, dass alle XML-, BIN- und sonstigen Dateien im Ordner TASKDATA enthalten sind. Laden Sie dann die ZIP-Datei statt der einzelnen Dateien hoch.`
 locale-de,UPLOAD.UNEXPECTED_ERROR,Bei der Verarbeitung Ihrer Datei ist ein unerwarteter Fehler aufgetreten
 locale-de,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> wurde im Feld <strong>{{fieldName}}</strong> erstellt
-locale-de,UPLOAD.WARNING_TO_CHECK,|Es ist eine Warnmeldung aufgetreten, die überprüft werden muss|
+locale-de,UPLOAD.WARNING_TO_CHECK,`Es ist eine Warnmeldung aufgetreten, die überprüft werden muss`
 locale-de,ERRORS.VARIABLE.EDIT,Variable mit ID {{id}} kann nicht bearbeitet werden
 locale-de,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.DESCRIPTION,Während der Dateiumwandlung in das ADAPT-Modell ist ein Fehler aufgetreten.
 locale-de,ERRORS.IMPORTER.ADAPTIMPORTEXCEPTION.TITLE,ADAPT-Transformationsfehler
@@ -5365,19 +5365,19 @@ locale-de,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.DESCRIPTION,Fehler beim Erste
 locale-de,ERRORS.IMPORTER.CREATETASKFIELDEXCEPTION.TITLE,Felderstellung fehlgeschlagen
 locale-de,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.DESCRIPTION,Während des Dateiimports ist ein unbehandelter Ausnahmefehler aufgetreten.
 locale-de,ERRORS.IMPORTER.DATAIMPORTEXCEPTION.TITLE,Datenimportfehler
-locale-de,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,|Beim Versuch, die importierte Datenstruktur mit vorhandenen Daten abzustimmen, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.DESCRIPTION,`Beim Versuch, die importierte Datenstruktur mit vorhandenen Daten abzustimmen, ist ein Fehler aufgetreten.`
 locale-de,ERRORS.IMPORTER.DATARECONCILEEXCEPTION.TITLE,Datenzusammenführungsfehler
 locale-de,ERRORS.IMPORTER.EMPTYSHAPEFILE.DESCRIPTION,In der hochgeladenen Shape-Datei wurden keine Daten gefunden.
 locale-de,ERRORS.IMPORTER.EMPTYSHAPEFILE.TITLE,Shape-Datei kann nicht gelesen werden
-locale-de,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,|Beim Versuch, die vorhandene Datenstruktur während des Imports zu laden, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.DESCRIPTION,`Beim Versuch, die vorhandene Datenstruktur während des Imports zu laden, ist ein Fehler aufgetreten.`
 locale-de,ERRORS.IMPORTER.EXISTINGDATAEXCEPTION.TITLE,Datenvergleich fehlgeschlagen
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Die importierte Datei enthält keine Aufgabeninformationen.
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Keine Aufgabe gefunden
-locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,|Die hochgeladene Datei enthielt eine nicht-numerische Spalte innerhalb der Daten. Diese Spalte wurde entfernt, und die Daten wurden importiert.|
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,`Die hochgeladene Datei enthielt eine nicht-numerische Spalte innerhalb der Daten. Diese Spalte wurde entfernt, und die Daten wurden importiert.`
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Nicht-numerische Spalte entfernt
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,Die hochgeladene Datei enthielt mehrere Spalten für Datum/Uhrzeit. Die erste gefundene Spalte mit Datum/Uhrzeit wurde verwendet.
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Datums-/Zeitkonflikt erkannt
-locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Die Daten wurden verarbeitet, enthalten jedoch keine Summen und können nicht berechnet werden.|
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,`Die Daten wurden verarbeitet, enthalten jedoch keine Summen und können nicht berechnet werden.`
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Gesamtwerte können nicht berechnet werden
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Daten wurden übersprungen. Es handelt sich um ein Duplikat einer zuvor importierten Aufgabe.
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Zuvor importierte Daten
@@ -5395,7 +5395,7 @@ locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Während des Importvo
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_154.TITLE,Datenmodell-Warnung
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Während der Dateiverarbeitung fehlten Informationen zu Schnitt/Breite. Informationen zu Schnitt und Breite wurden aus einer anderen Quelle abgeleitet.
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Fehlende Schnitt-/Breitendaten
-locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,|Ein Schwellenwert für den Wertefilter wurde ausgelöst, und die Daten wurden auf die vorherigen Werte zurückgesetzt.|
+locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,`Ein Schwellenwert für den Wertefilter wurde ausgelöst, und die Daten wurden auf die vorherigen Werte zurückgesetzt.`
 locale-de,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Datenbereinigungsfehler
 locale-de,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.DESCRIPTION,Die importierte Datei enthält beschädigte oder nicht lesbare Dateien.
 locale-de,ERRORS.IMPORTER.INPUTFILEPARSEEXCEPTION.TITLE,Importdatei konnte nicht gelesen werden
@@ -5403,7 +5403,7 @@ locale-de,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.DESCRIPTION,Die Eingabeparameter a
 locale-de,ERRORS.IMPORTER.INPUTPARSEEXCEPTION.TITLE,Ungültige Datenköpfe
 locale-de,ERRORS.IMPORTER.INPUTPATHINVALID.DESCRIPTION,Ungültiger oder nicht zugänglicher Dateipfad.
 locale-de,ERRORS.IMPORTER.INPUTPATHINVALID.TITLE,Dateiquelle nicht gefunden
-locale-de,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,|Die hochgeladene Shape-Datei ist ungültig. Schließen Sie die DBF-, SHP- und SHX-Dateien in die hochgeladene ZIP-Datei ein.|
+locale-de,ERRORS.IMPORTER.INVALIDSHAPEFILE.DESCRIPTION,`Die hochgeladene Shape-Datei ist ungültig. Schließen Sie die DBF-, SHP- und SHX-Dateien in die hochgeladene ZIP-Datei ein.`
 locale-de,ERRORS.IMPORTER.INVALIDSHAPEFILE.TITLE,Shape-Datei kann nicht gelesen werden
 locale-de,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,Die importierte Datei enthält keine Abdeckungsdaten.
 locale-de,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.TITLE,Keine Abdeckungsdaten gefunden
@@ -5411,13 +5411,13 @@ locale-de,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.DESCRIPTION,In der hochgelade
 locale-de,ERRORS.IMPORTER.NONUMERICDATAINSHAPEFILE.TITLE,Shape-Datei kann nicht gelesen werden
 locale-de,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.DESCRIPTION,Betriebsdatentyp aus der importierten Datei kann während des Hochladens nicht gelesen werden.
 locale-de,ERRORS.IMPORTER.OPERATIONDATAREADEXCEPTION.TITLE,Fehler Aktivitätsart
-locale-de,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,|Beim Versuch, importierte Daten in die Speicherdatenbank zu schreiben, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.DESCRIPTION,`Beim Versuch, importierte Daten in die Speicherdatenbank zu schreiben, ist ein Fehler aufgetreten.`
 locale-de,ERRORS.IMPORTER.RDBMSSTOREEXCEPTION.TITLE,Speicherfehler bei der Nachverarbeitung
 locale-de,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.DESCRIPTION,Fehler beim Zuordnen des Felds zu vorhandenen Feldgrenzen. Die Erstellung der Aufgabe wurde übersprungen.
 locale-de,ERRORS.IMPORTER.SPATIALMATCHEXCEPTION.TITLE,Fehler beim Geo-Match
-locale-de,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,|Beim Versuch, importierte Daten in die Speicherdatenbank zu schreiben, ist ein Fehler aufgetreten.|
+locale-de,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.DESCRIPTION,`Beim Versuch, importierte Daten in die Speicherdatenbank zu schreiben, ist ein Fehler aufgetreten.`
 locale-de,ERRORS.IMPORTER.SPATIALSTOREEXCEPTION.TITLE,Fehler beim Schreiben in den Speicher
-locale-de,ERRORS.IMPORTER.SUB_DESCRIPTION,|Es scheint, als ob beim Hochladen Ihrer Datei Probleme auftreten|
+locale-de,ERRORS.IMPORTER.SUB_DESCRIPTION,`Es scheint, als ob beim Hochladen Ihrer Datei Probleme auftreten`
 locale-de,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Unbekannter Fehler ({{code}}).
 locale-de,ERRORS.IMPORTER.UNKNOWN.TITLE,Unbekannter Fehler
 locale-de,ERRORS.IMPORTER.UNKNOWNSHAPEFILEPROJECTION.DESCRIPTION,Die hochgeladene Shape-Datei enthält eine nicht unterstützte Projektionsdatei. Entfernen Sie die PRJ-Datei aus dem Inhalt der ZIP-Datei.
@@ -5426,7 +5426,7 @@ locale-de,ERRORS.IMPORTER.WARNING_MESSAGE,Warnmeldung
 locale-de,TASK.CHANGE_TASK_TYPE,Aufgabentyp ändern
 locale-de,TASK.EDIT_LAYER,Ebene bearbeiten
 locale-de,TASK.EDIT_TASK_LAYER,Aufgabenebene bearbeiten
-locale-de,TASK.EDIT_TASK_LAYER_WARNING,|Sie können mit den Ebenen erst arbeiten, wenn Sie den Aufgabentyp mit einem bekannten Aufgabentyp in TAP verknüpfen|
+locale-de,TASK.EDIT_TASK_LAYER_WARNING,`Sie können mit den Ebenen erst arbeiten, wenn Sie den Aufgabentyp mit einem bekannten Aufgabentyp in TAP verknüpfen`
 locale-de,TASK.LAYER_TYPE,Ebenentyp
 locale-de,TASK.LAYER_UPDATED,Die Ebene {{layerName}} wurde aktualisiert
 locale-de,TASK.SELECT_A_LAYER_FIRST,Sie müssen zuerst einen Ebenentyp auswählen
@@ -5445,7 +5445,7 @@ locale-de,TASK.UNIT_OF_MEASUREMENT,Maßeinheit
 locale-de,TASK.UNKNOWN,unbekannt
 locale-ru,DATE_FORMAT.NORMAL,ММ/ДД/ГГГГ
 locale-ru,DATE_FORMAT.PILL,ДД МММ
-locale-ru,DATE_FORMAT.WEATHER,|ММММ Д, дддд|
+locale-ru,DATE_FORMAT.WEATHER,`ММММ Д, дддд`
 locale-ru,GLOBAL.SEND,Отправить
 locale-ru,GLOBAL.SEND_DATA,Отправить данные
 locale-ru,GLOBAL.FIELD_NAME,Имя поля
@@ -5484,7 +5484,7 @@ locale-ru,GLOBAL.SHOWME,ПОКАЗАТЬ
 locale-ru,GLOBAL.CANCEL,отмена
 locale-ru,GLOBAL.EDIT,Изменить
 locale-ru,GLOBAL.DELETE,Удалить
-locale-ru,GLOBAL.DELETE_CONFIRMATION,|Вы уверены, что хотите удалить|
+locale-ru,GLOBAL.DELETE_CONFIRMATION,`Вы уверены, что хотите удалить`
 locale-ru,GLOBAL.SEND_TO,Отправить
 locale-ru,GLOBAL.MORE,Еще
 locale-ru,GLOBAL.CLEAR_LIST,Очистить список
@@ -5496,7 +5496,7 @@ locale-ru,GLOBAL.ALARM,Сигнал тревоги
 locale-ru,GLOBAL.ALARMS,Сигналы тревоги
 locale-ru,GLOBAL.OPERATION,Операция
 locale-ru,GLOBAL.NAME,имя
-locale-ru,GLOBAL.EG,|Например, ферма "Yew Valley"|
+locale-ru,GLOBAL.EG,`Например, ферма "Yew Valley"`
 locale-ru,GLOBAL.COMPANY,компания
 locale-ru,GLOBAL.SUBCOMPANY,Дочерняя компания
 locale-ru,GLOBAL.FLEET,Парк
@@ -5524,7 +5524,7 @@ locale-ru,GLOBAL.COMPLETED,выполнено
 locale-ru,UPLOAD.DND,Перетащите файлы сюда!
 locale-ru,UPLOAD.OR,или
 locale-ru,UPLOAD.BROWSE,обзор файлов
-locale-ru,UPLOAD.FILE_FORMATS,|ISOXML, Shapefile, CN1|
+locale-ru,UPLOAD.FILE_FORMATS,`ISOXML, Shapefile, CN1`
 locale-ru,UPLOAD.UPLOADING,Загрузка
 locale-ru,UPLOAD.UPLOADING_DOT,Выполняется загрузка...
 locale-ru,UPLOAD.ERROR,Ошибка
@@ -5550,7 +5550,7 @@ locale-ru,UPLOAD.HAS_BEEN_ORPHAN,импортирован как несвяза�
 locale-ru,UPLOAD.UNKNOWN,Неизвестный файл.
 locale-ru,UPLOAD.START_NOTIFICATION,Обрабатывается загруженная задача {{fileName}}
 locale-ru,UPLOAD.FINISH_NOTIFICATION,{{fileName}} был импортирован
-locale-ru,UPLOAD.GFF_UPDATE_NOTIFICATION,|Выполняется обновление данных фермера, фермы и поля|
+locale-ru,UPLOAD.GFF_UPDATE_NOTIFICATION,`Выполняется обновление данных фермера, фермы и поля`
 locale-ru,UPLOAD.UNEXPECTED_ERROR,При обработке вашего файла произошла непредвиденная ошибка
 locale-ru,UPLOAD.WARNING_TO_CHECK,Требуется проверить предупреждающее сообщение
 locale-ru,UPLOAD.SEE_DETAILS,См. подробную информацию
@@ -5558,7 +5558,7 @@ locale-ru,UPLOAD.FILE,файл
 locale-ru,UPLOAD.FILE_PLURAL,файлы
 locale-ru,UPLOAD.SUPPORTED_FORMATS,Поддерживаемые форматы:
 locale-ru,UPLOAD.HAVING_PROBLEMS,Справка по загрузке
-locale-ru,UPLOAD.TOOLTIP_MESSAGE,|Если выполняется загрузка файлов ISOXML, все содержимое папки TASKDATA необходимо заархивировать. Обязательно включите все файлы XML, BIN и любые другие файлы, которые находится в папке TASKDATA. Затем загрузите ZIP-файл, а не отдельные файлы.|
+locale-ru,UPLOAD.TOOLTIP_MESSAGE,`Если выполняется загрузка файлов ISOXML, все содержимое папки TASKDATA необходимо заархивировать. Обязательно включите все файлы XML, BIN и любые другие файлы, которые находится в папке TASKDATA. Затем загрузите ZIP-файл, а не отдельные файлы.`
 locale-ru,UPLOAD.DISMISS,Отклонить
 locale-ru,UPLOAD.UPLOADED_TASK_DETAIL,<a href="{{fieldLink}}">{{taskName}}</a> был создан в поле <strong>{{fieldName}}</strong>
 locale-ru,UPLOAD.FILE_IMPORTED,{{fileName}} был импортирован
@@ -5566,8 +5566,8 @@ locale-ru,ERRORS.ERROR_FOUND.ZERO,
 locale-ru,ERRORS.ERROR_FOUND.ONE,{{errorCount}} ошибка обнаружена
 locale-ru,ERRORS.ERROR_FOUND.MANY,{{errorCount}} ошибка обнаружена
 locale-ru,ERRORS.ERROR_VIEW.ZERO,
-locale-ru,ERRORS.ERROR_VIEW.ONE,|Имеется {{errorCount}} ошибка. Просмотрите ее, нажав следующую кнопку|
-locale-ru,ERRORS.ERROR_VIEW.MANY,|Имеется {{errorCount}} ошибок. Просмотрите их, нажав следующую кнопку|
+locale-ru,ERRORS.ERROR_VIEW.ONE,`Имеется {{errorCount}} ошибка. Просмотрите ее, нажав следующую кнопку`
+locale-ru,ERRORS.ERROR_VIEW.MANY,`Имеется {{errorCount}} ошибок. Просмотрите их, нажав следующую кнопку`
 locale-ru,ERRORS.HTTP.PARSE,Не удается проанализировать ответ от сервера
 locale-ru,ERRORS.HTTP.FETCH,Невозможно выполнить выборку данных {{object}}
 locale-ru,ERRORS.GROWERS.NEW,Невозможно создать нового фермера
@@ -5633,11 +5633,11 @@ locale-ru,ERRORS.IMPORTER.NOCOVERAGEDATAEXCEPTION.DESCRIPTION,В импорти�
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_101.TITLE,Задача не найдена
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_101.DESCRIPTION,Импортированный файл не содержит сведений о задаче.
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_102.TITLE,Удален столбец нечисловых данных
-locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,|В данных загруженного файла содержится нечисловой столбец данных. Этот столбец был удален, а данные импортированы.|
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_102.DESCRIPTION,`В данных загруженного файла содержится нечисловой столбец данных. Этот столбец был удален, а данные импортированы.`
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_103.TITLE,Обнаружен конфликт даты/времени
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_103.DESCRIPTION,В загруженном файле содержится несколько столбцов даты/времени. Использован первый найденный столбец даты/времени.
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_104.TITLE,Невозможно рассчитать итоговые суммы
-locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,|Данные обработаны, но не содержат итоговых сумм и они не могут быть рассчитаны.|
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_104.DESCRIPTION,`Данные обработаны, но не содержат итоговых сумм и они не могут быть рассчитаны.`
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_105.TITLE,Данные импортированы ранее
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_105.DESCRIPTION,Данные были пропущены. Это дублирование ранее импортированной задачи.
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_106.TITLE,Некартируемая задача
@@ -5655,10 +5655,10 @@ locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_154.DESCRIPTION,Во время об�
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_155.TITLE,Отсутствуют данные секции/ширины
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_155.DESCRIPTION,Во время обработки файла отсутствовала информация о секции/ширине. Информация о сечении и ширине выведена из другого источника.
 locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_156.TITLE,Ошибка выверки данных
-locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,|Сработал порог фильтра значений, данные вернулись к предыдущим значениям.|
+locale-ru,ERRORS.IMPORTER.INGESTOR_WARNING_156.DESCRIPTION,`Сработал порог фильтра значений, данные вернулись к предыдущим значениям.`
 locale-ru,ERRORS.IMPORTER.UNKNOWN.TITLE,Неизвестная ошибка
 locale-ru,ERRORS.IMPORTER.UNKNOWN.DESCRIPTION,Неизвестная ошибка ({{code}}).
-locale-ru,ERRORS.IMPORTER.SUB_DESCRIPTION,|Возможно, возникла проблема при загрузке файла|
+locale-ru,ERRORS.IMPORTER.SUB_DESCRIPTION,`Возможно, возникла проблема при загрузке файла`
 locale-ru,ERRORS.IMPORTER.BUTTON.ERROR,получить помощь по загрузке
 locale-ru,ERRORS.IMPORTER.BUTTON.WARNING,получить помощь по загрузке
 locale-ru,ERRORS.IMPORTER.WARNING_MESSAGE,Предупреждающее сообщение
@@ -5751,7 +5751,7 @@ locale-ru,PRESCRIPTION.MAP_EDIT_N,Изменить название карты �
 locale-ru,PRESCRIPTION.MAP_SET_N,Задать название карты предписаний
 locale-ru,PRESCRIPTION.ZONE_NUMBER,Зоны
 locale-ru,PRESCRIPTION.SEND_TO,Отправить предписание
-locale-ru,PRESCRIPTION.UNAVAILABLE,|Файл предписаний создан, после выполнения операции Вы получите уведомление. Повторите попытку позже.|
+locale-ru,PRESCRIPTION.UNAVAILABLE,`Файл предписаний создан, после выполнения операции Вы получите уведомление. Повторите попытку позже.`
 locale-ru,PRESCRIPTION.PROCESSED,Готов файл предписания для {{prescriptionName}}. Теперь можно загрузить его или отправить на машины.
 locale-ru,PRESCRIPTION.PRESCRIPTION_MAP,Карта предписаний
 locale-ru,PRESCRIPTION.ANALYSIS,Анализ
@@ -5858,7 +5858,7 @@ locale-ru,GROWER_MODAL.GROWER_LABEL,Имя фермера
 locale-ru,GROWER_MODAL.GROWER_INPUT_REQUIRED,Требуется имя фермера
 locale-ru,GROWER_MODAL.CREATE,создать
 locale-ru,GROWER_MODAL.CLOSE,закрыть
-locale-ru,GROWER_MODAL.EG,|Например, Исаак Хармон|
+locale-ru,GROWER_MODAL.EG,`Например, Исаак Хармон`
 locale-ru,TASK.SHOW_LAYER,ПОКАЗАТЬ ДОСТУПНЫЕ УРОВНИ
 locale-ru,TASK.HIDE_LAYER,СКРЫТЬ ДОСТУПНЫЕ УРОВНИ
 locale-ru,TASK.SHOW_PREVIEW,Показать предпросмотр
@@ -5893,7 +5893,7 @@ locale-ru,TASK.TASK_DATE,Дата задачи
 locale-ru,TASK.TASK_LAYER_ISSUE,Проблема уровня задач
 locale-ru,TASK.TASK_LAYER_ISSUE_DESCRIPTION,В этом уровне задач отсутствует информация. Она либо не связана с известной переменной и/или отсутствует единица измерения
 locale-ru,TASK.EDIT_TASK_LAYER,Изменить уровень задачи
-locale-ru,TASK.EDIT_TASK_LAYER_WARNING,|Нельзя работать с уровнями, пока тип задачи не будет связан с известным типом в TAP|
+locale-ru,TASK.EDIT_TASK_LAYER_WARNING,`Нельзя работать с уровнями, пока тип задачи не будет связан с известным типом в TAP`
 locale-ru,TASK.EDIT_LAYER,Изменить уровень
 locale-ru,TASK.LAYER_TYPE,Тип уровня
 locale-ru,TASK.SELECT_A_LAYER_TYPE,Выбрать тип уровня
@@ -5938,27 +5938,27 @@ locale-ru,PRODUCT.EDIT,Изменить продукт
 locale-ru,PRODUCT.EDIT_VALUE,Изменить значение продукта
 locale-ru,PRODUCT.PRODUCTS,Продукты
 locale-ru,DELETE_MODAL.PRE,Удалить предписание
-locale-ru,DELETE_MODAL.QUESTION,|Вы уверены, что хотите удалить|
+locale-ru,DELETE_MODAL.QUESTION,`Вы уверены, что хотите удалить`
 locale-ru,DELETE_MZ_MODAL.PRE,Выход из режима создания зоны управления
 locale-ru,DELETE_MZ_MODAL.QUESTION,Вы действительно хотите прервать режим создания зоны управления? Все несохраненные изменения будут потеряны.
-locale-ru,DELETE_MZ_MODAL.CONFIRM,|ДА, ВЫЙТИ|
+locale-ru,DELETE_MZ_MODAL.CONFIRM,`ДА, ВЫЙТИ`
 locale-ru,EDIT_PRESCRIPTION_MODAL.PRE,Выход из режима создания предписания
-locale-ru,EDIT_PRESCRIPTION_MODAL.QUESTION,|Вы действительно хотите прервать режим создания предписания? Если продолжить, все введенные данные будут потеряны.|
+locale-ru,EDIT_PRESCRIPTION_MODAL.QUESTION,`Вы действительно хотите прервать режим создания предписания? Если продолжить, все введенные данные будут потеряны.`
 locale-ru,DELETE_TASK_MODAL.PRE,Удалить задачу
-locale-ru,DELETE_TASK_MODAL.QUESTION,|Вы уверены, что хотите удалить|
+locale-ru,DELETE_TASK_MODAL.QUESTION,`Вы уверены, что хотите удалить`
 locale-ru,ZONE.EDIT,Изменить имя зоны
 locale-ru,ZONE.SET,Задать имя зоны управления
 locale-ru,PDF.TITLE,pdf
-locale-ru,MAP.EDIT_TOOLTIP_TEXT,|Перетащите маркер, чтобы изменить поле|
-locale-ru,MAP.REMOVE_TOOLTIP_TEXT,|Нажмите на поле, чтобы удалить его|
-locale-ru,MAP.POLYGON_TOOLTIP_START,|Нажмите на карту, чтобы начать вычерчивание поля.<br/> Рисуйте внутри многоугольника, чтобы создать отверстие в поле|
+locale-ru,MAP.EDIT_TOOLTIP_TEXT,`Перетащите маркер, чтобы изменить поле`
+locale-ru,MAP.REMOVE_TOOLTIP_TEXT,`Нажмите на поле, чтобы удалить его`
+locale-ru,MAP.POLYGON_TOOLTIP_START,`Нажмите на карту, чтобы начать вычерчивание поля.<br/> Рисуйте внутри многоугольника, чтобы создать отверстие в поле`
 locale-ru,MAP.BUFFER_TOOLTIP.TEXT,Нажмите и перетащите для расширения или сокращения поля
 locale-ru,MAP.BUFFER_TOOLTIP.MEASURE,Радиус
-locale-ru,MAP.POLYGON_TOOLTIP.START,|Нажмите, чтобы начать рисование|
-locale-ru,MAP.POLYGON_TOOLTIP.CONT,|Нажмите на карту, чтобы продолжить<br/>рисование поля|
-locale-ru,MAP.POLYGON_TOOLTIP.END,|Нажмите на первую точку, чтобы завершить<br/>создание поля|
+locale-ru,MAP.POLYGON_TOOLTIP.START,`Нажмите, чтобы начать рисование`
+locale-ru,MAP.POLYGON_TOOLTIP.CONT,`Нажмите на карту, чтобы продолжить<br/>рисование поля`
+locale-ru,MAP.POLYGON_TOOLTIP.END,`Нажмите на первую точку, чтобы завершить<br/>создание поля`
 locale-ru,MAP.POLYLINE.ERROR,<strong>Ошибка:</strong> края формы не могут пересекаться!
-locale-ru,MAP.POLYLINE.TOOLTIP.START,|Нажмите, чтобы начать рисование линии|
+locale-ru,MAP.POLYLINE.TOOLTIP.START,`Нажмите, чтобы начать рисование линии`
 locale-ru,MAP.POLYLINE.TOOLTIP.CONT,Нажмите. чтобы продолжить рисование линии.
 locale-ru,MAP.POLYLINE.TOOLTIP.END,Нажимите на последнюю точку для завершения линии.
 locale-ru,MAP.PLUGINS.ZOOM.OUT,Уменьшить
